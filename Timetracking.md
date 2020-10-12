@@ -1,14 +1,15 @@
 ### WEEKLY TIME STATISTICS
 
-|Week   |Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|
-|---    |---                           |---                    |---                         |
-|2020-42|1h 00m                        |1h 00m                 |1h 00m                      |
+|Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|
+|---    |---                            |---                           |---                    |---                         |
+|2020-42|1h 00m                         |1h 00m                        |1h 00m                 |1h 00m                      |
 
 ### TIME STATS
 
 * **total estimate**: 0h 00m
-* **total spent**: 3h 00m
+* **total spent**: 4h 00m
 
+* **Günter Windsperger @01302775**: 1h 00m
 * **Nicolas Griebenow @01617265**: 1h 00m
 * **Lisa Fürst @11775842**: 1h 00m
 * **Stefan Puntigam @11776838**: 1h 00m
@@ -20,7 +21,7 @@
 |4  |Documentation Guidelines   |0h 00m|0h 00m        |
 |3  |Internal Meeting 04.10.2020|0h 00m|0h 00m        |
 |2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
-|1  |Tutor Meeting 12.10.2020   |3h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020   |4h 00m|0h 00m        |
 
 ### MERGE REQUESTS
 
@@ -29,8 +30,9 @@
 
 ### TIME RECORDS
 
-|user                       |date                   |type |iid|time  |
-|---                        |---                    |---  |---|---   |
-|Lisa Fürst @11775842       |2020-10-12 20:38:25.770|Issue|1  |1h 00m|
-|Stefan Puntigam @11776838  |2020-10-12 18:54:36.929|Issue|1  |1h 00m|
-|Nicolas Griebenow @01617265|2020-10-12 17:42:52.763|Issue|1  |1h 00m|
+|user                        |date                   |type |iid|time  |
+|---                         |---                    |---  |---|---   |
+|Günter Windsperger @01302775|2020-10-12 21:11:16.363|Issue|1  |1h 00m|
+|Lisa Fürst @11775842        |2020-10-12 20:38:25.770|Issue|1  |1h 00m|
+|Stefan Puntigam @11776838   |2020-10-12 18:54:36.929|Issue|1  |1h 00m|
+|Nicolas Griebenow @01617265 |2020-10-12 17:42:52.763|Issue|1  |1h 00m|
