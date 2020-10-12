@@ -1,15 +1,15 @@
 ### WEEKLY TIME STATISTICS
 
-|Week   |
-|---    |
-|2020-42|
+|Week   |Nicolas Griebenow<br>@01617265|
+|---    |---                           |
+|2020-42|1h 00m                        |
 
 ### TIME STATS
 
 * **total estimate**: 0h 00m
-* **total spent**: 0h 00m
+* **total spent**: 1h 00m
 
-
+* **Nicolas Griebenow @01617265**: 1h 00m
 
 ### ISSUES
 
@@ -17,7 +17,7 @@
 |---|---                        |---   |---           |
 |3  |Internal Meeting 04.10.2020|0h 00m|0h 00m        |
 |2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
-|1  |Tutor Meeting 12.10.2020   |0h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020   |1h 00m|0h 00m        |
 
 ### MERGE REQUESTS
 
@@ -26,5 +26,6 @@
 
 ### TIME RECORDS
 
-|user|date|type|iid|time|
-|--- |--- |--- |---|--- |
+|user                       |date                   |type |iid|time  |
+|---                        |---                    |---  |---|---   |
+|Nicolas Griebenow @01617265|2020-10-12 17:42:52.763|Issue|1  |1h 00m|
