@@ -15,6 +15,7 @@
 
 |iid|title                      |spent |total estimate|
 |---|---                        |---   |---           |
+|3  |Internal Meeting 04.10.2020|0h 00m|0h 00m        |
 |2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
 |1  |Tutor Meeting 12.10.2020   |0h 00m|0h 00m        |
 
