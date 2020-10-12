@@ -13,9 +13,10 @@
 
 ### ISSUES
 
-|iid|title                   |spent |total estimate|
-|---|---                     |---   |---           |
-|1  |Tutor Meeting 12.10.2020|0h 00m|0h 00m        |
+|iid|title                      |spent |total estimate|
+|---|---                        |---   |---           |
+|2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020   |0h 00m|0h 00m        |
 
 ### MERGE REQUESTS
 
