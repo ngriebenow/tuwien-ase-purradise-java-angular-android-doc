@@ -18,4 +18,6 @@ This wiki provides contains all process documentation for this project that is n
  - [Current backlog](/process/sprints/1/backlog.md)
  - [All sprints](/process/sprints/index.md)
 
+## [Timetracking](/Timetracking.md)
+
 Templates for new documents can be found in the `templates` directory.
