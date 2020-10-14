@@ -1,7 +1,7 @@
 | Issue | #4 |
 | ----- | -- |
 | author | Stefan Puntigam @11776838 |
-| reviewd by | |
+| released by | Nicolas Griebenow @01617265 |
 | release date | 2020-10-DD |
 
 # Documentation in the wiki
