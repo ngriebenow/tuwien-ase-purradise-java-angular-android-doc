@@ -1,7 +1,7 @@
 
 | Issue| #1 |
 | ------ | ------ |
-| Date | 12.10.2020 |
+| Date | 2020-10-12 |
 | Start | 11:00 |
 | End | 12:00 |
 | Attendees | G, L, M, N, S, T |
@@ -13,7 +13,7 @@
 - Date for weekly appointments
 - Questions
 
-# Meeting (Kick-Off) on 12.10.2020
+# Tutor Meeting (Kick-Off)
 
 ## Project Proposal
 On 21.10.2020, we have to present the project proposal. PDF is enough, we do not necessarily need a slide.
