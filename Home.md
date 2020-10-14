@@ -1,6 +1,6 @@
 # Welcome to the Wiki
 
-This wiki provides contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory informations about the product of the project.
+This wiki contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory information about the product of the project.
 
 ## Product documentation
  - [Architecture](/product/architecture/Architecture)
@@ -20,4 +20,7 @@ This wiki provides contains all process documentation for this project that is n
 
 ## [Timetracking](/Timetracking)
 
+## Templates
 Templates for new documents can be found in the `templates` directory.
+ - [Reviewed Document](/templates/Reviewed-Document)
+ - [Meeting Protocol](/templates/YYYY-MM-DD-Meeting)
