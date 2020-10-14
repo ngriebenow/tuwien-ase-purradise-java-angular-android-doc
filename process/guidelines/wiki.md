@@ -22,6 +22,6 @@ Important documents in the Wiki are checked by at least two people before they a
 A reviewer who finds the document acceptable would signify that by adding the own name in the `released by` field and the current date.
 
 ## Offline Work
-Optionally, the wiki is also accessible as a git repository as explained by the [GitLab documentation](https://reset.inso.tuwien.ac.at/repo/2020ws-ase-pr-group/20ws_ase-pr_inso_01/-/wikis/git_access).[^1] That is recommended for changes that affect multiple files, as the commit message can be used to describe what is done. Otherwise, using the online interface is fine too.
+Optionally, the wiki is also accessible as a git repository as explained by the [GitLab documentation](https://reset.inso.tuwien.ac.at/repo/2020ws-ase-pr-group/20ws_ase-pr_inso_01/-/wikis/git_access). [^1] That is recommended for changes that affect multiple files, as the commit message can be used to describe what is done. Otherwise, using the online interface is fine too.
 
-[^1] `gem` is available on most Linux distributions under the package name `rubygems`, for Windows there is an [installer](https://rubyinstaller.org). 
+[^1]: `gem` is available on most Linux distributions under the package name `rubygems`, for Windows there is an [installer](https://rubyinstaller.org). 
