@@ -15,7 +15,7 @@ This wiki contains all process documentation for this project that is not alread
  - [Timetracking](/process/guidelines/Timetracking)
  - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
 
-### [Meeting protocolls](/process/meetings/List-of-Meetings)
+### [Meeting protocols](/process/meetings/List-of-Meetings)
 
 ### [Risks](/process/risks/Risks)
 
@@ -23,9 +23,9 @@ This wiki contains all process documentation for this project that is not alread
  - [Current backlog](/process/sprints/1/Backlog)
  - [All sprints](/process/sprints/List-of-Sprints)
 
-### [Timetracking](/Timetracking)
-
 ## Templates
 Templates for new documents can be found in the `templates` directory.
  - [Reviewed Document](/templates/Reviewed-Document)
  - [Meeting Protocol](/templates/YYYY-MM-DD-Meeting)
+
+## [Timetracking](/Timetracking)
