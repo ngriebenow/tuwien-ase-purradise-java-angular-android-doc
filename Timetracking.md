@@ -6,7 +6,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 18h 00m
+* **total estimate**: 20h 30m
 * **total spent**: 6h 45m
 
 * **Günter Windsperger @01302775**: 1h 00m
@@ -25,7 +25,7 @@
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m|0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m|0h 00m        |
 |12 |Project proposal template: Stakeholder                                |0h 00m|0h 00m        |
-|11 |Project proposal template: Already existing and similar products      |0h 00m|0h 00m        |
+|11 |Project proposal template: Already existing and similar products      |0h 00m|2h 30m        |
 |10 |Project proposal template: Architecture                               |0h 00m|2h 00m        |
 |9  |Project proposal template: Domain Model                               |0h 00m|3h 00m        |
 |8  |Project proposal template: Features                                   |0h 00m|0h 00m        |
