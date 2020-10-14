@@ -8,9 +8,9 @@ This wiki provides contains all process documentation for this project that is n
  - [Testing](/product/testing/testing)
 
 ## Guidelines
- - [Coding Guidelines](/process/coding-guidelines)
- - [Timetracking](/process/timetracking)
- - [Wiki usage](/process/wiki)
+ - [Coding Guidelines](/process/guidelines/coding-guidelines)
+ - [Timetracking](/process/guidelines/timetracking)
+ - [Wiki usage](/process/guidelines/wiki)
 
 ## [Meeting protocolls](/process/meetings/index)
 
