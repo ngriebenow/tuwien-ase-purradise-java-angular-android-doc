@@ -2,18 +2,18 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|4h 30m                         |1h 15m                        |4h 30m                 |5h 15m                      |3h 30m                     |4h 30m                           |
+|2020-42|4h 30m                         |1h 15m                        |4h 30m                 |5h 15m                      |4h 30m                     |4h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 25h 30m
-* **total spent**: 23h 15m
+* **total spent**: 24h 15m
 
 * **Günter Windsperger @01302775**: 4h 30m
 * **Nicolas Griebenow @01617265**: 1h 15m
 * **Lisa Fürst @11775842**: 4h 30m
 * **Stefan Puntigam @11776838**: 5h 15m
-* **Thomas Stoiber @11777755**: 3h 30m
+* **Thomas Stoiber @11777755**: 4h 30m
 * **Michael Bernd Stöger @11778261**: 4h 30m
 
 ### ISSUES
@@ -33,7 +33,7 @@
 |6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
 |5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
-|3  |Internal Meeting 04.10.2020                                           |4h 00m |0h 00m        |
+|3  |Internal Meeting 04.10.2020                                           |5h 00m |0h 00m        |
 |2  |Internal Meeting 10.10.2020                                           |12h 30m|0h 00m        |
 |1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
 
@@ -46,6 +46,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Thomas Stoiber @11777755      |2020-10-14 20:31:45.353|Issue|3  |1h 00m|
 |Thomas Stoiber @11777755      |2020-10-14 20:30:14.951|Issue|2  |2h 30m|
 |Stefan Puntigam @11776838     |2020-10-14 20:28:45.437|Issue|2  |2h 30m|
 |Günter Windsperger @01302775  |2020-10-14 20:28:36.045|Issue|2  |2h 30m|
