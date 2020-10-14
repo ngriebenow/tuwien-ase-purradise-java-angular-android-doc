@@ -2,40 +2,40 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|4h 30m                         |1h 15m                        |4h 30m                 |2h 45m                      |1h 00m                     |4h 30m                           |
+|2020-42|4h 30m                         |1h 15m                        |4h 30m                 |5h 15m                      |1h 00m                     |4h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 22h 30m
-* **total spent**: 18h 15m
+* **total spent**: 20h 45m
 
 * **Günter Windsperger @01302775**: 4h 30m
 * **Nicolas Griebenow @01617265**: 1h 15m
 * **Lisa Fürst @11775842**: 4h 30m
-* **Stefan Puntigam @11776838**: 2h 45m
+* **Stefan Puntigam @11776838**: 5h 15m
 * **Thomas Stoiber @11777755**: 1h 00m
 * **Michael Bernd Stöger @11778261**: 4h 30m
 
 ### ISSUES
 
-|iid|title                                                                 |spent |total estimate|
-|---|---                                                                   |---   |---           |
-|16 |Internal Meeting 14.10.2020                                           |0h 00m|6h 00m        |
-|15 |Project proposal template: Risks                                      |0h 00m|0h 00m        |
-|14 |Project Proposal template: Cost estimation (working hours)            |0h 00m|0h 00m        |
-|13 |Project Proposal template: Legal environment                          |0h 00m|0h 00m        |
-|12 |Project proposal template: Stakeholder                                |0h 00m|2h 00m        |
-|11 |Project proposal template: Already existing and similar products      |0h 00m|2h 30m        |
-|10 |Project proposal template: Architecture                               |0h 00m|2h 00m        |
-|9  |Project proposal template: Domain Model                               |0h 00m|3h 00m        |
-|8  |Project proposal template: Features                                   |0h 00m|0h 00m        |
-|7  |Project proposal template: Project description: Project idea in detail|0h 00m|0h 00m        |
-|6  |Project proposal template: Teammembers                                |0h 00m|0h 00m        |
-|5  |Create Project Proposal template                                      |0h 00m|0h 00m        |
-|4  |Documentation Guidelines                                              |0h 45m|1h 00m        |
-|3  |Internal Meeting 04.10.2020                                           |4h 00m|0h 00m        |
-|2  |Internal Meeting 10.10.2020                                           |7h 30m|0h 00m        |
-|1  |Tutor Meeting 12.10.2020                                              |6h 00m|6h 00m        |
+|iid|title                                                                 |spent  |total estimate|
+|---|---                                                                   |---    |---           |
+|16 |Internal Meeting 14.10.2020                                           |0h 00m |6h 00m        |
+|15 |Project proposal template: Risks                                      |0h 00m |0h 00m        |
+|14 |Project Proposal template: Cost estimation (working hours)            |0h 00m |0h 00m        |
+|13 |Project Proposal template: Legal environment                          |0h 00m |0h 00m        |
+|12 |Project proposal template: Stakeholder                                |0h 00m |2h 00m        |
+|11 |Project proposal template: Already existing and similar products      |0h 00m |2h 30m        |
+|10 |Project proposal template: Architecture                               |0h 00m |2h 00m        |
+|9  |Project proposal template: Domain Model                               |0h 00m |3h 00m        |
+|8  |Project proposal template: Features                                   |0h 00m |0h 00m        |
+|7  |Project proposal template: Project description: Project idea in detail|0h 00m |0h 00m        |
+|6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
+|5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
+|4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
+|3  |Internal Meeting 04.10.2020                                           |4h 00m |0h 00m        |
+|2  |Internal Meeting 10.10.2020                                           |10h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
 
 ### MERGE REQUESTS
 
@@ -46,6 +46,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Stefan Puntigam @11776838     |2020-10-14 20:28:45.437|Issue|2  |2h 30m|
 |Günter Windsperger @01302775  |2020-10-14 20:28:36.045|Issue|2  |2h 30m|
 |Stefan Puntigam @11776838     |2020-10-14 20:28:31.178|Issue|3  |1h 00m|
 |Lisa Fürst @11775842          |2020-10-14 20:28:27.437|Issue|2  |2h 30m|
