@@ -20,6 +20,7 @@
 
 |iid|title                                                                 |spent |total estimate|
 |---|---                                                                   |---   |---           |
+|8  |Project proposal template: Features                                   |0h 00m|0h 00m        |
 |7  |Project proposal template: Project description: Project idea in detail|0h 00m|0h 00m        |
 |6  |Project proposal template: Teammembers                                |0h 00m|0h 00m        |
 |5  |Create Project Proposal template                                      |0h 00m|0h 00m        |
