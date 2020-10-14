@@ -1,8 +1,8 @@
 ### WEEKLY TIME STATISTICS
 
-|Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
-|---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|1h 00m                         |1h 00m                        |1h 00m                 |1h 00m                      |1h 00m                     |1h 00m                           |
+|Week    |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
+|---     |---                            |---                           |---                    |---                         |---                        |---                              |
+|2020-W42|1h 00m                         |1h 00m                        |1h 00m                 |1h 00m                      |1h 00m                     |1h 00m                           |
 
 ### TIME STATS
 

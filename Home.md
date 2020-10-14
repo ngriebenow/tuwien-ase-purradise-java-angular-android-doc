@@ -1,18 +1,21 @@
-You have to keep track of the time you spend on the project and its features or tasks.
-In order to transparently do so, create tickets in the provided Gitlab project corresponding to the tasks you perform.
+# Welcome to the Wiki
 
-To log time write a comment on this issue with the `/spend` slash command.
-For example to log 2 hours and 15 minutes create this comment:
+This wiki provides contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory informations about the product of the project.
 
-`/spend 2h15m`
+## Product documentation
+ - [Architecture](/product/architecture/architecture.md)
+ - [Requirements](/product/requirements/index.md) 
+ - [Testing](/product/testing/testing.md)
 
-You should see a message stating that you have added the given amount to the spent time of the issue.
+## Guidelines
+ - [Coding Guidelines](/process/coding-guidelines.md)
+ - [Timetracking](/process/timetracking.md)
+ - [Wiki usage](/process/wiki.md)
 
-In the wiki a [[Timetracking]] site is automatically added containing a statistical overview of the spent time per user and week.
+## [Meeting protocolls](/process/meetings/index.md)
 
-If you make a mistake, you can remove booked time with `/spend -2h` for example.
-NEVER use `/remove_time_spent`!
-It will delete every users time.
-While GitLab supports an optional date argument to `/spend`, we do not accept that.
-You have to book all time in a timely manner.
-Therefore all time will be counted at the day you enter it in GitLab.
+## Sprints:
+ - [Current backlog](/process/sprints/1/backlog.md)
+ - [All sprints](/process/sprints/index.md)
+
+Templates for new documents can be found in the `templates` directory.
