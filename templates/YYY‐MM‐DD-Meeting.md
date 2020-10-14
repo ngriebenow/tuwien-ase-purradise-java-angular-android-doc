@@ -1,6 +1,6 @@
 | Issue| #<ISSUE NUMBER> |
 | ------ | ------ |
-| Date | YYYY:MM:DD |
+| Date | YYYY-MM-DD |
 | Start | hh:mm |
 | End | hh:mm |
 | Attendees | G, L, M, N, S, T |
