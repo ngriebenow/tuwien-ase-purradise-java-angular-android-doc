@@ -1,7 +1,5 @@
 *This page has already been provided by the administrator and has just been moved here*
 
-#Timetracking
-
 You have to keep track of the time you spend on the project and its features or tasks.
 In order to transparently do so, create tickets in the provided Gitlab project corresponding to the tasks you perform.
 
