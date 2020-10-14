@@ -6,7 +6,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 6h 30m
+* **total estimate**: 7h 00m
 * **total spent**: 6h 00m
 
 * **Günter Windsperger @01302775**: 1h 00m
@@ -18,12 +18,23 @@
 
 ### ISSUES
 
-|iid|title                      |spent |total estimate|
-|---|---                        |---   |---           |
-|4  |Documentation Guidelines   |0h 00m|0h 30m        |
-|3  |Internal Meeting 04.10.2020|0h 00m|0h 00m        |
-|2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
-|1  |Tutor Meeting 12.10.2020   |6h 00m|6h 00m        |
+|iid|title                                                                 |spent |total estimate|
+|---|---                                                                   |---   |---           |
+|15 |Project proposal template: Risks                                      |0h 00m|0h 00m        |
+|14 |Project Proposal template: Cost estimation (working hours)            |0h 00m|0h 00m        |
+|13 |Project Proposal template: Legal environment                          |0h 00m|0h 00m        |
+|12 |Project proposal template: Stakeholder                                |0h 00m|0h 00m        |
+|11 |Project proposal template: Already existing and similar products      |0h 00m|0h 00m        |
+|10 |Project proposal template: Architecture                               |0h 00m|0h 00m        |
+|9  |Project proposal template: Domain Model                               |0h 00m|0h 00m        |
+|8  |Project proposal template: Features                                   |0h 00m|0h 00m        |
+|7  |Project proposal template: Project description: Project idea in detail|0h 00m|0h 00m        |
+|6  |Project proposal template: Teammembers                                |0h 00m|0h 00m        |
+|5  |Create Project Proposal template                                      |0h 00m|0h 00m        |
+|4  |Documentation Guidelines                                              |0h 00m|1h 00m        |
+|3  |Internal Meeting 04.10.2020                                           |0h 00m|0h 00m        |
+|2  |Internal Meeting 10.10.2020                                           |0h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020                                              |6h 00m|6h 00m        |
 
 ### MERGE REQUESTS
 
