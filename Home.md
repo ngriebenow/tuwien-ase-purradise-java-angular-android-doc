@@ -4,21 +4,26 @@ This wiki contains all process documentation for this project that is not alread
 
 ## Product documentation
  - [Architecture](/product/architecture/Architecture)
+ - [Continuous Integration](/product/ci/Continuous-Integration)
  - [Requirements](/product/requirements/List-of-Requirements) 
  - [Testing](/product/testing/Testing)
 
-## Guidelines
+## Process documentation
+
+### Guidelines
  - [Coding Guidelines](/process/guidelines/Coding-Guidelines)
  - [Timetracking](/process/guidelines/Timetracking)
  - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
 
-## [Meeting protocolls](/process/meetings/List-of-Meetings)
+### [Meeting protocolls](/process/meetings/List-of-Meetings)
 
-## Sprints:
+### [Risks](/process/risks/Risks)
+
+### Sprints:
  - [Current backlog](/process/sprints/1/Backlog)
  - [All sprints](/process/sprints/List-of-Sprints)
 
-## [Timetracking](/Timetracking)
+### [Timetracking](/Timetracking)
 
 ## Templates
 Templates for new documents can be found in the `templates` directory.
