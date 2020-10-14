@@ -20,6 +20,7 @@
 
 |iid|title                                                                 |spent |total estimate|
 |---|---                                                                   |---   |---           |
+|12 |Project proposal template: Stakeholder                                |0h 00m|0h 00m        |
 |11 |Project proposal template: Already existing and similar products      |0h 00m|0h 00m        |
 |10 |Project proposal template: Architecture                               |0h 00m|0h 00m        |
 |9  |Project proposal template: Domain Model                               |0h 00m|0h 00m        |
