@@ -4,7 +4,7 @@
 | reviewd by | |
 | release date | 2020-10-DD |
 
-# Docmentation in the Wiki
+# Docmentation in the wiki
 
 Process documentation is always in the wiki. Also some more high-level or explanatory product documentation can be found here.
 
