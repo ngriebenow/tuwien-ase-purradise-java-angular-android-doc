@@ -2,14 +2,14 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|2h 00m                         |1h 15m                        |4h 30m                 |2h 45m                      |1h 00m                     |4h 30m                           |
+|2020-42|4h 30m                         |1h 15m                        |4h 30m                 |2h 45m                      |1h 00m                     |4h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 22h 30m
-* **total spent**: 15h 45m
+* **total spent**: 18h 15m
 
-* **Günter Windsperger @01302775**: 2h 00m
+* **Günter Windsperger @01302775**: 4h 30m
 * **Nicolas Griebenow @01617265**: 1h 15m
 * **Lisa Fürst @11775842**: 4h 30m
 * **Stefan Puntigam @11776838**: 2h 45m
@@ -34,7 +34,7 @@
 |5  |Create Project Proposal template                                      |0h 00m|0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m|1h 00m        |
 |3  |Internal Meeting 04.10.2020                                           |4h 00m|0h 00m        |
-|2  |Internal Meeting 10.10.2020                                           |5h 00m|0h 00m        |
+|2  |Internal Meeting 10.10.2020                                           |7h 30m|0h 00m        |
 |1  |Tutor Meeting 12.10.2020                                              |6h 00m|6h 00m        |
 
 ### MERGE REQUESTS
@@ -46,6 +46,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Günter Windsperger @01302775  |2020-10-14 20:28:36.045|Issue|2  |2h 30m|
 |Stefan Puntigam @11776838     |2020-10-14 20:28:31.178|Issue|3  |1h 00m|
 |Lisa Fürst @11775842          |2020-10-14 20:28:27.437|Issue|2  |2h 30m|
 |Michael Bernd Stöger @11778261|2020-10-14 20:28:17.388|Issue|2  |2h 30m|
