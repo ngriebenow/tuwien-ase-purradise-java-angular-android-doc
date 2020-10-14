@@ -3,21 +3,21 @@
 This wiki provides contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory informations about the product of the project.
 
 ## Product documentation
- - [Architecture](/product/architecture/architecture.md)
- - [Requirements](/product/requirements/index.md) 
- - [Testing](/product/testing/testing.md)
+ - [Architecture](/product/architecture/architecture)
+ - [Requirements](/product/requirements/index) 
+ - [Testing](/product/testing/testing)
 
 ## Guidelines
- - [Coding Guidelines](/process/coding-guidelines.md)
- - [Timetracking](/process/timetracking.md)
- - [Wiki usage](/process/wiki.md)
+ - [Coding Guidelines](/process/coding-guidelines)
+ - [Timetracking](/process/timetracking)
+ - [Wiki usage](/process/wiki)
 
-## [Meeting protocolls](/process/meetings/index.md)
+## [Meeting protocolls](/process/meetings/index)
 
 ## Sprints:
- - [Current backlog](/process/sprints/1/backlog.md)
- - [All sprints](/process/sprints/index.md)
+ - [Current backlog](/process/sprints/1/backlog)
+ - [All sprints](/process/sprints/index)
 
-## [Timetracking](/Timetracking.md)
+## [Timetracking](/Timetracking)
 
 Templates for new documents can be found in the `templates` directory.
