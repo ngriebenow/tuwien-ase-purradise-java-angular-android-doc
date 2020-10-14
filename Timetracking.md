@@ -6,7 +6,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 6h 30m
+* **total estimate**: 7h 00m
 * **total spent**: 6h 00m
 
 * **Günter Windsperger @01302775**: 1h 00m
@@ -20,7 +20,7 @@
 
 |iid|title                      |spent |total estimate|
 |---|---                        |---   |---           |
-|4  |Documentation Guidelines   |0h 00m|0h 30m        |
+|4  |Documentation Guidelines   |0h 00m|1h 00m        |
 |3  |Internal Meeting 04.10.2020|0h 00m|0h 00m        |
 |2  |Internal Meeting 10.10.2020|0h 00m|0h 00m        |
 |1  |Tutor Meeting 12.10.2020   |6h 00m|6h 00m        |
