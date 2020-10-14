@@ -17,7 +17,7 @@ Additionally there is a directory for text templates for recurring documentation
 
 ## Four eyes principle
 
-Important documents in the Wiki are checked by at least two people before they are considered an accepted source of truth: an author and another person. Someone who creates a new artifact that involves some important decision-making would use the template at `templates/reviewed-document.md` and fill out the author field and put the unreviewed document into the wiki. The author would then find someone willing to review the new contents.
+Important documents in the Wiki are checked by at least two people before they are considered an accepted source of truth: an author and another person. Someone who creates a new artifact that involves some important decision-making would use the template at `templates/Reviewed-Document.md` and fill out the author field and put the unreviewed document into the wiki. The author would then find someone willing to review the new contents.
 
 A reviewer who finds the document acceptable would signify that by adding the own name in the `released by` field and the current date.
 
