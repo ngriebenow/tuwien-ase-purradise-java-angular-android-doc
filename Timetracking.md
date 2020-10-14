@@ -7,7 +7,7 @@
 ### TIME STATS
 
 * **total estimate**: 31h 30m
-* **total spent**: 31h 15m
+* **total spent**: 33h 00m
 
 * **Günter Windsperger @01302775**: 6h 15m
 * **Nicolas Griebenow @01617265**: 3h 00m
@@ -21,7 +21,7 @@
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
 |17 |Prototype ARCore                                                      |0h 00m |0h 00m        |
-|16 |Internal Meeting 14.10.2020                                           |7h 00m |6h 00m        |
+|16 |Internal Meeting 14.10.2020                                           |8h 45m |6h 00m        |
 |15 |Project proposal template: Risks                                      |0h 00m |0h 00m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m |0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m |3h 00m        |
