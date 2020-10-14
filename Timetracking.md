@@ -6,7 +6,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 7h 00m
+* **total estimate**: 13h 00m
 * **total spent**: 6h 45m
 
 * **Günter Windsperger @01302775**: 1h 00m
@@ -20,6 +20,7 @@
 
 |iid|title                                                                 |spent |total estimate|
 |---|---                                                                   |---   |---           |
+|16 |Internal Meeting 14.10.2020                                           |0h 00m|6h 00m        |
 |15 |Project proposal template: Risks                                      |0h 00m|0h 00m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m|0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m|0h 00m        |
