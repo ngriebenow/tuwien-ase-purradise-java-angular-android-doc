@@ -20,6 +20,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|17 |Prototype ARCore                                                      |0h 00m |0h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |0h 00m |6h 00m        |
 |15 |Project proposal template: Risks                                      |0h 00m |0h 00m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m |0h 00m        |
