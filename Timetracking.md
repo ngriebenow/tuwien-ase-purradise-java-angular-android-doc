@@ -20,6 +20,7 @@
 
 |iid|title                                                                 |spent |total estimate|
 |---|---                                                                   |---   |---           |
+|14 |Project Proposal template: Cost estimation (working hours)            |0h 00m|0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m|0h 00m        |
 |12 |Project proposal template: Stakeholder                                |0h 00m|0h 00m        |
 |11 |Project proposal template: Already existing and similar products      |0h 00m|0h 00m        |
