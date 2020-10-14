@@ -3,19 +3,19 @@
 This wiki provides contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory informations about the product of the project.
 
 ## Product documentation
- - [Architecture](/product/architecture/architecture)
+ - [Architecture](/product/architecture/Architecture)
  - [Requirements](/product/requirements/List-of-Requirements) 
- - [Testing](/product/testing/testing)
+ - [Testing](/product/testing/Testing)
 
 ## Guidelines
- - [Coding Guidelines](/process/guidelines/coding-guidelines)
- - [Timetracking](/process/guidelines/timetracking)
- - [Wiki usage](/process/guidelines/wiki)
+ - [Coding Guidelines](/process/guidelines/Coding-Guidelines)
+ - [Timetracking](/process/guidelines/Timetracking)
+ - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
 
 ## [Meeting protocolls](/process/meetings/List-of-Meetings)
 
 ## Sprints:
- - [Current backlog](/process/sprints/1/backlog)
+ - [Current backlog](/process/sprints/1/Backlog)
  - [All sprints](/process/sprints/List-of-Sprints)
 
 ## [Timetracking](/Timetracking)
