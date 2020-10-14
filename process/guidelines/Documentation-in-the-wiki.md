@@ -2,7 +2,7 @@
 | ----- | -- |
 | author | Stefan Puntigam @11776838 |
 | released by | Nicolas Griebenow @01617265 |
-| release date | 2020-10-DD |
+| release date | 2020-10-14 |
 
 # Documentation in the wiki
 
