@@ -2,7 +2,7 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|1h 00m                         |1h 00m                        |1h 00m                 |1h 45m                      |1h 00m                     |1h 00m                           |
+|2020-42|1h 00m                         |1h 15m                        |1h 00m                 |1h 45m                      |1h 00m                     |1h 00m                           |
 
 ### TIME STATS
 
@@ -10,7 +10,7 @@
 * **total spent**: 6h 45m
 
 * **Günter Windsperger @01302775**: 1h 00m
-* **Nicolas Griebenow @01617265**: 1h 00m
+* **Nicolas Griebenow @01617265**: 1h 15m
 * **Lisa Fürst @11775842**: 1h 00m
 * **Stefan Puntigam @11776838**: 1h 45m
 * **Thomas Stoiber @11777755**: 1h 00m
@@ -45,6 +45,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Nicolas Griebenow @01617265   |2020-10-14 19:09:42.722|Issue|4  |0h 15m|
 |Stefan Puntigam @11776838     |2020-10-14 13:16:17.133|Issue|4  |0h 45m|
 |Thomas Stoiber @11777755      |2020-10-13 07:56:50.510|Issue|1  |1h 00m|
 |Michael Bernd Stöger @11778261|2020-10-12 22:17:35.498|Issue|1  |1h 00m|
