@@ -17,6 +17,9 @@ This wiki contains all process documentation for this project that is not alread
 
 ### [Meeting protocols](/process/meetings/List-of-Meetings)
 
+### Project
+ - [Project Proposal](/process/project/Project-Proposal)
+
 ### [Risks](/process/risks/Risks)
 
 ### Sprints:
