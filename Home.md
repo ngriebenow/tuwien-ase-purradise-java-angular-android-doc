@@ -4,7 +4,7 @@ This wiki provides contains all process documentation for this project that is n
 
 ## Product documentation
  - [Architecture](/product/architecture/architecture)
- - [Requirements](/product/requirements/index) 
+ - [Requirements](/product/requirements/List-of-Requirements) 
  - [Testing](/product/testing/testing)
 
 ## Guidelines
@@ -12,11 +12,11 @@ This wiki provides contains all process documentation for this project that is n
  - [Timetracking](/process/guidelines/timetracking)
  - [Wiki usage](/process/guidelines/wiki)
 
-## [Meeting protocolls](/process/meetings/index)
+## [Meeting protocolls](/process/meetings/List-of-Meetings)
 
 ## Sprints:
  - [Current backlog](/process/sprints/1/backlog)
- - [All sprints](/process/sprints/index)
+ - [All sprints](/process/sprints/List-of-Sprints)
 
 ## [Timetracking](/Timetracking)
 
