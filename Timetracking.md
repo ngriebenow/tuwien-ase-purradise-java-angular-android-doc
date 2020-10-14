@@ -18,13 +18,14 @@
 
 ### ISSUES
 
-|iid|title                           |spent |total estimate|
-|---|---                             |---   |---           |
-|5  |Create Project Proposal template|0h 00m|0h 00m        |
-|4  |Documentation Guidelines        |0h 00m|1h 00m        |
-|3  |Internal Meeting 04.10.2020     |0h 00m|0h 00m        |
-|2  |Internal Meeting 10.10.2020     |0h 00m|0h 00m        |
-|1  |Tutor Meeting 12.10.2020        |6h 00m|6h 00m        |
+|iid|title                                 |spent |total estimate|
+|---|---                                   |---   |---           |
+|6  |Project proposal template: Teammembers|0h 00m|0h 00m        |
+|5  |Create Project Proposal template      |0h 00m|0h 00m        |
+|4  |Documentation Guidelines              |0h 00m|1h 00m        |
+|3  |Internal Meeting 04.10.2020           |0h 00m|0h 00m        |
+|2  |Internal Meeting 10.10.2020           |0h 00m|0h 00m        |
+|1  |Tutor Meeting 12.10.2020              |6h 00m|6h 00m        |
 
 ### MERGE REQUESTS
 
