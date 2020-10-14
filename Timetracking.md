@@ -2,15 +2,15 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|6h 15m                         |3h 00m                        |6h 15m                 |7h 00m                      |6h 15m                     |6h 15m                           |
+|2020-42|6h 15m                         |4h 00m                        |6h 15m                 |7h 00m                      |6h 15m                     |6h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 31h 30m
-* **total spent**: 34h 45m
+* **total spent**: 35h 45m
 
 * **Günter Windsperger @01302775**: 6h 15m
-* **Nicolas Griebenow @01617265**: 3h 00m
+* **Nicolas Griebenow @01617265**: 4h 00m
 * **Lisa Fürst @11775842**: 6h 15m
 * **Stefan Puntigam @11776838**: 7h 00m
 * **Thomas Stoiber @11777755**: 6h 15m
@@ -34,7 +34,7 @@
 |6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
 |5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
-|3  |Internal Meeting 04.10.2020                                           |5h 00m |0h 00m        |
+|3  |Internal Meeting 04.10.2020                                           |6h 00m |0h 00m        |
 |2  |Internal Meeting 10.10.2020                                           |12h 30m|0h 00m        |
 |1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
 
@@ -47,6 +47,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Nicolas Griebenow @01617265   |2020-10-14 20:52:18.832|Issue|3  |1h 00m|
 |Thomas Stoiber @11777755      |2020-10-14 20:48:36.121|Issue|16 |1h 45m|
 |Stefan Puntigam @11776838     |2020-10-14 20:48:26.653|Issue|16 |1h 45m|
 |Nicolas Griebenow @01617265   |2020-10-14 20:48:21.023|Issue|16 |1h 45m|
