@@ -1,8 +1,8 @@
 | Issue| #<ISSUE NUMBER> |
 | ------ | ------ |
-| Date | dd.MM.yyyy |
-| Start | hh:dd |
-| End | hh:dd |
+| Date | YYYY:MM:DD |
+| Start | hh:mm |
+| End | hh:mm |
 | Attendees | G, L, M, N, S, T |
 
 ## Goals
