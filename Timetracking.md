@@ -2,18 +2,18 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|6h 15m                         |6h 30m                        |6h 30m                 |7h 00m                      |9h 00m                     |6h 15m                           |
+|2020-42|6h 15m                         |6h 30m                        |6h 30m                 |7h 00m                      |9h 15m                     |6h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 31h 30m
-* **total spent**: 41h 15m
+* **total spent**: 41h 30m
 
 * **Günter Windsperger @01302775**: 6h 15m
 * **Nicolas Griebenow @01617265**: 6h 30m
 * **Lisa Fürst @11775842**: 6h 30m
 * **Stefan Puntigam @11776838**: 7h 00m
-* **Thomas Stoiber @11777755**: 9h 00m
+* **Thomas Stoiber @11777755**: 9h 15m
 * **Michael Bernd Stöger @11778261**: 6h 15m
 
 ### ISSUES
@@ -29,7 +29,7 @@
 |11 |Project proposal template: Already existing and similar products      |0h 15m |2h 30m        |
 |10 |Project proposal template: Architecture                               |0h 00m |2h 00m        |
 |9  |Project proposal template: Domain Model                               |0h 00m |3h 00m        |
-|8  |Project proposal template: Features                                   |1h 30m |2h 00m        |
+|8  |Project proposal template: Features                                   |1h 45m |2h 00m        |
 |7  |Project proposal template: Project description: Project idea in detail|0h 00m |4h 00m        |
 |6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
 |5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
@@ -47,6 +47,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Thomas Stoiber @11777755      |2020-10-15 09:16:51.756|Issue|8  |0h 15m|
 |Thomas Stoiber @11777755      |2020-10-15 08:53:45.538|Issue|8  |1h 30m|
 |Thomas Stoiber @11777755      |2020-10-15 08:53:30.125|Issue|12 |1h 15m|
 |Lisa Fürst @11775842          |2020-10-14 21:38:41.341|Issue|11 |0h 15m|
