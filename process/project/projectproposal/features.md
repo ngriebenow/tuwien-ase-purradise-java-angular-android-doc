@@ -11,6 +11,7 @@ The main feature of the application is that a customer can adopt an animal from 
  * A customer can use the adoption services using the Web app in the browser or by downloading the Android app.
  * After a customer is logged in, he/she can set preferences in the system. These include but are not limited to type of animal, characteristics of the animals, interests of the person (active lifestyle, ...).
  * When the customer has set preferences, he/she gets to see recommended animals based on his/her preferences.
+ * In the Android app, the customer navigates through the recomended animals by swiping left and right (like Tinder).
  * A customer can view animal details. This includes pictures, a description and the preferences of the animal (e.g. needs garden, very active, ...). When using the Android app, the customer has the posssibility to see the animal in his/her enviroment using augmented reality.
  * The customer can add animals he/she is interested in to the watchlist. When he/she is satisfied with the list, he/she can make an appointment at the animal shelter to adopt an animal.
  * The customer can also view all of his/her previously adopted animals in a list.
