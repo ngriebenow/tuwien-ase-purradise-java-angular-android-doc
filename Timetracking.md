@@ -2,18 +2,18 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|6h 15m                         |6h 30m                        |6h 30m                 |7h 00m                      |6h 15m                     |6h 15m                           |
+|2020-42|6h 15m                         |6h 30m                        |6h 30m                 |7h 00m                      |7h 30m                     |6h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 31h 30m
-* **total spent**: 38h 30m
+* **total spent**: 39h 45m
 
 * **Günter Windsperger @01302775**: 6h 15m
 * **Nicolas Griebenow @01617265**: 6h 30m
 * **Lisa Fürst @11775842**: 6h 30m
 * **Stefan Puntigam @11776838**: 7h 00m
-* **Thomas Stoiber @11777755**: 6h 15m
+* **Thomas Stoiber @11777755**: 7h 30m
 * **Michael Bernd Stöger @11778261**: 6h 15m
 
 ### ISSUES
@@ -25,7 +25,7 @@
 |15 |Project proposal template: Risks                                      |0h 00m |0h 00m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m |0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m |3h 00m        |
-|12 |Project proposal template: Stakeholder                                |0h 00m |2h 00m        |
+|12 |Project proposal template: Stakeholder                                |1h 15m |2h 00m        |
 |11 |Project proposal template: Already existing and similar products      |0h 15m |2h 30m        |
 |10 |Project proposal template: Architecture                               |0h 00m |2h 00m        |
 |9  |Project proposal template: Domain Model                               |0h 00m |3h 00m        |
@@ -47,6 +47,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Thomas Stoiber @11777755      |2020-10-15 08:53:30.125|Issue|12 |1h 15m|
 |Lisa Fürst @11775842          |2020-10-14 21:38:41.341|Issue|11 |0h 15m|
 |Nicolas Griebenow @01617265   |2020-10-14 20:52:31.154|Issue|2  |2h 30m|
 |Nicolas Griebenow @01617265   |2020-10-14 20:52:18.832|Issue|3  |1h 00m|
