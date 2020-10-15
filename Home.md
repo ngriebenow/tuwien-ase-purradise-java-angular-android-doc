@@ -19,6 +19,7 @@ This wiki contains all process documentation for this project that is not alread
 
 ### Project
  - [Project Proposal](/process/project/Project-Proposal)
+    - [Already existing and similar products](/process/project/projectproposal/Already existing and similar products)
     - [Features](/process/project/projectproposal/features)
     - [Stakeholders](/process/project/projectproposal/Stakeholders)
 ### [Risks](/process/risks/Risks)
