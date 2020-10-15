@@ -1,3 +1,9 @@
+| Issue | #8 |
+| ----- | -- |
+| author | Thomas Stoiber @11777755|
+| released by |  |
+| release date | |
+
 ### Features
 
 The main feature of the application is, that a customer can adopt an animal from an animal shelter. This animal should be souted for him/her. The basic workflow (not complete) is illustrated in \[1\].
