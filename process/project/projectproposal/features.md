@@ -17,6 +17,12 @@ The main feature of the application is, that a customer can adopt an animal from
  * The keepers at the animal shelter can add new animals, edit existing ones and deleting them from the system.
  * At an appointmant, the keeper will assign the animal to the customer, so that the animal is not longer available for adoption.
 
-Additionally to the
+Additionally to the adoption, the system also needs administration:
+- Customers are able to change their password.
+- Customers are able to delete their account.
+- Keepers are able to change their password.
+- Administrators are able to lock and unlock users.
+- Administrators are able to create new keepers and administrators.
+- Administrators are able to reset passwords.
 
 \[1\] [Features_working](uploads/3dc21e398e07a9cf8dd7771054e514e1/Features_working.png)
