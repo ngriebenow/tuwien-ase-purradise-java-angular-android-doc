@@ -11,7 +11,7 @@ We categorize risks in two different dimensions:
 - Probability on a scale from 1 (10%) to 10 (100%)
 We define risk as the product of severeness times the probability.
 
-![image](uploads/62db0937303466abdd6baade69b57537/image.png)
+![image](uploads/d42ffc0e909d6739dae8e15fc5a2cfbc/image.png)
 [Risk_Evaluation.xlsx](uploads/790bec86e2770f9b0a49be8c3248f392/Risk_Evaluation.xlsx)
 
 # Detailed Analysis
