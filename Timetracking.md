@@ -2,15 +2,15 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|6h 15m                         |6h 30m                        |7h 00m                 |7h 30m                      |9h 15m                     |6h 15m                           |
+|2020-42|6h 15m                         |8h 30m                        |7h 00m                 |7h 30m                      |9h 15m                     |6h 15m                           |
 
 ### TIME STATS
 
-* **total estimate**: 32h 00m
-* **total spent**: 42h 30m
+* **total estimate**: 34h 30m
+* **total spent**: 44h 30m
 
 * **Günter Windsperger @01302775**: 6h 15m
-* **Nicolas Griebenow @01617265**: 6h 30m
+* **Nicolas Griebenow @01617265**: 8h 30m
 * **Lisa Fürst @11775842**: 7h 00m
 * **Stefan Puntigam @11776838**: 7h 30m
 * **Thomas Stoiber @11777755**: 9h 15m
@@ -23,7 +23,7 @@
 |18 |Define guideline for commit messages                                  |0h 00m |0h 30m        |
 |17 |Prototype ARCore                                                      |0h 00m |0h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
-|15 |Project proposal template: Risks                                      |0h 00m |0h 00m        |
+|15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |0h 00m |0h 00m        |
 |13 |Project Proposal template: Legal environment                          |0h 00m |3h 00m        |
 |12 |Project proposal template: Stakeholder                                |1h 30m |2h 00m        |
@@ -48,6 +48,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Nicolas Griebenow @01617265   |2020-10-16 12:32:32.409|Issue|15 |2h 00m|
 |Stefan Puntigam @11776838     |2020-10-15 22:31:40.958|Issue|7  |0h 30m|
 |Lisa Fürst @11775842          |2020-10-15 12:27:10.335|Issue|12 |0h 15m|
 |Lisa Fürst @11775842          |2020-10-15 11:38:11.531|Issue|8  |0h 15m|
