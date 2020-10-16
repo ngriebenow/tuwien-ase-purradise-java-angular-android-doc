@@ -1,8 +1,8 @@
 | Issue        | #11 |
 | ------------ | -- |
 | author       | Lisa Fürst @11775842 |
-| released by  |  |
-| release date | 2020-10-DD |
+| released by  | Stefan Puntigam @11776838 |
+| release date | 2020-10-16 |
 
 
 # Similar products
@@ -43,4 +43,4 @@ Pawfect Match:
 
 # Reasons for redevelopment
 
-As it seems, there are virtually no animal shelters which offer animal matching at home; they require the matching to be done on site. Additionally, shelters do not provide the possibility to view a 3D model of the desired pet beforehand. Therefore, there seems to be no existing software solution which could be used by animal shelters to simplify and modernize the adoption process. While the Pawfect Match prototype incorporates the features our application will provide, it is no more than a design prototype designed with InVision which has no actual functionality. Pawfect Match is meant to collect data from multiple shelters and animal societies, while the solution we propose focuses on supporting a single shelter. It is not clear from the design of Pawfect Match whether the animals’ caretakers could register in the app and if the animal data is supposed to be entered manually or collected via Google or different means. Furthermore, Pawfect Match is heavily based on the Google design guidelines, which is not something we strive towards as there should instead be a distinctive and unique design. Concluding, there seems to be no existing functional solution which provides all the features our application is meant to provide.
+As it seems, there are virtually no animal shelters which offer animal matching at home; they require the matching to be done on site. Additionally, shelters do not provide the possibility to view a 3D model of the desired pet beforehand. Therefore, there seems to be no existing software solution which could be used by animal shelters to simplify and modernize the adoption process. While the Pawfect Match prototype incorporates the features our application will provide, it is no more than a design prototype designed with InVision which has no actual functionality. Pawfect Match is meant to collect data from multiple shelters and animal societies, while the solution we propose focuses on supporting a single shelter. That allows for additional use cases since care takers can make use of some of the same interfaces to administrate data about their animals. It is not clear from the design of Pawfect Match whether the animals’ caretakers could register in the app and if the animal data is supposed to be entered manually or collected via Google or different means. Furthermore, Pawfect Match is heavily based on the Google design guidelines, which is not something we strive towards as there should instead be a distinctive and unique design. Concluding, there seems to be no existing functional solution which provides all the features our application is meant to provide.
