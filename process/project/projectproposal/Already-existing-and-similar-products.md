@@ -13,6 +13,8 @@ As for mobile applications featuring AR or VR pets, there are a lot which are fr
 
 The closest match we could find is a design prototype by UI/UX designer Jessica Tsui called Pawfect Match. It is designed as an Android application which should look and feel like a Google product. It incorporates a questionnaire about different lifestyle aspects which may influence the choice of a pet. The questionnaire is then used to filter animals of local shelters and provides a list of compatible pets that are up for adoption. It also offers the possibility to look at an AR model as well as details of a selected pet. Additionally, interested customers may contact the caretakers of a pet to receive further information or schedule a visit with the pet.  
 
+Unfortunately, a request sent to a local shelter, the Wiener Tierschutzverein, has not yet received an answer and as such we can neither confirm nor deny whether local shelters use software internally to help with the adoption process and whether it allows staff to be registered in the application.  
+
 Examples of animal shelter websites showing a list of animals that are up for adoption:
 - https://www.tierquartier.at/Unsere-Tiere
 - https://www.accpets.ca
@@ -40,3 +42,5 @@ Pawfect Match:
 - https://www.jessicatsui.com/pawfect-match
 
 # Reasons for redevelopment
+
+As it seems, there are virtually no animal shelters which offer animal matching at home; they require the matching to be done on site. Additionally, shelters do not provide the possibility to view a 3D model of the desired pet beforehand. Therefore, there seems to be no existing software solution which could be used by animal shelters to simplify and modernize the adoption process. While the Pawfect Match prototype incorporates the features our application will provide, it is no more than a design prototype designed with InVision which has no actual functionality. Pawfect Match is meant to collect data from multiple shelters and animal societies, while the solution we propose focuses on supporting a single shelter. It is not clear from the design of Pawfect Match whether the animals’ caretakers could register in the app and if the animal data is supposed to be entered manually or collected via Google or different means. Furthermore, Pawfect Match is heavily based on the Google design guidelines, which is not something we strive towards as there should instead be a distinctive and unique design. Concluding, there seems to be no existing functional solution which provides all the features our application is meant to provide.
