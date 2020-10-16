@@ -12,6 +12,11 @@ We categorize risks in two different dimensions:
 We define risk as the product of severeness times the probability.
 
 ## R1: Software ill defined
+| Risk Score | 21 |
+| ----- | --- |
+| Severity | 3 |
+| Probability | 7 |
+
 Severity: 3
 Probability: 7
 Risk Score: 21
