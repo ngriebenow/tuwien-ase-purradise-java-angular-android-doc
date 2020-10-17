@@ -1,8 +1,39 @@
 
-| Issue |  #N |
+| Issue |  #10 |
 | ----- | --- |
-| author       | |
+| author       | Michael Stöger |
 | released by  | |
 | release date | 2020-MM-DD |
 
-# Architecure
+# Architecture
+Most of this software's architecture can be described as client-server three tier architecture.
+The frontend part connects over a network connection to a backend server, serving and collecting data.
+The backend server will be implemented as a REST-server collecting data from the frontends and serving application data to them.
+Separately there will be a webserver that serves the web based frontend.
+These two servers will not have to run on the same machine, but can be running e.g. in different datacenters.
+To access the web frontend a modern webbrowser like Firefox or Chromium will be required. 
+Additionally, there will be an Android App, only using the backend REST server for data.
+
+#### REST-Backend:
+The REST backend will be built using Spring.
+Spring is a Java framework that can be used to build REST backends.
+Because of its long development history it can be considered stable, and it is not expected that development will stall anytime soon.
+Spring has many active users, so it is mostly easy to find solutions if problems occur during development of our application.
+
+#### Web-based frontend
+For the web-based frontend Angular will be used.
+In combination with Bootstrap it is quick and easy to develop good-looking modern frontends which are compatible with our target platforms.
+As it is developed by Google and used by many projects today, it can be considered stable and well documented. 
+
+#### Android App
+The Android App should act as another frontend besides the web frontend, but it will have a different feature set.
+Not all features implemented on the web application will be available on Android too, but therefore the Android App will support augmented reality.
+Using Google's ARCore library 3D-models of animals should be projected into the customer's homes.
+With this feature our target platforms are modern powerful phones that can handle the 3d load.
+Because of that only phones running Android 9 and newer will be supported.
+Google services are required for the AR features to run.
+
+#### General notes
+For all used software and libraries the current stable and non development version will be used.
+That way the most modern features can be used without any major risk of security incidents or bugs that may appear in bleeding edge releases.
+Also features marked as deprecated must not be used to avoid conflicts and problems when dependencies get updated.
