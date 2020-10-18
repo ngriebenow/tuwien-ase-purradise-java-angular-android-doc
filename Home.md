@@ -23,6 +23,7 @@ This wiki contains all process documentation for this project that is not alread
     - [Already existing and similar products](/process/project/projectproposal/Already existing and similar products)
     - [Features](/process/project/projectproposal/features)
     - [Stakeholders](/process/project/projectproposal/Stakeholders)
+    - [Architecture](/process/project/projectproposal/Architecture)
 ### [Risks](/process/risks/Risks)
 
 ### Sprints:
