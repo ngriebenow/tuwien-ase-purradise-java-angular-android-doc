@@ -15,7 +15,7 @@ A commit message fulfills the following restrictions:
  - An empty line separates the subject line from the body.
  - A commit can, but don't have to have a body.
  - The body contains a more detailed description of the commit.
- - A line in the body does not succede 80 characters in length.
+ - A line in the body does not exceed 80 characters in length.
  - In the wiki, commits generally don't have a body.
 
 ## Examples
