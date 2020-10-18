@@ -2,8 +2,8 @@
 | Issue |  #15 |
 | ----- | --- |
 | author       | Nicolas Griebenow |
-| released by  | |
-| release date | 2020-MM-DD |
+| released by  | Thomas Stoiber @11777755 |
+| release date | 2020-10-18 |
 
 # Risks
 We categorize risks in two different dimensions:
