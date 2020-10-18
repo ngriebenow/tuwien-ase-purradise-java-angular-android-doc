@@ -34,3 +34,14 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 | Internal Weekly Meetings              |          |                |       |       |       |                 |           | 72       | 72     | 12,00  |
 | Total                                 | 75       | 223            | 93    | 112   | 428   | 135             | 52        | 204      | 894    | 149,00 |
 | p.P.                                  | 12,50    | 37,17          | 15,50 | 18,67 | 71,33 | 22,50           | 8,67      | 34,00    | 149,00 |        |
+
+# Timeline
+We plan to have the following time schedule during the semester. We estimate to have 2 long sprints, each of them lasting 4 weeks:
+
+![image](uploads/3a151a20202b0807f3bfb92785469da1/image.png)
+![image](uploads/b50320a27a0000af29590eb68a147f4e/image.png)
+
+# Excel file for reproducability:
+[Planning.xlsx](uploads/236fa200d4f3ccb388e4bfa16cd784fe/Planning.xlsx)
+
+
