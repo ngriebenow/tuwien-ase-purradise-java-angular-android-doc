@@ -20,6 +20,16 @@ Spring is a Java framework that can be used to build REST backends.
 Because of its long development history it can be considered stable, and it is not expected that development will stall anytime soon.
 Spring has many active users, so it is mostly easy to find solutions if problems occur during development of our application.
 
+##### Storage:
+Application data will be stored in a H2 database running within the Spring backend.
+By using H2 it will be easier to set up the system, since it does not need to be installed.
+All configuration will be managed by our application, users will have no influence on it.
+To aid with development Hibernate will be used.
+This allows for simple and clear communication with our persistence layer and helps to produce clean and maintainable code.
+Still one exception exists to this storage concept.
+The 3D-models, used for the Android AR feature, will be stored on a web server, because the file size and type are not suitable for a relational database.
+Needed models can be quickly downloaded on demand, when a user starts the AR feature.
+
 #### Web-based frontend
 For the web-based frontend Angular will be used.
 In combination with Bootstrap it is quick and easy to develop good-looking modern frontends which are compatible with our target platforms.
