@@ -1,4 +1,3 @@
-![ComponentDiagram](uploads/ba79679b57baf408276ef7aacb8278b6/ComponentDiagram.png)
 | Issue |  #10 |
 | ----- | --- |
 | author       | Michael Stöger |
@@ -47,3 +46,5 @@ Google services are required for the AR features to run.
 For all used software and libraries the current stable and non development version will be used.
 That way the most modern features can be used without any major risk of security incidents or bugs that may appear in bleeding edge releases.
 Also features marked as deprecated must not be used to avoid conflicts and problems when dependencies get updated.
+
+![ComponentDiagram](uploads/ba79679b57baf408276ef7aacb8278b6/ComponentDiagram.png)
