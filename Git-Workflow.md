@@ -12,7 +12,7 @@ A commit should fulfill the following points:
  - The subject line is capitalized (it starts with a capital letter).
  - The subjectline must not end with a period.
  - An empty line separates the subject line from the body.
+ - A commit can, but don't have to have a body.
  - The body contains a more detailed description of the commit.
  - A line in the body does not succede 80 characters in length.
- - In small commits, the body can be empty.
- - In the wiki, the body can be empty.
+ - In the wiki, commits generally don't have a body.
