@@ -6,7 +6,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 36h 30m
+* **total estimate**: 42h 30m
 * **total spent**: 55h 15m
 
 * **Günter Windsperger @01302775**: 6h 15m
@@ -21,7 +21,7 @@
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
-|17 |Prototype ARCore                                                      |0h 00m |0h 00m        |
+|17 |Prototype ARCore                                                      |0h 00m |6h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
 |15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |3h 00m |2h 00m        |
