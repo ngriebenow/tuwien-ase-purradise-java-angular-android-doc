@@ -24,6 +24,7 @@ This wiki contains all process documentation for this project that is not alread
     - [Features](/process/project/projectproposal/features)
     - [Stakeholders](/process/project/projectproposal/Stakeholders)
     - [Architecture](/process/project/projectproposal/Architecture)
+    - [Domain Model](/process/project/projectproposal/Domain-model)
 ### [Risks](/process/risks/Risks)
 
 ### Sprints:
