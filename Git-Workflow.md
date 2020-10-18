@@ -4,7 +4,7 @@
 | released by |  |
 | release date | |
 
-# Commit Messages:
+# Commit Messages
 The messages should describe what happened in this commit.  
 A commit should fulfill the following points:
  - The commit should start with the issue number (e.g. \[#18\])
