@@ -1,4 +1,4 @@
-
+![ComponentDiagram](uploads/ba79679b57baf408276ef7aacb8278b6/ComponentDiagram.png)
 | Issue |  #10 |
 | ----- | --- |
 | author       | Michael Stöger |
