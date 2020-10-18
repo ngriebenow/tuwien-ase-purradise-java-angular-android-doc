@@ -1,14 +1,14 @@
 | Issue | #18 |
 | ----- | -- |
 | author | Thomas Stoiber @11777755 |
-| released by |  |
-| release date | |
+| released by | Nicolas Griebenow @01617265 |
+| release date | 2020-10-18 |
 
 # Commit Messages
-The messages should describe what happened in this commit. The following rules apply both for the code repository as well as the Wiki repository.
-A commit message should fulfill the following restrictions:
- - The commit should start with the issue number prefixed with the hash (#) in square brackets, e.g. \[#18\]
- - After that a short summary should be given in max. 70 characters.
+The commit message describes what happens in this commit. The following rules apply both for the code repository as well as the Wiki repository.
+A commit message fulfills the following restrictions:
+ - The commit starts with the issue number prefixed with the hash (#) in square brackets, e.g. \[#18\]
+ - After that a short summary is given in max. 70 characters.
  - The subject line is capitalized (it starts with a capital letter).
  - The subject line starts with a verb in imperative mood, e.g. Add, Remove, Move, Delete, Change, Fix ...
  - The subject line must not end with a period.
@@ -20,9 +20,9 @@ A commit message should fulfill the following restrictions:
 
 ## Examples
 
-[#34] Add feature description for project proposal
-[#20] Remove colon in the subsection Detailed Risk Analysis
-[#4] Fix bug in getAnimals method
+[#34] Add feature description for project proposal<br>
+[#20] Remove colon in the subsection Detailed Risk Analysis<br>
+[#4] Fix bug in getAnimals method<br>
 
 ## References
 These rules are best practices and follow the "How to Write a Git Commit Message" guide by Chris Beams (https://chris.beams.io/posts/git-commit/)
