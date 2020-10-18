@@ -2,19 +2,19 @@
 
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
-|2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |9h 15m                           |
+|2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |10h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 42h 30m
-* **total spent**: 55h 15m
+* **total spent**: 56h 15m
 
 * **Günter Windsperger @01302775**: 6h 15m
 * **Nicolas Griebenow @01617265**: 11h 30m
 * **Lisa Fürst @11775842**: 10h 00m
 * **Stefan Puntigam @11776838**: 9h 00m
 * **Thomas Stoiber @11777755**: 9h 30m
-* **Michael Bernd Stöger @11778261**: 9h 15m
+* **Michael Bernd Stöger @11778261**: 10h 15m
 
 ### ISSUES
 
@@ -28,7 +28,7 @@
 |13 |Project Proposal template: Legal environment                          |0h 00m |3h 00m        |
 |12 |Project proposal template: Stakeholder                                |1h 30m |2h 00m        |
 |11 |Project proposal template: Already existing and similar products      |3h 15m |2h 30m        |
-|10 |Project proposal template: Architecture                               |3h 00m |2h 00m        |
+|10 |Project proposal template: Architecture                               |4h 00m |2h 00m        |
 |9  |Project proposal template: Domain Model                               |0h 00m |3h 00m        |
 |8  |Project proposal template: Features                                   |2h 00m |2h 00m        |
 |7  |Project proposal template: Project description: Project idea in detail|2h 00m |4h 00m        |
@@ -48,6 +48,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Michael Bernd Stöger @11778261|2020-10-18 16:08:44.258|Issue|10 |1h 00m|
 |Thomas Stoiber @11777755      |2020-10-18 14:22:24.868|Issue|18 |0h 15m|
 |Michael Bernd Stöger @11778261|2020-10-17 16:03:29.068|Issue|10 |3h 00m|
 |Stefan Puntigam @11776838     |2020-10-17 12:14:39.188|Issue|7  |1h 30m|
