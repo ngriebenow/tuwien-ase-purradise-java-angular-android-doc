@@ -41,7 +41,7 @@ We plan to have the following time schedule during the semester. We estimate to 
 ![image](uploads/3a151a20202b0807f3bfb92785469da1/image.png)
 ![image](uploads/b50320a27a0000af29590eb68a147f4e/image.png)
 
-# Excel file for reproducability:
+# Excel file for reproducability
 [Planning.xlsx](uploads/236fa200d4f3ccb388e4bfa16cd784fe/Planning.xlsx)
 
 
