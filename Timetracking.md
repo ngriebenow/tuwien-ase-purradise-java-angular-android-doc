@@ -3,16 +3,16 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |1h 00m                      |1h 00m                     |1h 30m                           |
+|2020-43|2h 15m                         |0h 00m                        |2h 00m                 |1h 00m                      |1h 00m                     |1h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 72h 30m
-* **total spent**: 66h 00m
+* **total spent**: 67h 30m
 
 * **Günter Windsperger @01302775**: 8h 30m
 * **Nicolas Griebenow @01617265**: 11h 30m
-* **Lisa Fürst @11775842**: 10h 30m
+* **Lisa Fürst @11775842**: 12h 00m
 * **Stefan Puntigam @11776838**: 10h 00m
 * **Thomas Stoiber @11777755**: 10h 30m
 * **Michael Bernd Stöger @11778261**: 15h 15m
@@ -24,7 +24,7 @@
 |20 |Internal Meeting 19.10.2020                                           |3h 00m |6h 00m        |
 |19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
-|17 |Prototype ARCore                                                      |0h 00m |6h 00m        |
+|17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
 |15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |3h 15m |2h 00m        |
@@ -51,6 +51,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Lisa Fürst @11775842          |2020-10-19 21:08:00.788|Issue|17 |1h 30m|
 |Stefan Puntigam @11776838     |2020-10-19 20:24:15.156|Issue|20 |1h 00m|
 |Michael Bernd Stöger @11778261|2020-10-19 20:21:43.426|Issue|14 |0h 15m|
 |Thomas Stoiber @11777755      |2020-10-19 20:20:20.656|Issue|20 |1h 00m|
