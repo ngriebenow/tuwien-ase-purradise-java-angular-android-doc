@@ -3,25 +3,25 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |0h 15m                           |
+|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 72h 30m
-* **total spent**: 62h 45m
+* **total spent**: 63h 45m
 
 * **Günter Windsperger @01302775**: 8h 30m
 * **Nicolas Griebenow @01617265**: 11h 30m
 * **Lisa Fürst @11775842**: 10h 30m
 * **Stefan Puntigam @11776838**: 9h 00m
 * **Thomas Stoiber @11777755**: 9h 30m
-* **Michael Bernd Stöger @11778261**: 14h 00m
+* **Michael Bernd Stöger @11778261**: 15h 00m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|20 |Internal Meeting 19.10.2020                                           |0h 00m |6h 00m        |
+|20 |Internal Meeting 19.10.2020                                           |1h 00m |6h 00m        |
 |19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |0h 00m |6h 00m        |
@@ -51,6 +51,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Michael Bernd Stöger @11778261|2020-10-19 20:19:46.056|Issue|20 |1h 00m|
 |Michael Bernd Stöger @11778261|2020-10-19 15:51:40.743|Issue|5  |0h 15m|
 |Lisa Fürst @11775842          |2020-10-19 12:36:26.423|Issue|7  |0h 30m|
 |Günter Windsperger @01302775  |2020-10-19 02:17:08.624|Issue|13 |2h 15m|
