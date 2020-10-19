@@ -17,7 +17,7 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 | See dog in AR (hardcoded)             | 30       | 90             |       |       | 90    | 30              |           |          | 150    | 25,00  |
 | Full AR (load 3D model from database) | 10       | 40             |       | 30    | 70    | 20              |           |          | 100    | 16,67  |
 | View, add, remove animals             |          | 20             | 20    | 20    | 60    | 20              |           |          | 80     | 13,33  |
-| Filter animals                        |          | 20             | 20    | 15    | 55    | 15              |           |          | 70     | 11,67  |
+| Filter animals                        |          | 20             | 20    | 25    | 55    | 15              |           |          | 80     | 13,33  |
 | User roles + administration           |          | 20             | 20    | 15    | 55    | 15              |           |          | 70     | 11,67  |
 | Watchlist                             |          | 15             | 15    | 10    | 40    | 10              |           |          | 50     | 8,33   |
 | Recommendation                        |          | 15             | 15    | 10    | 40    | 10              |           |          | 50     | 8,33   |
@@ -32,8 +32,8 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 | MRs + IRs                             |          |                |       |       |       |                 |           | 30       | 30     | 5,00   |
 | Tutor Weekly Meetings                 |          |                |       |       |       |                 |           | 72       | 72     | 12,00  |
 | Internal Weekly Meetings              |          |                |       |       |       |                 |           | 72       | 72     | 12,00  |
-| Total                                 | 75       | 223            | 93    | 112   | 428   | 135             | 52        | 204      | 894    | 149,00 |
-| p.P.                                  | 12,50    | 37,17          | 15,50 | 18,67 | 71,33 | 22,50           | 8,67      | 34,00    | 149,00 |        |
+| Total                                 | 75       | 223            | 93    | 122   | 428   | 135             | 52        | 204      | 904    | 150,67 |
+| p.P.                                  | 12,50    | 37,17          | 15,50 | 20,33 | 71,33 | 22,50           | 8,67      | 34,00    | 150,67 |        |
 
 # Timeline
 We plan to have the following time schedule during the semester. We estimate to have 2 long sprints, each of them lasting 4 weeks:
