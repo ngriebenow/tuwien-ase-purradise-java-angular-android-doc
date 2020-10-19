@@ -1,8 +1,8 @@
 | Issue        | #13 |
 | ------------ | -- |
 | author       | Günter Windsperger @01302775|
-| released by  |  |
-| release date | 2020-MM-DD |
+| released by  | Nicolas Griebenow @01617265 |
+| release date | 2020-10-19 |
 
 
 # Legal environment
@@ -20,11 +20,11 @@ For this project several different frameworks, libraries and assets are in usage
 
 
 The table above shows that almost all used assets are licensed under the MIT or Apache 2.0 license.  
-Both licenses are permissive free software licenses with a great degree of freedom in the software usage. ‘Permissive’ means, that the licenses do not have a copyleft-clause, which specifies, that derived software must be licensed under the same license conditions as the original software. This way, it would not be allowed to restrict the usage of a software derived from another software which is licensed with a copyleft-clause (e.g. a software under the GPL license).  
+Both licenses are permissive free software licenses with a great degree of freedom in the software usage. ‘Permissive’ means that the licenses do not have a copyleft-clause, which specifies that derived software must be licensed under the same license conditions as the original software. This way, it would not be allowed to restrict the usage of a software derived from another software which is licensed with a copyleft-clause (e.g. a software under the GPL license).  
 Thus, both mentioned licenses permitting almost any further usage or distribution of the software, in a private or commercial way. Even relicensing the free software as proprietary is permitted.   
 The only requirement is the preservation of copyright and license notices.  
 
-As database engine we will use H2, which is dual licensed under the MPL and EPL. This means, that one license can be chosen freely. Both licenses are similar and are considered as weak copyleft-licenses. This means, that the licensed code part need to remain under the original license but still can be used together with proprietary code. That way, those licenses are kind of a compromise between the permissive MIT/Apache (or BSD) licenses and the stronger GPL-License, which has a strong copyleft-clause.
+As database engine we will use H2, which is dual licensed under the MPL and EPL. This means, that one license can be chosen freely. Both licenses are similar and are considered as weak copyleft-licenses. This means that the licensed code part need to remain under the original license but still can be used together with proprietary code. That way, those licenses are kind of a compromise between the permissive MIT/Apache (or BSD) licenses and the stronger GPL-License, which has a strong copyleft-clause.
 
 Furthermore, we need some 3D models for the AR-part of the mobile application. We could identify an [artist](https://free3d.com/de/user/printable_models) on the website [free3d](https://free3d.com) that provides free models of different animals.
 The assets provided by the website are generally licensed under the royalty-free-license, under which a broad license for the assets can usually be acquired for a one-time fee. However, this use can be further restricted by the creator. In our case, the found models are free and licensed for private usage. Unfortunately, there are no further details about the license conditions. However, permitted use should include LVA-internal proof-of-work and demonstrations.  
