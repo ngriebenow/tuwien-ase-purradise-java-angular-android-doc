@@ -14,7 +14,7 @@ To access the web frontend a modern webbrowser like Firefox or Chromium will be 
 Additionally, there will be an Android App, only using the backend REST server for data.
 
 #### REST-Backend:
-The REST backend will be built using Spring.
+The REST backend will be built using [Spring](https://spring.io/projects/spring-framework).
 Spring is a Java framework that can be used to build REST backends.
 Because of its long development history it can be considered stable, and it is not expected that development will stall anytime soon.
 Spring has many active users, so it is mostly easy to find solutions if problems occur during development of our application.
