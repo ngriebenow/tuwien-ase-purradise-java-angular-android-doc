@@ -1,7 +1,7 @@
 | Issue        | #7 |
 | ------------ | -- |
 | author       | Stefan Puntigam @11776838, Lisa Fürst @11775842 |
-| released by  | Nicolas Griebenow |
+| released by  | Nicolas Griebenow @01617265 |
 | release date | 2020-10-19 |
 
 
