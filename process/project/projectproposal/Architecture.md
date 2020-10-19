@@ -20,7 +20,7 @@ Because of its long development history it can be considered stable, and it is n
 Spring has many active users, so it is mostly easy to find solutions if problems occur during development of our application.
 
 ##### Storage:
-Application data will be stored in a H2 database running within the Spring backend.
+Application data will be stored in a [H2 database](http://www.h2database.com) running within the Spring backend.
 By using H2 it will be easier to set up the system, since it does not need to be installed.
 All configuration will be managed by our application, users will have no influence on it.
 To aid with development Hibernate will be used.
