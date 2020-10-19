@@ -1,6 +1,6 @@
 | Issue        | 5# |
 | ------------ | -- |
-| author       |  |
+| author       | Nicolas Griebenow |
 | released by  |  |
 | release date | 2020-10-DD |
 
