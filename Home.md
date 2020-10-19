@@ -20,11 +20,16 @@ This wiki contains all process documentation for this project that is not alread
 
 ### Project
  - [Project Proposal](/process/project/Project-Proposal)
+    - [Project idea in detail](/process/project/projectproposal/Project-idea-in-detail)
+       - [Features](/process/project/projectproposal/Features)
+       - [Domain Model](/process/project/projectproposal/Domain-model)
+       - [Architecture](/process/project/projectproposal/Architecture)
     - [Already existing and similar products](/process/project/projectproposal/Already existing and similar products)
-    - [Features](/process/project/projectproposal/features)
     - [Stakeholders](/process/project/projectproposal/Stakeholders)
-    - [Architecture](/process/project/projectproposal/Architecture)
-    - [Domain Model](/process/project/projectproposal/Domain-model)
+    - [Legal Environment](/process/project/projectproposal/Legal-environment)
+    - [Cost estimation](/process/project/projectproposal/Cost-Estimation)
+    - [Risks](/process/risks/Risks)
+
 ### [Risks](/process/risks/Risks)
 
 ### Sprints:
