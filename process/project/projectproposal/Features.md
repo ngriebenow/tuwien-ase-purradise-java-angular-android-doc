@@ -6,7 +6,9 @@
 
 ### Features
 
-The main feature of the application is that a customer can adopt an animal from an animal shelter. This animal should be suited for him/her. The basic workflow (not complete) is illustrated in \[1\].
+The main feature of the application is that a customer can adopt an animal from an animal shelter. This animal should be suited for him/her. The basic workflow (not complete) is illustrated here:
+
+![image](uploads/5209944a98bfb004a641054fd4fbbdb6/image.png)
 
  * A customer can use the adoption services using the Web app in the browser or by downloading the Android app.
  * After a customer is logged in, he/she can set preferences in the system. These include but are not limited to type of animal, characteristics of the animals, interests of the person (active lifestyle, ...).

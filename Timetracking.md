@@ -3,41 +3,43 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|2h 15m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-43|2h 15m                         |1h 00m                        |2h 00m                 |1h 00m                      |1h 00m                     |1h 30m                           |
 
 ### TIME STATS
 
-* **total estimate**: 42h 30m
-* **total spent**: 62h 00m
+* **total estimate**: 72h 30m
+* **total spent**: 68h 30m
 
 * **Günter Windsperger @01302775**: 8h 30m
-* **Nicolas Griebenow @01617265**: 11h 30m
-* **Lisa Fürst @11775842**: 10h 00m
-* **Stefan Puntigam @11776838**: 9h 00m
-* **Thomas Stoiber @11777755**: 9h 30m
-* **Michael Bernd Stöger @11778261**: 13h 45m
+* **Nicolas Griebenow @01617265**: 12h 30m
+* **Lisa Fürst @11775842**: 12h 00m
+* **Stefan Puntigam @11776838**: 10h 00m
+* **Thomas Stoiber @11777755**: 10h 30m
+* **Michael Bernd Stöger @11778261**: 15h 15m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|20 |Internal Meeting 19.10.2020                                           |4h 00m |6h 00m        |
+|19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
-|17 |Prototype ARCore                                                      |0h 00m |6h 00m        |
+|17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
 |15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
-|14 |Project Proposal template: Cost estimation (working hours)            |3h 00m |2h 00m        |
+|14 |Project Proposal template: Cost estimation (working hours)            |3h 15m |2h 00m        |
 |13 |Project Proposal template: Legal environment                          |2h 15m |3h 00m        |
 |12 |Project proposal template: Stakeholder                                |1h 30m |2h 00m        |
 |11 |Project proposal template: Already existing and similar products      |3h 15m |2h 30m        |
 |10 |Project proposal template: Architecture                               |4h 00m |2h 00m        |
 |9  |Project proposal template: Domain Model                               |3h 30m |3h 00m        |
 |8  |Project proposal template: Features                                   |2h 00m |2h 00m        |
-|7  |Project proposal template: Project description: Project idea in detail|2h 00m |4h 00m        |
+|7  |Project proposal template: Project description: Project idea in detail|2h 30m |4h 00m        |
 |6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
-|5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
+|5  |Create Project Proposal template                                      |0h 15m |0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
-|3  |Internal Meeting 04.10.2020                                           |6h 00m |0h 00m        |
-|2  |Internal Meeting 10.10.2020                                           |15h 00m|0h 00m        |
+|3  |Internal Meeting 04.10.2020                                           |6h 00m |12h 00m       |
+|2  |Internal Meeting 10.10.2020                                           |15h 00m|12h 00m       |
 |1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
 
 ### MERGE REQUESTS
@@ -49,6 +51,14 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Nicolas Griebenow @01617265   |2020-10-19 21:39:39.711|Issue|20 |1h 00m|
+|Lisa Fürst @11775842          |2020-10-19 21:08:00.788|Issue|17 |1h 30m|
+|Stefan Puntigam @11776838     |2020-10-19 20:24:15.156|Issue|20 |1h 00m|
+|Michael Bernd Stöger @11778261|2020-10-19 20:21:43.426|Issue|14 |0h 15m|
+|Thomas Stoiber @11777755      |2020-10-19 20:20:20.656|Issue|20 |1h 00m|
+|Michael Bernd Stöger @11778261|2020-10-19 20:19:46.056|Issue|20 |1h 00m|
+|Michael Bernd Stöger @11778261|2020-10-19 15:51:40.743|Issue|5  |0h 15m|
+|Lisa Fürst @11775842          |2020-10-19 12:36:26.423|Issue|7  |0h 30m|
 |Günter Windsperger @01302775  |2020-10-19 02:17:08.624|Issue|13 |2h 15m|
 |Michael Bernd Stöger @11778261|2020-10-18 16:24:27.807|Issue|9  |3h 30m|
 |Michael Bernd Stöger @11778261|2020-10-18 16:08:44.258|Issue|10 |1h 00m|
