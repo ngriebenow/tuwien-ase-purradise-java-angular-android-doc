@@ -14,10 +14,13 @@ The main feature of the application is that a customer can adopt an animal from 
  * After a customer is logged in, he/she can set preferences in the system. These include but are not limited to type of animal, characteristics of the animals, interests of the person (active lifestyle, ...).
  * When the customer has set preferences, he/she gets to see recommended animals based on his/her preferences.
  * In the Android app, the customer navigates through the recommended animals by swiping left and right (like Tinder).
- * A customer can view animal details. This includes pictures, a description and the preferences of the animal (e.g. needs garden, very active, ...). When using the Android app, the customer has the posssibility to see the animal in his/her enviroment using augmented reality.
+ * A customer can view animal details. This includes pictures, a description and the preferences of the animal (e.g. needs garden, very active, ...).
+ * When using the Android app, the customer has the possibility to view a 3D model of the animal using Augmented Reality. However, this has the following prerequisite: The keeper has either (a) uploaded an individual 3D model (e.g. an .obj model) that they previously downloaded via websites (e.g. https://free3d.com/de/3d-models/tiere) or (b) created the model using 3rd party software, e.g. [Autodesk](https://www.autodesk.com/solutions/3d-cad-software). It is out of scope of this project to provide means for scanning or creating 3D models. In case of (a), the customer can see a 3D model of the actual animal. In case of (b), the customer sees a 3D model that does not truly represent the actual animal but resembles the actual animal.
  * The customer can add animals he/she is interested in to the watchlist or remove animals from the watchlist. When he/she is satisfied with the list, he/she can make an appointment at the animal shelter to adopt an animal.
  * The customer can also view all of his/her previously adopted animals in a list.
- * The keepers at the animal shelter can add new animals, edit existing ones and delete them from the system.
+ * The keepers at the animal shelter can add new animals, edit existing ones and delete them from the system. Additionally, the keeper has two possibilities adding an 3D model:
+    - (a): The keeper can upload an individual 3D model (e.g. an .obj model that they downloaded via websites or created using 3rd party software.
+    - (b): The keeper can also select a 3D model of a selection of at least 5 predefined models that this software provides, e.g. a predefined model for a Siberian Husky. Additionally, the keeper can select one of predefined coat colors that this software also provides.
  * At an appointment, the keeper can assign an animal to a customer, so that the animal is no longer available for adoption.
 
 Without being logged in, a person can:
