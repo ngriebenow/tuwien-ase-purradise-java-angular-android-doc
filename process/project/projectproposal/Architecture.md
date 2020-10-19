@@ -1,7 +1,7 @@
 | Issue |  #10 |
 | ----- | --- |
-| author       | Michael Stöger |
-| released by  | Nicolas Griebenow |
+| author       | Michael Stöger @11778261 |
+| released by  | Nicolas Griebenow @01617265 |
 | release date | 2020-10-19 |
 
 # Architecture
