@@ -1,8 +1,8 @@
 | Issue |  #10 |
 | ----- | --- |
 | author       | Michael Stöger |
-| released by  | |
-| release date | 2020-MM-DD |
+| released by  | Nicolas Griebenow |
+| release date | 2020-10-19 |
 
 # Architecture
 Most of this software's architecture can be described as client-server three tier architecture.
