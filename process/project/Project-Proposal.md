@@ -8,14 +8,14 @@
 # Project Proposal
 
 ## Teammembers
-| Student id | Name                 | E-Mail                                | Role                                        |
-| ---------- | -------------------- | ------------------------------------- | ------------------------------------------- |
-| 11775842   | Lisa Fürst           | lisa.fuerst@tuwien.ac.at              | UI/UX/Corporate Design                      |
-| 01617265   | Nicolas Griebenow    | nicolas.griebenow@alumni.tuwien.ac.at | Team Coordination, Risk Manager             |
-| 01302775   | Günter Windsperger   | guenter.windsperger@tuwien.ac.at      | Test Manager                                |
-| 11778261   | Michael Bernd Stöger | e11778261@student.tuwien.ac.at        | Technical Architect, Continuous Integration |
-| 11777755   | Thomas Stoiber       | e11777755@student.tuwien.ac.at        | Quality Assurance/Code Style Guides         |
-| 11776838   | Stefan Puntigam      | e11776838@student.tuwien.ac.at        | Security, Documentation                     |
+| Student id | Name                 | E-Mail                                | Role                                        | Substitute Role |
+| ---------- | -------------------- | ------------------------------------- | ------------------------------------------- | --------------- |
+| 11775842   | Lisa Fürst           | lisa.fuerst@tuwien.ac.at              | UI/UX/Corporate Design                      | Documentation, Quality Assurance |
+| 01617265   | Nicolas Griebenow    | nicolas.griebenow@alumni.tuwien.ac.at | Team Coordination, Risk Manager             | Continuous Integration
+| 01302775   | Günter Windsperger   | guenter.windsperger@tuwien.ac.at      | Test Manager                                | Team Coordination, Risk Manager |
+| 11778261   | Michael Bernd Stöger | e11778261@student.tuwien.ac.at        | Technical Architect, Continuous Integration | Security |
+| 11777755   | Thomas Stoiber       | e11777755@student.tuwien.ac.at        | Quality Assurance/Code Style Guides         | UI/UX/CD, Technical Architect |
+| 11776838   | Stefan Puntigam      | e11776838@student.tuwien.ac.at        | Security, Documentation                     | Test Manager
 
 ## Project description
  - Describe your project idea in detail
