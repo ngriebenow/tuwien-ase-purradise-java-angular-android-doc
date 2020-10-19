@@ -3,19 +3,19 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |1h 00m                     |1h 15m                           |
+|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |1h 00m                     |1h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 72h 30m
-* **total spent**: 64h 45m
+* **total spent**: 65h 00m
 
 * **Günter Windsperger @01302775**: 8h 30m
 * **Nicolas Griebenow @01617265**: 11h 30m
 * **Lisa Fürst @11775842**: 10h 30m
 * **Stefan Puntigam @11776838**: 9h 00m
 * **Thomas Stoiber @11777755**: 10h 30m
-* **Michael Bernd Stöger @11778261**: 15h 00m
+* **Michael Bernd Stöger @11778261**: 15h 15m
 
 ### ISSUES
 
@@ -27,7 +27,7 @@
 |17 |Prototype ARCore                                                      |0h 00m |6h 00m        |
 |16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
 |15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
-|14 |Project Proposal template: Cost estimation (working hours)            |3h 00m |2h 00m        |
+|14 |Project Proposal template: Cost estimation (working hours)            |3h 15m |2h 00m        |
 |13 |Project Proposal template: Legal environment                          |2h 15m |3h 00m        |
 |12 |Project proposal template: Stakeholder                                |1h 30m |2h 00m        |
 |11 |Project proposal template: Already existing and similar products      |3h 15m |2h 30m        |
@@ -51,6 +51,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Michael Bernd Stöger @11778261|2020-10-19 20:21:43.426|Issue|14 |0h 15m|
 |Thomas Stoiber @11777755      |2020-10-19 20:20:20.656|Issue|20 |1h 00m|
 |Michael Bernd Stöger @11778261|2020-10-19 20:19:46.056|Issue|20 |1h 00m|
 |Michael Bernd Stöger @11778261|2020-10-19 15:51:40.743|Issue|5  |0h 15m|
