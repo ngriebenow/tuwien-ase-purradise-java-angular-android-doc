@@ -1,6 +1,6 @@
-| Issue        | 5# |
+| Issue        | #5 |
 | ------------ | -- |
-| author       | Nicolas Griebenow |
+| author       | Nicolas Griebenow @01617265 |
 | released by  |  |
 | release date | 2020-10-DD |
 
