@@ -1,8 +1,8 @@
 | Issue        | #5 |
 | ------------ | -- |
 | author       | Nicolas Griebenow @01617265 |
-| released by  |  |
-| release date | 2020-10-DD |
+| released by  | Michael Stöger @11778261 |
+| release date | 2020-10-19 |
 
 
 # Project Proposal
