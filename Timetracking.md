@@ -3,19 +3,19 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-43|2h 15m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |0h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 66h 30m
-* **total spent**: 62h 30m
+* **total spent**: 62h 45m
 
 * **Günter Windsperger @01302775**: 8h 30m
 * **Nicolas Griebenow @01617265**: 11h 30m
 * **Lisa Fürst @11775842**: 10h 30m
 * **Stefan Puntigam @11776838**: 9h 00m
 * **Thomas Stoiber @11777755**: 9h 30m
-* **Michael Bernd Stöger @11778261**: 13h 45m
+* **Michael Bernd Stöger @11778261**: 14h 00m
 
 ### ISSUES
 
@@ -34,7 +34,7 @@
 |8  |Project proposal template: Features                                   |2h 00m |2h 00m        |
 |7  |Project proposal template: Project description: Project idea in detail|2h 30m |4h 00m        |
 |6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
-|5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
+|5  |Create Project Proposal template                                      |0h 15m |0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
 |3  |Internal Meeting 04.10.2020                                           |6h 00m |12h 00m       |
 |2  |Internal Meeting 10.10.2020                                           |15h 00m|12h 00m       |
@@ -49,6 +49,7 @@
 
 |user                          |date                   |type |iid|time  |
 |---                           |---                    |---  |---|---   |
+|Michael Bernd Stöger @11778261|2020-10-19 15:51:40.743|Issue|5  |0h 15m|
 |Lisa Fürst @11775842          |2020-10-19 12:36:26.423|Issue|7  |0h 30m|
 |Günter Windsperger @01302775  |2020-10-19 02:17:08.624|Issue|13 |2h 15m|
 |Michael Bernd Stöger @11778261|2020-10-18 16:24:27.807|Issue|9  |3h 30m|
