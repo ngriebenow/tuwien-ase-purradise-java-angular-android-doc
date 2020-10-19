@@ -1,4 +1,4 @@
-# Welcome to the Wiki of Purra-dise!
+# Welcome to the Wiki of Purr-adise!
 
 This wiki contains all process documentation for this project that is not already provided through a GitLab feature. It also contains some more high-level or explanatory information about the product of the project.
 
