@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 42h 30m
+* **total estimate**: 54h 30m
 * **total spent**: 62h 30m
 
 * **Günter Windsperger @01302775**: 8h 30m
@@ -37,7 +37,7 @@
 |5  |Create Project Proposal template                                      |0h 00m |0h 00m        |
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
 |3  |Internal Meeting 04.10.2020                                           |6h 00m |0h 00m        |
-|2  |Internal Meeting 10.10.2020                                           |15h 00m|0h 00m        |
+|2  |Internal Meeting 10.10.2020                                           |15h 00m|12h 00m       |
 |1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
 
 ### MERGE REQUESTS
