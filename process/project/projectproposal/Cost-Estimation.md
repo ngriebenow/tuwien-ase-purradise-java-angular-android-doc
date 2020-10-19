@@ -39,7 +39,7 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 We plan to have the following time schedule during the semester. We estimate to have 2 long sprints, each of them lasting 4 weeks:
 
 ![image](uploads/2ca13f932823b9be80d579fab098c1ea/image.png)
-![image](uploads/b50320a27a0000af29590eb68a147f4e/image.png)
+![image](uploads/3be24f6e2f9790fef12be46b68342798/image.png)
 
 # Excel file for reproducability
 [Planning.xlsx](uploads/236fa200d4f3ccb388e4bfa16cd784fe/Planning.xlsx)
