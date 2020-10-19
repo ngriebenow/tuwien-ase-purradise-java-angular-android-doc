@@ -37,7 +37,7 @@ As it is developed by Google and used by many projects today, it can be consider
 #### Android App
 The Android App should act as another frontend besides the web frontend, but it will have a different feature set.
 Not all features implemented on the web application will be available on Android too, but therefore the Android App will support augmented reality.
-Using Google's ARCore library 3D-models of animals should be projected into the customer's homes.
+Using Google's [ARCore](https://developers.google.com/ar/discover) library 3D-models of animals should be projected into the customer's homes.
 With this feature our target platforms are modern powerful phones that can handle the 3d load.
 Because of that only phones running Android 9 and newer will be supported.
 Google services are required for the AR features to run.
