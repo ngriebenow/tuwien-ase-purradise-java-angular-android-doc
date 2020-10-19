@@ -2,8 +2,8 @@
 | Issue |  #14 |
 | ----- | --- |
 | author       | Nicolas Griebenow @01617265 |
-| released by  |  |
-| release date | 2020-MM-DD               |
+| released by  | Michael Stöger @11778261 |
+| release date | 2020-10-19               |
 
 # Cost Estimation
 We plan to spend the total amount of 900h (150h per team member) in the following way:
