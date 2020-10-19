@@ -24,28 +24,37 @@
     - Which improvements are expected by your project?
     - Will your product be integrated in an existing system?
     - Will your product replace an existing product?
+    - see [Project idea in detail](/process/project/projectproposal/Project-idea-in-detail)
     - Features
        - Identify the most important use cases and order them by priority
+       - see [Features](/process/project/projectproposal/Features)
     - Domain Model
        - Create a domain model of your application in UML class diagram notation
+       - see [Domain Model](/process/project/projectproposal/Domain-model)
     - Architecture
        - Which type of system will be created? (webbased system, fat client, distributed system, ...)
        - Which technologies will be used?
+       - see [Architecture](/process/project/projectproposal/Architecture)
 
 ## Already existing and similar products
  - Do any similar products exist?
  - What are the reasons for the redevelopment in comparison to using the existing product?
+ - see [Already existing and similar products](/process/project/projectproposal/Already existing and similar products)
 
 ## Stakeholder
  - Who are the stakeholders and what are there roles and responsibilities?
+ - see [Stakeholders](/process/project/projectproposal/Stakeholders)
 
 ## Legal environment
  - What legal environments apply for your product? (licenses, freely available, ...)
  - The LVA-administration team has to have full access to code and documentation at any time!
+ - see [Legal Environment](/process/project/projectproposal/Legal-environment)
 
 ## Cost estimation (working hours)
  - Make a cost estimation, the minimum hours for a typical project in ASE are 150 per teammember.
+ - see [Cost estimation](/process/project/projectproposal/Cost-Estimation)
 
 ## Risks
  - Identify relevant project risks which are specific for your project
  - Outline the probability of occurrence, impact on the project, countermeasures.
+ - see [Risks](/process/risks/Risks)
