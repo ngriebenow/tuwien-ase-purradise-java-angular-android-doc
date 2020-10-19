@@ -18,7 +18,7 @@
 ## Solution Name
 We found a catchy name: Purr-adise
 
-# Model uploading
+## Model uploading
 When creating a new animal, the keeper has the possibility to either select an existing 3D model based on a selection that we provide including different coat colors or to upload a custom 3D file representing the individual animal.
 
 ## Sprintplanning
