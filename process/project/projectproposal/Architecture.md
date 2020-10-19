@@ -31,7 +31,7 @@ Needed models can be quickly downloaded on demand, when a user starts the AR fea
 
 #### Web-based frontend
 For the web-based frontend [Angular](http://www.angular.io) will be used.
-In combination with Bootstrap it is quick and easy to develop good-looking modern frontends which are compatible with our target platforms.
+In combination with [Bootstrap](https://getbootstrap.com) it is quick and easy to develop good-looking modern frontends which are compatible with our target platforms.
 As it is developed by Google and used by many projects today, it can be considered stable and well documented. 
 
 #### Android App
