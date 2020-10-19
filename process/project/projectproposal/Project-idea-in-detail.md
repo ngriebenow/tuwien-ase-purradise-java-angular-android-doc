@@ -1,3 +1,10 @@
+| Issue        | #7 |
+| ------------ | -- |
+| author       | Stefan Puntigam @11776838, Lisa Fürst @11775842 |
+| released by  |  |
+| release date | 2020-10-19 |
+
+
 # The Project idea in detail
 
 ## Project domain
@@ -17,6 +24,7 @@ One of the central goals of animal shelters in general is to arrange adoptions o
 
 ## Improvements expected by this project
 
+We expect to simplify both the workflow of keepers as well as the whole adoption process for customers. The staff may benefit from the application by having access to a system which is shared by all keepers in order to manage animal and customer information. Customers however profit by receiving tailored recommendations and may save time by being able to view potential new pets at any time and place. Additionally, being able to create and manage appointments with customers/keepers may help both keepers and customers with their time management and may reduce the number of people spontaneously dropping by the shelter, thus reducing the disappointment of customers in the case that there are no available keepers to show them around.
 
 ## Integration with existing Systems
 
@@ -24,3 +32,5 @@ The software will not be integrated with any systems that are out of the scope o
 
 
 ## Replacement of existing products
+
+No. While there is the chance that animal shelters may already use software-aided management systems for keepers and customers, we could not find evidence that there are existing applications which support both keepers and customers at the same time. The product is therefore meant to provide a new solution for animal shelters. Similarities to existing systems are described in the Similar Products section.
