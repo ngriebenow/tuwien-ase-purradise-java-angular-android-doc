@@ -21,7 +21,7 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 | User roles + administration           |          | 20             | 20    | 15    | 55    | 15              |           |          | 70     | 11,67  |
 | Watchlist                             |          | 15             | 15    | 10    | 40    | 10              |           |          | 50     | 8,33   |
 | Recommendation                        |          | 15             | 15    | 10    | 40    | 10              |           |          | 50     | 8,33   |
-| Swipe Feature                         | 5        |                |       | 10    | 10    | 5               |           |          | 20     | 3,33   |
+| Swipe Feature                         | 5        | 10             |       |       | 10    | 5               |           |          | 20     | 3,33   |
 | CI Pipeline                           |          |                |       |       |       | 10              | 4         |          | 14     | 2,33   |
 | Test plan                             |          |                |       |       |       |                 | 6         |          | 6      | 1,00   |
 | Architecture                          |          |                |       |       |       |                 | 6         |          | 6      | 1,00   |
@@ -32,8 +32,8 @@ We plan to spend the total amount of 900h (150h per team member) in the followin
 | MRs + IRs                             |          |                |       |       |       |                 |           | 30       | 30     | 5,00   |
 | Tutor Weekly Meetings                 |          |                |       |       |       |                 |           | 72       | 72     | 12,00  |
 | Internal Weekly Meetings              |          |                |       |       |       |                 |           | 72       | 72     | 12,00  |
-| Total                                 | 75       | 223            | 93    | 122   | 428   | 135             | 52        | 204      | 904    | 150,67 |
-| p.P.                                  | 12,50    | 37,17          | 15,50 | 20,33 | 71,33 | 22,50           | 8,67      | 34,00    | 150,67 |        |
+| Total                                 | 75       | 233            | 93    | 112   | 438   | 135             | 52        | 204      | 904    | 150,67 |
+| p.P.                                  | 12,50    | 38,83          | 15,50 | 18,67 | 73,00 | 22,50           | 8,67      | 34,00    | 150,67 |        |
 
 # Timeline
 We plan to have the following time schedule during the semester. We estimate to have 2 long sprints, each of them lasting 4 weeks:
