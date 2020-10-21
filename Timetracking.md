@@ -3,15 +3,15 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|3h 15m                         |1h 00m                        |3h 00m                 |1h 00m                      |1h 00m                     |1h 30m                           |
+|2020-43|3h 15m                         |1h 30m                        |3h 00m                 |1h 00m                      |1h 00m                     |1h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 75h 30m
-* **total spent**: 70h 30m
+* **total spent**: 71h 00m
 
 * **Günter Windsperger @01302775**: 9h 30m
-* **Nicolas Griebenow @01617265**: 12h 30m
+* **Nicolas Griebenow @01617265**: 13h 00m
 * **Lisa Fürst @11775842**: 13h 00m
 * **Stefan Puntigam @11776838**: 10h 00m
 * **Thomas Stoiber @11777755**: 10h 30m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|21 |Project Proposal 21.10.2020                                           |0h 00m |3h 00m        |
+|21 |Project Proposal 21.10.2020                                           |0h 30m |3h 00m        |
 |20 |Internal Meeting 19.10.2020                                           |6h 00m |6h 00m        |
 |19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
@@ -52,6 +52,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-10-21 11:21:03.011|Issue|21 |0h 30m |
 |Nicolas Griebenow @01617265   |2020-10-21 11:20:55.477|Issue|21 |-3h 00m|
 |Nicolas Griebenow @01617265   |2020-10-21 11:20:44.613|Issue|21 |3h 00m |
 |Lisa Fürst @11775842          |2020-10-20 11:26:30.590|Issue|20 |1h 00m |
