@@ -43,7 +43,7 @@
 |4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
 |3  |Internal Meeting 2020-10-04                                           |6h 00m |12h 00m       |
 |2  |Internal Meeting 2020-10-10                                           |15h 00m|12h 00m       |
-|1  |Tutor Meeting 12.10.2020                                              |6h 00m |6h 00m        |
+|1  |Tutor Meeting 2020-10-12                                              |6h 00m |6h 00m        |
 
 ### MERGE REQUESTS
 
