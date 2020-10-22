@@ -22,8 +22,8 @@ Between the static and the non-static imports is an empty line. Imports are orde
 import static test.TestClass.testMethod;
 
 import java.util.Map;
-import static test.TestClass;
-import static test.TestClass.NestedClass;
+import test.TestClass;
+import test.TestClass.NestedClass;
 ```
 
 ## Classes
