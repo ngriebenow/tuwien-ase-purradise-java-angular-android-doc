@@ -62,7 +62,7 @@ When a line is going to be wrapped, it is at these points:
 
 When a statement is wrapped, it is continued with 4 spaced indentation.
 
-**Note:** The primary goal for line wrapping is to have clear code, _not necessarily_ code that fits in the smallest number of lines.
+**Note:** The primary goal of line wrapping is to have clear code, _not necessarily_ code that fits in the smallest number of lines.
 
 ### Braces
 #### Braces are used where optional
