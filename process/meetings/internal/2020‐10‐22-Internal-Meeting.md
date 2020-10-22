@@ -7,7 +7,7 @@
 | Attendees | G, L, M, N, S, T |
 
 ### Goals
-- Distribute workload for MR1
+- Distribute workload for MR1 as discusses in tutor meeting #22
 
 ### Workload
 - (S) Guideline for dates
