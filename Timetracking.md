@@ -28,7 +28,7 @@
 |19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
-|16 |Internal Meeting 14.10.2020                                           |10h 30m|6h 00m        |
+|16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
 |15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
 |14 |Project Proposal template: Cost estimation (working hours)            |3h 15m |2h 00m        |
 |13 |Project Proposal template: Legal environment                          |2h 15m |3h 00m        |
