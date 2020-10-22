@@ -6,7 +6,8 @@
 | release date | 2020-MM-DD |
 
 # Coding Guidelines
-
+The code giudelines are inspired by the Google's coding standards for source code in the Java™ Programming Language. 
+https://google.github.io/styleguide/javaguide.html
 ## File encoding
 Files are encoded in UTF-8
 ## Imports
