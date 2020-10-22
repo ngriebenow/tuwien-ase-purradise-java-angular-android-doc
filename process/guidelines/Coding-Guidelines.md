@@ -1,7 +1,7 @@
 
-| Issue |  #N |
+| Issue |  #24 |
 | ----- | --- |
-| author       | |
+| author       | Thomas Stoiber @11777755 |
 | released by  | |
 | release date | 2020-MM-DD |
 
