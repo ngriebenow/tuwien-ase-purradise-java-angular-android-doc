@@ -187,7 +187,7 @@ public int method(String p1) { ... }
 ```
 ... or in this single-line example:
 ```
-** An especially short bit of Javadoc. */
+/** An especially short bit of Javadoc. */
 ```
 ### Summary Fragment
 The summary fragment consists of noun and verb phrases instead of full sentences. (`Returns the customer ID` instead of `This method returns ...`)
