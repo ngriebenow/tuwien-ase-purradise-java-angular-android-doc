@@ -6,7 +6,7 @@
 | release date | 2020-MM-DD |
 
 # Coding Guidelines
-The code giudelines are inspired by the Google's coding standards for source code in the Java™ Programming Language.      
+The code guidelines are inspired by the Google's coding standards for source code in the Java™ Programming Language.      
 https://google.github.io/styleguide/javaguide.html
 ## File encoding
 Files are encoded in UTF-8
@@ -18,14 +18,13 @@ Imports are ordered as follows:
 1.  All static imports in a single block.
 2.  All non-static imports in a single block.
 Between the static and the non-static imports is an empty line. Imports are ordered by name.
-
-<pre class="prettyprint lang-java">
+```
 import static test.TestClass.testMethod;
 
 import java.util.Map;
 import static test.TestClass;
 import static test.TestClass.NestedClass;
-</pre>
+```
 
 ## Classes
 ### Exactly one top-level class declaration
@@ -41,22 +40,22 @@ The content of a class should be implemented in a logical order. Generally it sh
 Overloaded methods should not be split - there are no other methods in between those two.
 
 ## Formatting
-### One statment per line
+### One statement per line
 Each statement is followed by a line break.
 ### Block Indentation
-The block indintation (e.g. at an if) is **4 spaces**.
+The block indentation (e.g. at an if) is **4 spaces**.
 ### Lines
 #### Line Length
 A line is at maximum **120 characters** long.
 Exceptions:
-* package statment
+* package statement
 * import statements
-* urls in Strings or javadoc
+* URLs in Strings or javadoc
 #### Line-Wrapping
-When a line is going ot be wrapped, it is at these points:
+When a line is going to be wrapped, it is at these points:
  * before an operator like (`+`, `-`) as well as `.`, `::` operators
  * before a generic statement (`<T extends Foo & Bar>`)
- * after a assignement operator
+ * after a assignment operator
  * After an opening parenthesis `(`. The parenthesis stays in the line.
  * After a comma in a parameter list or method call
  * After a lambda arrow only if the body contains exactly one statement
@@ -101,13 +100,13 @@ return new MyClass() {
 ```
 ### Whitespaces
 #### Vertical
-Blank lines are required to be between two methods, constructors, ... (exept between two member variables of the same type - e.g. final static, final, non-final).
+Blank lines are required to be between two methods, constructors, ... (except between two member variables of the same type - e.g. final static, final, non-final).
 
 Blank lines are always allowed to be used to improve readability.
 
 #### Horizontal
-##### Statments
-There must be a space between the statement and the parenthisis in statements like `if`, `for`, ... and between the brace and the statement in statements like `else`, `catch`, ... .
+##### Statements
+There must be a space between the statement and the parenthesis in statements like `if`, `for`, ... and between the brace and the statement in statements like `else`, `catch`, ... .
 ##### Operators
 There must be a space between the value and the operator.
 ```
@@ -118,7 +117,7 @@ int a=1+2; // Not OK
 There must be a whitespace after a `,` in a parameter list (method definition and method call).
 
 ## Naming
-We always use english names.
+We always use English names.
 ### Packages
 Package names are all lowercase, with consecutive words simply concatenated together (no underscores). For example, com.example.deepspace
 ### Classes
@@ -130,7 +129,7 @@ Method names are written in lowerCamelCase.
 
 Method names are typically verbs or verb phrases. For example, sendMessage or stop.
 
-Underscores may appear in JUnit test mehtod names.
+Underscores may appear in JUnit test method names.
 
 ### Constants
 Constant names use CONSTANT_CASE.
