@@ -3,16 +3,16 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|4h 30m                         |2h 15m                        |4h 00m                 |2h 15m                      |2h 15m                     |2h 00m                           |
+|2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |2h 15m                     |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 84h 30m
-* **total spent**: 77h 00m
+* **total spent**: 77h 15m
 
 * **Günter Windsperger @01302775**: 10h 45m
 * **Nicolas Griebenow @01617265**: 13h 45m
-* **Lisa Fürst @11775842**: 14h 00m
+* **Lisa Fürst @11775842**: 14h 15m
 * **Stefan Puntigam @11776838**: 11h 15m
 * **Thomas Stoiber @11777755**: 11h 45m
 * **Michael Bernd Stöger @11778261**: 15h 45m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|23 |Internal Meeting 2020-10-22                                           |1h 00m |3h 00m        |
+|23 |Internal Meeting 2020-10-22                                           |1h 15m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |2h 30m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
@@ -54,6 +54,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-10-22 09:58:14.339|Issue|23 |0h 15m |
 |Lisa Fürst @11775842          |2020-10-22 09:58:01.670|Issue|22 |0h 30m |
 |Stefan Puntigam @11776838     |2020-10-22 09:57:53.316|Issue|23 |0h 15m |
 |Stefan Puntigam @11776838     |2020-10-22 09:57:26.347|Issue|22 |0h 30m |
