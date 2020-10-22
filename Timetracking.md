@@ -3,15 +3,15 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|3h 45m                         |2h 00m                        |3h 30m                 |1h 30m                      |1h 30m                     |2h 00m                           |
+|2020-43|3h 45m                         |2h 15m                        |3h 30m                 |1h 30m                      |1h 30m                     |2h 00m                           |
 
 ### TIME STATS
 
-* **total estimate**: 81h 30m
-* **total spent**: 74h 00m
+* **total estimate**: 84h 30m
+* **total spent**: 74h 15m
 
 * **Günter Windsperger @01302775**: 10h 00m
-* **Nicolas Griebenow @01617265**: 13h 30m
+* **Nicolas Griebenow @01617265**: 13h 45m
 * **Lisa Fürst @11775842**: 13h 30m
 * **Stefan Puntigam @11776838**: 10h 30m
 * **Thomas Stoiber @11777755**: 11h 00m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|23 |Internal Meeting 2020-10-22                                           |0h 00m |0h 00m        |
+|23 |Internal Meeting 2020-10-22                                           |0h 15m |3h 00m        |
 |22 |Tutor Meeting 22.10.2020                                              |0h 30m |6h 00m        |
 |21 |Project Proposal 21.10.2020                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 19.10.2020                                           |6h 00m |6h 00m        |
@@ -54,6 +54,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-10-22 09:51:14.164|Issue|23 |0h 15m |
 |Nicolas Griebenow @01617265   |2020-10-22 09:27:19.473|Issue|22 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-10-21 19:04:53.611|Issue|21 |0h 30m |
 |Günter Windsperger @01302775  |2020-10-21 11:40:38.920|Issue|21 |0h 30m |
