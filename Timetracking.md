@@ -3,25 +3,25 @@
 |Week   |Günter Windsperger<br>@01302775|Nicolas Griebenow<br>@01617265|Lisa Fürst<br>@11775842|Stefan Puntigam<br>@11776838|Thomas Stoiber<br>@11777755|Michael Bernd Stöger<br>@11778261|
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
-|2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |2h 15m                     |2h 45m                           |
+|2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 84h 30m
-* **total spent**: 78h 00m
+* **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
 * **Nicolas Griebenow @01617265**: 13h 45m
 * **Lisa Fürst @11775842**: 14h 15m
 * **Stefan Puntigam @11776838**: 11h 15m
-* **Thomas Stoiber @11777755**: 11h 45m
+* **Thomas Stoiber @11777755**: 13h 45m
 * **Michael Bernd Stöger @11778261**: 16h 30m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|24 |Code Guidelines                                                       |0h 00m |0h 00m        |
+|24 |Code Guidelines                                                       |2h 00m |0h 00m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
@@ -55,6 +55,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-10-22 13:15:43.310|Issue|24 |2h 00m |
 |Michael Bernd Stöger @11778261|2020-10-22 10:01:11.907|Issue|23 |0h 15m |
 |Michael Bernd Stöger @11778261|2020-10-22 10:01:01.920|Issue|22 |0h 30m |
 |Lisa Fürst @11775842          |2020-10-22 09:58:14.339|Issue|23 |0h 15m |
