@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|22 |Tutor Meeting 22.10.2020                                              |0h 00m |0h 00m        |
 |21 |Project Proposal 21.10.2020                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 19.10.2020                                           |6h 00m |6h 00m        |
 |19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
