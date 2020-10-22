@@ -175,3 +175,32 @@ aFoo.aStaticMethod(); // bad
 somethingThatYieldsAFoo().aStaticMethod(); // very bad
 ```
 
+## Javadoc
+### Formatting
+The _basic_ formatting of Javadoc blocks is as seen in this example:
+```
+/**
+ * Multiple lines of Javadoc text are written here,
+ * wrapped normally...
+ */
+public int method(String p1) { ... }
+```
+... or in this single-line example:
+```
+** An especially short bit of Javadoc. */
+```
+### Summary Fragment
+The summary fragment consists of noun and verb phrases instead of full sentences. (`Returns the customer ID` instead of `This method returns ...`)
+
+### Block Tags
+When block-tags are used, they are not allowed to be empty.
+
+There are no Block-Tags in a single-line javadoc (`/** Returns the customer ID **/` instead of `/** @return the customer ID **/`).
+
+### Usage
+Every public and protected method should have a javadoc.
+Classes can have a javadoc, but don't have to.
+
+**Exception:** Javadoc is optional for "simple, obvious" methods like `getFoo()`, in cases where there really and truly is nothing else worthwhile to say but `"Returns the foo"`.
+
+**Exception:** Javadoc is not always present on a method that overrides a supertype method.
