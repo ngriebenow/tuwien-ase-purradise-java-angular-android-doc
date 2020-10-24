@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 84h 30m
+* **total estimate**: 85h 30m
 * **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|27 |Create Corporate Identity                                             |0h 00m |0h 00m        |
+|27 |Create Corporate Identity                                             |0h 00m |1h 00m        |
 |26 |Project Contract                                                      |0h 00m |0h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 00m        |
 |24 |Code Guidelines                                                       |2h 00m |0h 00m        |
