@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 132h 45m
+* **total estimate**: 135h 45m
 * **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -29,7 +29,7 @@
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |0h 00m |12h 00m       |
 |27 |Create Corporate Identity                                             |0h 00m |1h 00m        |
-|26 |Project Contract                                                      |0h 00m |0h 00m        |
+|26 |Project Contract                                                      |0h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
 |24 |Code Guidelines                                                       |2h 00m |2h 30m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
