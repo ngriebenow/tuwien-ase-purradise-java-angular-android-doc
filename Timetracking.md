@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|30 |Template Setup                                                        |0h 00m |0h 00m        |
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |0h 00m |0h 00m        |
 |27 |Create Corporate Identity                                             |0h 00m |1h 00m        |
