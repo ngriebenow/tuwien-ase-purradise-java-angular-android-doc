@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 115h 30m
+* **total estimate**: 117h 30m
 * **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|33 |Test plan                                                             |0h 00m |0h 00m        |
+|33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |4h 00m        |
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
