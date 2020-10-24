@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|31 |REST interface definition                                             |0h 00m |0h 00m        |
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |0h 00m |0h 00m        |
