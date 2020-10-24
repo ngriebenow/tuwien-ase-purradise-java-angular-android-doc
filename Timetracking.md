@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 107h 30m
+* **total estimate**: 115h 30m
 * **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -34,7 +34,7 @@
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
-|19 |Setup CI/CD pipeline                                                  |0h 00m |0h 00m        |
+|19 |Setup CI/CD pipeline                                                  |0h 00m |8h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
