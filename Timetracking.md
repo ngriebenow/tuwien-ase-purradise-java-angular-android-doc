@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|27 |Create Corporate Identity                                             |0h 00m |0h 00m        |
 |26 |Project Contract                                                      |0h 00m |0h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 00m        |
 |24 |Code Guidelines                                                       |2h 00m |0h 00m        |
