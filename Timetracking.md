@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |0h 00m        |
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
