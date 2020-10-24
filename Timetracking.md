@@ -21,6 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|25 |Add guidelines for dates and metrics                                  |0h 00m |0h 00m        |
 |24 |Code Guidelines                                                       |2h 00m |0h 00m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
