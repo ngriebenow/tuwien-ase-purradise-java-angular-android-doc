@@ -7,7 +7,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 121h 15m
+* **total estimate**: 120h 45m
 * **total spent**: 80h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -21,7 +21,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|34 |Define Git flow                                                       |0h 00m |1h 00m        |
+|34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |4h 00m        |
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
