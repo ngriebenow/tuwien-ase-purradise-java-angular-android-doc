@@ -4,14 +4,15 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
+|2020-44|0h 00m                         |1h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 135h 45m
-* **total spent**: 80h 00m
+* **total spent**: 81h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
-* **Nicolas Griebenow @01617265**: 13h 45m
+* **Nicolas Griebenow @01617265**: 14h 45m
 * **Lisa Fürst @11775842**: 14h 15m
 * **Stefan Puntigam @11776838**: 11h 15m
 * **Thomas Stoiber @11777755**: 13h 45m
@@ -29,7 +30,7 @@
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |0h 00m |12h 00m       |
 |27 |Create Corporate Identity                                             |0h 00m |1h 00m        |
-|26 |Project Contract                                                      |0h 00m |3h 00m        |
+|26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
 |24 |Code Guidelines                                                       |2h 00m |2h 30m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
@@ -65,6 +66,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-10-26 13:27:08.407|Issue|26 |1h 00m |
 |Thomas Stoiber @11777755      |2020-10-22 13:15:43.310|Issue|24 |2h 00m |
 |Michael Bernd Stöger @11778261|2020-10-22 10:01:11.907|Issue|23 |0h 15m |
 |Michael Bernd Stöger @11778261|2020-10-22 10:01:01.920|Issue|22 |0h 30m |
