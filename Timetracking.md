@@ -4,16 +4,16 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|0h 00m                         |1h 00m                        |0h 00m                 |0h 00m                      |0h 45m                     |0h 00m                           |
+|2020-44|0h 00m                         |1h 00m                        |5h 30m                 |0h 00m                      |0h 45m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 136h 45m
-* **total spent**: 81h 45m
+* **total spent**: 87h 15m
 
 * **Günter Windsperger @01302775**: 10h 45m
 * **Nicolas Griebenow @01617265**: 14h 45m
-* **Lisa Fürst @11775842**: 14h 15m
+* **Lisa Fürst @11775842**: 19h 45m
 * **Stefan Puntigam @11776838**: 11h 15m
 * **Thomas Stoiber @11777755**: 14h 30m
 * **Michael Bernd Stöger @11778261**: 16h 30m
@@ -28,7 +28,7 @@
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
-|28 |Create UI Mockup                                                      |0h 00m |12h 00m       |
+|28 |Create UI Mockup                                                      |5h 30m |12h 00m       |
 |27 |Create Corporate Identity                                             |0h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
@@ -66,6 +66,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-10-28 20:19:37.887|Issue|28 |5h 30m |
 |Thomas Stoiber @11777755      |2020-10-28 12:59:13.486|Issue|24 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-10-26 13:27:08.407|Issue|26 |1h 00m |
 |Thomas Stoiber @11777755      |2020-10-22 13:15:43.310|Issue|24 |2h 00m |
