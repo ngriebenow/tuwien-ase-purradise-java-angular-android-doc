@@ -4,19 +4,19 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|0h 00m                         |1h 00m                        |5h 30m                 |0h 00m                      |0h 45m                     |0h 00m                           |
+|2020-44|0h 00m                         |1h 00m                        |5h 30m                 |0h 00m                      |0h 45m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 136h 45m
-* **total spent**: 87h 15m
+* **total spent**: 88h 30m
 
 * **Günter Windsperger @01302775**: 10h 45m
 * **Nicolas Griebenow @01617265**: 14h 45m
 * **Lisa Fürst @11775842**: 19h 45m
 * **Stefan Puntigam @11776838**: 11h 15m
 * **Thomas Stoiber @11777755**: 14h 30m
-* **Michael Bernd Stöger @11778261**: 16h 30m
+* **Michael Bernd Stöger @11778261**: 17h 45m
 
 ### ISSUES
 
@@ -27,7 +27,7 @@
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |4h 00m        |
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
-|29 |Class diagram                                                         |0h 00m |4h 00m        |
+|29 |Class diagram                                                         |1h 15m |4h 00m        |
 |28 |Create UI Mockup                                                      |5h 30m |12h 00m       |
 |27 |Create Corporate Identity                                             |0h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
@@ -66,6 +66,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-10-28 21:32:40.274|Issue|29 |1h 15m |
 |Lisa Fürst @11775842          |2020-10-28 20:19:37.887|Issue|28 |5h 30m |
 |Thomas Stoiber @11777755      |2020-10-28 12:59:13.486|Issue|24 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-10-26 13:27:08.407|Issue|26 |1h 00m |
