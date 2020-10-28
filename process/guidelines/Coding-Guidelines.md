@@ -242,13 +242,13 @@ function foo() {
 #### Strings use double-quotes
 Strings use double-quotes instead of single-quotes.
 ```
-const a = "This is Ok";
-const b = 'This is not Ok';
+const a = "This is OK";
+const b = 'This is not OK';
 ```
 
 ### No trailing comma in arrays
 In array-definitions, there is no trailing comma.
 ```
-a = [1, 3, 5,] // Not Ok
-a = [1, 3, 5] // Ok
+a = [1, 3, 5,] // Not OK
+a = [1, 3, 5] // OK
 ```
