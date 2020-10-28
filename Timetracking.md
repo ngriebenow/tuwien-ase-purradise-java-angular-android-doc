@@ -8,7 +8,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 135h 45m
+* **total estimate**: 136h 45m
 * **total spent**: 81h 00m
 
 * **Günter Windsperger @01302775**: 10h 45m
@@ -29,7 +29,7 @@
 |30 |Base Project Setup                                                    |0h 00m |8h 00m        |
 |29 |Class diagram                                                         |0h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |0h 00m |12h 00m       |
-|27 |Create Corporate Identity                                             |0h 00m |1h 00m        |
+|27 |Create Corporate Identity                                             |0h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
 |24 |Code Guidelines                                                       |2h 00m |2h 30m        |
