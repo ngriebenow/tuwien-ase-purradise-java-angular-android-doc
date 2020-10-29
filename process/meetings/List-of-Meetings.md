@@ -8,3 +8,5 @@
 
 ## Tutor Meetings
  - [2020-10-12](./tutor/2020‐10‐12-Tutor-Meeting-(Kickoff))
+ - [2020-10-22](./tutor/2020‐10‐22-Tutor-Meeting)
+ - [2020-10-29](./tutor/2020‐10‐29-Tutor-Meeting)
