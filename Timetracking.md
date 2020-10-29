@@ -8,7 +8,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 136h 45m
+* **total estimate**: 142h 45m
 * **total spent**: 89h 45m
 
 * **Günter Windsperger @01302775**: 12h 00m
@@ -22,6 +22,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|35 |Tutor Meeting 2020-10-29                                              |0h 00m |6h 00m        |
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |4h 00m        |
