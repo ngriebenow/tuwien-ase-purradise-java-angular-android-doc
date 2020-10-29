@@ -4,16 +4,16 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|1h 15m                         |1h 45m                        |5h 30m                 |0h 00m                      |1h 30m                     |1h 15m                           |
+|2020-44|1h 15m                         |1h 45m                        |6h 15m                 |0h 00m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 142h 45m
-* **total spent**: 91h 15m
+* **total spent**: 92h 00m
 
 * **Günter Windsperger @01302775**: 12h 00m
 * **Nicolas Griebenow @01617265**: 15h 30m
-* **Lisa Fürst @11775842**: 19h 45m
+* **Lisa Fürst @11775842**: 20h 30m
 * **Stefan Puntigam @11776838**: 11h 15m
 * **Thomas Stoiber @11777755**: 15h 15m
 * **Michael Bernd Stöger @11778261**: 17h 45m
@@ -22,7 +22,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|35 |Tutor Meeting 2020-10-29                                              |1h 30m |6h 00m        |
+|35 |Tutor Meeting 2020-10-29                                              |2h 15m |6h 00m        |
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |0h 00m |4h 00m        |
@@ -67,6 +67,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-10-29 09:52:00.737|Issue|35 |0h 45m |
 |Thomas Stoiber @11777755      |2020-10-29 09:51:24.020|Issue|35 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-10-29 09:50:18.582|Issue|35 |0h 45m |
 |Günter Windsperger @01302775  |2020-10-28 21:32:48.685|Issue|29 |1h 15m |
