@@ -4,16 +4,16 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |1h 45m                        |6h 15m                 |0h 45m                      |1h 30m                     |1h 15m                           |
+|2020-44|5h 30m                         |1h 45m                        |7h 15m                 |0h 45m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 142h 45m
-* **total spent**: 97h 00m
+* **total spent**: 98h 00m
 
 * **Günter Windsperger @01302775**: 16h 15m
 * **Nicolas Griebenow @01617265**: 15h 30m
-* **Lisa Fürst @11775842**: 20h 30m
+* **Lisa Fürst @11775842**: 21h 30m
 * **Stefan Puntigam @11776838**: 12h 00m
 * **Thomas Stoiber @11777755**: 15h 15m
 * **Michael Bernd Stöger @11778261**: 17h 45m
@@ -30,7 +30,7 @@
 |30 |Base Project Setup                                                    |3h 30m |8h 00m        |
 |29 |Class diagram                                                         |2h 30m |4h 00m        |
 |28 |Create UI Mockup                                                      |5h 30m |12h 00m       |
-|27 |Create Corporate Identity                                             |0h 00m |2h 00m        |
+|27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
 |24 |Code Guidelines                                                       |2h 45m |2h 30m        |
@@ -67,6 +67,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-10-29 17:23:58.882|Issue|27 |1h 00m |
 |Günter Windsperger @01302775  |2020-10-29 14:24:33.949|Issue|30 |2h 30m |
 |Günter Windsperger @01302775  |2020-10-29 12:17:06.393|Issue|35 |0h 45m |
 |Günter Windsperger @01302775  |2020-10-29 11:16:43.473|Issue|30 |1h 00m |
