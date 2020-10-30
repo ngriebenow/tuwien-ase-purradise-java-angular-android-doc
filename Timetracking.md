@@ -8,7 +8,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 142h 45m
+* **total estimate**: 145h 45m
 * **total spent**: 104h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
@@ -22,7 +22,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|37 |Android Tutorials                                                     |0h 00m |0h 00m        |
+|37 |Android Tutorials                                                     |0h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |0h 00m |0h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
