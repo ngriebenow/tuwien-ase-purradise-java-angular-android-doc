@@ -22,6 +22,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|36 |E2E Protractor Tutorials                                              |0h 00m |0h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
