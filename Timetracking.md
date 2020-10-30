@@ -4,25 +4,25 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |1h 45m                        |11h 15m                |2h 45m                      |1h 30m                     |1h 15m                           |
+|2020-44|5h 30m                         |1h 45m                        |11h 15m                |2h 45m                      |1h 30m                     |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 142h 45m
-* **total spent**: 104h 00m
+* **total spent**: 104h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
 * **Nicolas Griebenow @01617265**: 15h 30m
 * **Lisa Fürst @11775842**: 25h 30m
 * **Stefan Puntigam @11776838**: 14h 00m
 * **Thomas Stoiber @11777755**: 15h 15m
-* **Michael Bernd Stöger @11778261**: 17h 45m
+* **Michael Bernd Stöger @11778261**: 18h 30m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|35 |Tutor Meeting 2020-10-29                                              |3h 45m |6h 00m        |
+|35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |2h 00m |4h 00m        |
@@ -67,6 +67,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-10-30 10:51:13.991|Issue|35 |0h 45m |
 |Stefan Puntigam @11776838     |2020-10-30 09:38:04.711|Issue|32 |2h 00m |
 |Lisa Fürst @11775842          |2020-10-29 22:30:15.522|Issue|28 |4h 00m |
 |Lisa Fürst @11775842          |2020-10-29 17:23:58.882|Issue|27 |1h 00m |
