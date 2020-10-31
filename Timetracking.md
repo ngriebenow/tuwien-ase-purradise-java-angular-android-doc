@@ -4,19 +4,19 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |5h 15m                        |14h 45m                |2h 45m                      |1h 30m                     |2h 00m                           |
+|2020-44|5h 30m                         |5h 15m                        |14h 45m                |2h 45m                      |1h 30m                     |3h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 148h 45m
-* **total spent**: 111h 45m
+* **total spent**: 113h 15m
 
 * **Günter Windsperger @01302775**: 16h 15m
 * **Nicolas Griebenow @01617265**: 19h 00m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 14h 00m
 * **Thomas Stoiber @11777755**: 15h 15m
-* **Michael Bernd Stöger @11778261**: 18h 30m
+* **Michael Bernd Stöger @11778261**: 20h 00m
 
 ### ISSUES
 
@@ -40,7 +40,7 @@
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
-|19 |Setup CI/CD pipeline                                                  |0h 00m |8h 00m        |
+|19 |Setup CI/CD pipeline                                                  |1h 30m |8h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
@@ -69,6 +69,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-10-31 18:32:35.729|Issue|19 |1h 30m |
 |Nicolas Griebenow @01617265   |2020-10-31 17:04:54.095|Issue|30 |1h 00m |
 |Lisa Fürst @11775842          |2020-10-31 16:48:05.658|Issue|28 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-10-31 16:08:26.659|Issue|29 |2h 30m |
