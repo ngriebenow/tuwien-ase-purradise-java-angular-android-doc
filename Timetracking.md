@@ -9,7 +9,7 @@
 ### TIME STATS
 
 * **total estimate**: 148h 45m
-* **total spent**: 109h 45m
+* **total spent**: 110h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
 * **Nicolas Griebenow @01617265**: 18h 00m
@@ -31,7 +31,7 @@
 |31 |REST interface definition                                             |0h 00m |6h 00m        |
 |30 |Base Project Setup                                                    |3h 30m |8h 00m        |
 |29 |Class diagram                                                         |5h 00m |4h 00m        |
-|28 |Create UI Mockup                                                      |12h 00m|12h 00m       |
+|28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
