@@ -55,7 +55,7 @@ As a customer, I can use the web interface or the app to display a list of anima
 ### C6: Delete customer account
 As a customer, I can use the web interface or the app to delete my account so that data that is associated with me gets deleted as well.
 
-### C7: Cancel appointmens
+### C7: Cancel appointments
 As a customer, I want that to cancel an appointments I have made.
 
 
