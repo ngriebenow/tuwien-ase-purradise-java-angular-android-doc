@@ -9,138 +9,139 @@
 
 The requirements are framed as user stories. Each of them describes expectations from the point of view of a particular stakeholder.
 
-## Anyone who might adopt an animal
+## A: Anyone who might adopt an animal
 
-### Register as customer
+### A1: Register as customer
 As someone who might adopt an animal, I can register myself as customer using the web interface or the app so that I can access personalized contents.
 
-### List of available animals
+### A2: List of available animals
 As someone who might adopt an animal, I can use the web interface or the app to display a list of available animals. I want to be able to filter for qualities that I am interested in, such as species, age, sex or needs of the animal.
 
-### Details about animal
+### A3: Details about animal
 As someone who might adopt an animal, I can use the web interface or the app to display more detailed information about a specific animal I have found. Ideally, I want that to include images and a more detailed description.
 
-### Augmented reality
+### A4: Augmented reality
 As someone who might adopt an animal, I can use the app to use augmented reality through which I can see a static 3D model of a specific animal in my own environment, captured by the camera of my phone.
 
 
-## Registered User
+## U: Registered User
 
-### Authentication
+### U1: Authentication
 As a registered user (i.e. a customer, keeper or administrator), I can log in so that I can use personalized contents. As a customer I can log in to the app or the web interface, as a keeper or administrator I can only log in to the web interface. When I am logged in I can log out of the system.
 
-### Change own password
+### U2: Change own password
 As a registered user (i.e. a customer, keeper or administrator), I can change my password. As a keeper or administrator, I can only do that on the web interface, as a customer, I can also use the app.
 
 
-## Customer
+## C: Customer
 
-### Voice preferences
+### C1: Voice preferences
 As a customer, I can use the app to take a quiz about what kind of animal I would like to adopt so that the system would only present fitting recommendations.
 
-### Browse recommendations
+### C2: Browse recommendations
 As a customer, I can use the app to browse recommendations. If I have taken the quiz to, I want them to be based on preferences that I have voiced so that I can quickly find an animal that I might adopt.
 
 I want my recommendations to be presented one by one in a fashion like on some dating apps present people (e.g. [Tinder](https://tinder.com)) where I would use gestures to express interest or lack thereof.
 
-### Watchlist
+### C3: Watchlist
 As a customer, I can use the app or the web interface to add animals that I might want to adopt to a list ("watchlist") so that I can easily find them later. I can also remove animals from that list. I want animals that are no more available to be marked as such.
 
-### Make appointment
+### C4: Make appointment
 As a customer, I can use the web interface or the app to schedule an appointment to discuss the adoption of any of the animals on my watchlist.
 
-### Adopted animals
+### C5: Adopted animals
 As a customer, I can use the web interface or the app to display a list of animals that I have adopted so that I can easily access data saved about them in the system.
 
-### Delete customer account
+### C6: Delete customer account
 As a customer, I can use the web interface or the app to delete my account so that data that is associated with me gets deleted as well.
 
-I want that to cancel all appointments I have made as well.
+### C7: Cancel appointmens
+As a customer, I want that to cancel an appointments I have made.
 
 
-## Keeper
+## K: Keeper
 
-### Add animal
+### K1: Add animal
 As a keeper, I can use the web interface to register animals so that anyone interested can retrieve information about them.
 
 I want to save information that is of interest for people who are looking to adopt an animal or for other employees of the animal shelter. That includes images, data like the species, name, sex or age of the animal and a description.
 
 Additionally, I want to assign a 3D model, so customers can take a look at the animal. I want to either upload a model of the animal that I have already created using third party software (e.g. [Autodesk](https://www.autodesk.com/solutions/3d-cad-software)), or select the closest fitting one among several predefined models. In that case, I also want to select a predefined coat color, so that customers still find interest in looking at 3D models.
 
-### Edit animal
+### K2: Edit animal
 As a keeper, I can use the web interface to change any of the information that is saved about a specific animal to reflect changes or include new knowledge.
 
-### Assign animal
+### K3: Assign animal
 As a keeper, I can use the web interface to assign an animal to a customer so that other users can know that it is no more available for adoption. The adopting customer should still have access to the information saved about the animal.
 
-### Remove animal
+### K4: Remove animal
 As a keeper, I can use the web interface to remove an animal from the system, even if it has not been adopted. That way, other users can know that it is no more available.
 
-### Manage appointments
+### K5: Manage appointments
 As a keeper, I can use the web interface to manage when customers can make an appointment to discuss the adoption of an animal. I can view all upcoming appointments.
 
 
 ## Administrator
 
-### Register employees
+### A1: Register employees
 As an administrator, I can use the web interface to register new animal keepers or administrators so that they can access functionalities that only employees have access to.
 
-### Delete employee account
+### A2: Delete employee account
 As an administrator, I can use the web interface to delete the account of an animal keeper or administrator so that they can no more use functionalities that only those groups have access to. I want that their personal data is being removed.
 
-### Lock employee account
+### A3: Lock employee account
 As an administrator, I can use the web interface to lock the account of any keeper or administrator other than myself, so that the employee concerned can not log in anymore. Likewise I can unlock locked employee accounts using the web interface.
 
-### Reset passwords
+### A4: Reset passwords
 As an administrator, I can use the web interface to reset the password of any user, so that I can help users who lost access to their account.
 
-### Update data retention policy
+### A5: Update data retention policy
 As an administrator, I can use the web interface to change the contents of the data retention policy so that I can easily adapt them to (possibly changing) legal environments.
 
-### Update general terms and conditions
+### A6: Update general terms and conditions
 As an administrator, I can use the web interface to change the contents of the general terms and conditions so that I can easily adapt them to (possibly changing) legal environments.
 
 
-## Techstories
+## T: Techstories
 
-### Issue management
+### T1: Issue management
 As team coordinator, I want that all the actions are tracked using an issue management system to facilitate keeping track of the progress of the project.
 
-### Risk management
+### T2: Risk management
 As risk manager, I want that relevant risks get identified so that countermeasures can be taken.
 
-### Systematic testing
+### T3: Systematic testing
 As testing manager, I want that core functionalities of the system are systematically tested so that the software produced complies with our quality standards.
 
-### Continuous integration
+### T4: Continuous integration
 As testing manager, I want that continuous integration is being deployed so that incompatible or erroneous changes can quickly be identified as such.
 
-### Consistency in UI design
+### T5: Consistency in UI design
 As UX manager, I want to maintain consistency in the design of the user interface. That includes consistently using a color scheme.
 
-### UI mockups
+### T6: UI mockups
 As UX manager, I want that mockups are being made for some more important parts of the user interface. That way issues with the user experience can be identified early on.
 
-### Security guidelines
+### T7: Security guidelines
 As the security manager, I want that that common best practices are consistently applied to reduce security risks and render some more common attacks to not be possible.
 
-### Validation
+### T8: Validation
 As the security manager, I want that the correctness of parsing/validation of user data is subject to testing.
 
-### Text in English
+### T9: Text in English
 As the quality manager, I want any text that is a result of the project to be written in English, including code, product and process documentation.
 
-### Coding guidelines
+### T10: Coding guidelines
 As the quality manager, I want all code to be in line with the coding guidelines to facilitate reasoning about the system and maintenance.
 
-### Git workflow
+### T11: Git workflow
 As the quality manager, I expect a clean git workflow that consistently satisfies our guidelines so that the course of actions can be retraced later on.
 
-### Build system
+### T12: Build system
 As the technical architect, I want that a build system is being used so that artifacts can more easily be generated.
 
-### Layered architecture
+### T13: Layered architecture
 As the technical architect, I want the system to consist of cleanly separated layers to facilitate long-term maintainability.
 
-### Documentation guidelines
+### T14: Documentation guidelines
 As the documentation manager, I want that documentation guidelines are applied to both product and process documentation to facilitate maintainability.
