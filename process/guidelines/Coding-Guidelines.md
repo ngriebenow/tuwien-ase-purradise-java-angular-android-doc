@@ -2,14 +2,14 @@
 | Issue |  #24 |
 | ----- | --- |
 | author       | Thomas Stoiber @11777755 |
-| released by  | |
+| released by  | Nicolas Griebenow @01617265 |
 | release date | 2020-MM-DD |
 
 # Coding Guidelines
 The code guidelines are inspired by the Google's coding standards for source code in the Java™ Programming Language.      
 https://google.github.io/styleguide/javaguide.html
 
-##General
+## General
 ### File encoding
 Files are encoded in UTF-8
 
