@@ -4,14 +4,14 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |11h 45m                       |14h 45m                |5h 45m                      |1h 30m                     |5h 30m                           |
+|2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 45m                      |1h 30m                     |5h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 124h 45m
+* **total spent**: 125h 15m
 
-* **Günter Windsperger @01302775**: 16h 15m
+* **Günter Windsperger @01302775**: 16h 45m
 * **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 00m
@@ -30,7 +30,7 @@
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
 |31 |REST interface definition                                             |3h 30m |6h 00m        |
-|30 |Base Project Setup                                                    |6h 30m |8h 00m        |
+|30 |Base Project Setup                                                    |7h 00m |8h 00m        |
 |29 |Class diagram                                                         |6h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
@@ -71,6 +71,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-01 17:36:07.881|Issue|30 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-01 13:21:18.712|Issue|19 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 12:00:47.221|Issue|31 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 11:59:58.451|Issue|29 |1h 00m |
