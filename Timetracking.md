@@ -4,15 +4,15 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |6h 45m                        |14h 45m                |5h 45m                      |1h 30m                     |3h 30m                           |
+|2020-44|5h 30m                         |8h 45m                        |14h 45m                |5h 45m                      |1h 30m                     |3h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 148h 45m
-* **total spent**: 117h 45m
+* **total spent**: 119h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
-* **Nicolas Griebenow @01617265**: 20h 30m
+* **Nicolas Griebenow @01617265**: 22h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 00m
 * **Thomas Stoiber @11777755**: 15h 15m
@@ -29,7 +29,7 @@
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
 |31 |REST interface definition                                             |1h 30m |6h 00m        |
-|30 |Base Project Setup                                                    |4h 30m |8h 00m        |
+|30 |Base Project Setup                                                    |6h 30m |8h 00m        |
 |29 |Class diagram                                                         |5h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
@@ -62,13 +62,15 @@
 
 ### MERGE REQUESTS
 
-|iid|title|spent|total estimate|
-|---|---  |---  |---           |
+|iid|title        |spent |total estimate|
+|---|---          |---   |---           |
+|1  |Feat/entities|0h 00m|0h 00m        |
 
 ### TIME RECORDS
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-01 11:24:29.231|Issue|30 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 11:10:52.750|Issue|31 |1h 30m |
 |Stefan Puntigam @11776838     |2020-10-31 20:44:35.718|Issue|32 |3h 00m |
 |Michael Bernd Stöger @11778261|2020-10-31 18:32:35.729|Issue|19 |1h 30m |
