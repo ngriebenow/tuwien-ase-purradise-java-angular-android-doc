@@ -14,7 +14,7 @@ This wiki contains all process documentation for this project that is not alread
  - [Coding Guidelines](/process/guidelines/Coding-Guidelines)
  - [Timetracking](/process/guidelines/Timetracking)
  - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
- - [Git Workflow](/process/guidelines/Git-Workflow)
+ - [Git](/process/guidelines/Git)
 
 ### [Meeting protocols](/process/meetings/List-of-Meetings)
 
