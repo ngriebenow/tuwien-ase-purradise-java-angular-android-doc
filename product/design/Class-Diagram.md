@@ -2,8 +2,8 @@
 | Issue |  #29 |
 | ----- | --- |
 | author       | Nicolas Griebenow @01617265 |
-| released by  |  |
-| release date | 2020-11-DD               |
+| released by  | Michael Stöger @11778261 |
+| release date | 2020-11-01               |
 
 # Class Diagram
 Preliminary Class Diagram:
