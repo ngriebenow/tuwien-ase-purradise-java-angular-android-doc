@@ -8,7 +8,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 148h 45m
+* **total estimate**: 149h 45m
 * **total spent**: 119h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
@@ -22,7 +22,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|38 |MR1 Presentation                                                      |0h 00m |0h 00m        |
+|38 |MR1 Presentation                                                      |0h 00m |1h 00m        |
 |37 |Android Tutorials                                                     |0h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |0h 00m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
