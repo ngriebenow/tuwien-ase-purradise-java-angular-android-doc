@@ -3,7 +3,7 @@
 | ----- | --- |
 | author       | Thomas Stoiber @11777755 |
 | released by  | Nicolas Griebenow @01617265 |
-| release date | 2020-MM-DD |
+| release date | 2020-11-01 |
 
 # Coding Guidelines
 The code guidelines are inspired by the Google's coding standards for source code in the Java™ Programming Language.      
