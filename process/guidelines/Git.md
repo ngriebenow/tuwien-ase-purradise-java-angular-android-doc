@@ -1,8 +1,8 @@
 | Issue | #34 |
 | ----- | -- |
 | author | Thomas Stoiber @11777755 |
-| released by |  |
-| release date |  |
+| released by | Nicolas Griebenow @01617265 |
+| release date | 2020-11-01 |
 
 | Issue | #18 |
 | ----- | -- |
@@ -47,4 +47,4 @@ On the other hand, the dev branch can be merged into the master for new features
 
 If a developer wants to change an existing feature or add a new feature, they have to check out the latest commit of the `dev` branch, and then start a new `feat/` branch. After implementing the feature using a number of commits, the developer has to create a new merge request so that the `feat/` branch gets merged into the `dev` branch. This merge request should be approved or rejected by another developer to stick to the 4-eyes-principle. The developer is not allowed to merge locally into `dev`. This should be done via GitLab.
 
-There should not be any development on the `dev` and `master` branches. The development is done on a feature, bug or hotfix branch and afterward merged into the `dev` or `master` respectively using a merge request.
+There should not be any development on the `dev` and `master` branches. The development is done on a feature, bug or hotfix branch and afterwards merged into the `dev` or `master` respectively using a merge request.
