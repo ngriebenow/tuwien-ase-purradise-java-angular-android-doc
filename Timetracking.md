@@ -4,15 +4,15 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|5h 30m                         |9h 45m                        |14h 45m                |5h 45m                      |1h 30m                     |3h 30m                           |
+|2020-44|5h 30m                         |11h 45m                       |14h 45m                |5h 45m                      |1h 30m                     |3h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 120h 45m
+* **total spent**: 122h 45m
 
 * **Günter Windsperger @01302775**: 16h 15m
-* **Nicolas Griebenow @01617265**: 23h 30m
+* **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 00m
 * **Thomas Stoiber @11777755**: 15h 15m
@@ -29,7 +29,7 @@
 |34 |Define Git flow                                                       |0h 00m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
-|31 |REST interface definition                                             |1h 30m |6h 00m        |
+|31 |REST interface definition                                             |3h 30m |6h 00m        |
 |30 |Base Project Setup                                                    |6h 30m |8h 00m        |
 |29 |Class diagram                                                         |6h 00m |4h 00m        |
 |28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
@@ -71,6 +71,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-01 12:00:47.221|Issue|31 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 11:59:58.451|Issue|29 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 11:24:29.231|Issue|30 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 11:10:52.750|Issue|31 |1h 30m |
