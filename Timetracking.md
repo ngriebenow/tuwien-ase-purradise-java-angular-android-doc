@@ -4,17 +4,17 @@
 |---    |---                            |---                           |---                    |---                         |---                        |---                              |
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
-|2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 45m                      |1h 30m                     |5h 30m                           |
+|2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 125h 15m
+* **total spent**: 125h 20m
 
 * **Günter Windsperger @01302775**: 16h 45m
 * **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
-* **Stefan Puntigam @11776838**: 17h 00m
+* **Stefan Puntigam @11776838**: 17h 05m
 * **Thomas Stoiber @11777755**: 15h 15m
 * **Michael Bernd Stöger @11778261**: 22h 00m
 
@@ -35,7 +35,7 @@
 |28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
-|25 |Add guidelines for dates and metrics                                  |0h 00m |0h 15m        |
+|25 |Add guidelines for dates and metrics                                  |0h 05m |0h 15m        |
 |24 |Code Guidelines                                                       |2h 45m |2h 30m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
@@ -71,6 +71,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-01 21:17:57.783|Issue|25 |0h 05m |
 |Günter Windsperger @01302775  |2020-11-01 17:36:07.881|Issue|30 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-01 13:21:18.712|Issue|19 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-01 12:00:47.221|Issue|31 |2h 00m |
