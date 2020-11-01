@@ -10,8 +10,6 @@
 | released by | Nicolas Griebenow @01617265 |
 | release date | 2020-10-18 |
 
-# Git
-
 ## Commit Messages
 The commit message describes what happens in this commit. The following rules apply both for the code repository as well as the Wiki repository.
 A commit message fulfills the following restrictions:
