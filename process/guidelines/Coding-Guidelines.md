@@ -159,6 +159,13 @@ aFoo.aStaticMethod(); // bad
 somethingThatYieldsAFoo().aStaticMethod(); // very bad
 ```
 
+#### Array Declarations
+Arrays are declared in Java-Style, not in C-Style
+```
+int[] a; // OK
+int a[]; // Not OK
+```
+
 ### Documentation
 We are using Javadoc in Java and JSDoc in Typescript to document our code.
 #### Formatting
