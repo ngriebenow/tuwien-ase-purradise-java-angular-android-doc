@@ -5,14 +5,14 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|0h 30m                         |0h 00m                        |0h 00m                 |0h 00m                      |3h 00m                     |0h 00m                           |
+|2020-45|2h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |3h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 128h 50m
+* **total spent**: 130h 20m
 
-* **Günter Windsperger @01302775**: 17h 15m
+* **Günter Windsperger @01302775**: 18h 45m
 * **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 05m
@@ -28,7 +28,7 @@
 |36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 30m |0h 30m        |
-|33 |Test plan                                                             |0h 00m |2h 00m        |
+|33 |Test plan                                                             |1h 30m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
 |31 |REST interface definition                                             |3h 30m |6h 00m        |
 |30 |Base Project Setup                                                    |7h 00m |8h 00m        |
@@ -72,6 +72,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-02 23:40:59.428|Issue|33 |1h 30m |
 |Günter Windsperger @01302775  |2020-11-02 22:57:13.855|Issue|36 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-02 18:23:23.730|Issue|24 |2h 30m |
 |Thomas Stoiber @11777755      |2020-11-02 14:11:23.423|Issue|34 |0h 30m |
