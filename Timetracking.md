@@ -5,18 +5,18 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 30m                     |0h 00m                           |
+|2020-45|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |3h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 125h 50m
+* **total spent**: 128h 20m
 
 * **Günter Windsperger @01302775**: 16h 45m
 * **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 05m
-* **Thomas Stoiber @11777755**: 15h 45m
+* **Thomas Stoiber @11777755**: 18h 15m
 * **Michael Bernd Stöger @11778261**: 22h 00m
 
 ### ISSUES
@@ -37,7 +37,7 @@
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 05m |0h 15m        |
-|24 |Code Guidelines                                                       |2h 45m |2h 30m        |
+|24 |Code Guidelines                                                       |5h 15m |2h 30m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
@@ -72,6 +72,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-02 18:23:23.730|Issue|24 |2h 30m |
 |Thomas Stoiber @11777755      |2020-11-02 14:11:23.423|Issue|34 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-01 21:17:57.783|Issue|25 |0h 05m |
 |Günter Windsperger @01302775  |2020-11-01 17:36:07.881|Issue|30 |0h 30m |
