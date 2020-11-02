@@ -159,12 +159,19 @@ aFoo.aStaticMethod(); // bad
 somethingThatYieldsAFoo().aStaticMethod(); // very bad
 ```
 
-#### Array Declarations
+#### Declarations and Initalizations
+##### Arrays
 Arrays are declared in Java-Style, not in C-Style
 ```
 int[] a; // OK
-int a[]; // Not OK
+int b[]; // Not OK
 ```
+##### Long Values
+Long-Values are defined with a capital L, not with a small l.
+´´´
+long a = 1L; // OK
+long b = 1l; // Not OK
+´´´
 
 ### Documentation
 We are using Javadoc in Java and JSDoc in Typescript to document our code.
