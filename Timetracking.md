@@ -5,14 +5,14 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |3h 00m                     |0h 00m                           |
+|2020-45|0h 30m                         |0h 00m                        |0h 00m                 |0h 00m                      |3h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 149h 45m
-* **total spent**: 128h 20m
+* **total spent**: 128h 50m
 
-* **Günter Windsperger @01302775**: 16h 45m
+* **Günter Windsperger @01302775**: 17h 15m
 * **Nicolas Griebenow @01617265**: 25h 30m
 * **Lisa Fürst @11775842**: 29h 00m
 * **Stefan Puntigam @11776838**: 17h 05m
@@ -25,7 +25,7 @@
 |---|---                                                                   |---    |---           |
 |38 |MR1 Presentation                                                      |0h 00m |1h 00m        |
 |37 |Android Tutorials                                                     |0h 00m |3h 00m        |
-|36 |E2E Protractor Tutorials                                              |0h 00m |3h 00m        |
+|36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 30m |0h 30m        |
 |33 |Test plan                                                             |0h 00m |2h 00m        |
@@ -72,6 +72,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-02 22:57:13.855|Issue|36 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-02 18:23:23.730|Issue|24 |2h 30m |
 |Thomas Stoiber @11777755      |2020-11-02 14:11:23.423|Issue|34 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-01 21:17:57.783|Issue|25 |0h 05m |
