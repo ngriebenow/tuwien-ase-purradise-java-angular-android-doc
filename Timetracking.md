@@ -66,9 +66,11 @@
 
 ### MERGE REQUESTS
 
-|iid|title        |spent |total estimate|
-|---|---          |---   |---           |
-|1  |Feat/entities|0h 00m|0h 00m        |
+|iid|title                |spent |total estimate|
+|---|---                  |---   |---           |
+|3  |Finish template setup|0h 00m|0h 00m        |
+|2  |Feat/test ci         |0h 00m|0h 00m        |
+|1  |Feat/entities        |0h 00m|0h 00m        |
 
 ### TIME RECORDS
 
