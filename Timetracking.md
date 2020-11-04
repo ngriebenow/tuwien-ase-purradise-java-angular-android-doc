@@ -5,15 +5,15 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|3h 30m                         |1h 00m                        |1h 00m                 |1h 00m                      |9h 30m                     |1h 00m                           |
+|2020-45|3h 30m                         |4h 00m                        |1h 00m                 |1h 00m                      |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 157h 45m
-* **total spent**: 142h 20m
+* **total spent**: 145h 20m
 
 * **Günter Windsperger @01302775**: 20h 15m
-* **Nicolas Griebenow @01617265**: 26h 30m
+* **Nicolas Griebenow @01617265**: 29h 30m
 * **Lisa Fürst @11775842**: 30h 00m
 * **Stefan Puntigam @11776838**: 18h 05m
 * **Thomas Stoiber @11777755**: 24h 45m
@@ -44,7 +44,7 @@
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
-|19 |Setup CI/CD pipeline                                                  |3h 30m |8h 00m        |
+|19 |Setup CI/CD pipeline                                                  |6h 30m |8h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
@@ -74,6 +74,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-04 18:14:41.831|Issue|19 |3h 00m |
 |Thomas Stoiber @11777755      |2020-11-04 14:57:46.863|Issue|24 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-04 14:23:22.245|Issue|37 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-04 13:58:29.572|Issue|37 |2h 30m |
