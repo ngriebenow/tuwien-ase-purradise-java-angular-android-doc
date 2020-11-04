@@ -11,6 +11,7 @@ This wiki contains all process documentation for this project that is not alread
 
 ### Guidelines
  - [Coding Guidelines](/process/guidelines/Coding-Guidelines)
+ - [Security Guidelines](/process/guidelines/Security-Guidelines)
  - [Timetracking](/process/guidelines/Timetracking)
  - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
  - [Git](/process/guidelines/Git)
