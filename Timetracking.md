@@ -5,15 +5,15 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|2h 00m                         |0h 00m                        |1h 00m                 |0h 00m                      |6h 00m                     |1h 00m                           |
+|2020-45|2h 00m                         |1h 00m                        |1h 00m                 |0h 00m                      |6h 00m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 155h 45m
-* **total spent**: 135h 20m
+* **total spent**: 136h 20m
 
 * **Günter Windsperger @01302775**: 18h 45m
-* **Nicolas Griebenow @01617265**: 25h 30m
+* **Nicolas Griebenow @01617265**: 26h 30m
 * **Lisa Fürst @11775842**: 30h 00m
 * **Stefan Puntigam @11776838**: 17h 05m
 * **Thomas Stoiber @11777755**: 21h 15m
@@ -23,7 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|39 |Internal Meeting 2020-11-04                                           |3h 00m |6h 00m        |
+|39 |Internal Meeting 2020-11-04                                           |4h 00m |6h 00m        |
 |38 |MR1 Presentation                                                      |0h 00m |1h 00m        |
 |37 |Android Tutorials                                                     |2h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
@@ -73,6 +73,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-04 11:00:04.251|Issue|39 |1h 00m |
 |Thomas Stoiber @11777755      |2020-11-04 10:58:52.850|Issue|39 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-04 10:55:11.369|Issue|39 |1h 00m |
 |Michael Bernd Stöger @11778261|2020-11-04 10:55:00.175|Issue|39 |1h 00m |
