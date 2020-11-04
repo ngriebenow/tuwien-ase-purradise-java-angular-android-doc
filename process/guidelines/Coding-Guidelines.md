@@ -9,6 +9,8 @@
 The code guidelines are inspired by the Google's coding standards for source code in the Java™ Programming Language.      
 https://google.github.io/styleguide/javaguide.html
 
+[[_TOC_]]
+
 ## General
 ### File encoding
 Files are encoded in UTF-8
@@ -266,3 +268,11 @@ In array-definitions, there is no trailing comma.
 a = [1, 3, 5,] // Not OK
 a = [1, 3, 5] // OK
 ```
+
+## Android
+The guidelines for Android are inspired from: https://medium.com/mindorks/android-resource-naming-convention-42e4e8026614
+
+### Layout
+Java classes of layout components are called ´<Name><Type>´, where `<Name>` is the Name of the component in UpperCamelCase and `<Type>` is the type of the component. (e.g. `MainActivity`).
+
+The xml layout files are named `<Type>_<Name>`, where `<Type>` is the type of the component and `<Name>` is the name of the component, in lower case separated by underscores (e.g. `activity_main`).

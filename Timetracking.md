@@ -5,30 +5,32 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|2h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |4h 30m                     |0h 00m                           |
+|2020-45|3h 30m                         |4h 00m                        |1h 00m                 |1h 00m                      |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
-* **total estimate**: 149h 45m
-* **total spent**: 131h 50m
+* **total estimate**: 157h 45m
+* **total spent**: 145h 20m
 
-* **Günter Windsperger @01302775**: 18h 45m
-* **Nicolas Griebenow @01617265**: 25h 30m
-* **Lisa Fürst @11775842**: 29h 00m
-* **Stefan Puntigam @11776838**: 17h 05m
-* **Thomas Stoiber @11777755**: 19h 45m
-* **Michael Bernd Stöger @11778261**: 22h 00m
+* **Günter Windsperger @01302775**: 20h 15m
+* **Nicolas Griebenow @01617265**: 29h 30m
+* **Lisa Fürst @11775842**: 30h 00m
+* **Stefan Puntigam @11776838**: 18h 05m
+* **Thomas Stoiber @11777755**: 24h 45m
+* **Michael Bernd Stöger @11778261**: 23h 00m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|40 |Security Guidelines                                                   |0h 00m |2h 00m        |
+|39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation                                                      |0h 00m |1h 00m        |
-|37 |Android Tutorials                                                     |1h 30m |3h 00m        |
+|37 |Android Tutorials                                                     |5h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 30m |0h 30m        |
-|33 |Test plan                                                             |1h 30m |2h 00m        |
+|33 |Test plan                                                             |2h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
 |31 |REST interface definition                                             |3h 30m |6h 00m        |
 |30 |Base Project Setup                                                    |7h 00m |8h 00m        |
@@ -37,12 +39,12 @@
 |27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
 |26 |Project Contract                                                      |1h 00m |3h 00m        |
 |25 |Add guidelines for dates and metrics                                  |0h 05m |0h 15m        |
-|24 |Code Guidelines                                                       |5h 15m |2h 30m        |
+|24 |Code Guidelines                                                       |5h 45m |2h 30m        |
 |23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
 |22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
 |21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
 |20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
-|19 |Setup CI/CD pipeline                                                  |3h 30m |8h 00m        |
+|19 |Setup CI/CD pipeline                                                  |6h 30m |8h 00m        |
 |18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
 |17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
 |16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
@@ -72,6 +74,18 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-04 18:14:41.831|Issue|19 |3h 00m |
+|Thomas Stoiber @11777755      |2020-11-04 14:57:46.863|Issue|24 |0h 30m |
+|Thomas Stoiber @11777755      |2020-11-04 14:23:22.245|Issue|37 |0h 30m |
+|Thomas Stoiber @11777755      |2020-11-04 13:58:29.572|Issue|37 |2h 30m |
+|Günter Windsperger @01302775  |2020-11-04 11:17:47.988|Issue|33 |0h 30m |
+|Günter Windsperger @01302775  |2020-11-04 11:17:30.255|Issue|39 |1h 00m |
+|Stefan Puntigam @11776838     |2020-11-04 11:04:48.678|Issue|39 |1h 00m |
+|Nicolas Griebenow @01617265   |2020-11-04 11:00:04.251|Issue|39 |1h 00m |
+|Thomas Stoiber @11777755      |2020-11-04 10:58:52.850|Issue|39 |1h 00m |
+|Lisa Fürst @11775842          |2020-11-04 10:55:11.369|Issue|39 |1h 00m |
+|Michael Bernd Stöger @11778261|2020-11-04 10:55:00.175|Issue|39 |1h 00m |
+|Thomas Stoiber @11777755      |2020-11-04 09:06:38.910|Issue|37 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-04 08:41:31.333|Issue|37 |1h 30m |
 |Günter Windsperger @01302775  |2020-11-02 23:40:59.428|Issue|33 |1h 30m |
 |Günter Windsperger @01302775  |2020-11-02 22:57:13.855|Issue|36 |0h 30m |
