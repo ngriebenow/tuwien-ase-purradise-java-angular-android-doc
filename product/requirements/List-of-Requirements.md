@@ -23,6 +23,12 @@ As someone who might adopt an animal, I can use the web interface or the app to 
 ### A4: Augmented reality
 As someone who might adopt an animal, I can use the app to use augmented reality through which I can see a static 3D model of a specific animal in my own environment, captured by the camera of my phone.
 
+### A5: Data retention policy
+As someone who might adopt an animal, I want to be able to see the data retention policy.
+
+### A6: General terms and conditions
+As someone who might adopt an animal, I want to be able to see the general terms and conditions.
+
 
 ## U: Registered User
 
