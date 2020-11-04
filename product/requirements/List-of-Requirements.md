@@ -1,4 +1,3 @@
-![employees](uploads/d6e730722c07c88704659de8d09bba2c/employees.png)[employees.txt](uploads/8adc5d637c91fd5f5545a9530dce1213/employees.txt)[customer.txt](uploads/29e7e5658ac85271ffabdc9c9a70d01c/customer.txt)
 | Issue |  #N |
 | ----- | --- |
 | author       | Stefan Puntigam @11776838 |
@@ -6,8 +5,9 @@
 | release date | 2020-10-DD |
 
 # List of Requirements
-
 The requirements are framed as user stories. Each of them describes expectations from the point of view of a particular stakeholder.
+
+A overview of the User stories from the point of view of people who might adopt an animal
 
 ## A: Anyone who might adopt an animal
 
@@ -151,3 +151,16 @@ As the technical architect, I want the system to consist of cleanly separated la
 
 ### T14: Documentation guidelines
 As the documentation manager, I want that documentation guidelines are applied to both product and process documentation to facilitate maintainability.
+
+## Graphical overview
+
+### Potential adopters
+![A overview of the User stories from the point of view of people who might adopt an animal](uploads/d162ee7c6e16b189f751acb99f685f7c/customer.png)
+
+[PlantUML source](uploads/29e7e5658ac85271ffabdc9c9a70d01c/customer.txt)
+
+### Employees
+![A overview of the User stories from the point of view of employees](uploads/d6e730722c07c88704659de8d09bba2c/employees.png)
+
+[PlantUML source](uploads/8adc5d637c91fd5f5545a9530dce1213/employees.txt)
+
