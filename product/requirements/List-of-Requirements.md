@@ -56,7 +56,7 @@ As a customer, I can use the web interface or the app to display a list of anima
 As a customer, I can use the web interface or the app to delete my account so that data that is associated with me gets deleted as well.
 
 ### C7: Cancel appointments
-As a customer, I want that to cancel an appointments I have made.
+As a customer, I can cancel an appointments I have made so that the animal keepers are informed that I will not appear.
 
 
 ## K: Keeper
