@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|41 |checkstyle.xml not working                                            |0h 00m |0h 00m        |
 |40 |Security Guidelines                                                   |0h 00m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                           |0h 00m |6h 00m        |
