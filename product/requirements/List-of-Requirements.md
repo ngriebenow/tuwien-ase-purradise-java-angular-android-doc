@@ -1,4 +1,4 @@
-
+![employees](uploads/d6e730722c07c88704659de8d09bba2c/employees.png)[employees.txt](uploads/8adc5d637c91fd5f5545a9530dce1213/employees.txt)[customer.txt](uploads/29e7e5658ac85271ffabdc9c9a70d01c/customer.txt)
 | Issue |  #N |
 | ----- | --- |
 | author       | Stefan Puntigam @11776838 |
