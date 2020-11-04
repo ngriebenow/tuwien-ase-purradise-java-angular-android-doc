@@ -18,7 +18,9 @@ In our application we will use the following testing frameworks:
 - **Protractor** for automated End-To-End UI tests for the web-app
 - **Espresso** Test Framework for automated End-To-End UI tests of the android-app
 
-Thus, for our test plan we are specifying a **lower barrier that should be always fulfilled**. Additionally, we will perform further testing if feasible and sensible. 
+Furthermore we are using the **JaCoCo** plugin for test-coverage of the java-backend. In combination with our CI-pipeline, the plugin will automatically generate coverage-reports of all unit and integration tests of the java-backend, which will be available as artifacts to download and optionally deployed to gitlab-pages.
+
+For our test plan we are specifying a **lower barrier that should be always fulfilled**. Additionally, we will perform further testing if feasible and sensible. 
 If automated tests are not feasible to create, a manual test should be performed, especially for the advanced AR-feature. Due to the complexity of this library, this feature must be tested in detail manually.
 
 ### Test-Plan:
