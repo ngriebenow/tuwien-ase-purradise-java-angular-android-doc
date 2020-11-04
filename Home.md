@@ -32,6 +32,9 @@ This wiki contains all process documentation for this project that is not alread
 
 ### [Risks](/process/risks/Risks)
 
+### Development
+ * [Android Development](/process/development/android-development)
+
 ### Sprints:
  - [Current backlog](/process/sprints/1/Backlog)
  - [All sprints](/process/sprints/List-of-Sprints)
