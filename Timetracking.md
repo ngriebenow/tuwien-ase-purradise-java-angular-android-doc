@@ -25,7 +25,7 @@
 |---|---                                                                   |---    |---           |
 |40 |Security Guidelines                                                   |0h 00m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
-|38 |MR1 Presentation                                                      |0h 00m |6h 00m        |
+|38 |MR1 Presentation 2020-11-05                                           |0h 00m |6h 00m        |
 |37 |Android Tutorials                                                     |5h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
