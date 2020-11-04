@@ -4,7 +4,6 @@ This wiki contains all process documentation for this project that is not alread
 
 ## Product documentation
  - [Architecture](/product/architecture/Architecture)
- - [Continuous Integration](/product/ci/Continuous-Integration)
  - [Requirements](/product/requirements/List-of-Requirements) 
  - [Testing](/product/testing/Testing)
 
