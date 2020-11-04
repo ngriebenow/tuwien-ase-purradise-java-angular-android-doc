@@ -5,3 +5,4 @@
 | release date | 2020-11-04                |
 
 # Corporate Design
+[Corporate_Design.pdf](uploads/b9abbef23c0699220a0ca2dd98a27ebc/Corporate_Design.pdf)
