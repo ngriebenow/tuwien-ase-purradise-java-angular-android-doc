@@ -5,16 +5,16 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|6h 30m                         |4h 00m                        |1h 00m                 |5h 25m                      |9h 30m                     |1h 00m                           |
+|2020-45|6h 30m                         |4h 00m                        |2h 00m                 |5h 25m                      |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 164h 15m
-* **total spent**: 152h 45m
+* **total spent**: 153h 45m
 
 * **Günter Windsperger @01302775**: 23h 15m
 * **Nicolas Griebenow @01617265**: 29h 30m
-* **Lisa Fürst @11775842**: 30h 00m
+* **Lisa Fürst @11775842**: 31h 00m
 * **Stefan Puntigam @11776838**: 22h 30m
 * **Thomas Stoiber @11777755**: 24h 45m
 * **Michael Bernd Stöger @11778261**: 23h 00m
@@ -32,7 +32,7 @@
 |41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
 |40 |Security Guidelines                                                   |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
-|38 |MR1 Presentation 2020-11-05                                           |0h 00m |6h 00m        |
+|38 |MR1 Presentation 2020-11-05                                           |1h 00m |6h 00m        |
 |37 |Android Tutorials                                                     |5h 00m |3h 00m        |
 |36 |E2E Protractor Tutorials                                              |2h 00m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
@@ -83,6 +83,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-11-05 10:33:07.257|Issue|38 |1h 00m |
 |Günter Windsperger @01302775  |2020-11-05 00:12:08.809|Issue|33 |1h 00m |
 |Günter Windsperger @01302775  |2020-11-05 00:09:45.987|Issue|33 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-04 22:37:50.925|Issue|42 |0h 45m |
