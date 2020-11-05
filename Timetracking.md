@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|48 |Web Authentification                                                  |0h 00m |0h 00m        |
 |47 |Android App Navigation                                                |0h 00m |0h 00m        |
 |46 |Android App Theming                                                   |0h 00m |0h 00m        |
 |45 |Web App Theming                                                       |0h 00m |0h 00m        |
