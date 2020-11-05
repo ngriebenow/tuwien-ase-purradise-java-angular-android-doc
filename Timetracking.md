@@ -10,7 +10,7 @@
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 168h 45m
+* **total spent**: 169h 15m
 
 * **Günter Windsperger @01302775**: 27h 15m
 * **Nicolas Griebenow @01617265**: 33h 00m
@@ -60,7 +60,7 @@
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |0h 00m |13h 00m       |
 |45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                  |0h 00m |80h 00m       |
+|44 |See one dog in AR in android (80 SP)                                  |0h 30m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |10h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
 |41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
