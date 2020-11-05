@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|75 |K2: Web edit animal                                                   |0h 00m |0h 00m        |
 |74 |K1: Backend Add animal                                                |0h 00m |0h 00m        |
 |73 |K1: Web Add animal                                                    |0h 00m |0h 00m        |
 |72 |A6: Backend Update general terms and conditions                       |0h 00m |0h 00m        |
