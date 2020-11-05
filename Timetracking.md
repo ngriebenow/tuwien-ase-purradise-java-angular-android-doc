@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|79 |Backend Update AnimalPreferences                                      |0h 00m |0h 00m        |
 |78 |K4: Backend Remove animal                                             |0h 00m |0h 00m        |
 |77 |K2: Backend edit animal                                               |0h 00m |0h 00m        |
 |76 |K4: Web Remove animal                                                 |0h 00m |0h 00m        |
