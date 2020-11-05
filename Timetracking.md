@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|50 |U1: Android Authentication                                            |0h 00m |0h 00m        |
 |49 |U1: Backend authentication                                            |0h 00m |0h 00m        |
 |48 |U1: Web Authentification                                              |0h 00m |0h 00m        |
 |47 |Android App Navigation                                                |0h 00m |0h 00m        |
