@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|67 |S5: Web Data retention policy                                         |0h 00m |0h 00m        |
 |66 |A6: Web Update general terms and conditions                           |0h 00m |0h 00m        |
 |65 |A5: Backend Update data retention policy                              |0h 00m |0h 00m        |
 |64 |A5: Web Update data retention policy                                  |0h 00m |0h 00m        |
