@@ -33,7 +33,7 @@
 |72 |A6: Backend Update general terms and conditions (1 SP)                |0h 00m |1h 00m        |
 |71 |S6: Backend General terms and conditions (1 SP)                       |0h 00m |1h 00m        |
 |70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
-|69 |S6: Web General terms and conditions (5 SP)                           |0h 00m |5h 00m        |
+|69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
 |68 |S5: Backend Data retention policy (1 SP)                              |0h 00m |1h 00m        |
 |67 |S5: Web Data retention policy (5 SP)                                  |0h 00m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |0h 00m |5h 00m        |
