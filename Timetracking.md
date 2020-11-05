@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 162h 45m
+* **total estimate**: 164h 15m
 * **total spent**: 152h 45m
 
 * **Günter Windsperger @01302775**: 23h 15m
@@ -24,7 +24,7 @@
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
-|41 |checkstyle.xml not working                                            |0h 00m |0h 00m        |
+|41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
 |40 |Security Guidelines                                                   |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                           |0h 00m |6h 00m        |
