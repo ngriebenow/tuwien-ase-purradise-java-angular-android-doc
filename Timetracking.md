@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|56 |A1: Backend Register as new customer                                  |0h 00m |0h 00m        |
 |55 |A1: Android Register as new customer                                  |0h 00m |0h 00m        |
 |54 |A1: Web Register as new customer                                      |0h 00m |0h 00m        |
 |53 |U3: Android Change password                                           |0h 00m |0h 00m        |
