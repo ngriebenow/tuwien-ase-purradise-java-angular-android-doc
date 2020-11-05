@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 372h 15m
+* **total estimate**: 375h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|81 |S5: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
 |79 |Backend Update AnimalPreferences (5 SP)                               |0h 00m |5h 00m        |
 |78 |K4: Backend Remove animal (1 SP)                                      |0h 00m |1h 00m        |
