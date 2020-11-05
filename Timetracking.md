@@ -5,14 +5,14 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|10h 30m                        |7h 30m                        |2h 00m                 |6h 25m                      |13h 00m                    |4h 30m                           |
+|2020-45|11h 00m                        |7h 30m                        |2h 00m                 |6h 25m                      |13h 00m                    |4h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 169h 15m
+* **total spent**: 169h 45m
 
-* **Günter Windsperger @01302775**: 27h 15m
+* **Günter Windsperger @01302775**: 27h 45m
 * **Nicolas Griebenow @01617265**: 33h 00m
 * **Lisa Fürst @11775842**: 31h 00m
 * **Stefan Puntigam @11776838**: 23h 30m
@@ -60,7 +60,7 @@
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |0h 00m |13h 00m       |
 |45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                  |0h 30m |80h 00m       |
+|44 |See one dog in AR in android (80 SP)                                  |1h 00m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |10h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
 |41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
@@ -118,6 +118,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-05 16:49:07.753|Issue|44 |0h 30m |
 |Günter Windsperger @01302775  |2020-11-05 14:52:25.525|Issue|44 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-05 14:36:56.885|Issue|43 |2h 30m |
 |Michael Bernd Stöger @11778261|2020-11-05 14:36:32.393|Issue|38 |1h 00m |
