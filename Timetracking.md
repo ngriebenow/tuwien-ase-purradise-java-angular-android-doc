@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 236h 15m
+* **total estimate**: 241h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -51,7 +51,7 @@
 |54 |S1: Web Register as new customer (5 SP)                               |0h 00m |5h 00m        |
 |53 |U3: Android Change password (5 SP)                                    |0h 00m |5h 00m        |
 |52 |U2: Backend Change password (1 SP)                                    |0h 00m |1h 00m        |
-|51 |U2: Web Change password                                               |0h 00m |0h 00m        |
+|51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
 |50 |U1: Android Authentication                                            |0h 00m |0h 00m        |
 |49 |U1: Backend authentication                                            |0h 00m |0h 00m        |
 |48 |U1: Web Authentification                                              |0h 00m |0h 00m        |
