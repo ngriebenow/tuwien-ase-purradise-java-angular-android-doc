@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 255h 15m
+* **total estimate**: 263h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -55,7 +55,7 @@
 |50 |U1: Android Authentication (8 SP)                                     |0h 00m |8h 00m        |
 |49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
-|47 |Android App Navigation                                                |0h 00m |0h 00m        |
+|47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
 |46 |Android App Theming                                                   |0h 00m |0h 00m        |
 |45 |Web App Theming                                                       |0h 00m |0h 00m        |
 |44 |See one dog in AR in android (AR)                                     |0h 00m |0h 00m        |
