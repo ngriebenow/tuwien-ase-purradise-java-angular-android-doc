@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 178h 15m
+* **total estimate**: 183h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -29,7 +29,7 @@
 |76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
 |75 |K2: Web edit animal (5 SP)                                            |0h 00m |5h 00m        |
 |74 |K1: Backend Add animal (1 SP)                                         |0h 00m |1h 00m        |
-|73 |K1: Web Add animal                                                    |0h 00m |0h 00m        |
+|73 |K1: Web Add animal (5 SP)                                             |0h 00m |5h 00m        |
 |72 |A6: Backend Update general terms and conditions                       |0h 00m |0h 00m        |
 |71 |S6: Backend General terms and conditions                              |0h 00m |0h 00m        |
 |70 |A4: Backend Reset passwords                                           |0h 00m |0h 00m        |
