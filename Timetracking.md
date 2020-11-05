@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|43 |Internal Meeting 2020-11-05                                           |0h 00m |0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
 |41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
 |40 |Security Guidelines                                                   |2h 10m |2h 00m        |
