@@ -1,8 +1,8 @@
 | Issue |  #33 |
 | ----- | ---  |
-| author       | Günter Windsperger |
-| released by  |                    |
-| release date | 2020-11-DD         |
+| author       | Günter Windsperger @01302775 |
+| released by  | Nicolas Griebenow @01617265  |
+| release date | 2020-11-05         |
 
 # Testing
 
