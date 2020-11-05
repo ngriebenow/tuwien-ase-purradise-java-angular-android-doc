@@ -1,0 +1,65 @@
+@startuml
+left to right direction
+actor "Someone looking to adopt" as a
+actor "Customer" as c
+actor "Registered User" as r
+
+package "Web Interface" {
+  usecase "Register myself" as reself0
+  usecase "List/filter animals" as listani0
+  usecase "Animal details" as detailani0
+
+  usecase "Watchlist" as watchlist0
+  usecase "Make appointment" as mkappoint0
+  usecase "Adopted animals" as adopted0
+  usecase "Delete customer account" as delacc0
+  usecase "Cancel appointments" as cancelappoint0
+  usecase "Data retention policy" as dataret0
+  usecase "General terms and conditions" as termscond0
+}
+
+package "App" {
+  usecase "Register myself" as reself1
+  usecase "List/filter animals" as listani1
+  usecase "Animal details" as detailani1
+  usecase "Augmented reality" as augreal
+
+  usecase "Voice preferences" as voicepref
+  usecase "Browse recommendations" as browserec
+  usecase "Watchlist" as watchlist1
+  usecase "Make appointment" as mkappoint1
+  usecase "Adopted animals" as adopted1
+  usecase "Delete customer account" as delacc1
+  usecase "Cancel appointments" as cancelappoint1
+  usecase "Data retention policy" as dataret1
+  usecase "General terms and conditions" as termscond1
+}
+
+a --> reself0
+a --> reself1
+a --> listani0
+a --> listani1
+a --> detailani0
+a --> detailani1
+a --> augreal
+a --> dataret0
+a --> dataret1
+a --> termscond0
+a --> termscond1
+
+voicepref <-- c
+browserec <-- c
+watchlist0 <-- c
+watchlist1 <-- c
+mkappoint0 <-- c
+mkappoint1 <-- c
+adopted0 <-- c
+adopted1 <-- c
+delacc0 <-- c
+delacc1 <-- c
+cancelappoint0 <-- c
+cancelappoint1 <-- c
+
+
+c --|> r
+@enduml

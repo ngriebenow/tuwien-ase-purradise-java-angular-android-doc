@@ -47,4 +47,4 @@ For all used software and libraries the current stable and non development versi
 That way the most modern features can be used without any major risk of security incidents or bugs that may appear in bleeding edge releases.
 Also features marked as deprecated must not be used to avoid conflicts and problems when dependencies get updated.
 
-![ComponentDiagram](uploads/ba79679b57baf408276ef7aacb8278b6/ComponentDiagram.png)
+![ComponentDiagram](uploads/6406d120a337a8b1c37aeb5842e57c52/ComponentDiagram.png)

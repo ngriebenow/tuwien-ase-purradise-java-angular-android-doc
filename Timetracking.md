@@ -5,32 +5,73 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|3h 30m                         |4h 00m                        |1h 00m                 |1h 00m                      |9h 30m                     |1h 00m                           |
+|2020-45|10h 00m                        |7h 30m                        |2h 00m                 |6h 25m                      |13h 00m                    |1h 00m                           |
 
 ### TIME STATS
 
-* **total estimate**: 157h 45m
-* **total spent**: 145h 20m
+* **total estimate**: 375h 15m
+* **total spent**: 165h 15m
 
-* **Günter Windsperger @01302775**: 20h 15m
-* **Nicolas Griebenow @01617265**: 29h 30m
-* **Lisa Fürst @11775842**: 30h 00m
-* **Stefan Puntigam @11776838**: 18h 05m
-* **Thomas Stoiber @11777755**: 24h 45m
+* **Günter Windsperger @01302775**: 26h 45m
+* **Nicolas Griebenow @01617265**: 33h 00m
+* **Lisa Fürst @11775842**: 31h 00m
+* **Stefan Puntigam @11776838**: 23h 30m
+* **Thomas Stoiber @11777755**: 28h 15m
 * **Michael Bernd Stöger @11778261**: 23h 00m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|40 |Security Guidelines                                                   |0h 00m |2h 00m        |
+|81 |S5: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
+|80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
+|79 |Backend Update AnimalPreferences (5 SP)                               |0h 00m |5h 00m        |
+|78 |K4: Backend Remove animal (1 SP)                                      |0h 00m |1h 00m        |
+|77 |K2: Backend edit animal (1 SP)                                        |0h 00m |1h 00m        |
+|76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
+|75 |K2: Web edit animal (5 SP)                                            |0h 00m |5h 00m        |
+|74 |K1: Backend Add animal (1 SP)                                         |0h 00m |1h 00m        |
+|73 |K1: Web Add animal (5 SP)                                             |0h 00m |5h 00m        |
+|72 |A6: Backend Update general terms and conditions (1 SP)                |0h 00m |1h 00m        |
+|71 |S6: Backend General terms and conditions (1 SP)                       |0h 00m |1h 00m        |
+|70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
+|69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
+|68 |S5: Backend Data retention policy (1 SP)                              |0h 00m |1h 00m        |
+|67 |S5: Web View Data retention policy (5 SP)                             |0h 00m |5h 00m        |
+|66 |A6: Web Update general terms and conditions (5 SP)                    |0h 00m |5h 00m        |
+|65 |A5: Backend Update data retention policy (1 SP)                       |0h 00m |1h 00m        |
+|64 |A5: Web Edit Update data retention policy (5 SP)                      |0h 00m |5h 00m        |
+|63 |A3: Backend Lock employee account (1 SP)                              |0h 00m |1h 00m        |
+|62 |A3: Web Lock employee account (1 SP)                                  |0h 00m |1h 00m        |
+|61 |A4: Web Reset passwords (1 SP)                                        |0h 00m |1h 00m        |
+|60 |A2: Backend Delete employee account (1 SP)                            |0h 00m |1h 00m        |
+|59 |A2: Web Delete employee account (1 SP)                                |0h 00m |1h 00m        |
+|58 |A1: Backend Register employees (1 SP)                                 |0h 00m |1h 00m        |
+|57 |A1: Web Register employees (5 SP)                                     |0h 00m |5h 00m        |
+|56 |S1: Backend Register as new customer (1 SP)                           |0h 00m |1h 00m        |
+|55 |S1: Android Register as new customer (5 SP)                           |0h 00m |5h 00m        |
+|54 |S1: Web Register as new customer (5 SP)                               |0h 00m |5h 00m        |
+|53 |U3: Android Change password (5 SP)                                    |0h 00m |5h 00m        |
+|52 |U2: Backend Change password (1 SP)                                    |0h 00m |1h 00m        |
+|51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
+|50 |U1: Android Authentication (8 SP)                                     |0h 00m |8h 00m        |
+|49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
+|48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
+|47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
+|46 |Android App Theming (13 SP)                                           |0h 00m |13h 00m       |
+|45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
+|44 |See one dog in AR in android (80 SP)                                  |0h 00m |80h 00m       |
+|43 |Internal Meeting 2020-11-05                                           |7h 30m |0h 00m        |
+|42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
+|41 |checkstyle.xml not working                                            |0h 00m |1h 30m        |
+|40 |Security Guidelines                                                   |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
-|38 |MR1 Presentation                                                      |0h 00m |1h 00m        |
+|38 |MR1 Presentation 2020-11-05                                           |5h 00m |6h 00m        |
 |37 |Android Tutorials                                                     |5h 00m |3h 00m        |
-|36 |E2E Protractor Tutorials                                              |0h 30m |3h 00m        |
+|36 |E2E Protractor Tutorials                                              |2h 00m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 30m |0h 30m        |
-|33 |Test plan                                                             |2h 00m |2h 00m        |
+|33 |Test plan                                                             |5h 00m |2h 00m        |
 |32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
 |31 |REST interface definition                                             |3h 30m |6h 00m        |
 |30 |Base Project Setup                                                    |7h 00m |8h 00m        |
@@ -66,14 +107,30 @@
 
 ### MERGE REQUESTS
 
-|iid|title        |spent |total estimate|
-|---|---          |---   |---           |
-|1  |Feat/entities|0h 00m|0h 00m        |
+|iid|title                |spent |total estimate|
+|---|---                  |---   |---           |
+|4  |Feat/test coverage   |0h 00m|0h 00m        |
+|3  |Finish template setup|0h 00m|0h 00m        |
+|2  |Feat/test ci         |0h 00m|0h 00m        |
+|1  |Feat/entities        |0h 00m|0h 00m        |
 
 ### TIME RECORDS
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-05 13:58:41.883|Issue|43 |2h 30m |
+|Nicolas Griebenow @01617265   |2020-11-05 13:58:01.245|Issue|38 |1h 00m |
+|Günter Windsperger @01302775  |2020-11-05 12:35:56.535|Issue|43 |2h 30m |
+|Thomas Stoiber @11777755      |2020-11-05 12:33:04.143|Issue|43 |2h 30m |
+|Thomas Stoiber @11777755      |2020-11-05 10:33:46.860|Issue|38 |1h 00m |
+|Stefan Puntigam @11776838     |2020-11-05 10:33:29.716|Issue|38 |1h 00m |
+|Günter Windsperger @01302775  |2020-11-05 10:33:25.152|Issue|38 |1h 00m |
+|Lisa Fürst @11775842          |2020-11-05 10:33:07.257|Issue|38 |1h 00m |
+|Günter Windsperger @01302775  |2020-11-05 00:12:08.809|Issue|33 |1h 00m |
+|Günter Windsperger @01302775  |2020-11-05 00:09:45.987|Issue|33 |2h 00m |
+|Stefan Puntigam @11776838     |2020-11-04 22:37:50.925|Issue|42 |0h 45m |
+|Stefan Puntigam @11776838     |2020-11-04 22:36:39.717|Issue|36 |1h 30m |
+|Stefan Puntigam @11776838     |2020-11-04 22:24:49.413|Issue|40 |2h 10m |
 |Nicolas Griebenow @01617265   |2020-11-04 18:14:41.831|Issue|19 |3h 00m |
 |Thomas Stoiber @11777755      |2020-11-04 14:57:46.863|Issue|24 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-04 14:23:22.245|Issue|37 |0h 30m |

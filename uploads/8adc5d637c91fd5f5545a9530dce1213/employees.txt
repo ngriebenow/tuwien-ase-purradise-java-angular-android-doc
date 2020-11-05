@@ -1,0 +1,44 @@
+@startuml
+left to right direction
+actor Keeper as k
+actor "Adminstrator" as d
+actor "Registered User" as r
+
+package "Web Interface" {
+  usecase "Register employees" as regemp
+  usecase "Delete employee account" as delemp
+  usecase "Lock employee account" as lockemp
+  usecase "Reset password" as resetpass
+  usecase "Update data retention policy" as upretentpol
+  usecase "Update general terms and conditions" as uptermscond
+
+  usecase "Authentification" as auth
+  usecase "Change own password" as chpass
+
+  usecase "Add animal" as addani
+  usecase "Edit animal" as editani
+  usecase "Assign animal" as assignani
+  usecase "Remove animal" as removeani
+  usecase "Manage appointments" as manageappoint
+}
+
+d --> regemp
+d --> delemp
+d --> lockemp
+d --> resetpass
+d --> upretentpol
+d --> uptermscond
+
+r --> auth
+r --> chpass
+
+k --> addani
+k --> editani
+k --> assignani
+k --> removeani
+k --> manageappoint
+
+k --|> r
+d --|> r
+
+@enduml

@@ -11,6 +11,7 @@ This wiki contains all process documentation for this project that is not alread
 
 ### Guidelines
  - [Coding Guidelines](/process/guidelines/Coding-Guidelines)
+ - [Security Guidelines](/process/guidelines/Security-Guidelines)
  - [Timetracking](/process/guidelines/Timetracking)
  - [Wiki usage](/process/guidelines/Documentation-in-the-Wiki)
  - [Git](/process/guidelines/Git)
@@ -22,7 +23,7 @@ This wiki contains all process documentation for this project that is not alread
     - [Project idea in detail](/process/project/projectproposal/Project-idea-in-detail)
        - [Features](/process/project/projectproposal/Features)
        - [Domain Model](/process/project/projectproposal/Domain-model)
-       - [Architecture](/process/project/projectproposal/Architecture)
+       - [Architecture](/product/architecture/Architecture)
     - [Already existing and similar products](/process/project/projectproposal/Already existing and similar products)
     - [Stakeholders](/process/project/projectproposal/Stakeholders)
     - [Legal Environment](/process/project/projectproposal/Legal-environment)

@@ -1,4 +1,3 @@
-
 | Issue |  #N |
 | ----- | --- |
 | author       | Stefan Puntigam @11776838 |
@@ -6,22 +5,29 @@
 | release date | 2020-10-DD |
 
 # List of Requirements
-
 The requirements are framed as user stories. Each of them describes expectations from the point of view of a particular stakeholder.
 
-## A: Anyone who might adopt an animal
+A overview of the User stories from the point of view of people who might adopt an animal
 
-### A1: Register as customer
+## S: Someone who might adopt an animal
+
+### S1: Register as customer
 As someone who might adopt an animal, I can register myself as customer using the web interface or the app so that I can access personalized contents.
 
-### A2: List of available animals
+### S2: List of available animals
 As someone who might adopt an animal, I can use the web interface or the app to display a list of available animals. I want to be able to filter for qualities that I am interested in, such as species, age, sex or needs of the animal.
 
-### A3: Details about animal
+### S3: Details about animal
 As someone who might adopt an animal, I can use the web interface or the app to display more detailed information about a specific animal I have found. Ideally, I want that to include images and a more detailed description.
 
-### A4: Augmented reality
+### S4: Augmented reality
 As someone who might adopt an animal, I can use the app to use augmented reality through which I can see a static 3D model of a specific animal in my own environment, captured by the camera of my phone.
+
+### S5: Data retention policy
+As someone who might adopt an animal, I want to be able to see the data retention policy.
+
+### S6: General terms and conditions
+As someone who might adopt an animal, I want to be able to see the general terms and conditions.
 
 
 ## U: Registered User
@@ -56,7 +62,7 @@ As a customer, I can use the web interface or the app to display a list of anima
 As a customer, I can use the web interface or the app to delete my account so that data that is associated with me gets deleted as well.
 
 ### C7: Cancel appointments
-As a customer, I want that to cancel an appointments I have made.
+As a customer, I can cancel an appointments I have made so that the animal keepers are informed that I will not appear.
 
 
 ## K: Keeper
@@ -145,3 +151,16 @@ As the technical architect, I want the system to consist of cleanly separated la
 
 ### T14: Documentation guidelines
 As the documentation manager, I want that documentation guidelines are applied to both product and process documentation to facilitate maintainability.
+
+## Graphical overview
+
+### Potential adopters
+![A overview of the User stories from the point of view of people who might adopt an animal](uploads/d162ee7c6e16b189f751acb99f685f7c/customer.png)
+
+[PlantUML source](uploads/29e7e5658ac85271ffabdc9c9a70d01c/customer.txt)
+
+### Employees
+![A overview of the User stories from the point of view of employees](uploads/d6e730722c07c88704659de8d09bba2c/employees.png)
+
+[PlantUML source](uploads/8adc5d637c91fd5f5545a9530dce1213/employees.txt)
+
