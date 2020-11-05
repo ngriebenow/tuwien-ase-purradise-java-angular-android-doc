@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|72 |A6: Backend Update general terms and conditions                       |0h 00m |0h 00m        |
 |71 |S6: Backend General terms and conditions                              |0h 00m |0h 00m        |
 |70 |A4: Backend Reset passwords                                           |0h 00m |0h 00m        |
 |69 |S6: Web General terms and conditions                                  |0h 00m |0h 00m        |
