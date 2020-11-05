@@ -27,7 +27,7 @@
 |64 |A5: Web Update data retention policy                                  |0h 00m |0h 00m        |
 |63 |A3: Backend Lock employee account                                     |0h 00m |0h 00m        |
 |62 |A3: Web Lock employee account                                         |0h 00m |0h 00m        |
-|61 |A4: Reset passwords                                                   |0h 00m |0h 00m        |
+|61 |A4: Web - Reset passwords                                             |0h 00m |0h 00m        |
 |60 |A2: Backend Delete employee account                                   |0h 00m |0h 00m        |
 |59 |A2: Web Delete employee account                                       |0h 00m |0h 00m        |
 |58 |A1: Backend Register employees                                        |0h 00m |0h 00m        |
