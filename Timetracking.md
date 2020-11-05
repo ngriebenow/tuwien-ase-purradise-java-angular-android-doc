@@ -23,6 +23,8 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|62 |A3: Web Lock employee account                                         |0h 00m |0h 00m        |
+|61 |A4: Reset passwords                                                   |0h 00m |0h 00m        |
 |60 |A2: Backend Delete employee account                                   |0h 00m |0h 00m        |
 |59 |A2: Web Delete employee account                                       |0h 00m |0h 00m        |
 |58 |A1: Backend Register employees                                        |0h 00m |0h 00m        |
