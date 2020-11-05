@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 202h 15m
+* **total estimate**: 203h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -37,7 +37,7 @@
 |68 |S5: Backend Data retention policy (1 SP)                              |0h 00m |1h 00m        |
 |67 |S5: Web Data retention policy (5 SP)                                  |0h 00m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |0h 00m |5h 00m        |
-|65 |A5: Backend Update data retention policy                              |0h 00m |0h 00m        |
+|65 |A5: Backend Update data retention policy (1 SP)                       |0h 00m |1h 00m        |
 |64 |A5: Web Update data retention policy                                  |0h 00m |0h 00m        |
 |63 |A3: Backend Lock employee account                                     |0h 00m |0h 00m        |
 |62 |A3: Web Lock employee account                                         |0h 00m |0h 00m        |
