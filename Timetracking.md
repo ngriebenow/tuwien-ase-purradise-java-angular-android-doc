@@ -23,6 +23,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|60 |A2: Backend Delete employee account                                   |0h 00m |0h 00m        |
 |59 |A2: Web Delete employee account                                       |0h 00m |0h 00m        |
 |58 |A1: Backend Register employees                                        |0h 00m |0h 00m        |
 |57 |A1: Web Register employees                                            |0h 00m |0h 00m        |
