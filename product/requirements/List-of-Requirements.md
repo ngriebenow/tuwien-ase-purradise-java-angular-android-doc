@@ -9,24 +9,24 @@ The requirements are framed as user stories. Each of them describes expectations
 
 A overview of the User stories from the point of view of people who might adopt an animal
 
-## A: Anyone who might adopt an animal
+## S: Someone who might adopt an animal
 
-### A1: Register as customer
+### S1: Register as customer
 As someone who might adopt an animal, I can register myself as customer using the web interface or the app so that I can access personalized contents.
 
-### A2: List of available animals
+### S2: List of available animals
 As someone who might adopt an animal, I can use the web interface or the app to display a list of available animals. I want to be able to filter for qualities that I am interested in, such as species, age, sex or needs of the animal.
 
-### A3: Details about animal
+### S3: Details about animal
 As someone who might adopt an animal, I can use the web interface or the app to display more detailed information about a specific animal I have found. Ideally, I want that to include images and a more detailed description.
 
-### A4: Augmented reality
+### S4: Augmented reality
 As someone who might adopt an animal, I can use the app to use augmented reality through which I can see a static 3D model of a specific animal in my own environment, captured by the camera of my phone.
 
-### A5: Data retention policy
+### S5: Data retention policy
 As someone who might adopt an animal, I want to be able to see the data retention policy.
 
-### A6: General terms and conditions
+### S6: General terms and conditions
 As someone who might adopt an animal, I want to be able to see the general terms and conditions.
 
 
