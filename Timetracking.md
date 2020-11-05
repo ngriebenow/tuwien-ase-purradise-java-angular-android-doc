@@ -9,7 +9,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 210h 15m
+* **total estimate**: 211h 15m
 * **total spent**: 156h 45m
 
 * **Günter Windsperger @01302775**: 24h 15m
@@ -41,7 +41,7 @@
 |64 |A5: Web Edit Update data retention policy (5 SP)                      |0h 00m |5h 00m        |
 |63 |A3: Backend Lock employee account (1 SP)                              |0h 00m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                  |0h 00m |1h 00m        |
-|61 |A4: Web Reset passwords                                               |0h 00m |0h 00m        |
+|61 |A4: Web Reset passwords (1 SP)                                        |0h 00m |1h 00m        |
 |60 |A2: Backend Delete employee account                                   |0h 00m |0h 00m        |
 |59 |A2: Web Delete employee account                                       |0h 00m |0h 00m        |
 |58 |A1: Backend Register employees                                        |0h 00m |0h 00m        |
