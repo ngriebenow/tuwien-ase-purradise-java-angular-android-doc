@@ -5,15 +5,15 @@
 |2020-42|6h 15m                         |11h 30m                       |10h 00m                |9h 00m                      |9h 30m                     |13h 45m                          |
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
-|2020-45|11h 00m                        |8h 00m                        |4h 30m                 |8h 55m                      |13h 00m                    |4h 30m                           |
+|2020-45|11h 00m                        |11h 30m                       |4h 30m                 |8h 55m                      |13h 00m                    |4h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 175h 15m
+* **total spent**: 178h 45m
 
 * **Günter Windsperger @01302775**: 27h 45m
-* **Nicolas Griebenow @01617265**: 33h 30m
+* **Nicolas Griebenow @01617265**: 37h 00m
 * **Lisa Fürst @11775842**: 33h 30m
 * **Stefan Puntigam @11776838**: 26h 00m
 * **Thomas Stoiber @11777755**: 28h 15m
@@ -63,7 +63,7 @@
 |44 |See one dog in AR in android (80 SP)                                  |1h 00m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
-|41 |checkstyle.xml not working                                            |0h 30m |1h 30m        |
+|41 |checkstyle.xml not working                                            |4h 00m |1h 30m        |
 |40 |Security Guidelines                                                   |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                           |6h 00m |6h 00m        |
@@ -119,6 +119,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-07 13:51:56.028|Issue|41 |3h 30m |
 |Nicolas Griebenow @01617265   |2020-11-07 01:52:29.961|Issue|41 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-06 14:04:52.933|Issue|43 |2h 30m |
 |Lisa Fürst @11775842          |2020-11-06 10:47:05.963|Issue|43 |2h 30m |
