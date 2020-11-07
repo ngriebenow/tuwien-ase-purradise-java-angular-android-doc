@@ -63,7 +63,7 @@
 |44 |See one dog in AR in android (80 SP)                                  |1h 00m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
-|41 |checkstyle.xml not working                                            |4h 00m |1h 30m        |
+|41 |checkstyle.xml AND eslint not working                                 |4h 00m |1h 30m        |
 |40 |Security Guidelines                                                   |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                           |6h 00m |6h 00m        |
