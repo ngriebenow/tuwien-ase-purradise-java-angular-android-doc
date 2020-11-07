@@ -228,6 +228,11 @@ import test.TestClass.NestedClass;
 A method is marked with the `@Override` annotation whenever it is legal. This includes a class method overriding a superclass method, a class method implementing an interface method, and an interface method respecifying a superinterface method.
 
 ## Typescript
+
+### Auto-Lint
+You can use ESLint to automatically fix your linting issues. Use the following command:  
+`npm run-script lint:fix`
+
 ### Typedefinitions
 In Typescript, we use typedefinitions as precise as possible and. Every every parameter of a function and every non-constant variable must have a typedefinition.
 
