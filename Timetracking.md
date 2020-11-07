@@ -109,6 +109,7 @@
 
 |iid|title                |spent |total estimate|
 |---|---                  |---   |---           |
+|5  |Bug/checkstyle setup |0h 00m|0h 00m        |
 |4  |Feat/test coverage   |0h 00m|0h 00m        |
 |3  |Finish template setup|0h 00m|0h 00m        |
 |2  |Feat/test ci         |0h 00m|0h 00m        |
