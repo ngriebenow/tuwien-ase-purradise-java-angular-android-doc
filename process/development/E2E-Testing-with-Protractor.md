@@ -99,7 +99,7 @@ Calls to `describe()` or `it()` can be replaced by `describe.only()` and `ìt.on
 
 
 ### I need to debug a test
-The chrome inspector ca be used ([details](https://www.protractortest.org/#/debugging):
+The chrome inspector ca be used ([details](https://www.protractortest.org/#/debugging)):
 
 1. Add the keyword "debugger" in the questionable test case
 2. Call `node --inspect-brk node_modules/protractor/bin/protractor src/test/javascript/protractor.conf.js` in src/web
