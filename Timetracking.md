@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|83 |Hot liveloading: property does not exist                              |0h 00m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S5: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
