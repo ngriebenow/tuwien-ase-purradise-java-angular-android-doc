@@ -6,17 +6,17 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-46|0h 00m                         |0h 00m                        |0h 00m                 |1h 30m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 181h 45m
+* **total spent**: 183h 15m
 
 * **Günter Windsperger @01302775**: 27h 45m
 * **Nicolas Griebenow @01617265**: 37h 00m
 * **Lisa Fürst @11775842**: 36h 15m
-* **Stefan Puntigam @11776838**: 26h 15m
+* **Stefan Puntigam @11776838**: 27h 45m
 * **Thomas Stoiber @11777755**: 28h 15m
 * **Michael Bernd Stöger @11778261**: 26h 30m
 
@@ -70,7 +70,7 @@
 |39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                           |6h 00m |6h 00m        |
 |37 |Android Tutorials                                                     |5h 00m |3h 00m        |
-|36 |E2E Protractor Tutorials                                              |2h 00m |3h 00m        |
+|36 |E2E Protractor Tutorials                                              |3h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
 |34 |Define Git flow                                                       |0h 30m |0h 30m        |
 |33 |Test plan                                                             |5h 00m |2h 00m        |
@@ -122,6 +122,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-09 16:14:51.200|Issue|36 |1h 30m |
 |Stefan Puntigam @11776838     |2020-11-08 21:11:34.969|Issue|82 |0h 15m |
 |Lisa Fürst @11775842          |2020-11-08 20:35:38.167|Issue|44 |2h 45m |
 |Nicolas Griebenow @01617265   |2020-11-07 13:51:56.028|Issue|41 |3h 30m |
