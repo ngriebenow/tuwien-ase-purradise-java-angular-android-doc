@@ -6,19 +6,19 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 00m                         |0h 00m                        |0h 00m                 |2h 00m                      |0h 00m                     |0h 00m                           |
+|2020-46|0h 00m                         |0h 00m                        |0h 00m                 |2h 00m                      |0h 00m                     |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 183h 45m
+* **total spent**: 185h 45m
 
 * **Günter Windsperger @01302775**: 27h 45m
 * **Nicolas Griebenow @01617265**: 37h 00m
 * **Lisa Fürst @11775842**: 36h 15m
 * **Stefan Puntigam @11776838**: 28h 15m
 * **Thomas Stoiber @11777755**: 28h 15m
-* **Michael Bernd Stöger @11778261**: 26h 30m
+* **Michael Bernd Stöger @11778261**: 28h 30m
 
 ### ISSUES
 
@@ -39,7 +39,7 @@
 |71 |S6: Backend General terms and conditions (1 SP)                       |0h 00m |1h 00m        |
 |70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
 |69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
-|68 |S5: Backend Data retention policy (1 SP)                              |0h 00m |1h 00m        |
+|68 |S5: Backend Data retention policy (1 SP)                              |2h 00m |1h 00m        |
 |67 |S5: Web View Data retention policy (5 SP)                             |0h 00m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |0h 00m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                       |0h 00m |1h 00m        |
@@ -124,6 +124,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-10 17:19:10.436|Issue|68 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-09 20:28:25.588|Issue|83 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-09 16:14:51.200|Issue|36 |1h 30m |
 |Stefan Puntigam @11776838     |2020-11-08 21:11:34.969|Issue|82 |0h 15m |
