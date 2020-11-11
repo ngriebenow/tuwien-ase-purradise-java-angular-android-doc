@@ -6,15 +6,15 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 30m                         |0h 00m                        |0h 00m                 |2h 00m                      |13h 00m                    |2h 00m                           |
+|2020-46|0h 30m                         |2h 00m                        |0h 00m                 |2h 00m                      |13h 00m                    |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 199h 15m
+* **total spent**: 201h 15m
 
 * **Günter Windsperger @01302775**: 28h 15m
-* **Nicolas Griebenow @01617265**: 37h 00m
+* **Nicolas Griebenow @01617265**: 39h 00m
 * **Lisa Fürst @11775842**: 36h 15m
 * **Stefan Puntigam @11776838**: 28h 15m
 * **Thomas Stoiber @11777755**: 41h 15m
@@ -29,7 +29,7 @@
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S6: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
-|79 |Backend Update AnimalPreferences (5 SP)                               |0h 00m |5h 00m        |
+|79 |Backend Update AnimalPreferences (5 SP)                               |2h 00m |5h 00m        |
 |78 |K4: Backend Remove animal (1 SP)                                      |0h 00m |1h 00m        |
 |77 |K2: Backend edit animal (1 SP)                                        |0h 00m |1h 00m        |
 |76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
@@ -113,6 +113,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|10 |Draft: Feat/android home page colors                            |0h 00m|0h 00m        |
 |9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
 |8  |Draft: Resolve "Editorconfig: Wrong rules for imports"          |0h 00m|0h 00m        |
 |7  |Bug/Hot liveloading: include type definition to fix TS2339 error|0h 00m|0h 00m        |
@@ -127,6 +128,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-11 17:39:56.652|Issue|79 |2h 00m |
 |Thomas Stoiber @11777755      |2020-11-11 16:48:53.755|Issue|46 |1h 00m |
 |Thomas Stoiber @11777755      |2020-11-11 15:55:08.107|Issue|46 |1h 30m |
 |Thomas Stoiber @11777755      |2020-11-11 13:54:04.535|Issue|46 |2h 00m |
