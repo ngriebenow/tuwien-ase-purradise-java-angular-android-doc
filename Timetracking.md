@@ -6,17 +6,17 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 30m                         |2h 00m                        |0h 00m                 |2h 00m                      |13h 00m                    |2h 00m                           |
+|2020-46|0h 30m                         |2h 00m                        |0h 00m                 |2h 30m                      |13h 00m                    |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 201h 15m
+* **total spent**: 201h 45m
 
 * **Günter Windsperger @01302775**: 28h 15m
 * **Nicolas Griebenow @01617265**: 39h 00m
 * **Lisa Fürst @11775842**: 36h 15m
-* **Stefan Puntigam @11776838**: 28h 15m
+* **Stefan Puntigam @11776838**: 28h 45m
 * **Thomas Stoiber @11777755**: 41h 15m
 * **Michael Bernd Stöger @11778261**: 28h 30m
 
@@ -36,7 +36,7 @@
 |75 |K2: Web edit animal (5 SP)                                            |0h 00m |5h 00m        |
 |74 |K1: Backend Add animal (1 SP)                                         |0h 00m |1h 00m        |
 |73 |K1: Web Add animal (5 SP)                                             |0h 00m |5h 00m        |
-|72 |A6: Backend Update general terms and conditions (1 SP)                |0h 00m |1h 00m        |
+|72 |A6: Backend Update general terms and conditions (1 SP)                |0h 30m |1h 00m        |
 |71 |S6: Backend General terms and conditions (1 SP)                       |0h 00m |1h 00m        |
 |70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
 |69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
@@ -128,6 +128,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-11 21:08:31.047|Issue|72 |0h 30m |
 |Nicolas Griebenow @01617265   |2020-11-11 17:39:56.652|Issue|79 |2h 00m |
 |Thomas Stoiber @11777755      |2020-11-11 16:48:53.755|Issue|46 |1h 00m |
 |Thomas Stoiber @11777755      |2020-11-11 15:55:08.107|Issue|46 |1h 30m |
