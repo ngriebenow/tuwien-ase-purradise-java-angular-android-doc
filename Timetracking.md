@@ -11,7 +11,7 @@
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 198h 15m
+* **total spent**: 199h 15m
 
 * **Günter Windsperger @01302775**: 28h 15m
 * **Nicolas Griebenow @01617265**: 37h 00m
@@ -62,7 +62,7 @@
 |49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
-|46 |Android App Theming (13 SP)                                           |12h 00m|13h 00m       |
+|46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                  |3h 45m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
