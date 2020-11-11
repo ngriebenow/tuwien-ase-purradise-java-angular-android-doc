@@ -113,6 +113,8 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
+|8  |Draft: Resolve "Editorconfig: Wrong rules for imports"          |0h 00m|0h 00m        |
 |7  |Bug/Hot liveloading: include type definition to fix TS2339 error|0h 00m|0h 00m        |
 |6  |[#82] Change baseUrl used by protractor                         |0h 00m|0h 00m        |
 |5  |Bug/checkstyle setup                                            |0h 00m|0h 00m        |
