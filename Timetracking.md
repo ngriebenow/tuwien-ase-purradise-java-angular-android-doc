@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|84 |Editorconfig: Wrong rules for imports                                 |0h 00m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S5: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
