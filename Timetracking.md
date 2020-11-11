@@ -6,14 +6,14 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 00m                         |0h 00m                        |0h 00m                 |2h 00m                      |0h 00m                     |2h 00m                           |
+|2020-46|0h 30m                         |0h 00m                        |0h 00m                 |2h 00m                      |0h 00m                     |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 185h 45m
+* **total spent**: 186h 15m
 
-* **Günter Windsperger @01302775**: 27h 45m
+* **Günter Windsperger @01302775**: 28h 15m
 * **Nicolas Griebenow @01617265**: 37h 00m
 * **Lisa Fürst @11775842**: 36h 15m
 * **Stefan Puntigam @11776838**: 28h 15m
@@ -24,7 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|84 |Editorconfig: Wrong rules for imports                                 |0h 00m |0h 00m        |
+|84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S5: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
@@ -125,6 +125,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-11 02:04:49.251|Issue|84 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-10 17:19:10.436|Issue|68 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-09 20:28:25.588|Issue|83 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-09 16:14:51.200|Issue|36 |1h 30m |
