@@ -6,18 +6,18 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|0h 30m                         |0h 00m                        |0h 00m                 |2h 00m                      |0h 00m                     |2h 00m                           |
+|2020-46|0h 30m                         |0h 00m                        |0h 00m                 |2h 00m                      |7h 00m                     |2h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 375h 15m
-* **total spent**: 186h 15m
+* **total spent**: 189h 15m
 
 * **Günter Windsperger @01302775**: 28h 15m
 * **Nicolas Griebenow @01617265**: 37h 00m
 * **Lisa Fürst @11775842**: 36h 15m
 * **Stefan Puntigam @11776838**: 28h 15m
-* **Thomas Stoiber @11777755**: 28h 15m
+* **Thomas Stoiber @11777755**: 35h 15m
 * **Michael Bernd Stöger @11778261**: 28h 30m
 
 ### ISSUES
@@ -62,7 +62,7 @@
 |49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
-|46 |Android App Theming (13 SP)                                           |0h 00m |13h 00m       |
+|46 |Android App Theming (13 SP)                                           |3h 00m |13h 00m       |
 |45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                  |3h 45m |80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
@@ -127,6 +127,8 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-11 13:53:17.457|Issue|46 |4h 00m |
+|Thomas Stoiber @11777755      |2020-11-11 13:53:08.456|Issue|46 |3h 00m |
 |Günter Windsperger @01302775  |2020-11-11 02:04:49.251|Issue|84 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-10 17:19:10.436|Issue|68 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-09 20:28:25.588|Issue|83 |0h 30m |
