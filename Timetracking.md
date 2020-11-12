@@ -6,25 +6,25 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |2h 45m                        |0h 45m                 |8h 00m                      |13h 45m                    |2h 45m                           |
+|2020-46|1h 15m                         |2h 45m                        |0h 45m                 |8h 00m                      |14h 15m                    |2h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 15m
-* **total spent**: 211h 00m
+* **total spent**: 211h 30m
 
 * **Günter Windsperger @01302775**: 29h 00m
 * **Nicolas Griebenow @01617265**: 39h 45m
 * **Lisa Fürst @11775842**: 37h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
-* **Thomas Stoiber @11777755**: 42h 00m
+* **Thomas Stoiber @11777755**: 42h 30m
 * **Michael Bernd Stöger @11778261**: 29h 15m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|86 |Wrong Editorconfig Rules                                              |0h 00m |0h 00m        |
+|86 |Wrong Editorconfig Rules                                              |0h 30m |0h 00m        |
 |85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
@@ -130,6 +130,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-12 10:15:32.049|Issue|86 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-12 09:39:55.364|Issue|85 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-11-12 09:39:27.165|Issue|85 |0h 45m |
 |Michael Bernd Stöger @11778261|2020-11-12 09:39:07.999|Issue|85 |0h 45m |
