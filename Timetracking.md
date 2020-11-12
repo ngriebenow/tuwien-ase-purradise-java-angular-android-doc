@@ -116,6 +116,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|12 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
 |11 |Feat/checkstyle build config                                    |0h 00m|0h 00m        |
 |10 |Feat/android home page colors                                   |0h 00m|0h 00m        |
 |9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
