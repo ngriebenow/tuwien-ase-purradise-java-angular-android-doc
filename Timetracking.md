@@ -6,17 +6,17 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |2h 45m                        |0h 45m                 |7h 15m                      |13h 45m                    |2h 45m                           |
+|2020-46|1h 15m                         |2h 45m                        |0h 45m                 |8h 00m                      |13h 45m                    |2h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 15m
-* **total spent**: 210h 15m
+* **total spent**: 211h 00m
 
 * **Günter Windsperger @01302775**: 29h 00m
 * **Nicolas Griebenow @01617265**: 39h 45m
 * **Lisa Fürst @11775842**: 37h 00m
-* **Stefan Puntigam @11776838**: 33h 30m
+* **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 42h 00m
 * **Michael Bernd Stöger @11778261**: 29h 15m
 
@@ -24,7 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|85 |Tutor Meeting 2020-11-12                                              |3h 45m |6h 00m        |
+|85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
@@ -129,6 +129,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-12 09:39:55.364|Issue|85 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-11-12 09:39:27.165|Issue|85 |0h 45m |
 |Michael Bernd Stöger @11778261|2020-11-12 09:39:07.999|Issue|85 |0h 45m |
 |Lisa Fürst @11775842          |2020-11-12 09:39:05.141|Issue|85 |0h 45m |
