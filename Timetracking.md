@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|86 |Wrong Editorconfig Rules                                              |0h 00m |0h 00m        |
 |85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
