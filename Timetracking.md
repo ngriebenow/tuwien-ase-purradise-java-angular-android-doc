@@ -114,7 +114,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
-|10 |Draft: Feat/android home page colors                            |0h 00m|0h 00m        |
+|10 |Feat/android home page colors                                   |0h 00m|0h 00m        |
 |9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
 |8  |Draft: Resolve "Editorconfig: Wrong rules for imports"          |0h 00m|0h 00m        |
 |7  |Bug/Hot liveloading: include type definition to fix TS2339 error|0h 00m|0h 00m        |
