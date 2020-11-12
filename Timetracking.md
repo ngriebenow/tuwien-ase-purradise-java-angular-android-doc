@@ -6,14 +6,14 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |9h 45m                        |4h 30m                 |8h 00m                      |14h 45m                    |3h 45m                           |
+|2020-46|5h 45m                         |9h 45m                        |4h 30m                 |8h 00m                      |14h 45m                    |3h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 224h 00m
+* **total spent**: 228h 30m
 
-* **Günter Windsperger @01302775**: 29h 00m
+* **Günter Windsperger @01302775**: 33h 30m
 * **Nicolas Griebenow @01617265**: 46h 45m
 * **Lisa Fürst @11775842**: 40h 45m
 * **Stefan Puntigam @11776838**: 34h 15m
@@ -67,7 +67,7 @@
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                               |0h 00m |13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                  |6h 45m |80h 00m       |
+|44 |See one dog in AR in android (80 SP)                                  |11h 15m|80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
 |41 |checkstyle.xml AND eslint not working                                 |4h 00m |1h 30m        |
@@ -133,6 +133,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-12 23:59:18.984|Issue|44 |4h 30m |
 |Lisa Fürst @11775842          |2020-11-12 22:43:03.040|Issue|44 |3h 00m |
 |Nicolas Griebenow @01617265   |2020-11-12 22:05:20.965|Issue|73 |2h 00m |
 |Michael Bernd Stöger @11778261|2020-11-12 21:49:35.886|Issue|65 |0h 30m |
