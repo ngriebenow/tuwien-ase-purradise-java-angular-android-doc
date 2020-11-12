@@ -116,6 +116,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|11 |Feat/checkstyle build config                                    |0h 00m|0h 00m        |
 |10 |Feat/android home page colors                                   |0h 00m|0h 00m        |
 |9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
 |8  |Draft: Resolve "Editorconfig: Wrong rules for imports"          |0h 00m|0h 00m        |
