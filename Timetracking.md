@@ -6,25 +6,25 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |2h 00m                        |0h 00m                 |7h 15m                      |13h 45m                    |2h 00m                           |
+|2020-46|1h 15m                         |2h 00m                        |0h 45m                 |7h 15m                      |13h 45m                    |2h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 15m
-* **total spent**: 208h 00m
+* **total spent**: 209h 30m
 
 * **Günter Windsperger @01302775**: 29h 00m
 * **Nicolas Griebenow @01617265**: 39h 00m
-* **Lisa Fürst @11775842**: 36h 15m
+* **Lisa Fürst @11775842**: 37h 00m
 * **Stefan Puntigam @11776838**: 33h 30m
 * **Thomas Stoiber @11777755**: 42h 00m
-* **Michael Bernd Stöger @11778261**: 28h 30m
+* **Michael Bernd Stöger @11778261**: 29h 15m
 
 ### ISSUES
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|85 |Tutor Meeting 2020-11-12                                              |1h 30m |6h 00m        |
+|85 |Tutor Meeting 2020-11-12                                              |3h 00m |6h 00m        |
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
@@ -129,6 +129,8 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-12 09:39:07.999|Issue|85 |0h 45m |
+|Lisa Fürst @11775842          |2020-11-12 09:39:05.141|Issue|85 |0h 45m |
 |Thomas Stoiber @11777755      |2020-11-12 09:38:50.544|Issue|85 |0h 45m |
 |Günter Windsperger @01302775  |2020-11-12 09:38:40.327|Issue|85 |0h 45m |
 |Stefan Puntigam @11776838     |2020-11-11 21:10:01.794|Issue|66 |4h 45m |
