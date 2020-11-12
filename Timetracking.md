@@ -10,8 +10,8 @@
 
 ### TIME STATS
 
-* **total estimate**: 381h 15m
-* **total spent**: 212h 00m
+* **total estimate**: 381h 30m
+* **total spent**: 212h 15m
 
 * **Günter Windsperger @01302775**: 29h 00m
 * **Nicolas Griebenow @01617265**: 40h 15m
@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|87 |Checkstyle build config                                               |0h 15m |0h 15m        |
 |86 |Wrong Editorconfig Rules                                              |1h 00m |0h 00m        |
 |85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
