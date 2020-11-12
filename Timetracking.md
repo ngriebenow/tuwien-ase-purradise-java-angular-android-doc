@@ -6,15 +6,15 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |7h 45m                        |1h 30m                 |8h 00m                      |14h 45m                    |3h 45m                           |
+|2020-46|1h 15m                         |9h 45m                        |1h 30m                 |8h 00m                      |14h 45m                    |3h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 219h 00m
+* **total spent**: 221h 00m
 
 * **Günter Windsperger @01302775**: 29h 00m
-* **Nicolas Griebenow @01617265**: 44h 45m
+* **Nicolas Griebenow @01617265**: 46h 45m
 * **Lisa Fürst @11775842**: 37h 45m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 43h 00m
@@ -38,7 +38,7 @@
 |76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
 |75 |K2: Web edit animal (5 SP)                                            |0h 00m |5h 00m        |
 |74 |K1: Backend Add animal (1 SP)                                         |1h 00m |1h 00m        |
-|73 |K1: Web Add animal (5 SP)                                             |0h 00m |5h 00m        |
+|73 |K1: Web Add animal (5 SP)                                             |2h 00m |5h 00m        |
 |72 |A6: Backend Update general terms and conditions (1 SP)                |0h 30m |1h 00m        |
 |71 |S6: Backend General terms and conditions (1 SP)                       |0h 00m |1h 00m        |
 |70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
@@ -133,6 +133,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-12 22:05:20.965|Issue|73 |2h 00m |
 |Michael Bernd Stöger @11778261|2020-11-12 21:49:35.886|Issue|65 |0h 30m |
 |Lisa Fürst @11775842          |2020-11-12 20:07:57.361|Issue|37 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-11-12 19:46:32.480|Issue|74 |1h 00m |
