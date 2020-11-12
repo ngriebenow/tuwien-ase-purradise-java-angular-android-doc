@@ -6,15 +6,15 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|1h 15m                         |3h 15m                        |0h 45m                 |8h 00m                      |14h 45m                    |3h 15m                           |
+|2020-46|1h 15m                         |6h 45m                        |0h 45m                 |8h 00m                      |14h 45m                    |3h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 213h 15m
+* **total spent**: 216h 45m
 
 * **Günter Windsperger @01302775**: 29h 00m
-* **Nicolas Griebenow @01617265**: 40h 15m
+* **Nicolas Griebenow @01617265**: 43h 45m
 * **Lisa Fürst @11775842**: 37h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 43h 00m
@@ -32,7 +32,7 @@
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S6: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
-|79 |Backend Update AnimalPreferences (5 SP)                               |2h 00m |5h 00m        |
+|79 |Backend Update AnimalPreferences (5 SP)                               |5h 30m |5h 00m        |
 |78 |K4: Backend Remove animal (1 SP)                                      |0h 00m |1h 00m        |
 |77 |K2: Backend edit animal (1 SP)                                        |0h 00m |1h 00m        |
 |76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
@@ -133,6 +133,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-12 19:45:33.347|Issue|79 |3h 30m |
 |Thomas Stoiber @11777755      |2020-11-12 19:19:11.709|Issue|86 |0h 30m |
 |Michael Bernd Stöger @11778261|2020-11-12 12:03:39.251|Issue|86 |0h 30m |
 |Nicolas Griebenow @01617265   |2020-11-12 10:21:04.984|Issue|86 |0h 30m |
