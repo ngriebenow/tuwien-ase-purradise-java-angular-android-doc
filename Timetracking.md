@@ -6,19 +6,19 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|5h 45m                         |9h 45m                        |5h 45m                 |8h 00m                      |17h 45m                    |3h 45m                           |
+|2020-46|5h 45m                         |9h 45m                        |5h 45m                 |8h 00m                      |17h 45m                    |6h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 232h 45m
+* **total spent**: 235h 15m
 
 * **Günter Windsperger @01302775**: 33h 30m
 * **Nicolas Griebenow @01617265**: 46h 45m
 * **Lisa Fürst @11775842**: 42h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 46h 00m
-* **Michael Bernd Stöger @11778261**: 30h 15m
+* **Michael Bernd Stöger @11778261**: 32h 45m
 
 ### ISSUES
 
@@ -47,7 +47,7 @@
 |68 |S5: Backend Data retention policy (1 SP)                              |2h 00m |1h 00m        |
 |67 |S5: Web View Data retention policy (5 SP)                             |0h 00m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |4h 45m |5h 00m        |
-|65 |A5: Backend Update data retention policy (1 SP)                       |0h 30m |1h 00m        |
+|65 |A5: Backend Update data retention policy (1 SP)                       |3h 00m |1h 00m        |
 |64 |A5: Web Edit Update data retention policy (5 SP)                      |0h 00m |5h 00m        |
 |63 |A3: Backend Lock employee account (1 SP)                              |0h 00m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                  |0h 00m |1h 00m        |
@@ -137,6 +137,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-13 23:58:45.455|Issue|65 |2h 30m |
 |Lisa Fürst @11775842          |2020-11-13 18:54:09.478|Issue|44 |1h 15m |
 |Thomas Stoiber @11777755      |2020-11-13 18:07:07.799|Issue|45 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-13 08:27:11.911|Issue|45 |2h 00m |
