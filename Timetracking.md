@@ -117,6 +117,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|14 |Feat/backend animal customer preferences                        |0h 00m|0h 00m        |
 |13 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
 |12 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
 |11 |Feat/checkstyle build config                                    |0h 00m|0h 00m        |
