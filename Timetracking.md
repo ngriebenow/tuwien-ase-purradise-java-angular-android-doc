@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|88 |Clarify MR process                                                    |0h 00m |0h 00m        |
 |87 |Checkstyle build config                                               |0h 15m |0h 15m        |
 |86 |Wrong Editorconfig Rules                                              |2h 30m |0h 00m        |
 |85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
