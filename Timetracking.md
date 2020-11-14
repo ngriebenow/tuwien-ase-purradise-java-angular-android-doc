@@ -11,7 +11,7 @@
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 253h 30m
+* **total spent**: 253h 45m
 
 * **Günter Windsperger @01302775**: 34h 30m
 * **Nicolas Griebenow @01617265**: 52h 30m
@@ -34,7 +34,7 @@
 |81 |S6: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
 |79 |Backend Update AnimalPreferences (5 SP)                               |5h 30m |5h 00m        |
-|78 |K4: Backend Remove animal (1 SP)                                      |0h 00m |1h 00m        |
+|78 |K4: Backend Remove animal (1 SP)                                      |0h 15m |1h 00m        |
 |77 |K2: Backend edit animal (1 SP)                                        |0h 30m |1h 00m        |
 |76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
 |75 |K2: Web edit animal (5 SP)                                            |0h 00m |5h 00m        |
