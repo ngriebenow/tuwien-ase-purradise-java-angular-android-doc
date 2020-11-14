@@ -6,7 +6,7 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|6h 45m                         |15h 15m                       |8h 45m                 |8h 00m                      |26h 30m                    |6h 15m                           |
+|2020-46|6h 45m                         |15h 30m                       |8h 45m                 |8h 00m                      |26h 30m                    |6h 15m                           |
 
 ### TIME STATS
 
@@ -14,7 +14,7 @@
 * **total spent**: 253h 30m
 
 * **Günter Windsperger @01302775**: 34h 30m
-* **Nicolas Griebenow @01617265**: 52h 15m
+* **Nicolas Griebenow @01617265**: 52h 30m
 * **Lisa Fürst @11775842**: 45h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 54h 45m
@@ -137,6 +137,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-14 18:33:26.551|Issue|78 |0h 15m |
 |Nicolas Griebenow @01617265   |2020-11-14 18:14:00.280|Issue|77 |0h 30m |
 |Lisa Fürst @11775842          |2020-11-14 17:08:56.898|Issue|44 |3h 00m |
 |Thomas Stoiber @11777755      |2020-11-14 16:48:24.161|Issue|45 |2h 00m |
