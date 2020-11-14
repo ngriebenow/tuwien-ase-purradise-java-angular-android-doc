@@ -6,18 +6,18 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|6h 45m                         |14h 45m                       |5h 45m                 |8h 00m                      |17h 45m                    |6h 15m                           |
+|2020-46|6h 45m                         |14h 45m                       |5h 45m                 |8h 00m                      |19h 15m                    |6h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 241h 15m
+* **total spent**: 242h 45m
 
 * **Günter Windsperger @01302775**: 34h 30m
 * **Nicolas Griebenow @01617265**: 51h 45m
 * **Lisa Fürst @11775842**: 42h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
-* **Thomas Stoiber @11777755**: 46h 00m
+* **Thomas Stoiber @11777755**: 47h 30m
 * **Michael Bernd Stöger @11778261**: 32h 45m
 
 ### ISSUES
@@ -67,7 +67,7 @@
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
-|45 |Web App Theming (13 SP)                                               |2h 30m |13h 00m       |
+|45 |Web App Theming (13 SP)                                               |4h 00m |13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                  |13h 30m|80h 00m       |
 |43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
@@ -137,6 +137,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-14 13:27:24.088|Issue|45 |1h 30m |
 |Nicolas Griebenow @01617265   |2020-11-14 10:58:56.578|Issue|73 |3h 00m |
 |Nicolas Griebenow @01617265   |2020-11-14 10:58:50.142|Issue|73 |2h 00m |
 |Günter Windsperger @01302775  |2020-11-14 02:30:45.832|Issue|44 |1h 00m |
