@@ -6,16 +6,16 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|13h 30m                        |22h 30m                       |10h 45m                |8h 00m                      |28h 00m                    |20h 15m                          |
+|2020-46|13h 30m                        |22h 30m                       |11h 45m                |8h 00m                      |28h 00m                    |20h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 285h 00m
+* **total spent**: 286h 00m
 
 * **Günter Windsperger @01302775**: 41h 15m
 * **Nicolas Griebenow @01617265**: 59h 30m
-* **Lisa Fürst @11775842**: 47h 00m
+* **Lisa Fürst @11775842**: 48h 00m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 56h 15m
 * **Michael Bernd Stöger @11778261**: 46h 45m
@@ -24,7 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
-|89 |See one dog in AR: Edit 3D models                                     |0h 30m |0h 00m        |
+|89 |See one dog in AR: Edit 3D models                                     |1h 30m |0h 00m        |
 |88 |Clarify MR process                                                    |0h 00m |0h 00m        |
 |87 |Checkstyle build config                                               |0h 15m |0h 15m        |
 |86 |Wrong Editorconfig Rules                                              |2h 30m |0h 00m        |
@@ -118,6 +118,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|17 |Feat/backend terms and conditions                               |0h 00m|0h 00m        |
 |16 |Feat/backend terms and conditions                               |0h 00m|0h 00m        |
 |15 |Feat/backend data retention policy                              |0h 00m|0h 00m        |
 |14 |Feat/backend animal customer preferences                        |0h 00m|0h 00m        |
@@ -139,6 +140,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-11-15 22:06:51.488|Issue|89 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-15 20:28:43.110|Issue|89 |0h 30m |
 |Nicolas Griebenow @01617265   |2020-11-15 17:47:39.419|Issue|54 |3h 00m |
 |Nicolas Griebenow @01617265   |2020-11-15 17:44:49.992|Issue|56 |2h 00m |
