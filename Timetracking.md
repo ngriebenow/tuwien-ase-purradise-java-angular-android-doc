@@ -24,6 +24,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|89 |See one dog in AR: Edit 3D models                                     |0h 00m |0h 00m        |
 |88 |Clarify MR process                                                    |0h 00m |0h 00m        |
 |87 |Checkstyle build config                                               |0h 15m |0h 15m        |
 |86 |Wrong Editorconfig Rules                                              |2h 30m |0h 00m        |
@@ -117,6 +118,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|16 |Feat/backend terms and conditions                               |0h 00m|0h 00m        |
 |15 |Feat/backend data retention policy                              |0h 00m|0h 00m        |
 |14 |Feat/backend animal customer preferences                        |0h 00m|0h 00m        |
 |13 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
