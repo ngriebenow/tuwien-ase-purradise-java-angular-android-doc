@@ -6,19 +6,19 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|6h 45m                         |15h 30m                       |10h 15m                |8h 00m                      |28h 00m                    |6h 15m                           |
+|2020-46|6h 45m                         |15h 30m                       |10h 15m                |8h 00m                      |28h 00m                    |14h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 256h 45m
+* **total spent**: 264h 45m
 
 * **Günter Windsperger @01302775**: 34h 30m
 * **Nicolas Griebenow @01617265**: 52h 30m
 * **Lisa Fürst @11775842**: 46h 30m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 56h 15m
-* **Michael Bernd Stöger @11778261**: 32h 45m
+* **Michael Bernd Stöger @11778261**: 40h 45m
 
 ### ISSUES
 
@@ -65,7 +65,7 @@
 |50 |U1: Android Authentication (8 SP)                                     |0h 00m |8h 00m        |
 |49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
-|47 |Android App Navigation (8 SP)                                         |0h 00m |8h 00m        |
+|47 |Android App Navigation (8 SP)                                         |8h 00m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                               |12h 45m|13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                  |18h 00m|80h 00m       |
@@ -137,6 +137,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-15 01:29:20.500|Issue|47 |8h 00m |
 |Lisa Fürst @11775842          |2020-11-14 22:42:34.401|Issue|44 |1h 30m |
 |Thomas Stoiber @11777755      |2020-11-14 20:02:50.460|Issue|45 |0h 45m |
 |Thomas Stoiber @11777755      |2020-11-14 20:02:41.338|Issue|45 |0h 45m |
