@@ -6,19 +6,19 @@
 |2020-43|4h 30m                         |2h 15m                        |4h 15m                 |2h 15m                      |4h 15m                     |2h 45m                           |
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
-|2020-46|13h 30m                        |17h 30m                       |10h 15m                |8h 00m                      |28h 00m                    |15h 15m                          |
+|2020-46|13h 30m                        |17h 30m                       |10h 15m                |8h 00m                      |28h 00m                    |19h 45m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 274h 30m
+* **total spent**: 279h 00m
 
 * **Günter Windsperger @01302775**: 41h 15m
 * **Nicolas Griebenow @01617265**: 54h 30m
 * **Lisa Fürst @11775842**: 46h 30m
 * **Stefan Puntigam @11776838**: 34h 15m
 * **Thomas Stoiber @11777755**: 56h 15m
-* **Michael Bernd Stöger @11778261**: 41h 45m
+* **Michael Bernd Stöger @11778261**: 46h 15m
 
 ### ISSUES
 
@@ -32,7 +32,7 @@
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
 |81 |S6: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
-|80 |S5: Android View data retention policy (3SP)                          |0h 00m |3h 00m        |
+|80 |S5: Android View data retention policy (3SP)                          |4h 30m |3h 00m        |
 |79 |Backend Update AnimalPreferences (5 SP)                               |5h 30m |5h 00m        |
 |78 |K4: Backend Remove animal (1 SP)                                      |0h 15m |1h 00m        |
 |77 |K2: Backend edit animal (1 SP)                                        |0h 30m |1h 00m        |
@@ -137,6 +137,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-15 16:49:28.615|Issue|80 |4h 30m |
 |Günter Windsperger @01302775  |2020-11-15 15:38:09.363|Issue|44 |0h 45m |
 |Günter Windsperger @01302775  |2020-11-15 14:38:19.341|Issue|44 |6h 00m |
 |Michael Bernd Stöger @11778261|2020-11-15 11:39:09.499|Issue|47 |1h 00m |
