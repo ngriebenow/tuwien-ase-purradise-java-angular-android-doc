@@ -25,6 +25,7 @@
 
 |iid|title                                                                 |spent  |total estimate|
 |---|---                                                                   |---    |---           |
+|90 |Replace lorem ipsum text with suitable greetings                      |0h 00m |0h 00m        |
 |89 |See one dog in AR: Edit 3D models                                     |1h 45m |0h 00m        |
 |88 |Clarify MR process                                                    |0h 00m |0h 00m        |
 |87 |Checkstyle build config                                               |0h 15m |0h 15m        |
