@@ -12,7 +12,7 @@
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 306h 45m
+* **total spent**: 307h 45m
 
 * **Günter Windsperger @01302775**: 46h 15m
 * **Nicolas Griebenow @01617265**: 63h 00m
@@ -47,7 +47,7 @@
 |70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
 |69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
 |68 |S5: Backend Data retention policy (1 SP)                              |2h 00m |1h 00m        |
-|67 |S5: Web View Data retention policy (5 SP)                             |0h 00m |5h 00m        |
+|67 |S5: Web View Data retention policy (5 SP)                             |1h 00m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |4h 45m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                       |3h 00m |1h 00m        |
 |64 |A5: Web Edit Update data retention policy (5 SP)                      |0h 00m |5h 00m        |
