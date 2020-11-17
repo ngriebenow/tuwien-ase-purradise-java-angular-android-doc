@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|12h 30m                        |3h 30m                        |11h 15m                |6h 45m                      |8h 00m                     |13h 00m                          |
+|2020-47|12h 30m                        |3h 30m                        |11h 15m                |7h 30m                      |8h 00m                     |13h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 344h 45m
+* **total spent**: 345h 30m
 
 * **Günter Windsperger @01302775**: 53h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 59h 30m
-* **Stefan Puntigam @11776838**: 44h 30m
+* **Stefan Puntigam @11776838**: 45h 15m
 * **Thomas Stoiber @11777755**: 64h 15m
 * **Michael Bernd Stöger @11778261**: 59h 45m
 
@@ -66,7 +66,7 @@
 |52 |U2: Backend Change password (1 SP)                                    |0h 00m |1h 00m        |
 |51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
 |50 |U1: Android Authentication (8 SP)                                     |11h 30m|8h 00m        |
-|49 |U1: Backend authentication (1 SP)                                     |0h 00m |1h 00m        |
+|49 |U1: Backend authentication (1 SP)                                     |0h 45m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                         |9h 30m |8h 00m        |
 |46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
@@ -144,6 +144,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-17 23:31:31.287|Issue|49 |0h 45m |
 |Michael Bernd Stöger @11778261|2020-11-17 23:17:24.836|Issue|81 |1h 30m |
 |Michael Bernd Stöger @11778261|2020-11-17 21:32:21.614|Issue|50 |2h 30m |
 |Lisa Fürst @11775842          |2020-11-17 18:42:38.156|Issue|44 |4h 00m |
