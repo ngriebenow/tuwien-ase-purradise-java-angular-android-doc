@@ -7,19 +7,19 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|12h 30m                        |3h 30m                        |11h 15m                |13h 00m                     |8h 00m                     |13h 00m                          |
+|2020-47|12h 30m                        |3h 30m                        |11h 15m                |13h 00m                     |8h 00m                     |15h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 351h 00m
+* **total spent**: 353h 00m
 
 * **Günter Windsperger @01302775**: 53h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 59h 30m
 * **Stefan Puntigam @11776838**: 50h 45m
 * **Thomas Stoiber @11777755**: 64h 15m
-* **Michael Bernd Stöger @11778261**: 59h 45m
+* **Michael Bernd Stöger @11778261**: 61h 45m
 
 ### ISSUES
 
@@ -62,7 +62,7 @@
 |56 |S1: Backend Register as new customer (1 SP)                           |2h 00m |1h 00m        |
 |55 |S1: Android Register as new customer (5 SP)                           |0h 00m |5h 00m        |
 |54 |S1: Web Register as new customer (5 SP)                               |5h 00m |5h 00m        |
-|53 |U3: Android Change password (5 SP)                                    |0h 00m |5h 00m        |
+|53 |U3: Android Change password (5 SP)                                    |2h 00m |5h 00m        |
 |52 |U2: Backend Change password (1 SP)                                    |0h 00m |1h 00m        |
 |51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
 |50 |U1: Android Authentication (8 SP)                                     |11h 30m|8h 00m        |
@@ -144,6 +144,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-18 00:52:44.708|Issue|53 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-17 23:34:49.245|Issue|57 |3h 00m |
 |Stefan Puntigam @11776838     |2020-11-17 23:33:26.231|Issue|64 |2h 15m |
 |Stefan Puntigam @11776838     |2020-11-17 23:32:37.039|Issue|66 |0h 15m |
