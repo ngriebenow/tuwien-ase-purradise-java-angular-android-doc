@@ -7,19 +7,19 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|12h 30m                        |3h 30m                        |11h 15m                |6h 45m                      |8h 00m                     |11h 30m                          |
+|2020-47|12h 30m                        |3h 30m                        |11h 15m                |6h 45m                      |8h 00m                     |13h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 343h 15m
+* **total spent**: 344h 45m
 
 * **Günter Windsperger @01302775**: 53h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 59h 30m
 * **Stefan Puntigam @11776838**: 44h 30m
 * **Thomas Stoiber @11777755**: 64h 15m
-* **Michael Bernd Stöger @11778261**: 58h 15m
+* **Michael Bernd Stöger @11778261**: 59h 45m
 
 ### ISSUES
 
@@ -34,7 +34,7 @@
 |84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
 |83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
 |82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
-|81 |S6: Android View general terms (3 SP)                                 |0h 00m |3h 00m        |
+|81 |S6: Android View general terms (3 SP)                                 |1h 30m |3h 00m        |
 |80 |S5: Android View data retention policy (3SP)                          |4h 30m |3h 00m        |
 |79 |Backend Update AnimalPreferences (5 SP)                               |5h 30m |5h 00m        |
 |78 |K4: Backend Remove animal (1 SP)                                      |0h 15m |1h 00m        |
@@ -144,6 +144,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Michael Bernd Stöger @11778261|2020-11-17 23:17:24.836|Issue|81 |1h 30m |
 |Michael Bernd Stöger @11778261|2020-11-17 21:32:21.614|Issue|50 |2h 30m |
 |Lisa Fürst @11775842          |2020-11-17 18:42:38.156|Issue|44 |4h 00m |
 |Lisa Fürst @11775842          |2020-11-17 14:41:58.564|Issue|44 |0h 45m |
