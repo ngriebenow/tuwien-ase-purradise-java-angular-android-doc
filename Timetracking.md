@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|12h 30m                        |3h 30m                        |11h 15m                |7h 45m                      |8h 00m                     |13h 00m                          |
+|2020-47|12h 30m                        |3h 30m                        |11h 15m                |10h 00m                     |8h 00m                     |13h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 345h 45m
+* **total spent**: 348h 00m
 
 * **Günter Windsperger @01302775**: 53h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 59h 30m
-* **Stefan Puntigam @11776838**: 45h 30m
+* **Stefan Puntigam @11776838**: 47h 45m
 * **Thomas Stoiber @11777755**: 64h 15m
 * **Michael Bernd Stöger @11778261**: 59h 45m
 
@@ -51,7 +51,7 @@
 |67 |S5: Web View Data retention policy (5 SP)                             |3h 30m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                    |8h 00m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                       |3h 00m |1h 00m        |
-|64 |A5: Web Edit Update data retention policy (5 SP)                      |3h 45m |5h 00m        |
+|64 |A5: Web Edit Update data retention policy (5 SP)                      |6h 00m |5h 00m        |
 |63 |A3: Backend Lock employee account (1 SP)                              |0h 00m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                  |0h 00m |1h 00m        |
 |61 |A4: Web Reset passwords (1 SP)                                        |0h 00m |1h 00m        |
@@ -144,6 +144,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-17 23:33:26.231|Issue|64 |2h 15m |
 |Stefan Puntigam @11776838     |2020-11-17 23:32:37.039|Issue|66 |0h 15m |
 |Stefan Puntigam @11776838     |2020-11-17 23:31:31.287|Issue|49 |0h 45m |
 |Michael Bernd Stöger @11778261|2020-11-17 23:17:24.836|Issue|81 |1h 30m |
