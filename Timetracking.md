@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|14h 30m                        |3h 30m                        |13h 15m                |13h 00m                     |8h 00m                     |17h 00m                          |
+|2020-47|14h 30m                        |3h 30m                        |13h 15m                |13h 30m                     |8h 00m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 381h 30m
-* **total spent**: 359h 00m
+* **total spent**: 359h 30m
 
 * **Günter Windsperger @01302775**: 55h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 61h 30m
-* **Stefan Puntigam @11776838**: 50h 45m
+* **Stefan Puntigam @11776838**: 51h 15m
 * **Thomas Stoiber @11777755**: 64h 15m
 * **Michael Bernd Stöger @11778261**: 63h 45m
 
@@ -63,7 +63,7 @@
 |55 |S1: Android Register as new customer (5 SP)                           |0h 00m |5h 00m        |
 |54 |S1: Web Register as new customer (5 SP)                               |5h 00m |5h 00m        |
 |53 |U3: Android Change password (5 SP)                                    |4h 00m |5h 00m        |
-|52 |U2: Backend Change password (1 SP)                                    |0h 00m |1h 00m        |
+|52 |U2: Backend Change password (1 SP)                                    |0h 30m |1h 00m        |
 |51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
 |50 |U1: Android Authentication (8 SP)                                     |11h 30m|8h 00m        |
 |49 |U1: Backend authentication (1 SP)                                     |0h 45m |1h 00m        |
@@ -145,6 +145,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-18 20:24:43.786|Issue|52 |0h 30m |
 |Lisa Fürst @11775842          |2020-11-18 13:59:02.703|Issue|44 |2h 00m |
 |Michael Bernd Stöger @11778261|2020-11-18 11:54:49.743|Issue|53 |2h 00m |
 |Günter Windsperger @01302775  |2020-11-18 05:10:22.877|Issue|44 |2h 00m |
