@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 381h 30m
+* **total estimate**: 383h 30m
 * **total spent**: 359h 30m
 
 * **Günter Windsperger @01302775**: 55h 45m
@@ -23,98 +23,99 @@
 
 ### ISSUES
 
-|iid|title                                                                 |spent  |total estimate|
-|---|---                                                                   |---    |---           |
-|90 |Replace lorem ipsum text with suitable greetings                      |0h 00m |0h 00m        |
-|89 |See one dog in AR: Edit 3D models                                     |1h 45m |0h 00m        |
-|88 |Clarify MR process                                                    |0h 00m |0h 00m        |
-|87 |Checkstyle build config                                               |0h 15m |0h 15m        |
-|86 |Wrong Editorconfig Rules                                              |2h 30m |0h 00m        |
-|85 |Tutor Meeting 2020-11-12                                              |4h 30m |6h 00m        |
-|84 |Editorconfig: Wrong rules for imports                                 |0h 30m |0h 00m        |
-|83 |Hot liveloading: property does not exist                              |0h 30m |0h 00m        |
-|82 |Protractor listens on wrong port                                      |0h 15m |0h 00m        |
-|81 |S6: Android View general terms (3 SP)                                 |1h 30m |3h 00m        |
-|80 |S5: Android View data retention policy (3SP)                          |4h 30m |3h 00m        |
-|79 |Backend Update AnimalPreferences (5 SP)                               |5h 30m |5h 00m        |
-|78 |K4: Backend Remove animal (1 SP)                                      |0h 15m |1h 00m        |
-|77 |K2: Backend edit animal (1 SP)                                        |0h 30m |1h 00m        |
-|76 |K4: Web Remove animal (1 SP)                                          |0h 00m |1h 00m        |
-|75 |K2: Web edit animal (5 SP)                                            |3h 30m |5h 00m        |
-|74 |K1: Backend Add animal (1 SP)                                         |1h 00m |1h 00m        |
-|73 |K1: Web Add animal (5 SP)                                             |7h 00m |5h 00m        |
-|72 |A6: Backend Update general terms and conditions (1 SP)                |2h 00m |1h 00m        |
-|71 |S6: Backend General terms and conditions (1 SP)                       |2h 00m |1h 00m        |
-|70 |A4: Backend Reset passwords (SP 1)                                    |0h 00m |1h 00m        |
-|69 |S6: View Web General terms and conditions (5 SP)                      |0h 00m |5h 00m        |
-|68 |S5: Backend Data retention policy (1 SP)                              |2h 00m |1h 00m        |
-|67 |S5: Web View Data retention policy (5 SP)                             |3h 30m |5h 00m        |
-|66 |A6: Web Update general terms and conditions (5 SP)                    |8h 00m |5h 00m        |
-|65 |A5: Backend Update data retention policy (1 SP)                       |3h 00m |1h 00m        |
-|64 |A5: Web Edit Update data retention policy (5 SP)                      |6h 00m |5h 00m        |
-|63 |A3: Backend Lock employee account (1 SP)                              |0h 00m |1h 00m        |
-|62 |A3: Web Lock employee account (1 SP)                                  |0h 00m |1h 00m        |
-|61 |A4: Web Reset passwords (1 SP)                                        |0h 00m |1h 00m        |
-|60 |A2: Backend Delete employee account (1 SP)                            |0h 00m |1h 00m        |
-|59 |A2: Web Delete employee account (1 SP)                                |0h 00m |1h 00m        |
-|58 |A1: Backend Register employees (1 SP)                                 |0h 00m |1h 00m        |
-|57 |A1: Web Register employees (5 SP)                                     |3h 00m |5h 00m        |
-|56 |S1: Backend Register as new customer (1 SP)                           |2h 00m |1h 00m        |
-|55 |S1: Android Register as new customer (5 SP)                           |0h 00m |5h 00m        |
-|54 |S1: Web Register as new customer (5 SP)                               |5h 00m |5h 00m        |
-|53 |U3: Android Change password (5 SP)                                    |4h 00m |5h 00m        |
-|52 |U2: Backend Change password (1 SP)                                    |0h 30m |1h 00m        |
-|51 |U2: Web Change password (5 SP)                                        |0h 00m |5h 00m        |
-|50 |U1: Android Authentication (8 SP)                                     |11h 30m|8h 00m        |
-|49 |U1: Backend authentication (1 SP)                                     |0h 45m |1h 00m        |
-|48 |U1: Web Authentification (5 SP)                                       |0h 00m |5h 00m        |
-|47 |Android App Navigation (8 SP)                                         |9h 30m |8h 00m        |
-|46 |Android App Theming (13 SP)                                           |13h 00m|13h 00m       |
-|45 |Web App Theming (13 SP)                                               |17h 15m|13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                  |52h 30m|80h 00m       |
-|43 |Internal Meeting 2020-11-05                                           |15h 00m|0h 00m        |
-|42 |Visualizations of requirements                                        |0h 45m |0h 00m        |
-|41 |checkstyle.xml AND eslint not working                                 |4h 00m |1h 30m        |
-|40 |Security Guidelines                                                   |2h 10m |2h 00m        |
-|39 |Internal Meeting 2020-11-04                                           |6h 00m |6h 00m        |
-|38 |MR1 Presentation 2020-11-05                                           |6h 00m |6h 00m        |
-|37 |Android Tutorials                                                     |5h 45m |3h 00m        |
-|36 |E2E Protractor Tutorials                                              |3h 30m |3h 00m        |
-|35 |Tutor Meeting 2020-10-29                                              |4h 30m |6h 00m        |
-|34 |Define Git flow                                                       |0h 30m |0h 30m        |
-|33 |Test plan                                                             |5h 00m |2h 00m        |
-|32 |Collect Functional And Non-Functional Requirements as User Stories    |5h 00m |4h 00m        |
-|31 |REST interface definition                                             |3h 30m |6h 00m        |
-|30 |Base Project Setup                                                    |7h 00m |8h 00m        |
-|29 |Class diagram                                                         |6h 00m |4h 00m        |
-|28 |Create UI Mockup                                                      |13h 00m|12h 00m       |
-|27 |Create Corporate Identity                                             |1h 00m |2h 00m        |
-|26 |Project Contract                                                      |1h 00m |3h 00m        |
-|25 |Add guidelines for dates and metrics                                  |0h 05m |0h 15m        |
-|24 |Code Guidelines                                                       |5h 45m |2h 30m        |
-|23 |Internal Meeting 2020-10-22                                           |1h 30m |3h 00m        |
-|22 |Tutor Meeting 2020-10-22                                              |3h 00m |6h 00m        |
-|21 |Project Proposal 2020-10-21                                           |3h 00m |3h 00m        |
-|20 |Internal Meeting 2020-10-19                                           |6h 00m |6h 00m        |
-|19 |Setup CI/CD pipeline                                                  |6h 30m |8h 00m        |
-|18 |Define guideline for commit messages                                  |0h 15m |0h 30m        |
-|17 |Prototype ARCore                                                      |1h 30m |6h 00m        |
-|16 |Internal Meeting 2020-10-14                                           |10h 30m|6h 00m        |
-|15 |Project proposal template: Risks                                      |2h 00m |2h 30m        |
-|14 |Project Proposal template: Cost estimation (working hours)            |3h 15m |2h 00m        |
-|13 |Project Proposal template: Legal environment                          |2h 15m |3h 00m        |
-|12 |Project proposal template: Stakeholder                                |1h 30m |2h 00m        |
-|11 |Project proposal template: Already existing and similar products      |3h 15m |2h 30m        |
-|10 |Project proposal template: Architecture                               |4h 00m |2h 00m        |
-|9  |Project proposal template: Domain Model                               |3h 30m |3h 00m        |
-|8  |Project proposal template: Features                                   |2h 00m |2h 00m        |
-|7  |Project proposal template: Project description: Project idea in detail|2h 30m |4h 00m        |
-|6  |Project proposal template: Teammembers                                |0h 00m |0h 00m        |
-|5  |Create Project Proposal template                                      |0h 15m |0h 00m        |
-|4  |Documentation Guidelines                                              |0h 45m |1h 00m        |
-|3  |Internal Meeting 2020-10-04                                           |6h 00m |12h 00m       |
-|2  |Internal Meeting 2020-10-10                                           |15h 00m|12h 00m       |
-|1  |Tutor Meeting 2020-10-12                                              |6h 00m |6h 00m        |
+|iid|title                                                                              |spent  |total estimate|
+|---|---                                                                                |---    |---           |
+|91 |Include animal, customer preferences and address in main animal and customer entity|0h 00m |2h 00m        |
+|90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
+|89 |See one dog in AR: Edit 3D models                                                  |1h 45m |0h 00m        |
+|88 |Clarify MR process                                                                 |0h 00m |0h 00m        |
+|87 |Checkstyle build config                                                            |0h 15m |0h 15m        |
+|86 |Wrong Editorconfig Rules                                                           |2h 30m |0h 00m        |
+|85 |Tutor Meeting 2020-11-12                                                           |4h 30m |6h 00m        |
+|84 |Editorconfig: Wrong rules for imports                                              |0h 30m |0h 00m        |
+|83 |Hot liveloading: property does not exist                                           |0h 30m |0h 00m        |
+|82 |Protractor listens on wrong port                                                   |0h 15m |0h 00m        |
+|81 |S6: Android View general terms (3 SP)                                              |1h 30m |3h 00m        |
+|80 |S5: Android View data retention policy (3SP)                                       |4h 30m |3h 00m        |
+|79 |Backend Update AnimalPreferences (5 SP)                                            |5h 30m |5h 00m        |
+|78 |K4: Backend Remove animal (1 SP)                                                   |0h 15m |1h 00m        |
+|77 |K2: Backend edit animal (1 SP)                                                     |0h 30m |1h 00m        |
+|76 |K4: Web Remove animal (1 SP)                                                       |0h 00m |1h 00m        |
+|75 |K2: Web edit animal (5 SP)                                                         |3h 30m |5h 00m        |
+|74 |K1: Backend Add animal (1 SP)                                                      |1h 00m |1h 00m        |
+|73 |K1: Web Add animal (5 SP)                                                          |7h 00m |5h 00m        |
+|72 |A6: Backend Update general terms and conditions (1 SP)                             |2h 00m |1h 00m        |
+|71 |S6: Backend General terms and conditions (1 SP)                                    |2h 00m |1h 00m        |
+|70 |A4: Backend Reset passwords (SP 1)                                                 |0h 00m |1h 00m        |
+|69 |S6: View Web General terms and conditions (5 SP)                                   |0h 00m |5h 00m        |
+|68 |S5: Backend Data retention policy (1 SP)                                           |2h 00m |1h 00m        |
+|67 |S5: Web View Data retention policy (5 SP)                                          |3h 30m |5h 00m        |
+|66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 00m |5h 00m        |
+|65 |A5: Backend Update data retention policy (1 SP)                                    |3h 00m |1h 00m        |
+|64 |A5: Web Edit Update data retention policy (5 SP)                                   |6h 00m |5h 00m        |
+|63 |A3: Backend Lock employee account (1 SP)                                           |0h 00m |1h 00m        |
+|62 |A3: Web Lock employee account (1 SP)                                               |0h 00m |1h 00m        |
+|61 |A4: Web Reset passwords (1 SP)                                                     |0h 00m |1h 00m        |
+|60 |A2: Backend Delete employee account (1 SP)                                         |0h 00m |1h 00m        |
+|59 |A2: Web Delete employee account (1 SP)                                             |0h 00m |1h 00m        |
+|58 |A1: Backend Register employees (1 SP)                                              |0h 00m |1h 00m        |
+|57 |A1: Web Register employees (5 SP)                                                  |3h 00m |5h 00m        |
+|56 |S1: Backend Register as new customer (1 SP)                                        |2h 00m |1h 00m        |
+|55 |S1: Android Register as new customer (5 SP)                                        |0h 00m |5h 00m        |
+|54 |S1: Web Register as new customer (5 SP)                                            |5h 00m |5h 00m        |
+|53 |U3: Android Change password (5 SP)                                                 |4h 00m |5h 00m        |
+|52 |U2: Backend Change password (1 SP)                                                 |0h 30m |1h 00m        |
+|51 |U2: Web Change password (5 SP)                                                     |0h 00m |5h 00m        |
+|50 |U1: Android Authentication (8 SP)                                                  |11h 30m|8h 00m        |
+|49 |U1: Backend authentication (1 SP)                                                  |0h 45m |1h 00m        |
+|48 |U1: Web Authentification (5 SP)                                                    |0h 00m |5h 00m        |
+|47 |Android App Navigation (8 SP)                                                      |9h 30m |8h 00m        |
+|46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
+|45 |Web App Theming (13 SP)                                                            |17h 15m|13h 00m       |
+|44 |See one dog in AR in android (80 SP)                                               |52h 30m|80h 00m       |
+|43 |Internal Meeting 2020-11-05                                                        |15h 00m|0h 00m        |
+|42 |Visualizations of requirements                                                     |0h 45m |0h 00m        |
+|41 |checkstyle.xml AND eslint not working                                              |4h 00m |1h 30m        |
+|40 |Security Guidelines                                                                |2h 10m |2h 00m        |
+|39 |Internal Meeting 2020-11-04                                                        |6h 00m |6h 00m        |
+|38 |MR1 Presentation 2020-11-05                                                        |6h 00m |6h 00m        |
+|37 |Android Tutorials                                                                  |5h 45m |3h 00m        |
+|36 |E2E Protractor Tutorials                                                           |3h 30m |3h 00m        |
+|35 |Tutor Meeting 2020-10-29                                                           |4h 30m |6h 00m        |
+|34 |Define Git flow                                                                    |0h 30m |0h 30m        |
+|33 |Test plan                                                                          |5h 00m |2h 00m        |
+|32 |Collect Functional And Non-Functional Requirements as User Stories                 |5h 00m |4h 00m        |
+|31 |REST interface definition                                                          |3h 30m |6h 00m        |
+|30 |Base Project Setup                                                                 |7h 00m |8h 00m        |
+|29 |Class diagram                                                                      |6h 00m |4h 00m        |
+|28 |Create UI Mockup                                                                   |13h 00m|12h 00m       |
+|27 |Create Corporate Identity                                                          |1h 00m |2h 00m        |
+|26 |Project Contract                                                                   |1h 00m |3h 00m        |
+|25 |Add guidelines for dates and metrics                                               |0h 05m |0h 15m        |
+|24 |Code Guidelines                                                                    |5h 45m |2h 30m        |
+|23 |Internal Meeting 2020-10-22                                                        |1h 30m |3h 00m        |
+|22 |Tutor Meeting 2020-10-22                                                           |3h 00m |6h 00m        |
+|21 |Project Proposal 2020-10-21                                                        |3h 00m |3h 00m        |
+|20 |Internal Meeting 2020-10-19                                                        |6h 00m |6h 00m        |
+|19 |Setup CI/CD pipeline                                                               |6h 30m |8h 00m        |
+|18 |Define guideline for commit messages                                               |0h 15m |0h 30m        |
+|17 |Prototype ARCore                                                                   |1h 30m |6h 00m        |
+|16 |Internal Meeting 2020-10-14                                                        |10h 30m|6h 00m        |
+|15 |Project proposal template: Risks                                                   |2h 00m |2h 30m        |
+|14 |Project Proposal template: Cost estimation (working hours)                         |3h 15m |2h 00m        |
+|13 |Project Proposal template: Legal environment                                       |2h 15m |3h 00m        |
+|12 |Project proposal template: Stakeholder                                             |1h 30m |2h 00m        |
+|11 |Project proposal template: Already existing and similar products                   |3h 15m |2h 30m        |
+|10 |Project proposal template: Architecture                                            |4h 00m |2h 00m        |
+|9  |Project proposal template: Domain Model                                            |3h 30m |3h 00m        |
+|8  |Project proposal template: Features                                                |2h 00m |2h 00m        |
+|7  |Project proposal template: Project description: Project idea in detail             |2h 30m |4h 00m        |
+|6  |Project proposal template: Teammembers                                             |0h 00m |0h 00m        |
+|5  |Create Project Proposal template                                                   |0h 15m |0h 00m        |
+|4  |Documentation Guidelines                                                           |0h 45m |1h 00m        |
+|3  |Internal Meeting 2020-10-04                                                        |6h 00m |12h 00m       |
+|2  |Internal Meeting 2020-10-10                                                        |15h 00m|12h 00m       |
+|1  |Tutor Meeting 2020-10-12                                                           |6h 00m |6h 00m        |
 
 ### MERGE REQUESTS
 
