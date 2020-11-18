@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|16h 30m                        |3h 30m                        |13h 15m                |13h 30m                     |8h 00m                     |17h 00m                          |
+|2020-47|16h 30m                        |3h 30m                        |13h 15m                |14h 00m                     |8h 00m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 383h 30m
-* **total spent**: 361h 30m
+* **total spent**: 362h 00m
 
 * **Günter Windsperger @01302775**: 57h 45m
 * **Nicolas Griebenow @01617265**: 63h 00m
 * **Lisa Fürst @11775842**: 61h 30m
-* **Stefan Puntigam @11776838**: 51h 15m
+* **Stefan Puntigam @11776838**: 51h 45m
 * **Thomas Stoiber @11777755**: 64h 15m
 * **Michael Bernd Stöger @11778261**: 63h 45m
 
@@ -53,7 +53,7 @@
 |66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 00m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                                    |3h 00m |1h 00m        |
 |64 |A5: Web Edit Update data retention policy (5 SP)                                   |6h 00m |5h 00m        |
-|63 |A3: Backend Lock employee account (1 SP)                                           |0h 00m |1h 00m        |
+|63 |A3: Backend Lock employee account (1 SP)                                           |0h 30m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                               |0h 00m |1h 00m        |
 |61 |A4: Web Reset passwords (1 SP)                                                     |0h 00m |1h 00m        |
 |60 |A2: Backend Delete employee account (1 SP)                                         |0h 00m |1h 00m        |
@@ -146,6 +146,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Stefan Puntigam @11776838     |2020-11-19 00:01:13.615|Issue|63 |0h 30m |
 |Günter Windsperger @01302775  |2020-11-18 22:54:39.009|Issue|44 |2h 00m |
 |Stefan Puntigam @11776838     |2020-11-18 20:24:43.786|Issue|52 |0h 30m |
 |Lisa Fürst @11775842          |2020-11-18 13:59:02.703|Issue|44 |2h 00m |
