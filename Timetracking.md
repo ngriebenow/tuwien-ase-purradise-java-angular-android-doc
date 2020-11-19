@@ -7,15 +7,15 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |10h 00m                       |14h 45m                |22h 00m                     |16h 45m                    |17h 00m                          |
+|2020-47|17h 30m                        |12h 00m                       |14h 45m                |22h 00m                     |16h 45m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 387h 45m
+* **total spent**: 389h 45m
 
 * **Günter Windsperger @01302775**: 58h 45m
-* **Nicolas Griebenow @01617265**: 69h 30m
+* **Nicolas Griebenow @01617265**: 71h 30m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
 * **Thomas Stoiber @11777755**: 73h 00m
@@ -46,7 +46,7 @@
 |78 |K4: Backend Remove animal (1 SP)                                                   |0h 15m |1h 00m        |
 |77 |K2: Backend edit animal (1 SP)                                                     |0h 30m |1h 00m        |
 |76 |K4: Web Remove animal (1 SP)                                                       |0h 00m |1h 00m        |
-|75 |K2: Web edit animal (5 SP)                                                         |3h 30m |5h 00m        |
+|75 |K2: Web edit animal (5 SP)                                                         |5h 30m |5h 00m        |
 |74 |K1: Backend Add animal (1 SP)                                                      |1h 00m |1h 00m        |
 |73 |K1: Web Add animal (5 SP)                                                          |7h 00m |5h 00m        |
 |72 |A6: Backend Update general terms and conditions (1 SP)                             |2h 00m |1h 00m        |
@@ -152,6 +152,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-19 21:13:30.692|Issue|75 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 21:11:58.512|Issue|45 |1h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 17:07:29.272|Issue|69 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 17:07:17.473|Issue|67 |0h 45m |
