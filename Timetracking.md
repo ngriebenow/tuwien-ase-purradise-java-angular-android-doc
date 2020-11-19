@@ -126,6 +126,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|22 |[#94] Fix issue with fixture in test                            |0h 00m|0h 00m        |
 |21 |Feat/web view data retention policy                             |0h 00m|0h 00m        |
 |20 |Merge Feat/android-navigation                                   |0h 00m|0h 00m        |
 |19 |Feat/web app theming                                            |0h 00m|0h 00m        |
