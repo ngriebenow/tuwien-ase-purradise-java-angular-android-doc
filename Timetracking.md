@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|96 |Adjust Eslint                                                                      |0h 00m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |5h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 00m |0h 00m        |
 |93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
