@@ -7,14 +7,14 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|16h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |9h 45m                     |17h 00m                          |
+|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |9h 45m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 378h 15m
+* **total spent**: 379h 15m
 
-* **Günter Windsperger @01302775**: 57h 45m
+* **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 68h 00m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|95 |Tutor Meeting 2020-11-19                                                           |3h 00m |6h 00m        |
+|95 |Tutor Meeting 2020-11-19                                                           |4h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 00m |0h 00m        |
 |93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
 |92 |Web administration main page                                                       |2h 00m |2h 00m        |
@@ -150,6 +150,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Günter Windsperger @01302775  |2020-11-19 10:50:05.391|Issue|95 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-19 10:37:42.960|Issue|44 |0h 15m |
 |Stefan Puntigam @11776838     |2020-11-19 10:23:51.279|Issue|95 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 10:22:57.341|Issue|95 |1h 00m |
