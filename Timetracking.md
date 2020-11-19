@@ -7,18 +7,18 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |16h 15m                    |17h 00m                          |
+|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |16h 45m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 385h 45m
+* **total spent**: 386h 15m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 68h 00m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
-* **Thomas Stoiber @11777755**: 72h 30m
+* **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 63h 45m
 
 ### ISSUES
@@ -52,7 +52,7 @@
 |72 |A6: Backend Update general terms and conditions (1 SP)                             |2h 00m |1h 00m        |
 |71 |S6: Backend General terms and conditions (1 SP)                                    |2h 00m |1h 00m        |
 |70 |A4: Backend Reset passwords (SP 1)                                                 |1h 30m |1h 00m        |
-|69 |S6: View Web General terms and conditions (5 SP)                                   |0h 00m |5h 00m        |
+|69 |S6: View Web General terms and conditions (5 SP)                                   |0h 30m |5h 00m        |
 |68 |S5: Backend Data retention policy (1 SP)                                           |2h 00m |1h 00m        |
 |67 |S5: Web View Data retention policy (5 SP)                                          |6h 45m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 00m |5h 00m        |
@@ -152,6 +152,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-19 17:07:29.272|Issue|69 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 17:07:17.473|Issue|67 |0h 45m |
 |Thomas Stoiber @11777755      |2020-11-19 17:07:03.641|Issue|45 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 17:06:14.223|Issue|96 |0h 45m |
