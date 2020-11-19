@@ -7,18 +7,18 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |10h 45m                    |17h 00m                          |
+|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |12h 15m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 380h 15m
+* **total spent**: 381h 45m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 68h 00m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
-* **Thomas Stoiber @11777755**: 67h 00m
+* **Thomas Stoiber @11777755**: 68h 30m
 * **Michael Bernd Stöger @11778261**: 63h 45m
 
 ### ISSUES
@@ -75,7 +75,7 @@
 |48 |U1: Web Authentification (5 SP)                                                    |3h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                                      |9h 30m |8h 00m        |
 |46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
-|45 |Web App Theming (13 SP)                                                            |18h 30m|13h 00m       |
+|45 |Web App Theming (13 SP)                                                            |20h 00m|13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                               |55h 00m|80h 00m       |
 |43 |Internal Meeting 2020-11-05                                                        |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                                     |0h 45m |0h 00m        |
@@ -150,6 +150,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-19 11:33:21.123|Issue|45 |1h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 11:32:19.090|Issue|95 |1h 00m |
 |Günter Windsperger @01302775  |2020-11-19 10:50:05.391|Issue|95 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-19 10:37:42.960|Issue|44 |0h 15m |
