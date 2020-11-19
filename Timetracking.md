@@ -7,25 +7,25 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |14h 15m                    |17h 00m                          |
+|2020-47|17h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |15h 00m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 383h 45m
+* **total spent**: 384h 30m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 68h 00m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
-* **Thomas Stoiber @11777755**: 70h 30m
+* **Thomas Stoiber @11777755**: 71h 15m
 * **Michael Bernd Stöger @11778261**: 63h 45m
 
 ### ISSUES
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|96 |Adjust Eslint                                                                      |0h 00m |0h 00m        |
+|96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |5h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 00m |0h 00m        |
 |93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
@@ -152,6 +152,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Thomas Stoiber @11777755      |2020-11-19 17:06:14.223|Issue|96 |0h 45m |
 |Thomas Stoiber @11777755      |2020-11-19 17:01:35.863|Issue|67 |0h 15m |
 |Thomas Stoiber @11777755      |2020-11-19 11:34:13.809|Issue|67 |1h 45m |
 |Thomas Stoiber @11777755      |2020-11-19 11:33:21.123|Issue|45 |1h 30m |
