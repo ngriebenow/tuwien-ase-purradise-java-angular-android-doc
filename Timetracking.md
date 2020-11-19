@@ -7,15 +7,15 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |13h 00m                       |14h 45m                |22h 15m                     |16h 45m                    |17h 00m                          |
+|2020-47|17h 30m                        |14h 00m                       |14h 45m                |22h 15m                     |16h 45m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 391h 00m
+* **total spent**: 392h 00m
 
 * **Günter Windsperger @01302775**: 58h 45m
-* **Nicolas Griebenow @01617265**: 72h 30m
+* **Nicolas Griebenow @01617265**: 73h 30m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
@@ -66,7 +66,7 @@
 |58 |A1: Backend Register employees (1 SP)                                              |0h 00m |1h 00m        |
 |57 |A1: Web Register employees (5 SP)                                                  |3h 00m |5h 00m        |
 |56 |S1: Backend Register as new customer (1 SP)                                        |2h 00m |1h 00m        |
-|55 |S1: Android Register as new customer (5 SP)                                        |0h 00m |5h 00m        |
+|55 |S1: Android Register as new customer (5 SP)                                        |1h 00m |5h 00m        |
 |54 |S1: Web Register as new customer (5 SP)                                            |5h 00m |5h 00m        |
 |53 |U3: Android Change password (5 SP)                                                 |4h 00m |5h 00m        |
 |52 |U2: Backend Change password (1 SP)                                                 |0h 30m |1h 00m        |
@@ -153,6 +153,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-19 23:14:09.656|Issue|55 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 23:12:50.338|Issue|47 |1h 00m |
 |Stefan Puntigam @11776838     |2020-11-19 22:21:48.800|Issue|94 |0h 15m |
 |Nicolas Griebenow @01617265   |2020-11-19 21:13:30.692|Issue|75 |2h 00m |
