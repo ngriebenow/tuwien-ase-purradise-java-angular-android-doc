@@ -33,7 +33,8 @@ This wiki contains all process documentation for this project that is not alread
 ### [Risks](/process/risks/Risks)
 
 ### Development
- * [Android Development](/process/development/android-development)
+ - [Android Development](/process/development/android-development)
+ - [E2E Testing with Protractor](/process/development/E2E-Testing-with-Protractor)
 
 ### Sprints:
  - [Current backlog](/process/sprints/1/Backlog)
