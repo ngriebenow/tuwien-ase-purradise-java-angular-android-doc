@@ -7,16 +7,16 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|16h 30m                        |8h 30m                        |14h 30m                |22h 00m                     |9h 45m                     |17h 00m                          |
+|2020-47|16h 30m                        |8h 30m                        |14h 45m                |22h 00m                     |9h 45m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 378h 00m
+* **total spent**: 378h 15m
 
 * **Günter Windsperger @01302775**: 57h 45m
 * **Nicolas Griebenow @01617265**: 68h 00m
-* **Lisa Fürst @11775842**: 62h 45m
+* **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 59h 45m
 * **Thomas Stoiber @11777755**: 66h 00m
 * **Michael Bernd Stöger @11778261**: 63h 45m
@@ -76,7 +76,7 @@
 |47 |Android App Navigation (8 SP)                                                      |9h 30m |8h 00m        |
 |46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                                            |18h 30m|13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                               |54h 45m|80h 00m       |
+|44 |See one dog in AR in android (80 SP)                                               |55h 00m|80h 00m       |
 |43 |Internal Meeting 2020-11-05                                                        |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                                     |0h 45m |0h 00m        |
 |41 |checkstyle.xml AND eslint not working                                              |4h 00m |1h 30m        |
@@ -150,6 +150,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-11-19 10:37:42.960|Issue|44 |0h 15m |
 |Stefan Puntigam @11776838     |2020-11-19 10:23:51.279|Issue|95 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 10:22:57.341|Issue|95 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-19 10:14:08.684|Issue|95 |1h 00m |
