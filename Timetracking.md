@@ -7,15 +7,15 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|16h 30m                        |3h 30m                        |13h 30m                |21h 00m                     |8h 00m                     |17h 00m                          |
+|2020-47|16h 30m                        |7h 30m                        |13h 30m                |21h 00m                     |8h 00m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 386h 00m
-* **total spent**: 369h 15m
+* **total spent**: 373h 15m
 
 * **Günter Windsperger @01302775**: 57h 45m
-* **Nicolas Griebenow @01617265**: 63h 00m
+* **Nicolas Griebenow @01617265**: 67h 00m
 * **Lisa Fürst @11775842**: 61h 45m
 * **Stefan Puntigam @11776838**: 58h 45m
 * **Thomas Stoiber @11777755**: 64h 15m
@@ -27,7 +27,7 @@
 |---|---                                                                                |---    |---           |
 |93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
 |92 |Web administration main page                                                       |2h 00m |2h 00m        |
-|91 |Include animal, customer preferences and address in main animal and customer entity|0h 00m |2h 00m        |
+|91 |Include animal, customer preferences and address in main animal and customer entity|4h 00m |2h 00m        |
 |90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
 |89 |See one dog in AR: Edit 3D models                                                  |1h 45m |0h 00m        |
 |88 |Clarify MR process                                                                 |0h 00m |0h 00m        |
@@ -148,6 +148,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-19 02:05:06.374|Issue|91 |4h 00m |
 |Lisa Fürst @11775842          |2020-11-19 00:19:46.189|Issue|44 |0h 15m |
 |Stefan Puntigam @11776838     |2020-11-19 00:14:32.697|Issue|61 |0h 30m |
 |Stefan Puntigam @11776838     |2020-11-19 00:12:00.008|Issue|48 |3h 00m |
