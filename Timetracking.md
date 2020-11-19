@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|93 |CI does not run all backend tests                                                  |0h 00m |0h 00m        |
 |92 |Web administration main page                                                       |2h 00m |2h 00m        |
 |91 |Include animal, customer preferences and address in main animal and customer entity|0h 00m |2h 00m        |
 |90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
