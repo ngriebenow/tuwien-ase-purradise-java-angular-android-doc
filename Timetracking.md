@@ -7,15 +7,15 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |12h 00m                       |14h 45m                |22h 15m                     |16h 45m                    |17h 00m                          |
+|2020-47|17h 30m                        |13h 00m                       |14h 45m                |22h 15m                     |16h 45m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 390h 00m
+* **total spent**: 391h 00m
 
 * **Günter Windsperger @01302775**: 58h 45m
-* **Nicolas Griebenow @01617265**: 71h 30m
+* **Nicolas Griebenow @01617265**: 72h 30m
 * **Lisa Fürst @11775842**: 63h 00m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
@@ -74,7 +74,7 @@
 |50 |U1: Android Authentication (8 SP)                                                  |11h 30m|8h 00m        |
 |49 |U1: Backend authentication (1 SP)                                                  |0h 45m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                                    |3h 00m |5h 00m        |
-|47 |Android App Navigation (8 SP)                                                      |9h 30m |8h 00m        |
+|47 |Android App Navigation (8 SP)                                                      |10h 30m|8h 00m        |
 |46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                                            |22h 00m|13h 00m       |
 |44 |See one dog in AR in android (80 SP)                                               |55h 00m|80h 00m       |
@@ -153,6 +153,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-19 23:12:50.338|Issue|47 |1h 00m |
 |Stefan Puntigam @11776838     |2020-11-19 22:21:48.800|Issue|94 |0h 15m |
 |Nicolas Griebenow @01617265   |2020-11-19 21:13:30.692|Issue|75 |2h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 21:11:58.512|Issue|45 |1h 30m |
