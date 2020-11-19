@@ -7,15 +7,15 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|16h 30m                        |7h 30m                        |14h 30m                |21h 00m                     |9h 45m                     |17h 00m                          |
+|2020-47|16h 30m                        |8h 30m                        |14h 30m                |21h 00m                     |9h 45m                     |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 376h 00m
+* **total spent**: 377h 00m
 
 * **Günter Windsperger @01302775**: 57h 45m
-* **Nicolas Griebenow @01617265**: 67h 00m
+* **Nicolas Griebenow @01617265**: 68h 00m
 * **Lisa Fürst @11775842**: 62h 45m
 * **Stefan Puntigam @11776838**: 58h 45m
 * **Thomas Stoiber @11777755**: 66h 00m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|95 |Tutor Meeting 2020-11-19                                                           |1h 00m |6h 00m        |
+|95 |Tutor Meeting 2020-11-19                                                           |2h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 00m |0h 00m        |
 |93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
 |92 |Web administration main page                                                       |2h 00m |2h 00m        |
@@ -150,6 +150,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Nicolas Griebenow @01617265   |2020-11-19 10:22:57.341|Issue|95 |1h 00m |
 |Lisa Fürst @11775842          |2020-11-19 10:14:08.684|Issue|95 |1h 00m |
 |Thomas Stoiber @11777755      |2020-11-19 08:39:32.432|Issue|67 |0h 30m |
 |Thomas Stoiber @11777755      |2020-11-19 08:32:24.404|Issue|45 |0h 15m |
