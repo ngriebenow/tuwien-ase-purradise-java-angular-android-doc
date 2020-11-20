@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|19h 00m                        |20h 00m                       |21h 15m                |58h 00m                     |16h 45m                    |21h 15m                          |
+|2020-47|19h 00m                        |20h 00m                       |21h 15m                |58h 30m                     |16h 45m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 447h 00m
+* **total spent**: 447h 30m
 
 * **Günter Windsperger @01302775**: 60h 15m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 69h 30m
-* **Stefan Puntigam @11776838**: 95h 45m
+* **Stefan Puntigam @11776838**: 96h 15m
 * **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
@@ -52,7 +52,7 @@
 |73 |K1: Web Add animal (5 SP)                                                          |7h 00m |5h 00m        |
 |72 |A6: Backend Update general terms and conditions (1 SP)                             |2h 00m |1h 00m        |
 |71 |S6: Backend General terms and conditions (1 SP)                                    |2h 00m |1h 00m        |
-|70 |A4: Backend Reset passwords (SP 1)                                                 |1h 30m |1h 00m        |
+|70 |A4: Backend Reset passwords (SP 1)                                                 |2h 00m |1h 00m        |
 |69 |S6: View Web General terms and conditions (5 SP)                                   |0h 30m |5h 00m        |
 |68 |S5: Backend Data retention policy (1 SP)                                           |2h 00m |1h 00m        |
 |67 |S5: Web View Data retention policy (5 SP)                                          |6h 45m |5h 00m        |
@@ -159,6 +159,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-21 00:07:00.323|Issue|70 |0h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 00:06:43.533|Issue|48 |3h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 00:06:26.008|Issue|49 |32h 00m |
 |Stefan Puntigam @11776838     |2020-11-21 00:06:16.631|Issue|61 |0h 15m  |
