@@ -7,16 +7,16 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |14h 00m                       |17h 45m                |22h 15m                     |16h 45m                    |21h 15m                          |
+|2020-47|17h 30m                        |14h 00m                       |19h 15m                |22h 15m                     |16h 45m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 399h 15m
+* **total spent**: 400h 45m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 73h 30m
-* **Lisa Fürst @11775842**: 66h 00m
+* **Lisa Fürst @11775842**: 67h 30m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 68h 00m
@@ -77,7 +77,7 @@
 |47 |Android App Navigation (8 SP)                                                      |12h 00m|8h 00m        |
 |46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
 |45 |Web App Theming (13 SP)                                                            |22h 00m|13h 00m       |
-|44 |See one dog in AR in android (80 SP)                                               |57h 30m|80h 00m       |
+|44 |See one dog in AR in android (80 SP)                                               |59h 00m|80h 00m       |
 |43 |Internal Meeting 2020-11-05                                                        |15h 00m|0h 00m        |
 |42 |Visualizations of requirements                                                     |0h 45m |0h 00m        |
 |41 |checkstyle.xml AND eslint not working                                              |4h 00m |1h 30m        |
@@ -126,6 +126,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|24 |Feat/authentication                                             |0h 00m|0h 00m        |
 |23 |Feat/animal customer web restructuring                          |0h 00m|0h 00m        |
 |22 |[#94] Fix issue with fixture in test                            |0h 00m|0h 00m        |
 |21 |Feat/web view data retention policy                             |0h 00m|0h 00m        |
@@ -154,6 +155,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Lisa Fürst @11775842          |2020-11-20 14:51:37.771|Issue|44 |1h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-20 14:40:18.729|Issue|95 |1h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-20 14:27:38.544|Issue|50 |0h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-20 14:26:38.046|Issue|93 |0h 30m  |
