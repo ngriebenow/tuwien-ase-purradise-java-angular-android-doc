@@ -11,8 +11,8 @@
 
 ### TIME STATS
 
-* **total estimate**: 392h 00m
-* **total spent**: 404h 15m
+* **total estimate**: 393h 00m
+* **total spent**: 405h 15m
 
 * **Günter Windsperger @01302775**: 60h 15m
 * **Nicolas Griebenow @01617265**: 73h 30m
@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |6h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 15m |0h 00m        |
@@ -126,6 +127,8 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|26 |Feat/reset password                                             |0h 00m|0h 00m        |
+|25 |Feat/register customer android                                  |0h 00m|0h 00m        |
 |24 |Feat/authentication                                             |0h 00m|0h 00m        |
 |23 |Feat/animal customer web restructuring                          |0h 00m|0h 00m        |
 |22 |[#94] Fix issue with fixture in test                            |0h 00m|0h 00m        |
