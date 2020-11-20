@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|19h 00m                        |20h 00m                       |21h 15m                |58h 30m                     |16h 45m                    |21h 15m                          |
+|2020-47|19h 00m                        |20h 00m                       |21h 15m                |103h 30m                    |16h 45m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 447h 30m
+* **total spent**: 492h 30m
 
 * **Günter Windsperger @01302775**: 60h 15m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 69h 30m
-* **Stefan Puntigam @11776838**: 96h 15m
+* **Stefan Puntigam @11776838**: 141h 15m
 * **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
@@ -30,7 +30,7 @@
 |95 |Tutor Meeting 2020-11-19                                                           |6h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 15m |0h 00m        |
 |93 |CI does not run all backend tests                                                  |0h 30m |0h 30m        |
-|92 |Web administration main page                                                       |2h 00m |2h 00m        |
+|92 |Web administration main page                                                       |47h 00m|2h 00m        |
 |91 |Include animal, customer preferences and address in main animal and customer entity|4h 00m |2h 00m        |
 |90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
 |89 |See one dog in AR: Edit 3D models                                                  |1h 45m |0h 00m        |
@@ -159,6 +159,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-21 00:07:07.613|Issue|92 |45h 00m |
 |Stefan Puntigam @11776838     |2020-11-21 00:07:00.323|Issue|70 |0h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 00:06:43.533|Issue|48 |3h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 00:06:26.008|Issue|49 |32h 00m |
