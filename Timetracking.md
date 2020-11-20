@@ -127,6 +127,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|27 |Feat/web admin update legal docs                                |0h 00m|0h 00m        |
 |26 |Feat/reset password                                             |0h 00m|0h 00m        |
 |25 |Feat/register customer android                                  |0h 00m|0h 00m        |
 |24 |Feat/authentication                                             |0h 00m|0h 00m        |
