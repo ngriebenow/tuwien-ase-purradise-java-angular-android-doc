@@ -12,7 +12,7 @@
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 411h 30m
+* **total spent**: 443h 30m
 
 * **Günter Windsperger @01302775**: 60h 15m
 * **Nicolas Griebenow @01617265**: 79h 30m
@@ -73,7 +73,7 @@
 |52 |U2: Backend Change password (1 SP)                                                 |0h 30m |1h 00m        |
 |51 |U2: Web Change password (5 SP)                                                     |0h 00m |5h 00m        |
 |50 |U1: Android Authentication (8 SP)                                                  |12h 15m|8h 00m        |
-|49 |U1: Backend authentication (1 SP)                                                  |0h 45m |1h 00m        |
+|49 |U1: Backend authentication (1 SP)                                                  |32h 45m|1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                                    |3h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                                      |12h 00m|8h 00m        |
 |46 |Android App Theming (13 SP)                                                        |13h 00m|13h 00m       |
