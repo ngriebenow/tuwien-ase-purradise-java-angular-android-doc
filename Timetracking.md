@@ -7,16 +7,16 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |14h 00m                       |15h 30m                |22h 15m                     |16h 45m                    |17h 00m                          |
+|2020-47|17h 30m                        |14h 00m                       |16h 00m                |22h 15m                     |16h 45m                    |17h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 392h 45m
+* **total spent**: 393h 15m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 73h 30m
-* **Lisa Fürst @11775842**: 63h 45m
+* **Lisa Fürst @11775842**: 64h 15m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 63h 45m
@@ -84,7 +84,7 @@
 |40 |Security Guidelines                                                                |2h 10m |2h 00m        |
 |39 |Internal Meeting 2020-11-04                                                        |6h 00m |6h 00m        |
 |38 |MR1 Presentation 2020-11-05                                                        |6h 00m |6h 00m        |
-|37 |Android Tutorials                                                                  |5h 45m |3h 00m        |
+|37 |Android Tutorials                                                                  |6h 15m |3h 00m        |
 |36 |E2E Protractor Tutorials                                                           |3h 30m |3h 00m        |
 |35 |Tutor Meeting 2020-10-29                                                           |4h 30m |6h 00m        |
 |34 |Define Git flow                                                                    |0h 30m |0h 30m        |
@@ -153,6 +153,7 @@
 
 |user                          |date                   |type |iid|time   |
 |---                           |---                    |---  |---|---    |
+|Lisa Fürst @11775842          |2020-11-20 10:56:43.487|Issue|37 |0h 30m |
 |Lisa Fürst @11775842          |2020-11-19 23:39:15.497|Issue|44 |0h 45m |
 |Nicolas Griebenow @01617265   |2020-11-19 23:14:09.656|Issue|55 |1h 00m |
 |Nicolas Griebenow @01617265   |2020-11-19 23:12:50.338|Issue|47 |1h 00m |
