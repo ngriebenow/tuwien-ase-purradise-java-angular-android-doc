@@ -7,19 +7,19 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |14h 00m                       |17h 45m                |22h 15m                     |16h 45m                    |19h 00m                          |
+|2020-47|17h 30m                        |14h 00m                       |17h 45m                |22h 15m                     |16h 45m                    |19h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 397h 00m
+* **total spent**: 397h 30m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 73h 30m
 * **Lisa Fürst @11775842**: 66h 00m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
-* **Michael Bernd Stöger @11778261**: 65h 45m
+* **Michael Bernd Stöger @11778261**: 66h 15m
 
 ### ISSUES
 
@@ -28,7 +28,7 @@
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |5h 00m |6h 00m        |
 |94 |Fix GeneralTermsAndConditionsResourceIT tests                                      |0h 15m |0h 00m        |
-|93 |CI does not run all backend tests                                                  |0h 00m |0h 30m        |
+|93 |CI does not run all backend tests                                                  |0h 30m |0h 30m        |
 |92 |Web administration main page                                                       |2h 00m |2h 00m        |
 |91 |Include animal, customer preferences and address in main animal and customer entity|4h 00m |2h 00m        |
 |90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
@@ -154,6 +154,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-11-20 14:26:38.046|Issue|93 |0h 30m  |
 |Lisa Fürst @11775842          |2020-11-20 13:07:35.962|Issue|44 |1h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-20 13:04:35.241|Issue|53 |0h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-20 13:04:21.220|Issue|47 |1h 30m  |
