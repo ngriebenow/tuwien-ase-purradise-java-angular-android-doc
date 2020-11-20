@@ -7,19 +7,19 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|17h 30m                        |14h 00m                       |17h 45m                |22h 15m                     |16h 45m                    |19h 30m                          |
+|2020-47|17h 30m                        |14h 00m                       |17h 45m                |22h 15m                     |16h 45m                    |20h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 392h 00m
-* **total spent**: 397h 30m
+* **total spent**: 398h 15m
 
 * **Günter Windsperger @01302775**: 58h 45m
 * **Nicolas Griebenow @01617265**: 73h 30m
 * **Lisa Fürst @11775842**: 66h 00m
 * **Stefan Puntigam @11776838**: 60h 00m
 * **Thomas Stoiber @11777755**: 73h 00m
-* **Michael Bernd Stöger @11778261**: 66h 15m
+* **Michael Bernd Stöger @11778261**: 67h 00m
 
 ### ISSUES
 
@@ -71,7 +71,7 @@
 |53 |U3: Android Change password (5 SP)                                                 |4h 30m |5h 00m        |
 |52 |U2: Backend Change password (1 SP)                                                 |0h 30m |1h 00m        |
 |51 |U2: Web Change password (5 SP)                                                     |0h 00m |5h 00m        |
-|50 |U1: Android Authentication (8 SP)                                                  |11h 30m|8h 00m        |
+|50 |U1: Android Authentication (8 SP)                                                  |12h 15m|8h 00m        |
 |49 |U1: Backend authentication (1 SP)                                                  |0h 45m |1h 00m        |
 |48 |U1: Web Authentification (5 SP)                                                    |3h 00m |5h 00m        |
 |47 |Android App Navigation (8 SP)                                                      |12h 00m|8h 00m        |
@@ -154,6 +154,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-11-20 14:27:38.544|Issue|50 |0h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-20 14:26:38.046|Issue|93 |0h 30m  |
 |Lisa Fürst @11775842          |2020-11-20 13:07:35.962|Issue|44 |1h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-20 13:04:35.241|Issue|53 |0h 30m  |
