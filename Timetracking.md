@@ -12,7 +12,7 @@
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 423h 50m
+* **total spent**: 424h 00m
 
 * **Günter Windsperger @01302775**: 65h 00m
 * **Nicolas Griebenow @01617265**: 79h 30m
@@ -62,7 +62,7 @@
 |63 |A3: Backend Lock employee account (1 SP)                                           |0h 30m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                               |0h 30m |1h 00m        |
 |61 |A4: Web Reset passwords (1 SP)                                                     |0h 45m |1h 00m        |
-|60 |A2: Backend Delete employee account (1 SP)                                         |0h 00m |1h 00m        |
+|60 |A2: Backend Delete employee account (1 SP)                                         |0h 10m |1h 00m        |
 |59 |A2: Web Delete employee account (1 SP)                                             |0h 00m |1h 00m        |
 |58 |A1: Backend Register employees (1 SP)                                              |0h 05m |1h 00m        |
 |57 |A1: Web Register employees (5 SP)                                                  |3h 00m |5h 00m        |
