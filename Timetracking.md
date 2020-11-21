@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 393h 00m
+* **total estimate**: 394h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|98 |Fix alignment of error page                                                        |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |6h 00m |6h 00m        |
