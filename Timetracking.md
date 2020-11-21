@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|23h 45m                        |20h 00m                       |21h 45m                |29h 30m                     |16h 45m                    |21h 15m                          |
+|2020-47|23h 45m                        |20h 00m                       |21h 45m                |29h 45m                     |16h 45m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 423h 45m
+* **total spent**: 423h 50m
 
 * **Günter Windsperger @01302775**: 65h 00m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 70h 00m
-* **Stefan Puntigam @11776838**: 67h 15m
+* **Stefan Puntigam @11776838**: 67h 30m
 * **Thomas Stoiber @11777755**: 73h 00m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
@@ -64,7 +64,7 @@
 |61 |A4: Web Reset passwords (1 SP)                                                     |0h 45m |1h 00m        |
 |60 |A2: Backend Delete employee account (1 SP)                                         |0h 00m |1h 00m        |
 |59 |A2: Web Delete employee account (1 SP)                                             |0h 00m |1h 00m        |
-|58 |A1: Backend Register employees (1 SP)                                              |0h 00m |1h 00m        |
+|58 |A1: Backend Register employees (1 SP)                                              |0h 05m |1h 00m        |
 |57 |A1: Web Register employees (5 SP)                                                  |3h 00m |5h 00m        |
 |56 |S1: Backend Register as new customer (1 SP)                                        |2h 00m |1h 00m        |
 |55 |S1: Android Register as new customer (5 SP)                                        |7h 00m |5h 00m        |
@@ -160,6 +160,8 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-21 18:04:52.237|Issue|60 |0h 10m  |
+|Stefan Puntigam @11776838     |2020-11-21 18:04:44.256|Issue|58 |0h 05m  |
 |Lisa Fürst @11775842          |2020-11-21 17:37:36.222|Issue|44 |0h 30m  |
 |Günter Windsperger @01302775  |2020-11-21 17:08:05.045|Issue|44 |4h 45m  |
 |Stefan Puntigam @11776838     |2020-11-21 00:24:01.531|Issue|49 |1h 30m  |
