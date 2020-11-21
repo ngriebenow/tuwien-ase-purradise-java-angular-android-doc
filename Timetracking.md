@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|25h 45m                        |20h 00m                       |21h 45m                |31h 45m                     |17h 15m                    |21h 15m                          |
+|2020-47|25h 45m                        |20h 00m                       |21h 45m                |32h 15m                     |17h 15m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 428h 30m
+* **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 70h 00m
-* **Stefan Puntigam @11776838**: 69h 30m
+* **Stefan Puntigam @11776838**: 70h 00m
 * **Thomas Stoiber @11777755**: 73h 30m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
@@ -58,7 +58,7 @@
 |67 |S5: Web View Data retention policy (5 SP)                                          |6h 45m |5h 00m        |
 |66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 30m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                                    |3h 00m |1h 00m        |
-|64 |A5: Web Edit Update data retention policy (5 SP)                                   |6h 00m |5h 00m        |
+|64 |A5: Web Edit Update data retention policy (5 SP)                                   |6h 30m |5h 00m        |
 |63 |A3: Backend Lock employee account (1 SP)                                           |0h 30m |1h 00m        |
 |62 |A3: Web Lock employee account (1 SP)                                               |1h 00m |1h 00m        |
 |61 |A4: Web Reset passwords (1 SP)                                                     |0h 45m |1h 00m        |
@@ -161,6 +161,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-21 21:42:44.245|Issue|64 |0h 30m  |
 |Günter Windsperger @01302775  |2020-11-21 20:49:58.489|Issue|44 |0h 30m  |
 |Günter Windsperger @01302775  |2020-11-21 20:32:45.180|Issue|44 |1h 30m  |
 |Thomas Stoiber @11777755      |2020-11-21 18:51:30.948|Issue|66 |0h 30m  |
