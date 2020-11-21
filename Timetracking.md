@@ -127,6 +127,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|29 |Feat/android ar dog                                             |0h 00m|0h 00m        |
 |28 |Feat/manage employees                                           |0h 00m|0h 00m        |
 |27 |Feat/web admin update legal docs                                |0h 00m|0h 00m        |
 |26 |Feat/reset password                                             |0h 00m|0h 00m        |
