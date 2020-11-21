@@ -7,18 +7,18 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|23h 45m                        |20h 00m                       |21h 45m                |31h 45m                     |16h 45m                    |21h 15m                          |
+|2020-47|23h 45m                        |20h 00m                       |21h 45m                |31h 45m                     |17h 15m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 426h 00m
+* **total spent**: 426h 30m
 
 * **Günter Windsperger @01302775**: 65h 00m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 70h 00m
 * **Stefan Puntigam @11776838**: 69h 30m
-* **Thomas Stoiber @11777755**: 73h 00m
+* **Thomas Stoiber @11777755**: 73h 30m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
 ### ISSUES
@@ -56,7 +56,7 @@
 |69 |S6: View Web General terms and conditions (5 SP)                                   |0h 30m |5h 00m        |
 |68 |S5: Backend Data retention policy (1 SP)                                           |2h 00m |1h 00m        |
 |67 |S5: Web View Data retention policy (5 SP)                                          |6h 45m |5h 00m        |
-|66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 00m |5h 00m        |
+|66 |A6: Web Update general terms and conditions (5 SP)                                 |8h 30m |5h 00m        |
 |65 |A5: Backend Update data retention policy (1 SP)                                    |3h 00m |1h 00m        |
 |64 |A5: Web Edit Update data retention policy (5 SP)                                   |6h 00m |5h 00m        |
 |63 |A3: Backend Lock employee account (1 SP)                                           |0h 30m |1h 00m        |
@@ -160,6 +160,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Thomas Stoiber @11777755      |2020-11-21 18:51:30.948|Issue|66 |0h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 18:06:25.204|Issue|57 |1h 00m  |
 |Stefan Puntigam @11776838     |2020-11-21 18:06:17.397|Issue|62 |0h 30m  |
 |Stefan Puntigam @11776838     |2020-11-21 18:06:09.197|Issue|59 |0h 30m  |
