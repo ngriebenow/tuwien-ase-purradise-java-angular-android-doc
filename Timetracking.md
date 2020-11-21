@@ -12,7 +12,7 @@
 ### TIME STATS
 
 * **total estimate**: 393h 00m
-* **total spent**: 425h 00m
+* **total spent**: 426h 00m
 
 * **Günter Windsperger @01302775**: 65h 00m
 * **Nicolas Griebenow @01617265**: 79h 30m
@@ -65,7 +65,7 @@
 |60 |A2: Backend Delete employee account (1 SP)                                         |0h 10m |1h 00m        |
 |59 |A2: Web Delete employee account (1 SP)                                             |0h 30m |1h 00m        |
 |58 |A1: Backend Register employees (1 SP)                                              |0h 05m |1h 00m        |
-|57 |A1: Web Register employees (5 SP)                                                  |3h 00m |5h 00m        |
+|57 |A1: Web Register employees (5 SP)                                                  |4h 00m |5h 00m        |
 |56 |S1: Backend Register as new customer (1 SP)                                        |2h 00m |1h 00m        |
 |55 |S1: Android Register as new customer (5 SP)                                        |7h 00m |5h 00m        |
 |54 |S1: Web Register as new customer (5 SP)                                            |5h 00m |5h 00m        |
