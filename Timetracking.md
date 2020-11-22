@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 533h 00m
+* **total estimate**: 535h 00m
 * **total spent**: 431h 15m
 
 * **Günter Windsperger @01302775**: 69h 15m
@@ -44,7 +44,7 @@
 |103|Authentication use role concept in web/frontend                                    |0h 00m |8h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |1h 00m        |
 |101|Standardize margins of all frontend pages                                          |0h 00m |3h 00m        |
-|100|Refactor MainActivity in Android                                                   |0h 00m |0h 00m        |
+|100|Refactor MainActivity in Android                                                   |0h 00m |2h 00m        |
 |99 |Activation link does not work                                                      |0h 00m |3h 00m        |
 |98 |Fix alignment of error page                                                        |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
