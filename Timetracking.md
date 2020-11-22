@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 401h 00m
+* **total estimate**: 409h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|103|a                                                                                  |0h 00m |0h 00m        |
+|103|Authentication use role concept in web/frontend                                    |0h 00m |8h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |1h 00m        |
 |101|Standardize margins of all frontend pages                                          |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android                                                   |0h 00m |0h 00m        |
