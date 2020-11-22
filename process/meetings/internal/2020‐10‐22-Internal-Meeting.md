@@ -2,8 +2,8 @@
 | Issue| #23 |
 | ------ | ------ |
 | Date | 2020-10-12 |
-| Start | 09:30 |
-| End | 09:45 |
+| Start | 09:45 |
+| End | 12:30 |
 | Attendees | G, L, M, N, S, T |
 
 ### Goals
