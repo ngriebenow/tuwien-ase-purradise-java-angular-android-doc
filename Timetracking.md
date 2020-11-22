@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|110|S4: Backend AR add/edit model and texture                                          |0h 00m |13h 00m       |
+|110|S4: Backend AR add/edit model and texture (13 SP)                                  |0h 00m |13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |0h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13SP)                                     |0h 00m |13h 00m       |
