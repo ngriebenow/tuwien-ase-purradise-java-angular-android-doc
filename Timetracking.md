@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|106|S2: Web view and filter animal list                                                |0h 00m |0h 00m        |
 |105|S2: Backend: own endpoint that receives filter dto (13SP)                          |0h 00m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |0h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend                                    |0h 00m |8h 00m        |
