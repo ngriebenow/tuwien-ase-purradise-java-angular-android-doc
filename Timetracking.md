@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 598h 00m
+* **total estimate**: 606h 00m
 * **total spent**: 435h 45m
 
 * **Günter Windsperger @01302775**: 69h 15m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|130|C1: Android edit customer preferences (quiz style) (8SP)                           |0h 00m |0h 00m        |
+|130|C1: Android edit customer preferences (quiz style) (8SP)                           |0h 00m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |0h 00m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
