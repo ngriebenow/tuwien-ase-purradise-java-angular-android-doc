@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 412h 00m
+* **total estimate**: 425h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|105|S2: Backend: own endpoint that receives filter dto (13SP)                          |0h 00m |0h 00m        |
+|105|S2: Backend: own endpoint that receives filter dto (13SP)                          |0h 00m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |0h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend                                    |0h 00m |8h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |1h 00m        |
