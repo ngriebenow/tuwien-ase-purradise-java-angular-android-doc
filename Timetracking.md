@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 539h 00m
+* **total estimate**: 549h 00m
 * **total spent**: 431h 15m
 
 * **Günter Windsperger @01302775**: 69h 15m
@@ -25,8 +25,8 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|122|Render Markdown in Android (5 SP)                                                  |0h 00m |0h 00m        |
-|121|Unify markdown library (5 SP)                                                      |0h 00m |0h 00m        |
+|122|Render Markdown in Android (5 SP)                                                  |0h 00m |5h 00m        |
+|121|Unify markdown library (5 SP)                                                      |0h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |0h 00m |3h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
