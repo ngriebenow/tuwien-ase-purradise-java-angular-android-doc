@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|101|Standardize margins of all frontend pages                                          |0h 00m |0h 00m        |
 |100|Refactor MainActivity in Android                                                   |0h 00m |0h 00m        |
 |99 |Activation link does not work                                                      |0h 00m |0h 00m        |
 |98 |Fix alignment of error page                                                        |0h 00m |1h 00m        |
