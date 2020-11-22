@@ -14,7 +14,7 @@ A overview of the User stories from the point of view of people who might adopt 
 ### S1: Register as customer
 As someone who might adopt an animal, I can register myself as customer using the web interface or the app so that I can access personalized contents.
 
-### S2: List of available animals
+### S2: List and filter available animals
 As someone who might adopt an animal, I can use the web interface or the app to display a list of available animals. I want to be able to filter for qualities that I am interested in, such as species, age, sex or needs of the animal.
 
 ### S3: Details about animal
