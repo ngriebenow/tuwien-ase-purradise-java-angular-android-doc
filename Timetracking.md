@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|114|C2: Web view recommendations as list (8 SP)                                        |0h 00m |0h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |0h 00m |0h 00m        |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
