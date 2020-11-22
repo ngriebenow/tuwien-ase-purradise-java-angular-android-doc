@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|99 |Activation link does not work                                                      |0h 00m |0h 00m        |
 |98 |Fix alignment of error page                                                        |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
