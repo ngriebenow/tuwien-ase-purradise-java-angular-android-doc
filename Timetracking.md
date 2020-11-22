@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|103|a                                                                                  |0h 00m |0h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |1h 00m        |
 |101|Standardize margins of all frontend pages                                          |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android                                                   |0h 00m |0h 00m        |
