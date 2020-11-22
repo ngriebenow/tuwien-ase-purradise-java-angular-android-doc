@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 606h 00m
+* **total estimate**: 608h 00m
 * **total spent**: 435h 45m
 
 * **Günter Windsperger @01302775**: 69h 15m
@@ -56,7 +56,7 @@
 |102|Align pictures of home screen vertically (5 SP)                                    |0h 00m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |0h 00m |2h 00m        |
-|99 |Activation link does not work (5 SP)                                               |0h 00m |3h 00m        |
+|99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
 |98 |Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
