@@ -38,8 +38,8 @@
 |109|S3: Web view animal in detail (5 SP)                                               |0h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13SP)                                     |0h 00m |13h 00m       |
-|106|S2: Web view and filter animal list (13SP)                                         |0h 00m |13h 00m       |
-|105|S2: Backend: own endpoint that receives filter dto (13SP)                          |0h 00m |13h 00m       |
+|106|S2: Web view and filter animal list (13 SP)                                        |0h 00m |13h 00m       |
+|105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |0h 00m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |0h 30m |3h 00m        |
 |103|Authentication use role concept in web/frontend                                    |0h 00m |5h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |5h 00m        |
