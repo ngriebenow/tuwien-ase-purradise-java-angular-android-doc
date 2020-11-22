@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|105|S2: Backend: own endpoint that receives filter dto                                 |0h 00m |0h 00m        |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |0h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend                                    |0h 00m |8h 00m        |
 |102|Align pictures of home screen vertically                                           |0h 00m |1h 00m        |
