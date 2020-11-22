@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|124|Web keeper homescreen (8 SP)                                                       |0h 00m |0h 00m        |
 |123|Android refactor backend connector class to multiple service classes (8 SP)        |0h 00m |8h 00m        |
 |122|Render Markdown in Android (5 SP)                                                  |0h 00m |5h 00m        |
 |121|Unify markdown library (5 SP)                                                      |0h 00m |5h 00m        |
