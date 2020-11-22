@@ -7,16 +7,16 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|28h 45m                        |22h 15m                       |21h 45m                |34h 30m                     |17h 15m                    |23h 30m                          |
+|2020-47|28h 45m                        |22h 15m                       |22h 15m                |34h 30m                     |17h 15m                    |23h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 613h 00m
-* **total spent**: 438h 45m
+* **total spent**: 439h 15m
 
 * **Günter Windsperger @01302775**: 70h 00m
 * **Nicolas Griebenow @01617265**: 81h 45m
-* **Lisa Fürst @11775842**: 70h 00m
+* **Lisa Fürst @11775842**: 70h 30m
 * **Stefan Puntigam @11776838**: 72h 15m
 * **Thomas Stoiber @11777755**: 73h 30m
 * **Michael Bernd Stöger @11778261**: 70h 15m
@@ -52,7 +52,7 @@
 |107|S2: Android view and filter animal list (13 SP)                                    |0h 00m |13h 00m       |
 |106|S2: Web view and filter animal list (13 SP)                                        |0h 00m |13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |0h 00m |13h 00m       |
-|104|Sprint 1 Retrospective 2020-11-22                                                  |2h 00m |3h 00m        |
+|104|Sprint 1 Retrospective 2020-11-22                                                  |2h 30m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |0h 00m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
@@ -195,6 +195,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Lisa Fürst @11775842          |2020-11-22 20:05:49.322|Issue|104|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-11-22 19:52:03.571|Issue|104|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-11-22 19:51:53.831|Issue|116|1h 45m  |
 |Günter Windsperger @01302775  |2020-11-22 19:21:51.161|Issue|97 |0h 45m  |
