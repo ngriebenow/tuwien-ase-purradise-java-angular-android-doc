@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|109|S3: Web view animal in detail                                                      |0h 00m |0h 00m        |
 |108|S3: Android view animal in detail                                                  |0h 00m |0h 00m        |
 |107|S2: Android view and filter animal list                                            |0h 00m |0h 00m        |
 |106|S2: Web view and filter animal list                                                |0h 00m |0h 00m        |
