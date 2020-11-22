@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 506h 00m
+* **total estimate**: 519h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -26,7 +26,7 @@
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
 |116|Internal Meeting 2020-11-22                                                        |0h 00m |1h 00m        |
-|115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |0h 00m        |
+|115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
 |114|C2: Web view recommendations as list (8 SP)                                        |0h 00m |0h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |0h 00m |13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
