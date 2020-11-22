@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|130|C1: Android edit customer preferences (quiz style) (8SP)                           |0h 00m |0h 00m        |
 |129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |0h 00m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
