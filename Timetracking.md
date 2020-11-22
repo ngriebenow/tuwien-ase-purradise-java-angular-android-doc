@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 588h 00m
+* **total estimate**: 593h 00m
 * **total spent**: 431h 15m
 
 * **Günter Windsperger @01302775**: 69h 15m
@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|128|Breed Management for Keeper (5 SP)                                                 |0h 00m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
 |126|Kennel Management for Keeper (5 SP)                                                |0h 00m |5h 00m        |
 |125|Web keeper animal administration (13 SP)                                           |0h 00m |13h 00m       |
