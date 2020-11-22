@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 451h 00m
+* **total estimate**: 464h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -28,7 +28,7 @@
 |110|S4: Backend AR add/edit model and texture                                          |0h 00m |13h 00m       |
 |109|S3: Web view animal in detail                                                      |0h 00m |0h 00m        |
 |108|S3: Android view animal in detail                                                  |0h 00m |0h 00m        |
-|107|S2: Android view and filter animal list                                            |0h 00m |0h 00m        |
+|107|S2: Android view and filter animal list (13SP)                                     |0h 00m |13h 00m       |
 |106|S2: Web view and filter animal list (13SP)                                         |0h 00m |13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13SP)                          |0h 00m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |0h 00m |3h 00m        |
