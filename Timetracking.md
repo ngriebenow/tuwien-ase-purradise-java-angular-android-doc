@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|120|Update versions of dependencies in Android                                         |0h 00m |0h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |0h 00m |2h 00m        |
