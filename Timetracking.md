@@ -11,7 +11,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 479h 00m
+* **total estimate**: 492h 00m
 * **total spent**: 429h 00m
 
 * **Günter Windsperger @01302775**: 67h 00m
@@ -25,7 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |0h 00m        |
+|112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |0h 00m |13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |0h 00m |5h 00m        |
