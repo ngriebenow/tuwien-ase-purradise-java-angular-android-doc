@@ -7,17 +7,17 @@
 |2020-44|6h 00m                         |11h 45m                       |14h 45m                |5h 50m                      |1h 30m                     |5h 30m                           |
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
-|2020-47|28h 00m                        |20h 00m                       |21h 45m                |32h 45m                     |17h 15m                    |21h 15m                          |
+|2020-47|28h 00m                        |20h 00m                       |21h 45m                |34h 30m                     |17h 15m                    |21h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 598h 00m
-* **total spent**: 431h 45m
+* **total spent**: 433h 30m
 
 * **Günter Windsperger @01302775**: 69h 15m
 * **Nicolas Griebenow @01617265**: 79h 30m
 * **Lisa Fürst @11775842**: 70h 00m
-* **Stefan Puntigam @11776838**: 70h 30m
+* **Stefan Puntigam @11776838**: 72h 15m
 * **Thomas Stoiber @11777755**: 73h 30m
 * **Michael Bernd Stöger @11778261**: 68h 00m
 
@@ -38,7 +38,7 @@
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |0h 00m |2h 00m        |
-|116|Internal Meeting 2020-11-22                                                        |1h 45m |1h 00m        |
+|116|Internal Meeting 2020-11-22                                                        |3h 30m |1h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
 |114|C2: Web view recommendations as list (8 SP)                                        |0h 00m |8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |0h 00m |13h 00m       |
@@ -193,6 +193,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-22 19:05:52.861|Issue|116|1h 45m  |
 |Stefan Puntigam @11776838     |2020-11-22 19:05:39.311|Issue|104|0h 30m  |
 |Günter Windsperger @01302775  |2020-11-22 18:49:31.703|Issue|116|1h 45m  |
 |Günter Windsperger @01302775  |2020-11-22 18:49:10.519|Issue|104|0h 30m  |
