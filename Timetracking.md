@@ -47,7 +47,7 @@
 |101|Standardize margins of all frontend pages                                          |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |0h 00m |2h 00m        |
 |99 |Activation link does not work                                                      |0h 00m |3h 00m        |
-|98 |Fix alignment of error page                                                        |0h 00m |1h 00m        |
+|98 |Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 00m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |6h 00m |6h 00m        |
