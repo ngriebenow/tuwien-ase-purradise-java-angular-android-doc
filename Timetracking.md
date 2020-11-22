@@ -25,6 +25,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|118|C6: Web delete customer account (2 SP)                                             |0h 00m |0h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |0h 00m |0h 00m        |
 |116|Internal Meeting 2020-11-22                                                        |0h 00m |1h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
