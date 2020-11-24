@@ -8,6 +8,7 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
+|2020-48|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
@@ -161,6 +162,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|30 |Sprint 1                                                        |0h 00m|0h 00m        |
 |29 |Feat/android ar dog                                             |0h 00m|0h 00m        |
 |28 |Feat/manage employees                                           |0h 00m|0h 00m        |
 |27 |Feat/web admin update legal docs                                |0h 00m|0h 00m        |
