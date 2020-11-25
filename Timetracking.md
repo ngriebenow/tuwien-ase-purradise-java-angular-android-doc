@@ -8,19 +8,19 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |11h 30m                          |
+|2020-48|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |14h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 618h 00m
-* **total spent**: 452h 30m
+* **total spent**: 455h 30m
 
 * **Günter Windsperger @01302775**: 70h 00m
 * **Nicolas Griebenow @01617265**: 81h 45m
 * **Lisa Fürst @11775842**: 72h 15m
 * **Stefan Puntigam @11776838**: 72h 15m
 * **Thomas Stoiber @11777755**: 73h 30m
-* **Michael Bernd Stöger @11778261**: 81h 45m
+* **Michael Bernd Stöger @11778261**: 84h 45m
 
 ### ISSUES
 
@@ -34,7 +34,7 @@
 |126|Kennel Management for Keeper (5 SP)                                                |0h 00m |5h 00m        |
 |125|Web keeper animal administration (13 SP)                                           |0h 00m |13h 00m       |
 |124|Web keeper home screen (8 SP)                                                      |0h 00m |8h 00m        |
-|123|Android refactor backend connector class to multiple service classes (8 SP)        |5h 15m |8h 00m        |
+|123|Android refactor backend connector class to multiple service classes (8 SP)        |8h 15m |8h 00m        |
 |122|Render Markdown in Android (5 SP)                                                  |0h 00m |5h 00m        |
 |121|Unify markdown library (5 SP)                                                      |0h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |3h 00m |3h 00m        |
@@ -197,6 +197,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-11-25 20:29:39.254|Issue|123|3h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-25 20:29:21.967|Issue|100|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-25 12:48:50.991|Issue|123|3h 15m  |
 |Michael Bernd Stöger @11778261|2020-11-25 00:17:39.392|Issue|110|1h 15m  |
