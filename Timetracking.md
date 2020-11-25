@@ -8,19 +8,19 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |11h 00m                          |
+|2020-48|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |11h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 618h 00m
-* **total spent**: 452h 00m
+* **total spent**: 452h 30m
 
 * **Günter Windsperger @01302775**: 70h 00m
 * **Nicolas Griebenow @01617265**: 81h 45m
 * **Lisa Fürst @11775842**: 72h 15m
 * **Stefan Puntigam @11776838**: 72h 15m
 * **Thomas Stoiber @11777755**: 73h 30m
-* **Michael Bernd Stöger @11778261**: 81h 15m
+* **Michael Bernd Stöger @11778261**: 81h 45m
 
 ### ISSUES
 
@@ -57,7 +57,7 @@
 |103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |0h 00m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
-|100|Refactor MainActivity in Android (2 SP)                                            |1h 30m |2h 00m        |
+|100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
 |98 |Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 45m |1h 00m        |
@@ -197,6 +197,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-11-25 20:29:21.967|Issue|100|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-25 12:48:50.991|Issue|123|3h 15m  |
 |Michael Bernd Stöger @11778261|2020-11-25 00:17:39.392|Issue|110|1h 15m  |
 |Michael Bernd Stöger @11778261|2020-11-24 22:02:14.563|Issue|123|2h 00m  |
