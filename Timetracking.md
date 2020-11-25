@@ -8,7 +8,7 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|0h 00m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |15h 30m                          |
+|2020-48|0h 00m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |16h 00m                          |
 
 ### TIME STATS
 
@@ -20,7 +20,7 @@
 * **Lisa Fürst @11775842**: 72h 45m
 * **Stefan Puntigam @11776838**: 72h 15m
 * **Thomas Stoiber @11777755**: 73h 30m
-* **Michael Bernd Stöger @11778261**: 85h 45m
+* **Michael Bernd Stöger @11778261**: 86h 15m
 
 ### ISSUES
 
@@ -198,6 +198,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-11-25 23:52:58.928|Issue|122|0h 30m  |
 |Lisa Fürst @11775842          |2020-11-25 23:33:14.030|Issue|123|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-25 21:27:45.436|Issue|122|1h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-25 20:29:39.254|Issue|123|3h 00m  |
