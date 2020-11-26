@@ -8,25 +8,26 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|0h 00m                         |0h 00m                        |0h 30m                 |0h 00m                      |0h 00m                     |16h 00m                          |
+|2020-48|2h 45m                         |2h 30m                        |0h 30m                 |2h 45m                      |2h 45m                     |18h 45m                          |
 
 ### TIME STATS
 
-* **total estimate**: 624h 00m
-* **total spent**: 457h 30m
+* **total estimate**: 624h 30m
+* **total spent**: 471h 00m
 
-* **Günter Windsperger @01302775**: 70h 00m
-* **Nicolas Griebenow @01617265**: 81h 45m
+* **Günter Windsperger @01302775**: 72h 45m
+* **Nicolas Griebenow @01617265**: 84h 15m
 * **Lisa Fürst @11775842**: 72h 45m
-* **Stefan Puntigam @11776838**: 72h 15m
-* **Thomas Stoiber @11777755**: 73h 30m
-* **Michael Bernd Stöger @11778261**: 86h 15m
+* **Stefan Puntigam @11776838**: 75h 00m
+* **Thomas Stoiber @11777755**: 76h 15m
+* **Michael Bernd Stöger @11778261**: 89h 00m
 
 ### ISSUES
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|132|IR1 2020-11-26                                                                     |0h 00m |6h 00m        |
+|133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 00m |0h 30m        |
+|132|IR1 2020-11-26                                                                     |13h 30m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
 |130|C1: Android edit customer preferences (quiz style) (8 SP)                          |0h 00m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
@@ -199,6 +200,11 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Nicolas Griebenow @01617265   |2020-11-26 16:53:28.564|Issue|132|2h 30m  |
+|Günter Windsperger @01302775  |2020-11-26 16:08:34.053|Issue|132|2h 45m  |
+|Michael Bernd Stöger @11778261|2020-11-26 15:42:37.387|Issue|132|2h 45m  |
+|Stefan Puntigam @11776838     |2020-11-26 15:39:34.554|Issue|132|2h 45m  |
+|Thomas Stoiber @11777755      |2020-11-26 15:38:43.094|Issue|132|2h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-25 23:52:58.928|Issue|122|0h 30m  |
 |Lisa Fürst @11775842          |2020-11-25 23:33:14.030|Issue|123|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-11-25 21:27:45.436|Issue|122|1h 00m  |
