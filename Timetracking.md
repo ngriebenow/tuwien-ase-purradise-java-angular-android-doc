@@ -8,7 +8,7 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|2h 45m                         |2h 30m                        |5h 45m                 |2h 45m                      |4h 30m                     |18h 45m                          |
+|2020-48|2h 45m                         |2h 30m                        |5h 45m                 |2h 45m                      |5h 00m                     |18h 45m                          |
 
 ### TIME STATS
 
@@ -19,7 +19,7 @@
 * **Nicolas Griebenow @01617265**: 84h 15m
 * **Lisa Fürst @11775842**: 78h 00m
 * **Stefan Puntigam @11776838**: 75h 00m
-* **Thomas Stoiber @11777755**: 78h 00m
+* **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 89h 00m
 
 ### ISSUES
@@ -200,6 +200,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Thomas Stoiber @11777755      |2020-11-26 23:33:21.353|Issue|104|0h 30m  |
 |Thomas Stoiber @11777755      |2020-11-26 23:32:01.764|Issue|116|1h 45m  |
 |Lisa Fürst @11775842          |2020-11-26 23:15:20.712|Issue|113|2h 30m  |
 |Lisa Fürst @11775842          |2020-11-26 17:07:02.870|Issue|132|2h 45m  |
