@@ -12,7 +12,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 618h 00m
+* **total estimate**: 624h 00m
 * **total spent**: 457h 30m
 
 * **Günter Windsperger @01302775**: 70h 00m
@@ -26,6 +26,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|132|IR1 2020-11-26                                                                     |0h 00m |6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
 |130|C1: Android edit customer preferences (quiz style) (8 SP)                          |0h 00m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
