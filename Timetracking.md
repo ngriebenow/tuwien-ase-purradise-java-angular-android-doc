@@ -13,7 +13,7 @@
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 479h 45m
+* **total spent**: 480h 30m
 
 * **Günter Windsperger @01302775**: 73h 15m
 * **Nicolas Griebenow @01617265**: 84h 15m
@@ -46,7 +46,7 @@
 |116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
 |114|C2: Web view recommendations as list (8 SP)                                        |0h 45m |8h 00m        |
-|113|C2: Backend generate recommendations (13 SP)                                       |2h 30m |13h 00m       |
+|113|C2: Backend generate recommendations (13 SP)                                       |3h 15m |13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |1h 15m |13h 00m       |
