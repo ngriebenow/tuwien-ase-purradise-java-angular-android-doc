@@ -13,7 +13,7 @@
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 491h 00m
+* **total spent**: 491h 30m
 
 * **Günter Windsperger @01302775**: 73h 15m
 * **Nicolas Griebenow @01617265**: 84h 15m
@@ -57,7 +57,7 @@
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |0h 30m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
-|102|Align pictures of home screen vertically (5 SP)                                    |0h 00m |5h 00m        |
+|102|Align pictures of home screen vertically (5 SP)                                    |0h 30m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
