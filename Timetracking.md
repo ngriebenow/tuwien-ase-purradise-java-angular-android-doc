@@ -8,17 +8,17 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|3h 15m                         |2h 30m                        |9h 45m                 |2h 45m                      |5h 00m                     |23h 45m                          |
+|2020-48|3h 15m                         |2h 30m                        |9h 45m                 |6h 15m                      |5h 00m                     |23h 45m                          |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 488h 00m
+* **total spent**: 491h 00m
 
 * **Günter Windsperger @01302775**: 73h 15m
 * **Nicolas Griebenow @01617265**: 84h 15m
 * **Lisa Fürst @11775842**: 82h 00m
-* **Stefan Puntigam @11776838**: 75h 00m
+* **Stefan Puntigam @11776838**: 78h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 94h 00m
 
@@ -30,7 +30,7 @@
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
 |130|C1: Android edit customer preferences (quiz style) (8 SP)                          |0h 00m |8h 00m        |
-|129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
+|129|Check edit permissions (5 SP)                                                      |3h 00m |5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |0h 00m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
 |126|Kennel Management for Keeper (5 SP)                                                |0h 00m |5h 00m        |
@@ -200,6 +200,8 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-11-28 22:09:01.701|Issue|102|0h 30m  |
+|Stefan Puntigam @11776838     |2020-11-28 22:08:51.803|Issue|129|3h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-28 20:15:10.848|Issue|110|5h 00m  |
 |Lisa Fürst @11775842          |2020-11-27 22:47:21.992|Issue|113|1h 00m  |
 |Lisa Fürst @11775842          |2020-11-27 22:47:08.992|Issue|114|1h 30m  |
