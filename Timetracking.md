@@ -9,15 +9,16 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
+|2020-49|0h 00m                         |0h 00m                        |2h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 510h 30m
+* **total spent**: 512h 30m
 
 * **Günter Windsperger @01302775**: 75h 15m
 * **Nicolas Griebenow @01617265**: 84h 15m
-* **Lisa Fürst @11775842**: 87h 00m
+* **Lisa Fürst @11775842**: 89h 00m
 * **Stefan Puntigam @11776838**: 83h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 101h 00m
@@ -46,7 +47,7 @@
 |117|C6: Backend delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
-|114|C2: Web view recommendations as list (8 SP)                                        |6h 45m |8h 00m        |
+|114|C2: Web view recommendations as list (8 SP)                                        |8h 45m |8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |4h 45m |13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
@@ -202,6 +203,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Lisa Fürst @11775842          |2020-11-30 00:16:43.986|Issue|114|2h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-29 23:24:36.115|Issue|110|0h 30m  |
 |Stefan Puntigam @11776838     |2020-11-29 22:27:32.973|Issue|130|1h 30m  |
 |Stefan Puntigam @11776838     |2020-11-29 22:25:49.514|Issue|121|1h 30m  |
