@@ -164,6 +164,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|32 |Feat/backend armodel for android                                |0h 00m|0h 00m        |
 |31 |Feat/android refactor sprint1                                   |0h 00m|0h 00m        |
 |30 |Sprint 1                                                        |0h 00m|0h 00m        |
 |29 |Feat/android ar dog                                             |0h 00m|0h 00m        |
