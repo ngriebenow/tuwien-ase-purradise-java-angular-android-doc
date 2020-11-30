@@ -27,6 +27,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|135|Fix translation error on register page                                             |0h 00m |0h 00m        |
 |134|Validate fake data                                                                 |0h 00m |0h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 00m |0h 30m        |
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
