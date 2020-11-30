@@ -9,15 +9,15 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|0h 00m                         |0h 00m                        |2h 30m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|0h 00m                         |4h 00m                        |2h 30m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 513h 00m
+* **total spent**: 517h 00m
 
 * **Günter Windsperger @01302775**: 75h 15m
-* **Nicolas Griebenow @01617265**: 84h 15m
+* **Nicolas Griebenow @01617265**: 88h 15m
 * **Lisa Fürst @11775842**: 89h 30m
 * **Stefan Puntigam @11776838**: 83h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
@@ -37,7 +37,7 @@
 |127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
 |126|Kennel Management for Keeper (5 SP)                                                |0h 00m |5h 00m        |
 |125|Web keeper animal administration (13 SP)                                           |0h 00m |13h 00m       |
-|124|Web keeper home screen (8 SP)                                                      |0h 00m |8h 00m        |
+|124|Web keeper home screen (8 SP)                                                      |4h 00m |8h 00m        |
 |123|Android refactor backend connector class to multiple service classes (8 SP)        |8h 45m |8h 00m        |
 |122|Render Markdown in Android (5 SP)                                                  |1h 30m |5h 00m        |
 |121|Unify markdown library (5 SP)                                                      |1h 30m |5h 00m        |
@@ -203,6 +203,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Nicolas Griebenow @01617265   |2020-11-30 08:18:49.583|Issue|124|4h 00m  |
 |Lisa Fürst @11775842          |2020-11-30 00:16:56.578|Issue|113|0h 30m  |
 |Lisa Fürst @11775842          |2020-11-30 00:16:43.986|Issue|114|2h 00m  |
 |Michael Bernd Stöger @11778261|2020-11-29 23:24:36.115|Issue|110|0h 30m  |
