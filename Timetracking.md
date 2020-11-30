@@ -9,14 +9,14 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|2h 15m                         |18h 30m                       |2h 30m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|2h 45m                         |18h 30m                       |2h 30m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 533h 45m
+* **total spent**: 534h 15m
 
-* **Günter Windsperger @01302775**: 77h 30m
+* **Günter Windsperger @01302775**: 78h 00m
 * **Nicolas Griebenow @01617265**: 102h 45m
 * **Lisa Fürst @11775842**: 89h 30m
 * **Stefan Puntigam @11776838**: 83h 30m
@@ -57,7 +57,7 @@
 |109|S3: Web view animal in detail (5 SP)                                               |0h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |0h 00m |13h 00m       |
-|106|S2: Web view and filter animal list (13 SP)                                        |0h 30m |13h 00m       |
+|106|S2: Web view and filter animal list (13 SP)                                        |1h 00m |13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
@@ -207,6 +207,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Günter Windsperger @01302775  |2020-11-30 23:59:35.150|Issue|106|0h 30m  |
 |Günter Windsperger @01302775  |2020-11-30 22:01:26.177|Issue|106|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-11-30 21:23:54.341|Issue|125|3h 00m  |
 |Nicolas Griebenow @01617265   |2020-11-30 21:23:44.191|Issue|128|2h 00m  |
