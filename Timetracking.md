@@ -27,6 +27,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
 |134|Validate fake data                                                                 |0h 00m |0h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 00m |0h 30m        |
