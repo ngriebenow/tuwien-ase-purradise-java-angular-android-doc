@@ -9,17 +9,17 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|3h 15m                         |20h 00m                       |11h 30m                |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|3h 15m                         |20h 00m                       |11h 30m                |1h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 545h 15m
+* **total spent**: 546h 15m
 
 * **Günter Windsperger @01302775**: 78h 30m
 * **Nicolas Griebenow @01617265**: 104h 15m
 * **Lisa Fürst @11775842**: 98h 30m
-* **Stefan Puntigam @11776838**: 83h 30m
+* **Stefan Puntigam @11776838**: 84h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 101h 00m
 
@@ -61,7 +61,7 @@
 |106|S2: Web view and filter animal list (13 SP)                                        |1h 00m |13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
-|103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
+|103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |1h 00m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
@@ -208,6 +208,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-12-01 23:52:00.717|Issue|103|1h 00m  |
 |Nicolas Griebenow @01617265   |2020-12-01 23:24:25.528|Issue|126|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-01 23:24:22.853|Issue|127|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-01 23:24:19.002|Issue|128|0h 30m  |
