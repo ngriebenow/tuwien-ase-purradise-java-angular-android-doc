@@ -14,7 +14,7 @@
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 544h 45m
+* **total spent**: 545h 15m
 
 * **Günter Windsperger @01302775**: 78h 30m
 * **Nicolas Griebenow @01617265**: 104h 15m
@@ -38,7 +38,7 @@
 |129|Check edit permissions (5 SP)                                                      |5h 00m |5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
-|126|Kennel Management for Keeper (5 SP)                                                |6h 00m |5h 00m        |
+|126|Kennel Management for Keeper (5 SP)                                                |6h 30m |5h 00m        |
 |125|Web keeper animal administration (13 SP)                                           |3h 00m |13h 00m       |
 |124|Web keeper home screen (8 SP)                                                      |5h 00m |8h 00m        |
 |123|Android refactor backend connector class to multiple service classes (8 SP)        |8h 45m |8h 00m        |
