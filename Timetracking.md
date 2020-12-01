@@ -9,15 +9,15 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|3h 15m                         |18h 30m                       |11h 30m                |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|3h 15m                         |20h 00m                       |11h 30m                |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 543h 45m
+* **total spent**: 544h 45m
 
 * **Günter Windsperger @01302775**: 78h 30m
-* **Nicolas Griebenow @01617265**: 102h 45m
+* **Nicolas Griebenow @01617265**: 104h 15m
 * **Lisa Fürst @11775842**: 98h 30m
 * **Stefan Puntigam @11776838**: 83h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
@@ -36,8 +36,8 @@
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
 |130|C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |5h 00m |5h 00m        |
-|128|Breed Management for Keeper (5 SP)                                                 |2h 00m |5h 00m        |
-|127|Species Management for Keeper (5 SP)                                               |2h 30m |5h 00m        |
+|128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
+|127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
 |126|Kennel Management for Keeper (5 SP)                                                |6h 00m |5h 00m        |
 |125|Web keeper animal administration (13 SP)                                           |3h 00m |13h 00m       |
 |124|Web keeper home screen (8 SP)                                                      |5h 00m |8h 00m        |
@@ -208,6 +208,9 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:25.528|Issue|126|0h 30m  |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:22.853|Issue|127|0h 30m  |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:19.002|Issue|128|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-01 18:09:25.015|Issue|102|0h 30m  |
 |Lisa Fürst @11775842          |2020-12-01 17:33:19.590|Issue|114|0h 30m  |
 |Lisa Fürst @11775842          |2020-12-01 17:25:30.848|Issue|113|4h 30m  |
