@@ -9,17 +9,17 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|3h 15m                         |20h 00m                       |11h 30m                |8h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|3h 15m                         |20h 00m                       |11h 30m                |10h 00m                     |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 553h 15m
+* **total spent**: 555h 15m
 
 * **Günter Windsperger @01302775**: 78h 30m
 * **Nicolas Griebenow @01617265**: 104h 15m
 * **Lisa Fürst @11775842**: 98h 30m
-* **Stefan Puntigam @11776838**: 91h 30m
+* **Stefan Puntigam @11776838**: 93h 30m
 * **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 101h 00m
 
@@ -34,7 +34,7 @@
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 00m |0h 30m        |
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
-|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
+|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |3h 30m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |8h 30m |5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
@@ -208,6 +208,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-12-01 23:55:39.024|Issue|130|2h 00m  |
 |Stefan Puntigam @11776838     |2020-12-01 23:54:42.048|Issue|129|3h 30m  |
 |Stefan Puntigam @11776838     |2020-12-01 23:52:13.843|Issue|121|3h 30m  |
 |Stefan Puntigam @11776838     |2020-12-01 23:52:00.717|Issue|103|1h 00m  |
