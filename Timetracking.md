@@ -9,17 +9,17 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|3h 15m                         |20h 00m                       |11h 30m                |1h 00m                      |0h 00m                     |0h 00m                           |
+|2020-49|3h 15m                         |20h 00m                       |11h 30m                |4h 30m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 624h 30m
-* **total spent**: 546h 15m
+* **total spent**: 549h 45m
 
 * **Günter Windsperger @01302775**: 78h 30m
 * **Nicolas Griebenow @01617265**: 104h 15m
 * **Lisa Fürst @11775842**: 98h 30m
-* **Stefan Puntigam @11776838**: 84h 30m
+* **Stefan Puntigam @11776838**: 88h 00m
 * **Thomas Stoiber @11777755**: 78h 30m
 * **Michael Bernd Stöger @11778261**: 101h 00m
 
@@ -43,7 +43,7 @@
 |124|Web keeper home screen (8 SP)                                                      |5h 00m |8h 00m        |
 |123|Android refactor backend connector class to multiple service classes (8 SP)        |8h 45m |8h 00m        |
 |122|Render Markdown in Android (5 SP)                                                  |1h 30m |5h 00m        |
-|121|Unify markdown library (5 SP)                                                      |1h 30m |5h 00m        |
+|121|Unify markdown library (5 SP)                                                      |5h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |3h 00m |3h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
@@ -208,6 +208,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Stefan Puntigam @11776838     |2020-12-01 23:52:13.843|Issue|121|3h 30m  |
 |Stefan Puntigam @11776838     |2020-12-01 23:52:00.717|Issue|103|1h 00m  |
 |Nicolas Griebenow @01617265   |2020-12-01 23:24:25.528|Issue|126|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-01 23:24:22.853|Issue|127|0h 30m  |
