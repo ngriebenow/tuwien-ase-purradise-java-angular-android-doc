@@ -14,7 +14,7 @@
 ### TIME STATS
 
 * **total estimate**: 630h 30m
-* **total spent**: 564h 30m
+* **total spent**: 565h 00m
 
 * **Günter Windsperger @01302775**: 80h 30m
 * **Nicolas Griebenow @01617265**: 105h 15m
@@ -47,7 +47,7 @@
 |121|Unify markdown library (5 SP)                                                      |5h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |3h 00m |3h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
-|118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
+|118|C6: Web delete customer account (2 SP)                                             |0h 30m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |1h 00m |2h 00m        |
 |116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
