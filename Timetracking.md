@@ -9,25 +9,25 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|5h 15m                         |21h 00m                       |13h 45m                |11h 00m                     |1h 00m                     |0h 00m                           |
+|2020-49|5h 15m                         |21h 00m                       |13h 45m                |11h 00m                     |1h 00m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 630h 30m
-* **total spent**: 562h 30m
+* **total spent**: 563h 30m
 
 * **Günter Windsperger @01302775**: 80h 30m
 * **Nicolas Griebenow @01617265**: 105h 15m
 * **Lisa Fürst @11775842**: 100h 45m
 * **Stefan Puntigam @11776838**: 94h 30m
 * **Thomas Stoiber @11777755**: 79h 30m
-* **Michael Bernd Stöger @11778261**: 101h 00m
+* **Michael Bernd Stöger @11778261**: 102h 00m
 
 ### ISSUES
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|138|Tutor Meeting 2020-12-03                                                           |5h 00m |6h 00m        |
+|138|Tutor Meeting 2020-12-03                                                           |6h 00m |6h 00m        |
 |137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
 |136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
@@ -210,6 +210,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Michael Bernd Stöger @11778261|2020-12-03 14:59:44.684|Issue|138|1h 00m  |
 |Günter Windsperger @01302775  |2020-12-03 12:21:31.604|Issue|106|0h 30m  |
 |Lisa Fürst @11775842          |2020-12-03 10:11:00.507|Issue|114|0h 15m  |
 |Stefan Puntigam @11776838     |2020-12-03 10:05:01.169|Issue|138|1h 00m  |
