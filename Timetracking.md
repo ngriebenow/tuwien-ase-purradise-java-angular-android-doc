@@ -13,7 +13,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 624h 30m
+* **total estimate**: 630h 30m
 * **total spent**: 556h 45m
 
 * **Günter Windsperger @01302775**: 79h 00m
@@ -27,7 +27,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|138|Tutor Meeting 2020-12-03                                                           |0h 00m |0h 00m        |
+|138|Tutor Meeting 2020-12-03                                                           |0h 00m |6h 00m        |
 |137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
 |136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
