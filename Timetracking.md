@@ -8,56 +8,62 @@
 |2020-45|11h 00m                        |11h 30m                       |7h 15m                 |9h 10m                      |13h 00m                    |4h 30m                           |
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
-|2020-48|2h 45m                         |2h 30m                        |0h 30m                 |2h 45m                      |2h 45m                     |18h 45m                          |
+|2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
+|2020-49|4h 45m                         |21h 00m                       |13h 45m                |11h 00m                     |1h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
-* **total estimate**: 624h 30m
-* **total spent**: 471h 00m
+* **total estimate**: 630h 30m
+* **total spent**: 562h 00m
 
-* **Günter Windsperger @01302775**: 72h 45m
-* **Nicolas Griebenow @01617265**: 84h 15m
-* **Lisa Fürst @11775842**: 72h 45m
-* **Stefan Puntigam @11776838**: 75h 00m
-* **Thomas Stoiber @11777755**: 76h 15m
-* **Michael Bernd Stöger @11778261**: 89h 00m
+* **Günter Windsperger @01302775**: 80h 00m
+* **Nicolas Griebenow @01617265**: 105h 15m
+* **Lisa Fürst @11775842**: 100h 45m
+* **Stefan Puntigam @11776838**: 94h 30m
+* **Thomas Stoiber @11777755**: 79h 30m
+* **Michael Bernd Stöger @11778261**: 101h 00m
 
 ### ISSUES
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|138|Tutor Meeting 2020-12-03                                                           |5h 00m |6h 00m        |
+|137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
+|136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
+|135|Fix translation error on register page                                             |0h 00m |0h 00m        |
+|134|Validate fake data                                                                 |0h 00m |0h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 00m |0h 30m        |
-|132|IR1 2020-11-26                                                                     |13h 30m|6h 00m        |
+|132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
-|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |0h 00m |8h 00m        |
-|129|Check edit permissions (5 SP)                                                      |0h 00m |5h 00m        |
-|128|Breed Management for Keeper (5 SP)                                                 |0h 00m |5h 00m        |
-|127|Species Management for Keeper (5 SP)                                               |0h 00m |5h 00m        |
-|126|Kennel Management for Keeper (5 SP)                                                |0h 00m |5h 00m        |
-|125|Web keeper animal administration (13 SP)                                           |0h 00m |13h 00m       |
-|124|Web keeper home screen (8 SP)                                                      |0h 00m |8h 00m        |
+|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |3h 30m |8h 00m        |
+|129|Check edit permissions (5 SP)                                                      |8h 30m |5h 00m        |
+|128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
+|127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
+|126|Kennel Management for Keeper (5 SP)                                                |6h 30m |5h 00m        |
+|125|Web keeper animal administration (13 SP)                                           |3h 00m |13h 00m       |
+|124|Web keeper home screen (8 SP)                                                      |5h 00m |8h 00m        |
 |123|Android refactor backend connector class to multiple service classes (8 SP)        |8h 45m |8h 00m        |
 |122|Render Markdown in Android (5 SP)                                                  |1h 30m |5h 00m        |
-|121|Unify markdown library (5 SP)                                                      |0h 00m |5h 00m        |
+|121|Unify markdown library (5 SP)                                                      |5h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |3h 00m |3h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
 |118|C6: Web delete customer account (2 SP)                                             |0h 00m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |0h 00m |2h 00m        |
-|116|Internal Meeting 2020-11-22                                                        |8h 45m |6h 00m        |
+|116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |0h 00m |13h 00m       |
-|114|C2: Web view recommendations as list (8 SP)                                        |0h 00m |8h 00m        |
-|113|C2: Backend generate recommendations (13 SP)                                       |0h 00m |13h 00m       |
+|114|C2: Web view recommendations as list (8 SP)                                        |12h 15m|8h 00m        |
+|113|C2: Backend generate recommendations (13 SP)                                       |12h 00m|13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
-|110|S4: Backend AR add/edit model and texture (13 SP)                                  |1h 15m |13h 00m       |
+|110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |0h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |0h 00m |13h 00m       |
-|106|S2: Web view and filter animal list (13 SP)                                        |0h 00m |13h 00m       |
-|105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |0h 00m |13h 00m       |
-|104|Sprint 1 Retrospective 2020-11-22                                                  |2h 30m |3h 00m        |
-|103|Authentication use role concept in web/frontend (5 SP)                             |0h 00m |5h 00m        |
-|102|Align pictures of home screen vertically (5 SP)                                    |0h 00m |5h 00m        |
+|106|S2: Web view and filter animal list (13 SP)                                        |1h 30m |13h 00m       |
+|105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
+|104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
+|103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
+|102|Align pictures of home screen vertically (5 SP)                                    |1h 00m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
@@ -164,6 +170,10 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|35 |Feat/unify markdown                                             |0h 00m|0h 00m        |
+|34 |Feat/keeper administration                                      |0h 00m|0h 00m        |
+|33 |Feat/backend filter animals                                     |0h 00m|0h 00m        |
+|32 |Feat/backend armodel for android                                |0h 00m|0h 00m        |
 |31 |Feat/android refactor sprint1                                   |0h 00m|0h 00m        |
 |30 |Sprint 1                                                        |0h 00m|0h 00m        |
 |29 |Feat/android ar dog                                             |0h 00m|0h 00m        |
@@ -200,6 +210,61 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Lisa Fürst @11775842          |2020-12-03 10:11:00.507|Issue|114|0h 15m  |
+|Stefan Puntigam @11776838     |2020-12-03 10:05:01.169|Issue|138|1h 00m  |
+|Nicolas Griebenow @01617265   |2020-12-03 10:01:58.953|Issue|138|1h 00m  |
+|Lisa Fürst @11775842          |2020-12-03 10:01:21.374|Issue|138|1h 00m  |
+|Thomas Stoiber @11777755      |2020-12-03 10:01:02.968|Issue|138|1h 00m  |
+|Günter Windsperger @01302775  |2020-12-03 10:00:49.621|Issue|138|1h 00m  |
+|Lisa Fürst @11775842          |2020-12-02 23:49:58.931|Issue|113|0h 15m  |
+|Lisa Fürst @11775842          |2020-12-02 23:49:39.376|Issue|114|0h 45m  |
+|Günter Windsperger @01302775  |2020-12-02 23:45:32.199|Issue|106|0h 30m  |
+|Stefan Puntigam @11776838     |2020-12-01 23:55:39.024|Issue|130|2h 00m  |
+|Stefan Puntigam @11776838     |2020-12-01 23:54:42.048|Issue|129|3h 30m  |
+|Stefan Puntigam @11776838     |2020-12-01 23:52:13.843|Issue|121|3h 30m  |
+|Stefan Puntigam @11776838     |2020-12-01 23:52:00.717|Issue|103|1h 00m  |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:25.528|Issue|126|0h 30m  |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:22.853|Issue|127|0h 30m  |
+|Nicolas Griebenow @01617265   |2020-12-01 23:24:19.002|Issue|128|0h 30m  |
+|Günter Windsperger @01302775  |2020-12-01 18:09:25.015|Issue|102|0h 30m  |
+|Lisa Fürst @11775842          |2020-12-01 17:33:19.590|Issue|114|0h 30m  |
+|Lisa Fürst @11775842          |2020-12-01 17:25:30.848|Issue|113|4h 30m  |
+|Lisa Fürst @11775842          |2020-12-01 00:01:59.538|Issue|114|2h 00m  |
+|Lisa Fürst @11775842          |2020-12-01 00:01:53.127|Issue|113|2h 00m  |
+|Günter Windsperger @01302775  |2020-11-30 23:59:35.150|Issue|106|0h 30m  |
+|Günter Windsperger @01302775  |2020-11-30 22:01:26.177|Issue|106|0h 30m  |
+|Nicolas Griebenow @01617265   |2020-11-30 21:23:54.341|Issue|125|3h 00m  |
+|Nicolas Griebenow @01617265   |2020-11-30 21:23:44.191|Issue|128|2h 00m  |
+|Nicolas Griebenow @01617265   |2020-11-30 21:23:18.943|Issue|127|2h 30m  |
+|Nicolas Griebenow @01617265   |2020-11-30 21:23:05.064|Issue|126|2h 00m  |
+|Nicolas Griebenow @01617265   |2020-11-30 21:22:57.278|Issue|124|1h 00m  |
+|Günter Windsperger @01302775  |2020-11-30 18:50:11.952|Issue|105|1h 45m  |
+|Nicolas Griebenow @01617265   |2020-11-30 08:19:07.099|Issue|126|4h 00m  |
+|Nicolas Griebenow @01617265   |2020-11-30 08:18:49.583|Issue|124|4h 00m  |
+|Lisa Fürst @11775842          |2020-11-30 00:16:56.578|Issue|113|0h 30m  |
+|Lisa Fürst @11775842          |2020-11-30 00:16:43.986|Issue|114|2h 00m  |
+|Michael Bernd Stöger @11778261|2020-11-29 23:24:36.115|Issue|110|0h 30m  |
+|Stefan Puntigam @11776838     |2020-11-29 22:27:32.973|Issue|130|1h 30m  |
+|Stefan Puntigam @11776838     |2020-11-29 22:25:49.514|Issue|121|1h 30m  |
+|Stefan Puntigam @11776838     |2020-11-29 22:25:00.302|Issue|129|2h 00m  |
+|Lisa Fürst @11775842          |2020-11-29 20:36:17.672|Issue|114|0h 30m  |
+|Günter Windsperger @01302775  |2020-11-29 19:32:12.927|Issue|105|2h 00m  |
+|Michael Bernd Stöger @11778261|2020-11-29 12:43:55.882|Issue|110|3h 00m  |
+|Lisa Fürst @11775842          |2020-11-29 01:01:25.706|Issue|113|0h 30m  |
+|Lisa Fürst @11775842          |2020-11-29 01:01:04.648|Issue|114|4h 00m  |
+|Michael Bernd Stöger @11778261|2020-11-29 01:01:02.950|Issue|110|3h 30m  |
+|Stefan Puntigam @11776838     |2020-11-28 22:09:01.701|Issue|102|0h 30m  |
+|Stefan Puntigam @11776838     |2020-11-28 22:08:51.803|Issue|129|3h 00m  |
+|Michael Bernd Stöger @11778261|2020-11-28 20:15:10.848|Issue|110|5h 00m  |
+|Lisa Fürst @11775842          |2020-11-27 22:47:21.992|Issue|113|1h 00m  |
+|Lisa Fürst @11775842          |2020-11-27 22:47:08.992|Issue|114|1h 30m  |
+|Lisa Fürst @11775842          |2020-11-27 15:32:32.837|Issue|113|0h 45m  |
+|Lisa Fürst @11775842          |2020-11-27 15:32:24.737|Issue|114|0h 45m  |
+|Günter Windsperger @01302775  |2020-11-27 00:31:05.046|Issue|105|0h 30m  |
+|Thomas Stoiber @11777755      |2020-11-26 23:33:21.353|Issue|104|0h 30m  |
+|Thomas Stoiber @11777755      |2020-11-26 23:32:01.764|Issue|116|1h 45m  |
+|Lisa Fürst @11775842          |2020-11-26 23:15:20.712|Issue|113|2h 30m  |
+|Lisa Fürst @11775842          |2020-11-26 17:07:02.870|Issue|132|2h 45m  |
 |Nicolas Griebenow @01617265   |2020-11-26 16:53:28.564|Issue|132|2h 30m  |
 |Günter Windsperger @01302775  |2020-11-26 16:08:34.053|Issue|132|2h 45m  |
 |Michael Bernd Stöger @11778261|2020-11-26 15:42:37.387|Issue|132|2h 45m  |
