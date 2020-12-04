@@ -13,7 +13,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 630h 30m
+* **total estimate**: 631h 30m
 * **total spent**: 567h 00m
 
 * **Günter Windsperger @01302775**: 80h 30m
@@ -27,7 +27,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|139|Missing animations for bootstrap components                                        |0h 00m |0h 00m        |
+|139|Missing animations for bootstrap components                                        |0h 00m |1h 00m        |
 |138|Tutor Meeting 2020-12-03                                                           |6h 00m |6h 00m        |
 |137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
 |136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
