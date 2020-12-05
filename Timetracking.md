@@ -9,18 +9,18 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|5h 15m                         |21h 00m                       |16h 00m                |14h 30m                     |5h 00m                     |1h 00m                           |
+|2020-49|5h 15m                         |21h 00m                       |16h 00m                |14h 30m                     |8h 00m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 631h 30m
-* **total spent**: 573h 15m
+* **total spent**: 576h 15m
 
 * **Günter Windsperger @01302775**: 80h 30m
 * **Nicolas Griebenow @01617265**: 105h 15m
 * **Lisa Fürst @11775842**: 103h 00m
 * **Stefan Puntigam @11776838**: 98h 00m
-* **Thomas Stoiber @11777755**: 83h 30m
+* **Thomas Stoiber @11777755**: 86h 30m
 * **Michael Bernd Stöger @11778261**: 102h 00m
 
 ### ISSUES
@@ -57,7 +57,7 @@
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |0h 00m |5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
-|109|S3: Web view animal in detail (5 SP)                                               |4h 00m |5h 00m        |
+|109|S3: Web view animal in detail (5 SP)                                               |7h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |0h 00m |13h 00m       |
 |106|S2: Web view and filter animal list (13 SP)                                        |2h 00m |13h 00m       |
@@ -212,6 +212,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Thomas Stoiber @11777755      |2020-12-05 17:12:06.379|Issue|109|3h 00m  |
 |Thomas Stoiber @11777755      |2020-12-05 17:11:54.453|Issue|109|1h 30m  |
 |Thomas Stoiber @11777755      |2020-12-05 17:11:40.702|Issue|109|2h 30m  |
 |Lisa Fürst @11775842          |2020-12-05 14:40:19.078|Issue|115|1h 00m  |
