@@ -9,16 +9,16 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|11h 15m                        |21h 00m                       |18h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
+|2020-49|11h 15m                        |21h 00m                       |20h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 631h 30m
-* **total spent**: 586h 15m
+* **total spent**: 588h 15m
 
 * **Günter Windsperger @01302775**: 86h 30m
 * **Nicolas Griebenow @01617265**: 105h 15m
-* **Lisa Fürst @11775842**: 105h 30m
+* **Lisa Fürst @11775842**: 107h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
 * **Thomas Stoiber @11777755**: 88h 00m
 * **Michael Bernd Stöger @11778261**: 102h 00m
@@ -51,7 +51,7 @@
 |118|C6: Web delete customer account (2 SP)                                             |0h 30m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |1h 00m |2h 00m        |
 |116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
-|115|C2: Android view recommendations tinder style (13 SP)                              |4h 30m |13h 00m       |
+|115|C2: Android view recommendations tinder style (13 SP)                              |6h 30m |13h 00m       |
 |114|C2: Web view recommendations as list (8 SP)                                        |12h 15m|8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |12h 15m|13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |0h 00m |13h 00m       |
@@ -212,6 +212,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Lisa Fürst @11775842          |2020-12-06 00:21:57.056|Issue|115|2h 00m  |
 |Lisa Fürst @11775842          |2020-12-05 19:56:44.019|Issue|115|2h 30m  |
 |Günter Windsperger @01302775  |2020-12-05 19:51:38.038|Issue|106|6h 00m  |
 |Thomas Stoiber @11777755      |2020-12-05 17:12:23.240|Issue|107|1h 30m  |
