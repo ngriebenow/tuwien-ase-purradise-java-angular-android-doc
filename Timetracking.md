@@ -9,14 +9,14 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|15h 15m                        |21h 00m                       |20h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
+|2020-49|15h 45m                        |21h 00m                       |20h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 631h 30m
-* **total spent**: 592h 15m
+* **total spent**: 592h 45m
 
-* **Günter Windsperger @01302775**: 90h 30m
+* **Günter Windsperger @01302775**: 91h 00m
 * **Nicolas Griebenow @01617265**: 105h 15m
 * **Lisa Fürst @11775842**: 107h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
@@ -61,7 +61,7 @@
 |109|S3: Web view animal in detail (5 SP)                                               |7h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |1h 30m |13h 00m       |
-|106|S2: Web view and filter animal list (13 SP)                                        |12h 00m|13h 00m       |
+|106|S2: Web view and filter animal list (13 SP)                                        |12h 30m|13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
@@ -172,6 +172,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|37 |WIP: Feat/web animal list                                       |0h 00m|0h 00m        |
 |36 |Feat/backend authorization                                      |0h 00m|0h 00m        |
 |35 |Feat/unify markdown                                             |0h 00m|0h 00m        |
 |34 |Feat/keeper administration                                      |0h 00m|0h 00m        |
@@ -213,6 +214,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Günter Windsperger @01302775  |2020-12-06 06:32:30.656|Issue|106|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-06 06:05:42.125|Issue|106|2h 00m  |
 |Günter Windsperger @01302775  |2020-12-06 00:23:44.802|Issue|106|2h 00m  |
 |Lisa Fürst @11775842          |2020-12-06 00:21:57.056|Issue|115|2h 00m  |
