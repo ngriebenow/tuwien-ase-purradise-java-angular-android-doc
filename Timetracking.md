@@ -9,14 +9,14 @@
 |2020-46|13h 30m                        |22h 30m                       |12h 00m                |11h 30m                     |28h 00m                    |20h 15m                          |
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
-|2020-49|16h 15m                        |21h 00m                       |21h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
+|2020-49|16h 45m                        |21h 00m                       |21h 30m                |14h 30m                     |9h 30m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 631h 30m
-* **total spent**: 594h 15m
+* **total spent**: 594h 45m
 
-* **Günter Windsperger @01302775**: 91h 30m
+* **Günter Windsperger @01302775**: 92h 00m
 * **Nicolas Griebenow @01617265**: 105h 15m
 * **Lisa Fürst @11775842**: 108h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
@@ -65,7 +65,7 @@
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
-|102|Align pictures of home screen vertically (5 SP)                                    |1h 00m |5h 00m        |
+|102|Align pictures of home screen vertically (5 SP)                                    |1h 30m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
@@ -172,6 +172,8 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|39 |bug/web-align-pictures-of-home-screen-vertically [#102]         |0h 00m|0h 00m        |
+|38 |bug/missing-ngb-animations [#139]                               |0h 00m|0h 00m        |
 |37 |WIP: Feat/web animal list                                       |0h 00m|0h 00m        |
 |36 |Feat/backend authorization                                      |0h 00m|0h 00m        |
 |35 |Feat/unify markdown                                             |0h 00m|0h 00m        |
@@ -214,6 +216,7 @@
 
 |user                          |date                   |type |iid|time    |
 |---                           |---                    |---  |---|---     |
+|Günter Windsperger @01302775  |2020-12-06 13:44:40.166|Issue|102|0h 30m  |
 |Lisa Fürst @11775842          |2020-12-06 13:00:39.063|Issue|115|1h 00m  |
 |Günter Windsperger @01302775  |2020-12-06 13:00:23.223|Issue|139|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-06 06:32:30.656|Issue|106|0h 30m  |
