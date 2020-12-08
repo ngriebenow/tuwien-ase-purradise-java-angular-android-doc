@@ -14,7 +14,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 632h 30m
+* **total estimate**: 633h 30m
 * **total spent**: 621h 30m
 
 * **Günter Windsperger @01302775**: 92h 00m
@@ -35,7 +35,7 @@
 |137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
 |136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
-|134|Validate fake data                                                                 |0h 00m |0h 00m        |
+|134|Validate fake data                                                                 |0h 00m |1h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 30m |0h 30m        |
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
