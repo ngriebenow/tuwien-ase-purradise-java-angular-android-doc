@@ -10,16 +10,16 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|4h 00m                         |16h 15m                       |5h 00m                 |10h 15m                     |19h 30m                    |13h 30m                          |
+|2020-50|4h 00m                         |16h 15m                       |7h 00m                 |10h 15m                     |19h 30m                    |13h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 637h 00m
-* **total spent**: 672h 15m
+* **total spent**: 674h 15m
 
 * **Günter Windsperger @01302775**: 96h 00m
 * **Nicolas Griebenow @01617265**: 122h 30m
-* **Lisa Fürst @11775842**: 116h 30m
+* **Lisa Fürst @11775842**: 118h 30m
 * **Stefan Puntigam @11776838**: 108h 15m
 * **Thomas Stoiber @11777755**: 107h 30m
 * **Michael Bernd Stöger @11778261**: 120h 30m
@@ -63,7 +63,7 @@
 |114|C2: Web view recommendations as list (8 SP)                                        |12h 45m|8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |16h 00m|13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |6h 00m |13h 00m       |
-|111|S4: Web edit model + texture (5 SP)                                                |19h 15m|5h 00m        |
+|111|S4: Web edit model + texture (5 SP)                                                |21h 15m|5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |7h 45m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
@@ -231,6 +231,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-09 00:54:20.982|Issue        |111|2h 00m  |
 |Michael Bernd Stöger @11778261|2020-12-09 00:52:56.436|Issue        |111|4h 00m  |
 |Stefan Puntigam @11776838     |2020-12-09 00:02:10.288|Issue        |99 |1h 30m  |
 |Günter Windsperger @01302775  |2020-12-08 23:59:30.844|Merge Request|37 |0h 30m  |
