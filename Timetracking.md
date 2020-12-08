@@ -14,7 +14,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 632h 00m
+* **total estimate**: 632h 30m
 * **total spent**: 620h 15m
 
 * **Günter Windsperger @01302775**: 92h 00m
@@ -79,7 +79,7 @@
 |93 |CI does not run all backend tests                                                  |0h 30m |0h 30m        |
 |92 |Web administration main page                                                       |2h 45m |2h 00m        |
 |91 |Include animal, customer preferences and address in main animal and customer entity|4h 00m |2h 00m        |
-|90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 00m        |
+|90 |Replace lorem ipsum text with suitable greetings                                   |0h 00m |0h 30m        |
 |89 |See one dog in AR: Edit 3D models                                                  |1h 45m |0h 00m        |
 |88 |Clarify MR process                                                                 |0h 00m |0h 00m        |
 |87 |Checkstyle build config                                                            |0h 15m |0h 15m        |
