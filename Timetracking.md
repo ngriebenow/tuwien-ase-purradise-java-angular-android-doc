@@ -10,18 +10,18 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|0h 00m                         |5h 15m                        |5h 00m                 |0h 00m                      |7h 45m                     |9h 30m                           |
+|2020-50|0h 00m                         |5h 15m                        |5h 00m                 |0h 00m                      |14h 15m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 631h 15m
+* **total spent**: 637h 45m
 
 * **Günter Windsperger @01302775**: 92h 00m
 * **Nicolas Griebenow @01617265**: 111h 30m
 * **Lisa Fürst @11775842**: 116h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
-* **Thomas Stoiber @11777755**: 95h 45m
+* **Thomas Stoiber @11777755**: 102h 15m
 * **Michael Bernd Stöger @11778261**: 116h 30m
 
 ### ISSUES
@@ -63,7 +63,7 @@
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |7h 00m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
-|107|S2: Android view and filter animal list (13 SP)                                    |9h 15m |13h 00m       |
+|107|S2: Android view and filter animal list (13 SP)                                    |15h 45m|13h 00m       |
 |106|S2: Web view and filter animal list (13 SP)                                        |12h 30m|13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
@@ -221,6 +221,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-08 12:47:06.538|Issue        |107|6h 30m  |
 |Thomas Stoiber @11777755      |2020-12-08 11:41:16.390|Issue        |107|2h 30m  |
 |Thomas Stoiber @11777755      |2020-12-08 11:41:09.871|Issue        |107|5h 15m  |
 |Nicolas Griebenow @01617265   |2020-12-08 10:40:04.131|Issue        |134|1h 30m  |
