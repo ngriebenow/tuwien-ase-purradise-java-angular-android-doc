@@ -176,6 +176,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|46 |Feat/Web Role concept                                                                        |0h 00m|0h 00m        |
 |45 |[#143] Replace old great dane model with updated version, remove commented out AR render code|0h 00m|0h 00m        |
 |44 |Feat/web view animal                                                                         |0h 00m|0h 00m        |
 |43 |Feat/android view animal                                                                     |0h 00m|0h 00m        |
