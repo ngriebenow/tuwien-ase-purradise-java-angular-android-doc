@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|143|Check AR model great dane                                                          |0h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
 |141|NPE when attempting to add animal without description                              |0h 45m |0h 30m        |
 |140|Remove editor config rule for trailing commas                                      |0h 00m |0h 00m        |
@@ -175,6 +176,8 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|43 |Draft: Feat/android view animal                                 |0h 00m|0h 00m        |
+|42 |Feat/android load ar model                                      |0h 00m|0h 00m        |
 |41 |Feat/android recommendations                                    |0h 00m|0h 00m        |
 |40 |Feat/generate view recommendations                              |0h 00m|0h 00m        |
 |39 |bug/web-align-pictures-of-home-screen-vertically [#102]         |0h 00m|0h 00m        |
