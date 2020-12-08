@@ -10,17 +10,17 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|1h 30m                         |16h 15m                       |5h 00m                 |5h 30m                      |19h 30m                    |9h 30m                           |
+|2020-50|3h 30m                         |16h 15m                       |5h 00m                 |6h 00m                      |19h 30m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 661h 00m
+* **total spent**: 663h 30m
 
-* **Günter Windsperger @01302775**: 93h 30m
+* **Günter Windsperger @01302775**: 95h 30m
 * **Nicolas Griebenow @01617265**: 122h 30m
 * **Lisa Fürst @11775842**: 116h 30m
-* **Stefan Puntigam @11776838**: 103h 30m
+* **Stefan Puntigam @11776838**: 104h 00m
 * **Thomas Stoiber @11777755**: 107h 30m
 * **Michael Bernd Stöger @11778261**: 116h 30m
 
@@ -68,7 +68,7 @@
 |106|S2: Web view and filter animal list (13 SP)                                        |14h 00m|13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
-|103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
+|103|Authentication use role concept in web/frontend (5 SP)                             |1h 30m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |1h 30m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
@@ -186,7 +186,7 @@
 |40 |Feat/generate view recommendations                                                           |0h 00m|0h 00m        |
 |39 |bug/web-align-pictures-of-home-screen-vertically [#102]                                      |0h 00m|0h 00m        |
 |38 |bug/missing-ngb-animations [#139]                                                            |0h 00m|0h 00m        |
-|37 |Feat/web animal list                                                                         |0h 00m|0h 00m        |
+|37 |Feat/web animal list                                                                         |2h 00m|0h 00m        |
 |36 |Feat/backend authorization                                                                   |1h 00m|0h 00m        |
 |35 |Feat/unify markdown                                                                          |0h 00m|0h 00m        |
 |34 |Feat/keeper administration                                                                   |0h 00m|0h 00m        |
@@ -228,6 +228,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-08 23:55:45.696|Merge Request|37 |2h 00m  |
+|Stefan Puntigam @11776838     |2020-12-08 23:55:43.369|Issue        |103|0h 30m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:54:46.627|Issue        |119|1h 30m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:54:04.222|Issue        |118|1h 30m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:53:23.874|Issue        |117|2h 00m  |
