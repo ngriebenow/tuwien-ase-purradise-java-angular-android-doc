@@ -14,7 +14,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 634h 00m
+* **total estimate**: 635h 00m
 * **total spent**: 668h 15m
 
 * **Günter Windsperger @01302775**: 96h 00m
@@ -28,7 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|145|Web - Bad animal list alignment with few elements                                  |0h 00m |0h 00m        |
+|145|Web - Bad animal list alignment with few elements                                  |0h 00m |1h 00m        |
 |144|Fixing stretching of animal list images                                            |0h 00m |0h 00m        |
 |143|Check AR model great dane                                                          |1h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
