@@ -174,6 +174,7 @@
 
 |iid|title                                                           |spent |total estimate|
 |---|---                                                             |---   |---           |
+|41 |Feat/android recommendations                                    |0h 00m|0h 00m        |
 |40 |Feat/generate view recommendations                              |0h 00m|0h 00m        |
 |39 |bug/web-align-pictures-of-home-screen-vertically [#102]         |0h 00m|0h 00m        |
 |38 |bug/missing-ngb-animations [#139]                               |0h 00m|0h 00m        |
