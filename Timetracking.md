@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|145|Web - Bad animal list alignment with few elements                                  |0h 00m |0h 00m        |
 |144|Fixing stretching of animal list images                                            |0h 00m |0h 00m        |
 |143|Check AR model great dane                                                          |1h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
