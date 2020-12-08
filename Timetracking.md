@@ -14,7 +14,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 631h 30m
+* **total estimate**: 632h 00m
 * **total spent**: 620h 15m
 
 * **Günter Windsperger @01302775**: 92h 00m
@@ -28,7 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|141|NPE when attempting to add animal without description                              |0h 00m |0h 00m        |
+|141|NPE when attempting to add animal without description                              |0h 00m |0h 30m        |
 |140|Remove editor config rule for trailing commas                                      |0h 00m |0h 00m        |
 |139|Missing animations for bootstrap components                                        |0h 30m |1h 00m        |
 |138|Tutor Meeting 2020-12-03                                                           |6h 00m |6h 00m        |
