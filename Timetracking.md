@@ -10,18 +10,18 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|0h 00m                         |12h 15m                       |5h 00m                 |0h 00m                      |18h 30m                    |9h 30m                           |
+|2020-50|0h 00m                         |12h 15m                       |5h 00m                 |0h 00m                      |19h 00m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 649h 00m
+* **total spent**: 649h 30m
 
 * **Günter Windsperger @01302775**: 92h 00m
 * **Nicolas Griebenow @01617265**: 118h 30m
 * **Lisa Fürst @11775842**: 116h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
-* **Thomas Stoiber @11777755**: 106h 30m
+* **Thomas Stoiber @11777755**: 107h 00m
 * **Michael Bernd Stöger @11778261**: 116h 30m
 
 ### ISSUES
@@ -59,7 +59,7 @@
 |115|C2: Android view recommendations tinder style (13 SP)                              |11h 00m|13h 00m       |
 |114|C2: Web view recommendations as list (8 SP)                                        |12h 45m|8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |16h 00m|13h 00m       |
-|112|S4: Android Load AR model + database from backend (13 SP)                          |5h 30m |13h 00m       |
+|112|S4: Android Load AR model + database from backend (13 SP)                          |6h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |15h 15m|5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |7h 15m |5h 00m        |
@@ -174,57 +174,59 @@
 
 ### MERGE REQUESTS
 
-|iid|title                                                           |spent |total estimate|
-|---|---                                                             |---   |---           |
-|44 |Feat/web view animal                                            |0h 00m|0h 00m        |
-|43 |Draft: Feat/android view animal                                 |0h 00m|0h 00m        |
-|42 |Feat/android load ar model                                      |0h 00m|0h 00m        |
-|41 |Feat/android recommendations                                    |0h 00m|0h 00m        |
-|40 |Feat/generate view recommendations                              |0h 00m|0h 00m        |
-|39 |bug/web-align-pictures-of-home-screen-vertically [#102]         |0h 00m|0h 00m        |
-|38 |bug/missing-ngb-animations [#139]                               |0h 00m|0h 00m        |
-|37 |WIP: Feat/web animal list                                       |0h 00m|0h 00m        |
-|36 |Feat/backend authorization                                      |1h 00m|0h 00m        |
-|35 |Feat/unify markdown                                             |0h 00m|0h 00m        |
-|34 |Feat/keeper administration                                      |0h 00m|0h 00m        |
-|33 |Feat/backend filter animals                                     |0h 00m|0h 00m        |
-|32 |Feat/backend armodel for android                                |0h 00m|0h 00m        |
-|31 |Feat/android refactor sprint1                                   |0h 00m|0h 00m        |
-|30 |Sprint 1                                                        |0h 00m|0h 00m        |
-|29 |Feat/android ar dog                                             |0h 00m|0h 00m        |
-|28 |Feat/manage employees                                           |0h 00m|0h 00m        |
-|27 |Feat/web admin update legal docs                                |0h 00m|0h 00m        |
-|26 |Feat/reset password                                             |0h 00m|0h 00m        |
-|25 |Feat/register customer android                                  |0h 00m|0h 00m        |
-|24 |Feat/authentication                                             |0h 00m|0h 00m        |
-|23 |Feat/animal customer web restructuring                          |0h 00m|0h 00m        |
-|22 |[#94] Fix issue with fixture in test                            |0h 00m|0h 00m        |
-|21 |Feat/web view data retention policy                             |0h 00m|0h 00m        |
-|20 |Merge Feat/android-navigation                                   |0h 00m|0h 00m        |
-|19 |Feat/web app theming                                            |0h 00m|0h 00m        |
-|18 |Feat/animal customer preferences                                |0h 00m|0h 00m        |
-|17 |Feat/backend terms and conditions                               |0h 00m|0h 00m        |
-|16 |Feat/backend terms and conditions                               |0h 00m|0h 00m        |
-|15 |Feat/backend data retention policy                              |0h 00m|0h 00m        |
-|14 |Feat/backend animal customer preferences                        |0h 00m|0h 00m        |
-|13 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
-|12 |Bug/editorconfig wrong settings                                 |0h 00m|0h 00m        |
-|11 |Feat/checkstyle build config                                    |0h 00m|0h 00m        |
-|10 |Feat/android home page colors                                   |0h 00m|0h 00m        |
-|9  |[#84] Remove overlapping and wrong import rule                  |0h 00m|0h 00m        |
-|8  |Draft: Resolve "Editorconfig: Wrong rules for imports"          |0h 00m|0h 00m        |
-|7  |Bug/Hot liveloading: include type definition to fix TS2339 error|0h 00m|0h 00m        |
-|6  |[#82] Change baseUrl used by protractor                         |0h 00m|0h 00m        |
-|5  |Bug/checkstyle setup                                            |0h 00m|0h 00m        |
-|4  |Feat/test coverage                                              |0h 00m|0h 00m        |
-|3  |Finish template setup                                           |0h 00m|0h 00m        |
-|2  |Feat/test ci                                                    |0h 00m|0h 00m        |
-|1  |Feat/entities                                                   |0h 00m|0h 00m        |
+|iid|title                                                                                        |spent |total estimate|
+|---|---                                                                                          |---   |---           |
+|45 |[#143] Replace old great dane model with updated version, remove commented out AR render code|0h 00m|0h 00m        |
+|44 |Feat/web view animal                                                                         |0h 00m|0h 00m        |
+|43 |Draft: Feat/android view animal                                                              |0h 00m|0h 00m        |
+|42 |Feat/android load ar model                                                                   |0h 00m|0h 00m        |
+|41 |Feat/android recommendations                                                                 |0h 00m|0h 00m        |
+|40 |Feat/generate view recommendations                                                           |0h 00m|0h 00m        |
+|39 |bug/web-align-pictures-of-home-screen-vertically [#102]                                      |0h 00m|0h 00m        |
+|38 |bug/missing-ngb-animations [#139]                                                            |0h 00m|0h 00m        |
+|37 |WIP: Feat/web animal list                                                                    |0h 00m|0h 00m        |
+|36 |Feat/backend authorization                                                                   |1h 00m|0h 00m        |
+|35 |Feat/unify markdown                                                                          |0h 00m|0h 00m        |
+|34 |Feat/keeper administration                                                                   |0h 00m|0h 00m        |
+|33 |Feat/backend filter animals                                                                  |0h 00m|0h 00m        |
+|32 |Feat/backend armodel for android                                                             |0h 00m|0h 00m        |
+|31 |Feat/android refactor sprint1                                                                |0h 00m|0h 00m        |
+|30 |Sprint 1                                                                                     |0h 00m|0h 00m        |
+|29 |Feat/android ar dog                                                                          |0h 00m|0h 00m        |
+|28 |Feat/manage employees                                                                        |0h 00m|0h 00m        |
+|27 |Feat/web admin update legal docs                                                             |0h 00m|0h 00m        |
+|26 |Feat/reset password                                                                          |0h 00m|0h 00m        |
+|25 |Feat/register customer android                                                               |0h 00m|0h 00m        |
+|24 |Feat/authentication                                                                          |0h 00m|0h 00m        |
+|23 |Feat/animal customer web restructuring                                                       |0h 00m|0h 00m        |
+|22 |[#94] Fix issue with fixture in test                                                         |0h 00m|0h 00m        |
+|21 |Feat/web view data retention policy                                                          |0h 00m|0h 00m        |
+|20 |Merge Feat/android-navigation                                                                |0h 00m|0h 00m        |
+|19 |Feat/web app theming                                                                         |0h 00m|0h 00m        |
+|18 |Feat/animal customer preferences                                                             |0h 00m|0h 00m        |
+|17 |Feat/backend terms and conditions                                                            |0h 00m|0h 00m        |
+|16 |Feat/backend terms and conditions                                                            |0h 00m|0h 00m        |
+|15 |Feat/backend data retention policy                                                           |0h 00m|0h 00m        |
+|14 |Feat/backend animal customer preferences                                                     |0h 00m|0h 00m        |
+|13 |Bug/editorconfig wrong settings                                                              |0h 00m|0h 00m        |
+|12 |Bug/editorconfig wrong settings                                                              |0h 00m|0h 00m        |
+|11 |Feat/checkstyle build config                                                                 |0h 00m|0h 00m        |
+|10 |Feat/android home page colors                                                                |0h 00m|0h 00m        |
+|9  |[#84] Remove overlapping and wrong import rule                                               |0h 00m|0h 00m        |
+|8  |Draft: Resolve "Editorconfig: Wrong rules for imports"                                       |0h 00m|0h 00m        |
+|7  |Bug/Hot liveloading: include type definition to fix TS2339 error                             |0h 00m|0h 00m        |
+|6  |[#82] Change baseUrl used by protractor                                                      |0h 00m|0h 00m        |
+|5  |Bug/checkstyle setup                                                                         |0h 00m|0h 00m        |
+|4  |Feat/test coverage                                                                           |0h 00m|0h 00m        |
+|3  |Finish template setup                                                                        |0h 00m|0h 00m        |
+|2  |Feat/test ci                                                                                 |0h 00m|0h 00m        |
+|1  |Feat/entities                                                                                |0h 00m|0h 00m        |
 
 ### TIME RECORDS
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-08 18:37:40.156|Issue        |112|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-08 17:08:19.585|Issue        |112|5h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-08 17:07:33.871|Issue        |134|1h 30m  |
 |Thomas Stoiber @11777755      |2020-12-08 17:06:01.345|Issue        |109|0h 15m  |
