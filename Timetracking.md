@@ -10,17 +10,17 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|4h 00m                         |16h 15m                       |5h 00m                 |8h 45m                      |19h 30m                    |9h 30m                           |
+|2020-50|4h 00m                         |16h 15m                       |5h 00m                 |10h 15m                     |19h 30m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 666h 45m
+* **total spent**: 668h 15m
 
 * **Günter Windsperger @01302775**: 96h 00m
 * **Nicolas Griebenow @01617265**: 122h 30m
 * **Lisa Fürst @11775842**: 116h 30m
-* **Stefan Puntigam @11776838**: 106h 45m
+* **Stefan Puntigam @11776838**: 108h 15m
 * **Thomas Stoiber @11777755**: 107h 30m
 * **Michael Bernd Stöger @11778261**: 116h 30m
 
@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|144|Fixing stretching of animal list images                                            |0h 00m |0h 00m        |
 |143|Check AR model great dane                                                          |1h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
 |141|NPE when attempting to add animal without description                              |0h 45m |0h 30m        |
@@ -72,7 +73,7 @@
 |102|Align pictures of home screen vertically (5 SP)                                    |1h 30m |5h 00m        |
 |101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
-|99 |Activation link does not work (5 SP)                                               |0h 00m |5h 00m        |
+|99 |Activation link does not work (5 SP)                                               |1h 30m |5h 00m        |
 |98 |Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 45m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
@@ -228,6 +229,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2020-12-09 00:02:10.288|Issue        |99 |1h 30m  |
 |Günter Windsperger @01302775  |2020-12-08 23:59:30.844|Merge Request|37 |0h 30m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:56:54.099|Issue        |130|2h 45m  |
 |Günter Windsperger @01302775  |2020-12-08 23:55:45.696|Merge Request|37 |2h 00m  |
