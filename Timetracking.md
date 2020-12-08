@@ -10,17 +10,17 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|1h 30m                         |16h 15m                       |5h 00m                 |2h 30m                      |19h 30m                    |9h 30m                           |
+|2020-50|1h 30m                         |16h 15m                       |5h 00m                 |4h 00m                      |19h 30m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 658h 00m
+* **total spent**: 659h 30m
 
 * **Günter Windsperger @01302775**: 93h 30m
 * **Nicolas Griebenow @01617265**: 122h 30m
 * **Lisa Fürst @11775842**: 116h 30m
-* **Stefan Puntigam @11776838**: 100h 30m
+* **Stefan Puntigam @11776838**: 102h 00m
 * **Thomas Stoiber @11777755**: 107h 30m
 * **Michael Bernd Stöger @11778261**: 116h 30m
 
@@ -53,7 +53,7 @@
 |121|Unify markdown library (5 SP)                                                      |5h 00m |5h 00m        |
 |120|Update versions of dependencies in Android (3 SP)                                  |3h 00m |3h 00m        |
 |119|C6: Android delete customer account (2 SP)                                         |0h 00m |2h 00m        |
-|118|C6: Web delete customer account (2 SP)                                             |0h 30m |2h 00m        |
+|118|C6: Web delete customer account (2 SP)                                             |2h 00m |2h 00m        |
 |117|C6: Backend delete customer account (2 SP)                                         |3h 00m |2h 00m        |
 |116|Internal Meeting 2020-11-22                                                        |10h 30m|6h 00m        |
 |115|C2: Android view recommendations tinder style (13 SP)                              |11h 00m|13h 00m       |
@@ -228,6 +228,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2020-12-08 23:54:04.222|Issue        |118|1h 30m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:53:23.874|Issue        |117|2h 00m  |
 |Stefan Puntigam @11776838     |2020-12-08 23:50:09.228|Issue        |129|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-08 20:30:08.433|Issue        |106|1h 30m  |
