@@ -10,15 +10,15 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|0h 00m                         |13h 15m                       |5h 00m                 |0h 00m                      |19h 30m                    |9h 30m                           |
+|2020-50|0h 00m                         |13h 45m                       |5h 00m                 |0h 00m                      |19h 30m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 651h 00m
+* **total spent**: 651h 30m
 
 * **Günter Windsperger @01302775**: 92h 00m
-* **Nicolas Griebenow @01617265**: 119h 30m
+* **Nicolas Griebenow @01617265**: 120h 00m
 * **Lisa Fürst @11775842**: 116h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
 * **Thomas Stoiber @11777755**: 107h 30m
@@ -62,7 +62,7 @@
 |112|S4: Android Load AR model + database from backend (13 SP)                          |6h 00m |13h 00m       |
 |111|S4: Web edit model + texture (5 SP)                                                |15h 15m|5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
-|109|S3: Web view animal in detail (5 SP)                                               |7h 15m |5h 00m        |
+|109|S3: Web view animal in detail (5 SP)                                               |7h 45m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |20h 15m|13h 00m       |
 |106|S2: Web view and filter animal list (13 SP)                                        |12h 30m|13h 00m       |
@@ -226,6 +226,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2020-12-08 19:51:23.412|Issue        |109|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-08 19:29:18.433|Issue        |143|1h 00m  |
 |Thomas Stoiber @11777755      |2020-12-08 18:38:13.274|Issue        |107|0h 30m  |
 |Thomas Stoiber @11777755      |2020-12-08 18:37:40.156|Issue        |112|0h 30m  |
