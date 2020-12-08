@@ -10,14 +10,14 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|0h 00m                         |16h 15m                       |5h 00m                 |0h 00m                      |19h 30m                    |9h 30m                           |
+|2020-50|1h 30m                         |16h 15m                       |5h 00m                 |0h 00m                      |19h 30m                    |9h 30m                           |
 
 ### TIME STATS
 
 * **total estimate**: 634h 00m
-* **total spent**: 654h 00m
+* **total spent**: 655h 30m
 
-* **Günter Windsperger @01302775**: 92h 00m
+* **Günter Windsperger @01302775**: 93h 30m
 * **Nicolas Griebenow @01617265**: 122h 30m
 * **Lisa Fürst @11775842**: 116h 30m
 * **Stefan Puntigam @11776838**: 98h 00m
@@ -65,7 +65,7 @@
 |109|S3: Web view animal in detail (5 SP)                                               |7h 45m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |0h 00m |5h 00m        |
 |107|S2: Android view and filter animal list (13 SP)                                    |20h 45m|13h 00m       |
-|106|S2: Web view and filter animal list (13 SP)                                        |12h 30m|13h 00m       |
+|106|S2: Web view and filter animal list (13 SP)                                        |14h 00m|13h 00m       |
 |105|S2: Backend: own endpoint that receives filter dto (13 SP)                         |4h 15m |13h 00m       |
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |1h 00m |5h 00m        |
@@ -178,7 +178,7 @@
 |---|---                                                                                          |---   |---           |
 |45 |[#143] Replace old great dane model with updated version, remove commented out AR render code|0h 00m|0h 00m        |
 |44 |Feat/web view animal                                                                         |0h 00m|0h 00m        |
-|43 |Draft: Feat/android view animal                                                              |0h 00m|0h 00m        |
+|43 |Feat/android view animal                                                                     |0h 00m|0h 00m        |
 |42 |Feat/android load ar model                                                                   |0h 00m|0h 00m        |
 |41 |Feat/android recommendations                                                                 |0h 00m|0h 00m        |
 |40 |Feat/generate view recommendations                                                           |0h 00m|0h 00m        |
@@ -226,6 +226,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-08 20:30:08.433|Issue        |106|1h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-08 19:52:45.549|Issue        |134|2h 00m  |
 |Nicolas Griebenow @01617265   |2020-12-08 19:51:58.110|Issue        |107|0h 30m  |
 |Nicolas Griebenow @01617265   |2020-12-08 19:51:23.412|Issue        |109|0h 30m  |
