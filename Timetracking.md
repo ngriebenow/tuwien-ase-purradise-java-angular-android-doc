@@ -10,14 +10,14 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|8h 15m                         |16h 15m                       |7h 00m                 |10h 15m                     |19h 45m                    |13h 30m                          |
+|2020-50|9h 00m                         |16h 15m                       |7h 00m                 |10h 15m                     |19h 45m                    |13h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 637h 00m
-* **total spent**: 678h 45m
+* **total spent**: 679h 30m
 
-* **Günter Windsperger @01302775**: 100h 15m
+* **Günter Windsperger @01302775**: 101h 00m
 * **Nicolas Griebenow @01617265**: 122h 30m
 * **Lisa Fürst @11775842**: 118h 30m
 * **Stefan Puntigam @11776838**: 108h 15m
@@ -29,7 +29,7 @@
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
-|149|System Testing for MR2                                                             |0h 15m |0h 00m        |
+|149|System Testing for MR2                                                             |1h 00m |0h 00m        |
 |148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
 |147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
 |146|Web - missing translations                                                         |0h 00m |1h 00m        |
@@ -238,6 +238,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-09 13:38:03.423|Issue        |149|0h 45m  |
 |Thomas Stoiber @11777755      |2020-12-09 07:06:33.295|Issue        |148|0h 15m  |
 |Günter Windsperger @01302775  |2020-12-09 06:29:02.733|Issue        |149|0h 15m  |
 |Günter Windsperger @01302775  |2020-12-09 06:28:06.397|Merge Request|48 |0h 15m  |
