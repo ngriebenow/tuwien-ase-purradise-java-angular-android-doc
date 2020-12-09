@@ -28,7 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|151|Sprint 1 Retrospective 2020-12-09                                                  |0h 30m |3h 00m        |
+|151|Sprint 2 Retrospective 2020-12-09                                                  |0h 30m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
 |149|System Testing for MR2                                                             |1h 30m |0h 00m        |
 |148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
