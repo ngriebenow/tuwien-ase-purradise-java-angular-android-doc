@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |3h 45m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |2h 30m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
