@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
 |146|Web - missing translations                                                         |0h 00m |1h 00m        |
 |145|Web - Bad animal list alignment with few elements                                  |0h 00m |1h 00m        |
 |144|Web - Fixing stretching of animal list images                                      |0h 00m |1h 00m        |
@@ -179,6 +180,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|48 |Draft: Feat/android animal detail                                                            |0h 00m|0h 00m        |
 |47 |Feat/delete customer account                                                                 |0h 00m|0h 00m        |
 |46 |Feat/Web Role concept                                                                        |0h 00m|0h 00m        |
 |45 |[#143] Replace old great dane model with updated version, remove commented out AR render code|0h 00m|0h 00m        |
