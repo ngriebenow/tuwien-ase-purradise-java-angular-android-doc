@@ -14,8 +14,8 @@
 
 ### TIME STATS
 
-* **total estimate**: 640h 00m
-* **total spent**: 681h 00m
+* **total estimate**: 644h 30m
+* **total spent**: 681h 45m
 
 * **Günter Windsperger @01302775**: 101h 00m
 * **Nicolas Griebenow @01617265**: 123h 00m
@@ -28,6 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|152|MR2 Demo                                                                           |0h 45m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |1h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
 |149|System Testing for MR2                                                             |1h 30m |0h 00m        |
