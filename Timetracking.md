@@ -10,16 +10,16 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|9h 00m                         |16h 45m                       |7h 30m                 |11h 30m                     |21h 00m                    |13h 30m                          |
+|2020-50|9h 00m                         |16h 45m                       |8h 00m                 |11h 30m                     |21h 00m                    |13h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 644h 30m
-* **total spent**: 683h 45m
+* **total spent**: 684h 15m
 
 * **Günter Windsperger @01302775**: 101h 00m
 * **Nicolas Griebenow @01617265**: 123h 00m
-* **Lisa Fürst @11775842**: 119h 00m
+* **Lisa Fürst @11775842**: 119h 30m
 * **Stefan Puntigam @11776838**: 109h 30m
 * **Thomas Stoiber @11777755**: 109h 00m
 * **Michael Bernd Stöger @11778261**: 120h 30m
@@ -29,7 +29,7 @@
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
 |152|MR2 Demo                                                                           |2h 15m |4h 30m        |
-|151|Sprint 2 Retrospective 2020-12-09                                                  |1h 30m |3h 00m        |
+|151|Sprint 2 Retrospective 2020-12-09                                                  |2h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
 |149|System Testing for MR2                                                             |1h 30m |0h 00m        |
 |148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
@@ -241,6 +241,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-09 18:22:45.609|Issue        |151|0h 30m  |
 |Stefan Puntigam @11776838     |2020-12-09 18:20:36.327|Issue        |152|0h 45m  |
 |Stefan Puntigam @11776838     |2020-12-09 18:20:11.549|Issue        |151|0h 30m  |
 |Thomas Stoiber @11777755      |2020-12-09 18:19:49.489|Issue        |152|0h 45m  |
