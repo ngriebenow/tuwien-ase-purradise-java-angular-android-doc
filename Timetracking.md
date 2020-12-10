@@ -10,17 +10,17 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|12h 00m                        |18h 15m                       |10h 00m                |12h 00m                     |23h 00m                    |15h 15m                          |
+|2020-50|8h 00m                         |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |15h 15m                          |
 
 ### TIME STATS
 
 * **total estimate**: 657h 30m
-* **total spent**: 695h 00m
+* **total spent**: 692h 15m
 
-* **Günter Windsperger @01302775**: 104h 00m
+* **Günter Windsperger @01302775**: 100h 00m
 * **Nicolas Griebenow @01617265**: 124h 30m
 * **Lisa Fürst @11775842**: 121h 30m
-* **Stefan Puntigam @11776838**: 110h 00m
+* **Stefan Puntigam @11776838**: 111h 15m
 * **Thomas Stoiber @11777755**: 111h 00m
 * **Michael Bernd Stöger @11778261**: 122h 15m
 
@@ -28,7 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|154|MR2 Presentation 2020-12-10                                                        |5h 00m |9h 00m        |
+|154|MR2 Presentation 2020-12-10                                                        |6h 15m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
@@ -190,7 +190,7 @@
 |51 |Improve and Hotfix fake data                                                                 |0h 00m|0h 00m        |
 |50 |Sprint 2                                                                                     |0h 00m|0h 00m        |
 |49 |[#147] Add ar model ids to fake data                                                         |0h 00m|0h 00m        |
-|48 |Feat/android animal detail                                                                   |4h 00m|0h 00m        |
+|48 |Feat/android animal detail                                                                   |0h 00m|0h 00m        |
 |47 |Feat/delete customer account                                                                 |0h 00m|0h 00m        |
 |46 |Feat/Web Role concept                                                                        |0h 00m|0h 00m        |
 |45 |[#143] Replace old great dane model with updated version, remove commented out AR render code|0h 00m|0h 00m        |
@@ -243,6 +243,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-10 10:27:09.925|Merge Request|48 |-4h 00m |
+|Stefan Puntigam @11776838     |2020-12-10 10:26:42.030|Issue        |154|1h 15m  |
 |Günter Windsperger @01302775  |2020-12-10 10:24:12.566|Issue        |152|0h 45m  |
 |Günter Windsperger @01302775  |2020-12-10 10:23:57.425|Issue        |152|-45h 00m|
 |Nicolas Griebenow @01617265   |2020-12-10 10:22:04.581|Issue        |152|0h -15m |
