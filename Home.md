@@ -40,6 +40,9 @@ This wiki contains all process documentation for this project that is not alread
  - [Current backlog](/process/sprints/1/Backlog)
  - [All sprints](/process/sprints/List-of-Sprints)
 
+### System Tests:
+- [System Test 01](/process/systemtests/System Test 01)
+
 ## Templates
 Templates for new documents can be found in the `templates` directory.
  - [Reviewed Document](/templates/Reviewed-Document)
