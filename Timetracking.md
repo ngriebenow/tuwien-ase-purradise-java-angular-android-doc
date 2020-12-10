@@ -15,7 +15,7 @@
 ### TIME STATS
 
 * **total estimate**: 657h 30m
-* **total spent**: 739h 15m
+* **total spent**: 739h 30m
 
 * **Günter Windsperger @01302775**: 148h 15m
 * **Nicolas Griebenow @01617265**: 124h 45m
@@ -28,12 +28,12 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|154|MR2 Präsentation                                                                   |5h 00m |9h 00m        |
+|154|MR2 Presentation                                                                   |5h 00m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |49h 00m|4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
-|149|System Testing for MR2                                                             |3h 45m |4h 00m        |
+|149|System Testing for MR2                                                             |4h 00m |4h 00m        |
 |148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
 |147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
 |146|Web - missing translations                                                         |0h 00m |1h 00m        |
