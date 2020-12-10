@@ -14,7 +14,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 648h 30m
+* **total estimate**: 657h 30m
 * **total spent**: 688h 30m
 
 * **Günter Windsperger @01302775**: 101h 30m
@@ -28,7 +28,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|154|MR2                                                                                |0h 00m |0h 00m        |
+|154|MR2                                                                                |0h 00m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |3h 45m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
