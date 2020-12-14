@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 774h 15m
+* **total estimate**: 779h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -45,7 +45,7 @@
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |20h 00m       |
 |155|Sprint 3 Planning                                                                  |8h 30m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
-|153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
+|153|Normal map not used for rendering                                                  |0h 00m |5h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
