@@ -16,7 +16,7 @@
 ### TIME STATS
 
 * **total estimate**: 826h 15m
-* **total spent**: 706h 00m
+* **total spent**: 706h 45m
 
 * **Günter Windsperger @01302775**: 107h 00m
 * **Nicolas Griebenow @01617265**: 125h 45m
@@ -53,7 +53,7 @@
 |158|C3: Android view and edit watchlist (8 SP)                                         |0h 00m |8h 00m        |
 |157|C3: Web view and edit watchlist (8 SP)                                             |0h 00m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |20h 00m       |
-|155|Sprint 3 Planning                                                                  |8h 30m |7h 30m        |
+|155|Sprint 3 Planning                                                                  |9h 15m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |5h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
