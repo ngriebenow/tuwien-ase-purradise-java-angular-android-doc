@@ -82,7 +82,7 @@
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 30m |0h 30m        |
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
-|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |8h 15m |8h 00m        |
+|130|Unfinished: See [#182] - C1: Android edit customer preferences (quiz style) (8 SP) |8h 15m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |10h 30m|5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
