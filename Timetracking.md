@@ -16,7 +16,7 @@
 ### TIME STATS
 
 * **total estimate**: 665h 15m
-* **total spent**: 704h 45m
+* **total spent**: 720h 45m
 
 * **Günter Windsperger @01302775**: 106h 15m
 * **Nicolas Griebenow @01617265**: 125h 45m
@@ -30,7 +30,7 @@
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |0h 00m        |
-|155|Sprint 3 Planning                                                                  |7h 15m |7h 30m        |
+|155|Sprint 3 Planning                                                                  |23h 15m|7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
