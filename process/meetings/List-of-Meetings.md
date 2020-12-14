@@ -16,9 +16,11 @@
  - [2020-10-29](./tutor/2020‐10‐29-Tutor-Meeting)
  - [2020-11-12](./tutor/2020‐11‐12-Tutor-Meeting)
  - [2020-11-19](./tutor/2020‐11‐19-Tutor-Meeting)
+ - [2020-12-03](./tutor/2020‐12‐03-Tutor-Meeting)
 
 ## Mangement reviews
  - [2020‐11‐05 MR1](./mr/2020‐11‐05-MR1)
+ - [2020‐12‐10 MR2](./mr/2020‐12‐10-MR2)
 
 ## Internal Reviews
  - [2020-11-26](./ir/2020‐11‐26-IR1)
