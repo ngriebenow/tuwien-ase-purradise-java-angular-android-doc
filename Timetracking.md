@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 808h 15m
+* **total estimate**: 813h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|177|Web - Refactoring of entity-progressed-dialogs                                     |0h 00m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                     |0h 00m |2h 00m        |
 |175|Web - Registration valdiation refactoring                                          |0h 00m |1h 00m        |
 |174|Web - Recommendations design refactoring                                           |0h 00m |3h 00m        |
