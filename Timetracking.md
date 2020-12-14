@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 786h 15m
+* **total estimate**: 788h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -62,7 +62,7 @@
 |139|Missing animations for bootstrap components                                        |0h 30m |1h 00m        |
 |138|Tutor Meeting 2020-12-03                                                           |6h 00m |6h 00m        |
 |137|Firefox: Incorrect size of images in carousel component                            |0h 00m |3h 00m        |
-|136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
+|136|Web - User management - wrong page count when filtering                            |0h 00m |2h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
 |134|Validate fake data                                                                 |5h 00m |1h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 30m |0h 30m        |
