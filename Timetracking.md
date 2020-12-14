@@ -11,16 +11,16 @@
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
-|2020-51|1h 15m                         |1h 15m                        |0h 00m                 |0h 00m                      |0h 00m                     |1h 15m                           |
+|2020-51|1h 15m                         |1h 15m                        |1h 15m                 |0h 00m                      |0h 00m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 665h 15m
-* **total spent**: 702h 15m
+* **total spent**: 703h 30m
 
 * **Günter Windsperger @01302775**: 106h 15m
 * **Nicolas Griebenow @01617265**: 125h 45m
-* **Lisa Fürst @11775842**: 121h 30m
+* **Lisa Fürst @11775842**: 122h 45m
 * **Stefan Puntigam @11776838**: 111h 15m
 * **Thomas Stoiber @11777755**: 111h 00m
 * **Michael Bernd Stöger @11778261**: 124h 45m
@@ -30,7 +30,7 @@
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |0h 00m        |
-|155|Sprint 3 Planning                                                                  |4h 45m |7h 30m        |
+|155|Sprint 3 Planning                                                                  |6h 00m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
@@ -246,6 +246,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-14 17:15:21.208|Issue        |155|1h 15m  |
 |Günter Windsperger @01302775  |2020-12-14 17:15:16.528|Issue        |155|1h 15m  |
 |Michael Bernd Stöger @11778261|2020-12-14 17:15:11.728|Issue        |155|1h 15m  |
 |Nicolas Griebenow @01617265   |2020-12-14 17:15:08.240|Issue        |155|1h 15m  |
