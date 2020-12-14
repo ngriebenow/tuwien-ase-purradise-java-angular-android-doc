@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 719h 15m
+* **total estimate**: 727h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|164|C5: Android view list of adopted animals (8 SP)                                    |0h 00m |8h 00m        |
 |163|C5: Web view list of adopted animals (8 SP)                                        |0h 00m |8h 00m        |
 |162|C4: Backend manage appointment (generated, verify) (2 SP)                          |0h 00m |2h 00m        |
 |161|C4: Android view and add appointment (13 SP)                                       |0h 00m |13h 00m       |
