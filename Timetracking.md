@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 780h 15m
+* **total estimate**: 781h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -53,7 +53,7 @@
 |148|Release Sprint 2                                                                   |0h 15m |0h 15m        |
 |147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
 |146|Web - missing translations                                                         |0h 00m |2h 00m        |
-|145|Web - Bad animal list alignment with few elements                                  |0h 00m |1h 00m        |
+|145|Web - Bad animal list alignment with few elements                                  |0h 00m |2h 00m        |
 |144|Web - Fixing stretching of animal list images                                      |0h 00m |1h 00m        |
 |143|Check AR model great dane                                                          |1h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
