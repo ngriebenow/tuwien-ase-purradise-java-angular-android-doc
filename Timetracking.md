@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 665h 00m
+* **total estimate**: 665h 15m
 * **total spent**: 698h 30m
 
 * **Günter Windsperger @01302775**: 105h 00m
@@ -37,7 +37,7 @@
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
 |149|System Testing for MR2                                                             |4h 00m |4h 00m        |
-|148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
+|148|Release Sprint 2                                                                   |0h 15m |0h 15m        |
 |147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
 |146|Web - missing translations                                                         |0h 00m |1h 00m        |
 |145|Web - Bad animal list alignment with few elements                                  |0h 00m |1h 00m        |
