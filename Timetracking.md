@@ -11,6 +11,7 @@
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
+|2020-51|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
@@ -28,7 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|156|SonarLint Scan + Refactoring                                                       |0h 00m |0h 00m        |
+|156|QA SonarLint Scan + Refactoring                                                    |0h 00m |0h 00m        |
 |155|Sprint 3 Planning                                                                  |1h 00m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
 |153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
