@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 827h 15m
+* **total estimate**: 830h 15m
 * **total spent**: 706h 45m
 
 * **Günter Windsperger @01302775**: 107h 00m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|181|RE: Standardize margins of all frontend pages (3 SP)                               |0h 00m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                             |0h 00m |1h 00m        |
 |179|Android - Animal detail refactoring                                                |0h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                      |0h 00m |8h 00m        |
