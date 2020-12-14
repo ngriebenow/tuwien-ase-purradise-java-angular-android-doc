@@ -101,7 +101,7 @@
 |114|C2: Web view recommendations as list (8 SP)                                        |12h 45m|8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |16h 00m|13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |6h 00m |13h 00m       |
-|111|S4: Web edit model + texture (5 SP)                                                |21h 15m|5h 00m        |
+|111|Unfinished: See [#183] - S4: Web edit model + texture (5 SP)                       |21h 15m|5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |7h 45m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |4h 00m |5h 00m        |
