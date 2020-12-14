@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 838h 15m
+* **total estimate**: 851h 15m
 * **total spent**: 706h 45m
 
 * **Günter Windsperger @01302775**: 107h 00m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|183|RE: S4: Web edit model + texture (5 SP)                                            |0h 00m |13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                      |0h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                               |0h 00m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                             |0h 00m |1h 00m        |
