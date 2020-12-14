@@ -111,7 +111,7 @@
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |1h 30m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |1h 30m |5h 00m        |
-|101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
+|101|Unfinished: See [#181] - Standardize margins of all frontend pages (3 SP)          |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |1h 30m |5h 00m        |
 |98 |Unfinished: See [#180] - Fix alignment of error page (1 SP)                        |0h 00m |1h 00m        |
