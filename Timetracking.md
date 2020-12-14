@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 797h 15m
+* **total estimate**: 802h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|173|Android - Dynamic loading of animal list                                           |0h 00m |5h 00m        |
 |172|Android - Animal overview refactoring                                              |0h 00m |3h 00m        |
 |171|Android + Web - Rework and standardize icons                                       |0h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                           |0h 00m |3h 00m        |
