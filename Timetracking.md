@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 665h 15m
+* **total estimate**: 673h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -29,7 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|157|C3: Web view and edit watchlist                                                    |0h 00m |0h 00m        |
+|157|C3: Web view and edit watchlist (8 SP)                                             |0h 00m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |0h 00m        |
 |155|Sprint 3 Planning                                                                  |8h 30m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
