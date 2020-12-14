@@ -15,7 +15,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 821h 15m
+* **total estimate**: 826h 15m
 * **total spent**: 706h 00m
 
 * **Günter Windsperger @01302775**: 106h 15m
@@ -29,6 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
+|179|Android - Animal detail refactoring                                                |0h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                      |0h 00m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs                                     |0h 00m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                     |0h 00m |2h 00m        |
