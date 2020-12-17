@@ -11,15 +11,15 @@
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
-|2020-51|5h 00m                         |2h 15m                        |2h 15m                 |2h 15m                      |4h 45m                     |2h 15m                           |
+|2020-51|5h 00m                         |4h 15m                        |2h 15m                 |2h 15m                      |4h 45m                     |2h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 857h 15m
-* **total spent**: 717h 15m
+* **total spent**: 719h 15m
 
 * **Günter Windsperger @01302775**: 110h 00m
-* **Nicolas Griebenow @01617265**: 126h 45m
+* **Nicolas Griebenow @01617265**: 128h 45m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
 * **Thomas Stoiber @11777755**: 115h 45m
@@ -51,7 +51,7 @@
 |165|C5: Backend manage adoptions (generated, verify) (2 SP)                            |0h 00m |2h 00m        |
 |164|C5: Android view list of adopted animals (8 SP)                                    |0h 00m |8h 00m        |
 |163|C5: Web view list of adopted animals (8 SP)                                        |0h 00m |8h 00m        |
-|162|C4: Backend manage appointment (generated, verify) (2 SP)                          |0h 00m |2h 00m        |
+|162|C4: Backend manage appointment (generated, verify) (2 SP)                          |2h 00m |2h 00m        |
 |161|C4: Android view and add appointment (13 SP)                                       |0h 00m |13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                           |0h 00m |13h 00m       |
 |159|C3: Backend manage watchlist (generated, verify) (2 SP)                            |0h 00m |2h 00m        |
@@ -276,6 +276,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2020-12-17 22:42:00.226|Issue        |162|2h 00m  |
 |Thomas Stoiber @11777755      |2020-12-17 22:12:50.950|Issue        |184|1h 00m  |
 |Stefan Puntigam @11776838     |2020-12-17 16:57:49.026|Issue        |184|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-17 15:54:30.975|Issue        |184|1h 00m  |
