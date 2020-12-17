@@ -16,7 +16,7 @@
 ### TIME STATS
 
 * **total estimate**: 857h 15m
-* **total spent**: 711h 15m
+* **total spent**: 712h 15m
 
 * **Günter Windsperger @01302775**: 109h 00m
 * **Nicolas Griebenow @01617265**: 126h 45m
@@ -29,7 +29,7 @@
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|184|Tutor Meeting 2020-12-17                                                           |0h 00m |6h 00m        |
+|184|Tutor Meeting 2020-12-17                                                           |1h 00m |6h 00m        |
 |183|RE: S4: Web edit model + texture (5 SP)                                            |0h 00m |13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                      |0h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                               |0h 00m |3h 00m        |
