@@ -10,49 +10,80 @@
 |2020-47|28h 45m                        |22h 15m                       |24h 00m                |34h 30m                     |17h 15m                    |23h 30m                          |
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
-|2020-50|12h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |15h 15m                          |
+|2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
+|2020-51|4h 00m                         |2h 15m                        |1h 15m                 |1h 15m                      |3h 45m                     |1h 15m                           |
 
 ### TIME STATS
 
-* **total estimate**: 657h 30m
-* **total spent**: 696h 15m
+* **total estimate**: 857h 15m
+* **total spent**: 712h 15m
 
-* **Günter Windsperger @01302775**: 104h 00m
-* **Nicolas Griebenow @01617265**: 124h 30m
-* **Lisa Fürst @11775842**: 121h 30m
-* **Stefan Puntigam @11776838**: 111h 15m
-* **Thomas Stoiber @11777755**: 111h 00m
-* **Michael Bernd Stöger @11778261**: 122h 15m
+* **Günter Windsperger @01302775**: 109h 00m
+* **Nicolas Griebenow @01617265**: 126h 45m
+* **Lisa Fürst @11775842**: 122h 45m
+* **Stefan Puntigam @11776838**: 112h 30m
+* **Thomas Stoiber @11777755**: 114h 45m
+* **Michael Bernd Stöger @11778261**: 124h 45m
 
 ### ISSUES
 
 |iid|title                                                                              |spent  |total estimate|
 |---|---                                                                                |---    |---           |
-|154|MR2 Presentation 2020-12-10                                                        |6h 15m |9h 00m        |
-|153|Normal map not used for rendering                                                  |0h 00m |0h 00m        |
+|184|Tutor Meeting 2020-12-17                                                           |1h 00m |6h 00m        |
+|183|RE: S4: Web edit model + texture (5 SP)                                            |0h 00m |13h 00m       |
+|182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                      |0h 00m |8h 00m        |
+|181|RE: Standardize margins of all frontend pages (3 SP)                               |0h 00m |3h 00m        |
+|180|RE: Fix alignment of error page (1 SP)                                             |0h 00m |1h 00m        |
+|179|Android - Animal detail refactoring                                                |2h 00m |5h 00m        |
+|178|Android - Add instant placement for AR models                                      |0h 00m |8h 00m        |
+|177|Web - Refactoring of entity-progressed-dialogs                                     |0h 00m |5h 00m        |
+|176|Web - Admin administration  design refactoring                                     |0h 00m |2h 00m        |
+|175|Web - Registration valdiation refactoring                                          |0h 00m |1h 00m        |
+|174|Web - Recommendations design refactoring                                           |0h 00m |3h 00m        |
+|173|Android - Dynamic loading of animal list                                           |0h 00m |5h 00m        |
+|172|Android - Animal overview refactoring                                              |0h 00m |3h 00m        |
+|171|Android + Web - Rework and standardize icons                                       |0h 00m |3h 00m        |
+|170|Web - Animal Overview - Loading progress                                           |0h 00m |3h 00m        |
+|169|K5: Web view and manage appointments (13 SP)                                       |0h 00m |13h 00m       |
+|168|K3: Web assign animal to customer (8 SP)                                           |0h 00m |8h 00m        |
+|167|C7: Android cancel appointment (2 SP)                                              |0h 00m |2h 00m        |
+|166|C7: Web cancel appointment (2 SP)                                                  |0h 00m |2h 00m        |
+|165|C5: Backend manage adoptions (generated, verify) (2 SP)                            |0h 00m |2h 00m        |
+|164|C5: Android view list of adopted animals (8 SP)                                    |0h 00m |8h 00m        |
+|163|C5: Web view list of adopted animals (8 SP)                                        |0h 00m |8h 00m        |
+|162|C4: Backend manage appointment (generated, verify) (2 SP)                          |0h 00m |2h 00m        |
+|161|C4: Android view and add appointment (13 SP)                                       |0h 00m |13h 00m       |
+|160|C4: Web view and add appointment (13 SP)                                           |0h 00m |13h 00m       |
+|159|C3: Backend manage watchlist (generated, verify) (2 SP)                            |0h 00m |2h 00m        |
+|158|C3: Android view and edit watchlist (8 SP)                                         |2h 30m |8h 00m        |
+|157|C3: Web view and edit watchlist (8 SP)                                             |0h 00m |8h 00m        |
+|156|QA SonarLint Scan + Refactoring                                                    |0h 00m |20h 00m       |
+|155|Sprint 3 Planning                                                                  |9h 15m |7h 30m        |
+|154|MR2 Presentation 2020-12-10                                                        |7h 30m |9h 00m        |
+|153|Normal map not used for rendering                                                  |0h 00m |5h 00m        |
 |152|MR2 Demo                                                                           |4h 30m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                  |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                   |0h 00m |0h 00m        |
 |149|System Testing for MR2                                                             |4h 00m |4h 00m        |
-|148|Release Sprint 2                                                                   |0h 15m |0h 00m        |
+|148|Release Sprint 2                                                                   |0h 15m |0h 15m        |
 |147|Fix ar models in fake data                                                         |0h 00m |0h 00m        |
-|146|Web - missing translations                                                         |0h 00m |1h 00m        |
-|145|Web - Bad animal list alignment with few elements                                  |0h 00m |1h 00m        |
-|144|Web - Fixing stretching of animal list images                                      |0h 00m |1h 00m        |
+|146|Web - missing translations                                                         |0h 00m |2h 00m        |
+|145|Web - Bad alignment of last row of animal list                                     |0h 00m |3h 00m        |
+|144|Web - Fixing stretching of animal list images                                      |0h 00m |2h 00m        |
 |143|Check AR model great dane                                                          |1h 00m |0h 00m        |
 |142|Style customer preferences                                                         |0h 30m |0h 30m        |
 |141|NPE when attempting to add animal without description                              |0h 45m |0h 30m        |
 |140|Remove editor config rule for trailing commas                                      |0h 00m |0h 00m        |
 |139|Missing animations for bootstrap components                                        |0h 30m |1h 00m        |
 |138|Tutor Meeting 2020-12-03                                                           |6h 00m |6h 00m        |
-|137|Firefox: Incorrect size of images in carousel component                            |0h 00m |0h 00m        |
-|136|User management - wrong page count when filtering                                  |0h 00m |0h 00m        |
+|137|Firefox: Incorrect size of images in carousel component                            |0h 00m |3h 00m        |
+|136|Web - User management - wrong page count when filtering                            |0h 00m |2h 00m        |
 |135|Fix translation error on register page                                             |0h 00m |0h 00m        |
 |134|Validate fake data                                                                 |5h 00m |1h 00m        |
 |133|Restrict file type when uploading pictures in Add/Edit animal                      |0h 30m |0h 30m        |
 |132|IR1 2020-11-26                                                                     |16h 15m|6h 00m        |
 |131|Ensure that customer 1 cannot edit customer 2 (5 SP)                               |0h 00m |5h 00m        |
-|130|C1: Android edit customer preferences (quiz style) (8 SP)                          |8h 15m |8h 00m        |
+|130|Unfinished: See [#182] - C1: Android edit customer preferences (quiz style) (8 SP) |8h 15m |8h 00m        |
 |129|Check edit permissions (5 SP)                                                      |10h 30m|5h 00m        |
 |128|Breed Management for Keeper (5 SP)                                                 |2h 30m |5h 00m        |
 |127|Species Management for Keeper (5 SP)                                               |3h 00m |5h 00m        |
@@ -71,7 +102,7 @@
 |114|C2: Web view recommendations as list (8 SP)                                        |12h 45m|8h 00m        |
 |113|C2: Backend generate recommendations (13 SP)                                       |16h 00m|13h 00m       |
 |112|S4: Android Load AR model + database from backend (13 SP)                          |6h 00m |13h 00m       |
-|111|S4: Web edit model + texture (5 SP)                                                |21h 15m|5h 00m        |
+|111|Unfinished: See [#183] - S4: Web edit model + texture (5 SP)                       |21h 15m|5h 00m        |
 |110|S4: Backend AR add/edit model and texture (13 SP)                                  |13h 15m|13h 00m       |
 |109|S3: Web view animal in detail (5 SP)                                               |7h 45m |5h 00m        |
 |108|S3: Android view animal in detail (5 SP)                                           |4h 00m |5h 00m        |
@@ -81,10 +112,10 @@
 |104|Sprint 1 Retrospective 2020-11-22                                                  |3h 00m |3h 00m        |
 |103|Authentication use role concept in web/frontend (5 SP)                             |1h 30m |5h 00m        |
 |102|Align pictures of home screen vertically (5 SP)                                    |1h 30m |5h 00m        |
-|101|Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
+|101|Unfinished: See [#181] - Standardize margins of all frontend pages (3 SP)          |0h 00m |3h 00m        |
 |100|Refactor MainActivity in Android (2 SP)                                            |2h 00m |2h 00m        |
 |99 |Activation link does not work (5 SP)                                               |1h 30m |5h 00m        |
-|98 |Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
+|98 |Unfinished: See [#180] - Fix alignment of error page (1 SP)                        |0h 00m |1h 00m        |
 |97 |Sprint 2 Planning                                                                  |1h 45m |1h 00m        |
 |96 |Adjust Eslint                                                                      |0h 45m |0h 00m        |
 |95 |Tutor Meeting 2020-11-19                                                           |6h 00m |6h 00m        |
@@ -243,6 +274,21 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2020-12-17 10:31:29.728|Issue        |184|1h 00m  |
+|Thomas Stoiber @11777755      |2020-12-17 08:20:42.099|Issue        |158|1h 30m  |
+|Thomas Stoiber @11777755      |2020-12-17 08:20:33.824|Issue        |158|1h 00m  |
+|Günter Windsperger @01302775  |2020-12-16 23:11:45.885|Issue        |179|2h 00m  |
+|Günter Windsperger @01302775  |2020-12-14 21:00:02.890|Issue        |155|0h 45m  |
+|Thomas Stoiber @11777755      |2020-12-14 17:16:10.879|Issue        |155|1h 15m  |
+|Thomas Stoiber @11777755      |2020-12-14 17:16:02.757|Issue        |155|-16h 00m|
+|Thomas Stoiber @11777755      |2020-12-14 17:15:35.331|Issue        |155|16h 00m |
+|Stefan Puntigam @11776838     |2020-12-14 17:15:29.279|Issue        |155|1h 15m  |
+|Lisa Fürst @11775842          |2020-12-14 17:15:21.208|Issue        |155|1h 15m  |
+|Günter Windsperger @01302775  |2020-12-14 17:15:16.528|Issue        |155|1h 15m  |
+|Michael Bernd Stöger @11778261|2020-12-14 17:15:11.728|Issue        |155|1h 15m  |
+|Nicolas Griebenow @01617265   |2020-12-14 17:15:08.240|Issue        |155|1h 15m  |
+|Günter Windsperger @01302775  |2020-12-12 19:07:59.586|Issue        |155|1h 00m  |
+|Michael Bernd Stöger @11778261|2020-12-10 11:29:05.614|Issue        |154|1h 15m  |
 |Günter Windsperger @01302775  |2020-12-10 10:27:23.990|Issue        |108|4h 00m  |
 |Günter Windsperger @01302775  |2020-12-10 10:27:09.925|Merge Request|48 |-4h 00m |
 |Stefan Puntigam @11776838     |2020-12-10 10:26:42.030|Issue        |154|1h 15m  |
