@@ -11,18 +11,18 @@
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
-|2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |10h 15m                    |2h 15m                           |
+|2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |11h 15m                    |2h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 857h 15m
-* **total spent**: 732h 45m
+* **total spent**: 733h 45m
 
 * **Günter Windsperger @01302775**: 110h 00m
 * **Nicolas Griebenow @01617265**: 136h 45m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
-* **Thomas Stoiber @11777755**: 121h 15m
+* **Thomas Stoiber @11777755**: 122h 15m
 * **Michael Bernd Stöger @11778261**: 125h 45m
 
 ### ISSUES
@@ -54,7 +54,7 @@
 |162|C4: Backend manage appointment (generated, verify) (2 SP)                          |2h 00m |2h 00m        |
 |161|C4: Android view and add appointment (13 SP)                                       |0h 00m |13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                           |4h 00m |13h 00m       |
-|159|C3: Backend manage watchlist (generated, verify) (2 SP)                            |0h 45m |2h 00m        |
+|159|C3: Backend manage watchlist (generated, verify) (2 SP)                            |1h 45m |2h 00m        |
 |158|C3: Web view and edit watchlist (8 SP)                                             |7h 15m |8h 00m        |
 |157|C3: Android view and edit watchlist (8 SP)                                         |0h 00m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                    |0h 00m |20h 00m       |
@@ -276,6 +276,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-18 07:52:54.946|Issue        |159|1h 00m  |
 |Thomas Stoiber @11777755      |2020-12-18 06:26:15.166|Issue        |159|0h 45m  |
 |Thomas Stoiber @11777755      |2020-12-18 06:25:55.873|Issue        |158|1h 15m  |
 |Thomas Stoiber @11777755      |2020-12-18 06:25:36.794|Issue        |158|1h 45m  |
