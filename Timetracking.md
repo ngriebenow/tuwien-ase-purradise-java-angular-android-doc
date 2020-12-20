@@ -11,18 +11,18 @@
 |2020-48|5h 15m                         |2h 30m                        |14h 45m                |11h 15m                     |5h 00m                     |30h 45m                          |
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
-|2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |20h 30m                    |2h 15m                           |
+|2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |20h 45m                    |2h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 857h 15m
-* **total spent**: 743h 00m
+* **total spent**: 743h 15m
 
 * **Günter Windsperger @01302775**: 110h 00m
 * **Nicolas Griebenow @01617265**: 136h 45m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
-* **Thomas Stoiber @11777755**: 131h 30m
+* **Thomas Stoiber @11777755**: 131h 45m
 * **Michael Bernd Stöger @11778261**: 125h 45m
 
 ### ISSUES
@@ -41,7 +41,7 @@
 |175|Web - Registration valdiation refactoring                                          |0h 00m |1h 00m        |
 |174|Web - Recommendations design refactoring                                           |0h 00m |3h 00m        |
 |173|Android - Dynamic loading of animal list                                           |0h 00m |5h 00m        |
-|172|Android - Animal overview refactoring                                              |2h 30m |3h 00m        |
+|172|Android - Animal overview refactoring                                              |2h 45m |3h 00m        |
 |171|Android + Web - Rework and standardize icons                                       |0h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                           |0h 00m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                       |4h 00m |13h 00m       |
@@ -277,6 +277,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-20 05:47:02.103|Issue        |172|0h 15m  |
 |Thomas Stoiber @11777755      |2020-12-19 16:23:58.530|Issue        |172|2h 30m  |
 |Thomas Stoiber @11777755      |2020-12-19 16:23:51.299|Issue        |172|-32h 00m|
 |Thomas Stoiber @11777755      |2020-12-19 16:23:36.833|Issue        |172|32h 00m |
