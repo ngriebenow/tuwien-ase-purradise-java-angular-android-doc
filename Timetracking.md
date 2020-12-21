@@ -12,13 +12,14 @@
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
+|2020-52|1h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 857h 15m
-* **total spent**: 744h 15m
+* **total spent**: 745h 15m
 
-* **Günter Windsperger @01302775**: 110h 00m
+* **Günter Windsperger @01302775**: 111h 00m
 * **Nicolas Griebenow @01617265**: 136h 45m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
@@ -222,7 +223,7 @@
 |55 |Feat/android view animals rework                                                             |0h 00m|0h 00m        |
 |54 |Android Watchlist                                                                            |0h 00m|0h 00m        |
 |53 |Feat/web backend watchlist                                                                   |0h 00m|0h 00m        |
-|52 |Feat/appointment calendar view                                                               |0h 00m|0h 00m        |
+|52 |Feat/appointment calendar view                                                               |1h 00m|0h 00m        |
 |51 |Improve and Hotfix fake data                                                                 |0h 00m|0h 00m        |
 |50 |Sprint 2                                                                                     |0h 00m|0h 00m        |
 |49 |[#147] Add ar model ids to fake data                                                         |0h 00m|0h 00m        |
@@ -279,6 +280,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-21 01:03:15.574|Merge Request|52 |1h 00m  |
 |Thomas Stoiber @11777755      |2020-12-20 06:44:30.106|Issue        |173|1h 00m  |
 |Thomas Stoiber @11777755      |2020-12-20 05:47:02.103|Issue        |172|0h 15m  |
 |Thomas Stoiber @11777755      |2020-12-19 16:23:58.530|Issue        |172|2h 30m  |
