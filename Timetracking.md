@@ -30,6 +30,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|187|Android - Add logout button                                                            |0h 00m |0h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
