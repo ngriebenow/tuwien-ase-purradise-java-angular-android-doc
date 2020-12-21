@@ -12,15 +12,15 @@
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
-|2020-52|1h 55m                         |0h 30m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-52|1h 55m                         |1h 30m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 858h 15m
-* **total spent**: 746h 40m
+* **total spent**: 747h 40m
 
 * **Günter Windsperger @01302775**: 111h 55m
-* **Nicolas Griebenow @01617265**: 137h 15m
+* **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
 * **Thomas Stoiber @11777755**: 132h 45m
@@ -48,7 +48,7 @@
 |172|Android - Animal overview refactoring                                                  |2h 45m |3h 00m        |
 |171|Android + Web - Rework and standardize icons                                           |0h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                               |0h 00m |3h 00m        |
-|169|K5: Web view and manage appointments (13 SP)                                           |4h 00m |13h 00m       |
+|169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
 |168|K3: Web assign animal to customer (8 SP)                                               |0h 00m |8h 00m        |
 |167|C7: Android cancel appointment (2 SP)                                                  |0h 00m |2h 00m        |
 |166|C7: Web cancel appointment (2 SP)                                                      |0h 00m |2h 00m        |
@@ -282,6 +282,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2020-12-21 16:46:12.730|Issue        |169|1h 00m  |
 |Günter Windsperger @01302775  |2020-12-21 16:17:10.680|Merge Request|54 |0h 15m  |
 |Nicolas Griebenow @01617265   |2020-12-21 15:55:50.148|Issue        |186|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-21 15:39:22.879|Merge Request|53 |0h 40m  |
