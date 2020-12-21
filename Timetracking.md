@@ -12,14 +12,14 @@
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
-|2020-52|1h 40m                         |0h 30m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2020-52|1h 55m                         |0h 30m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 858h 15m
-* **total spent**: 746h 25m
+* **total spent**: 746h 40m
 
-* **Günter Windsperger @01302775**: 111h 40m
+* **Günter Windsperger @01302775**: 111h 55m
 * **Nicolas Griebenow @01617265**: 137h 15m
 * **Lisa Fürst @11775842**: 123h 45m
 * **Stefan Puntigam @11776838**: 113h 30m
@@ -223,7 +223,7 @@
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
 |55 |Feat/android view animals rework                                                             |0h 00m|0h 00m        |
-|54 |Android Watchlist                                                                            |0h 00m|0h 00m        |
+|54 |Android Watchlist                                                                            |0h 15m|0h 00m        |
 |53 |Feat/web watchlist                                                                           |0h 40m|0h 00m        |
 |52 |Feat/appointment calendar view                                                               |1h 00m|0h 00m        |
 |51 |Improve and Hotfix fake data                                                                 |0h 00m|0h 00m        |
@@ -282,6 +282,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-21 16:17:10.680|Merge Request|54 |0h 15m  |
 |Nicolas Griebenow @01617265   |2020-12-21 15:55:50.148|Issue        |186|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-21 15:39:22.879|Merge Request|53 |0h 40m  |
 |Günter Windsperger @01302775  |2020-12-21 01:03:15.574|Merge Request|52 |1h 00m  |
