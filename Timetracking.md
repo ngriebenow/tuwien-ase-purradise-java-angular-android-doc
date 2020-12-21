@@ -16,7 +16,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 857h 15m
+* **total estimate**: 858h 15m
 * **total spent**: 745h 55m
 
 * **Günter Windsperger @01302775**: 111h 40m
@@ -30,7 +30,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|186|Redo Web app Theming                                                                   |0h 00m |0h 00m        |
+|186|Redo Web app Theming                                                                   |0h 00m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
 |183|RE: S4: Web edit model + texture (5 SP)                                                |0h 00m |13h 00m       |
