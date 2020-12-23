@@ -223,6 +223,8 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|58 |Web App Theming, Appointment + Watchlist Integration                                         |0h 00m|0h 00m        |
+|57 |Bug/web app theming colors                                                                   |0h 00m|0h 00m        |
 |56 |Feat/web armodel management2                                                                 |0h 00m|0h 00m        |
 |55 |Feat/android view animals rework                                                             |0h 15m|0h 00m        |
 |54 |Android Watchlist                                                                            |0h 15m|0h 00m        |
