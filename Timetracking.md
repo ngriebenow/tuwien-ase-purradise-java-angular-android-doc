@@ -30,6 +30,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |0h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
