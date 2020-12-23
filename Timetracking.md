@@ -12,17 +12,17 @@
 |2020-49|16h 45m                        |22h 00m                       |24h 30m                |14h 30m                     |9h 30m                     |6h 00m                           |
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
-|2020-52|2h 10m                         |1h 30m                        |2h 00m                 |3h 15m                      |0h 00m                     |11h 30m                          |
+|2020-52|2h 10m                         |1h 30m                        |2h 00m                 |6h 00m                      |0h 00m                     |11h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 858h 15m
-* **total spent**: 764h 40m
+* **total spent**: 767h 25m
 
 * **Günter Windsperger @01302775**: 112h 10m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 125h 45m
-* **Stefan Puntigam @11776838**: 116h 45m
+* **Stefan Puntigam @11776838**: 119h 30m
 * **Thomas Stoiber @11777755**: 132h 45m
 * **Michael Bernd Stöger @11778261**: 137h 15m
 
@@ -54,7 +54,7 @@
 |167|C7: Android cancel appointment (2 SP)                                                  |0h 00m |2h 00m        |
 |166|C7: Web cancel appointment (2 SP)                                                      |0h 00m |2h 00m        |
 |165|C5: Backend manage adoptions (generated, verify) (2 SP)                                |0h 00m |2h 00m        |
-|164|C5: Android view list of adopted animals (8 SP)                                        |0h 00m |8h 00m        |
+|164|C5: Android view list of adopted animals (8 SP)                                        |2h 45m |8h 00m        |
 |163|C5: Web view list of adopted animals (8 SP)                                            |3h 15m |8h 00m        |
 |162|C4: Backend manage appointment (generated, verify) (2 SP)                              |2h 00m |2h 00m        |
 |161|C4: Android view and add appointment (13 SP)                                           |0h 00m |13h 00m       |
@@ -286,6 +286,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2020-12-23 22:59:28.211|Issue        |164|2h 45m  |
 |Stefan Puntigam @11776838     |2020-12-23 22:59:15.742|Issue        |163|3h 15m  |
 |Michael Bernd Stöger @11778261|2020-12-22 22:26:20.130|Issue        |183|3h 30m  |
 |Michael Bernd Stöger @11778261|2020-12-21 22:40:11.338|Issue        |183|8h 00m  |
