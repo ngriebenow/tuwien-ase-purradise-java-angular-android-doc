@@ -18,7 +18,7 @@
 ### TIME STATS
 
 * **total estimate**: 858h 15m
-* **total spent**: 774h 55m
+* **total spent**: 776h 25m
 
 * **Günter Windsperger @01302775**: 114h 10m
 * **Nicolas Griebenow @01617265**: 138h 15m
@@ -60,7 +60,7 @@
 |162|C4: Backend manage appointment (generated, verify) (2 SP)                              |2h 00m |2h 00m        |
 |161|C4: Android view and add appointment (13 SP)                                           |0h 00m |13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                               |4h 00m |13h 00m       |
-|159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |3h 30m |2h 00m        |
+|159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |5h 00m |2h 00m        |
 |158|C3: Web view and edit watchlist (8 SP)                                                 |12h 30m|8h 00m        |
 |157|C3: Android view and edit watchlist (8 SP)                                             |3h 45m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                        |0h 00m |20h 00m       |
