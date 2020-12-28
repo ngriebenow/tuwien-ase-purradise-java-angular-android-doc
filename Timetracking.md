@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|1h 30m                         |0h 00m                        |0h 00m                 |0h 00m                      |6h 45m                     |0h 00m                           |
+|2020-53|1h 30m                         |0h 00m                        |3h 00m                 |0h 00m                      |6h 45m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 779h 10m
+* **total spent**: 782h 10m
 
 * **Günter Windsperger @01302775**: 115h 40m
 * **Nicolas Griebenow @01617265**: 138h 15m
-* **Lisa Fürst @11775842**: 125h 45m
+* **Lisa Fürst @11775842**: 128h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 137h 15m
@@ -36,7 +36,7 @@
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
-|183|RE: S4: Web edit model + texture (5 SP)                                                |13h 30m|13h 00m       |
+|183|RE: S4: Web edit model + texture (5 SP)                                                |16h 30m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
@@ -288,6 +288,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-29 00:31:22.001|Issue        |183|3h 00m  |
 |Günter Windsperger @01302775  |2020-12-28 16:40:46.886|Merge Request|59 |1h 30m  |
 |Thomas Stoiber @11777755      |2020-12-28 11:38:19.223|Issue        |157|0h 45m  |
 |Thomas Stoiber @11777755      |2020-12-28 11:38:02.043|Issue        |158|0h 30m  |
