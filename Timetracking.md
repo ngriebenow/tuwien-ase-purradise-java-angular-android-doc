@@ -13,18 +13,18 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |5h 30m                     |0h 00m                           |
+|2020-53|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |6h 45m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 858h 15m
-* **total spent**: 776h 25m
+* **total spent**: 776h 55m
 
 * **Günter Windsperger @01302775**: 114h 10m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 125h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
-* **Thomas Stoiber @11777755**: 138h 15m
+* **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 137h 15m
 
 ### ISSUES
@@ -61,7 +61,7 @@
 |161|C4: Android view and add appointment (13 SP)                                           |0h 00m |13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                               |4h 00m |13h 00m       |
 |159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |5h 00m |2h 00m        |
-|158|C3: Web view and edit watchlist (8 SP)                                                 |12h 30m|8h 00m        |
+|158|C3: Web view and edit watchlist (8 SP)                                                 |13h 00m|8h 00m        |
 |157|C3: Android view and edit watchlist (8 SP)                                             |3h 45m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                        |0h 00m |20h 00m       |
 |155|Sprint 3 Planning                                                                      |9h 15m |7h 30m        |
@@ -224,6 +224,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|59 |Feat/web backend watchlist                                                                   |0h 00m|0h 00m        |
 |58 |Web App Theming, Appointment + Watchlist Integration                                         |1h 30m|0h 00m        |
 |57 |Bug/web app theming colors                                                                   |0h 00m|0h 00m        |
 |56 |Feat/web armodel management2                                                                 |0h 00m|0h 00m        |
@@ -287,6 +288,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-28 11:38:19.223|Issue        |157|0h 45m  |
+|Thomas Stoiber @11777755      |2020-12-28 11:38:02.043|Issue        |158|0h 30m  |
 |Thomas Stoiber @11777755      |2020-12-28 10:38:22.540|Issue        |159|1h 30m  |
 |Thomas Stoiber @11777755      |2020-12-28 10:38:04.759|Issue        |158|4h 00m  |
 |Günter Windsperger @01302775  |2020-12-26 03:06:08.206|Merge Request|58 |1h 30m  |
