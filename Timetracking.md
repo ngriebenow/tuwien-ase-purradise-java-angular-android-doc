@@ -17,7 +17,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 858h 15m
+* **total estimate**: 859h 15m
 * **total spent**: 779h 10m
 
 * **Günter Windsperger @01302775**: 115h 40m
@@ -32,7 +32,7 @@
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
-|187|Android - Add logout button                                                            |0h 00m |0h 00m        |
+|187|Android - Add logout button                                                            |0h 00m |1h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
