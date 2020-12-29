@@ -224,6 +224,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|61 |[#174] Change recommendation buttons design to better fit overall design                     |0h 00m|0h 00m        |
 |60 |[#176] Refactor admin administration page to use bootstrap cards                             |0h 00m|0h 00m        |
 |59 |Feat/web backend watchlist                                                                   |1h 30m|0h 00m        |
 |58 |Web App Theming, Appointment + Watchlist Integration                                         |1h 30m|0h 00m        |
