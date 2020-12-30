@@ -13,14 +13,14 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|2h 15m                         |0h 00m                        |11h 30m                |0h 00m                      |6h 45m                     |16h 00m                          |
+|2020-53|4h 45m                         |0h 00m                        |11h 30m                |0h 00m                      |6h 45m                     |16h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 807h 25m
+* **total spent**: 809h 55m
 
-* **Günter Windsperger @01302775**: 116h 25m
+* **Günter Windsperger @01302775**: 118h 55m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 137h 15m
 * **Stefan Puntigam @11776838**: 121h 00m
@@ -38,7 +38,7 @@
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
 |183|RE: S4: Web edit model + texture (5 SP)                                                |17h 30m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
-|181|RE: Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
+|181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 30m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
@@ -297,6 +297,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-30 23:07:54.602|Issue        |181|2h 30m  |
 |Lisa Fürst @11775842          |2020-12-30 22:00:06.895|Issue        |144|0h 15m  |
 |Lisa Fürst @11775842          |2020-12-30 21:39:27.026|Issue        |144|0h 15m  |
 |Lisa Fürst @11775842          |2020-12-30 21:31:44.335|Issue        |144|1h 00m  |
