@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|1h 30m                         |0h 00m                        |4h 45m                 |0h 00m                      |6h 45m                     |1h 00m                           |
+|2020-53|1h 30m                         |0h 00m                        |5h 45m                 |0h 00m                      |6h 45m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 784h 55m
+* **total spent**: 785h 55m
 
 * **Günter Windsperger @01302775**: 115h 40m
 * **Nicolas Griebenow @01617265**: 138h 15m
-* **Lisa Fürst @11775842**: 130h 30m
+* **Lisa Fürst @11775842**: 131h 30m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 138h 15m
@@ -48,7 +48,7 @@
 |174|Web - Recommendations design refactoring                                               |1h 00m |3h 00m        |
 |173|Android - Dynamic loading of animal list                                               |1h 00m |5h 00m        |
 |172|Android - Animal overview refactoring                                                  |2h 45m |3h 00m        |
-|171|Android + Web - Rework and standardize icons                                           |0h 00m |3h 00m        |
+|171|Android + Web - Rework and standardize icons                                           |1h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                               |0h 00m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
 |168|K3: Web assign animal to customer (8 SP)                                               |0h 00m |8h 00m        |
@@ -290,6 +290,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-30 01:10:18.365|Issue        |171|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-29 19:59:40.452|Issue        |174|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-29 18:54:33.187|Issue        |176|0h 45m  |
 |Michael Bernd Stöger @11778261|2020-12-29 10:22:47.274|Issue        |183|1h 00m  |
