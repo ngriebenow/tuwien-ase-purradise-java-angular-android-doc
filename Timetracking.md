@@ -13,14 +13,14 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|1h 30m                         |0h 00m                        |9h 30m                 |0h 00m                      |6h 45m                     |8h 00m                           |
+|2020-53|2h 15m                         |0h 00m                        |9h 30m                 |0h 00m                      |6h 45m                     |8h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 796h 40m
+* **total spent**: 797h 25m
 
-* **Günter Windsperger @01302775**: 115h 40m
+* **Günter Windsperger @01302775**: 116h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 135h 15m
 * **Stefan Puntigam @11776838**: 121h 00m
@@ -49,7 +49,7 @@
 |173|Android - Dynamic loading of animal list                                               |1h 00m |5h 00m        |
 |172|Android - Animal overview refactoring                                                  |2h 45m |3h 00m        |
 |171|Android + Web - Rework and standardize icons                                           |3h 15m |3h 00m        |
-|170|Web - Animal Overview - Loading progress                                               |0h 00m |3h 00m        |
+|170|Web - Animal Overview - Loading progress                                               |0h 45m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
 |168|K3: Web assign animal to customer (8 SP)                                               |0h 00m |8h 00m        |
 |167|C7: Android cancel appointment (2 SP)                                                  |0h 00m |2h 00m        |
@@ -293,6 +293,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2020-12-30 18:22:08.060|Issue        |170|0h 45m  |
 |Lisa Fürst @11775842          |2020-12-30 15:43:32.345|Issue        |171|2h 00m  |
 |Lisa Fürst @11775842          |2020-12-30 12:31:40.115|Issue        |176|0h 15m  |
 |Lisa Fürst @11775842          |2020-12-30 12:31:20.411|Issue        |171|0h 15m  |
