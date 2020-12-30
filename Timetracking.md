@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|2h 15m                         |0h 00m                        |9h 30m                 |0h 00m                      |6h 45m                     |16h 00m                          |
+|2020-53|2h 15m                         |0h 00m                        |10h 00m                |0h 00m                      |6h 45m                     |16h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 805h 25m
+* **total spent**: 805h 55m
 
 * **Günter Windsperger @01302775**: 116h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
-* **Lisa Fürst @11775842**: 135h 15m
+* **Lisa Fürst @11775842**: 135h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 153h 15m
@@ -39,7 +39,7 @@
 |183|RE: S4: Web edit model + texture (5 SP)                                                |17h 30m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |0h 00m |3h 00m        |
-|180|RE: Fix alignment of error page (1 SP)                                                 |0h 00m |1h 00m        |
+|180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs                                         |0h 00m |5h 00m        |
@@ -295,6 +295,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-30 21:31:15.063|Issue        |180|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-12-30 21:10:43.948|Merge Request|61 |0h 15m  |
 |Michael Bernd Stöger @11778261|2020-12-30 21:02:01.963|Merge Request|60 |0h 15m  |
 |Michael Bernd Stöger @11778261|2020-12-30 20:48:07.278|Issue        |161|7h 30m  |
