@@ -224,6 +224,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|63 |Feat/android icons refactor                                                                  |0h 00m|0h 00m        |
 |62 |[#145] Fix alignment of animals in last row of animal overview                               |0h 00m|0h 00m        |
 |61 |[#174] Change recommendation buttons design to better fit overall design                     |0h 00m|0h 00m        |
 |60 |[#176] Refactor admin administration page to use bootstrap cards                             |0h 00m|0h 00m        |
