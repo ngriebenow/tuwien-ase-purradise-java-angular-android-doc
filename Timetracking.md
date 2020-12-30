@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|2h 15m                         |0h 00m                        |11h 00m                |0h 00m                      |6h 45m                     |16h 00m                          |
+|2020-53|2h 15m                         |0h 00m                        |11h 15m                |0h 00m                      |6h 45m                     |16h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 806h 55m
+* **total spent**: 807h 10m
 
 * **Günter Windsperger @01302775**: 116h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
-* **Lisa Fürst @11775842**: 136h 45m
+* **Lisa Fürst @11775842**: 137h 00m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 153h 15m
@@ -75,7 +75,7 @@
 |147|Fix ar models in fake data                                                             |0h 00m |0h 00m        |
 |146|Web - missing translations                                                             |0h 00m |2h 00m        |
 |145|Web - Bad alignment of last row of animal list                                         |1h 15m |3h 00m        |
-|144|Web - Fixing stretching of animal list images                                          |1h 00m |2h 00m        |
+|144|Web - Fixing stretching of animal list images                                          |1h 15m |2h 00m        |
 |143|Check AR model great dane                                                              |1h 00m |0h 00m        |
 |142|Style customer preferences                                                             |0h 30m |0h 30m        |
 |141|NPE when attempting to add animal without description                                  |0h 45m |0h 30m        |
@@ -224,6 +224,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|68 |[#144] Add possible solution for image stretching problem in animal list                     |0h 00m|0h 00m        |
 |67 |[#180] Fix alignment of error pages                                                          |0h 00m|0h 00m        |
 |66 |[#161] Create appointments on mobile app                                                     |0h 00m|0h 00m        |
 |65 |[#170] Adding loading status and spinner to animal overview and filter                       |0h 00m|0h 00m        |
@@ -296,6 +297,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-30 21:39:27.026|Issue        |144|0h 15m  |
 |Lisa Fürst @11775842          |2020-12-30 21:31:44.335|Issue        |144|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-30 21:31:15.063|Issue        |180|0h 30m  |
 |Michael Bernd Stöger @11778261|2020-12-30 21:10:43.948|Merge Request|61 |0h 15m  |
