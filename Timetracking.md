@@ -13,19 +13,19 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|2h 15m                         |0h 00m                        |9h 30m                 |0h 00m                      |6h 45m                     |15h 30m                          |
+|2020-53|2h 15m                         |0h 00m                        |9h 30m                 |0h 00m                      |6h 45m                     |16h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 804h 55m
+* **total spent**: 805h 25m
 
 * **Günter Windsperger @01302775**: 116h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 135h 15m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
-* **Michael Bernd Stöger @11778261**: 152h 45m
+* **Michael Bernd Stöger @11778261**: 153h 15m
 
 ### ISSUES
 
@@ -229,8 +229,8 @@
 |64 |Feat/web icons refactor                                                                      |0h 00m|0h 00m        |
 |63 |Feat/android icons refactor                                                                  |0h 00m|0h 00m        |
 |62 |[#145] Fix alignment of animals in last row of animal overview                               |0h 00m|0h 00m        |
-|61 |[#174] Change recommendation buttons design to better fit overall design                     |0h 00m|0h 00m        |
-|60 |[#176] Refactor admin administration page to use bootstrap cards                             |0h 00m|0h 00m        |
+|61 |[#174] Change recommendation buttons design to better fit overall design                     |0h 15m|0h 00m        |
+|60 |[#176] Refactor admin administration page to use bootstrap cards                             |0h 15m|0h 00m        |
 |59 |Feat/web backend watchlist                                                                   |1h 30m|0h 00m        |
 |58 |Web App Theming, Appointment + Watchlist Integration                                         |1h 30m|0h 00m        |
 |57 |Bug/web app theming colors                                                                   |0h 00m|0h 00m        |
@@ -295,6 +295,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Michael Bernd Stöger @11778261|2020-12-30 21:10:43.948|Merge Request|61 |0h 15m  |
+|Michael Bernd Stöger @11778261|2020-12-30 21:02:01.963|Merge Request|60 |0h 15m  |
 |Michael Bernd Stöger @11778261|2020-12-30 20:48:07.278|Issue        |161|7h 30m  |
 |Günter Windsperger @01302775  |2020-12-30 18:22:08.060|Issue        |170|0h 45m  |
 |Lisa Fürst @11775842          |2020-12-30 15:43:32.345|Issue        |171|2h 00m  |
