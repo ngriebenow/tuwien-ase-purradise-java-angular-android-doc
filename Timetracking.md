@@ -224,6 +224,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|69 |Feat/web standardize margins                                                                 |0h 00m|0h 00m        |
 |68 |[#144] Add possible solution for image stretching problem in animal list                     |0h 00m|0h 00m        |
 |67 |[#180] Fix alignment of error pages                                                          |0h 00m|0h 00m        |
 |66 |[#161] Create appointments on mobile app                                                     |0h 00m|0h 00m        |
