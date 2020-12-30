@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|1h 30m                         |0h 00m                        |5h 45m                 |0h 00m                      |6h 45m                     |1h 00m                           |
+|2020-53|1h 30m                         |0h 00m                        |7h 00m                 |0h 00m                      |6h 45m                     |1h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 785h 55m
+* **total spent**: 787h 10m
 
 * **Günter Windsperger @01302775**: 115h 40m
 * **Nicolas Griebenow @01617265**: 138h 15m
-* **Lisa Fürst @11775842**: 131h 30m
+* **Lisa Fürst @11775842**: 132h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 139h 30m
 * **Michael Bernd Stöger @11778261**: 138h 15m
@@ -74,7 +74,7 @@
 |148|Release Sprint 2                                                                       |0h 15m |0h 15m        |
 |147|Fix ar models in fake data                                                             |0h 00m |0h 00m        |
 |146|Web - missing translations                                                             |0h 00m |2h 00m        |
-|145|Web - Bad alignment of last row of animal list                                         |0h 00m |3h 00m        |
+|145|Web - Bad alignment of last row of animal list                                         |1h 15m |3h 00m        |
 |144|Web - Fixing stretching of animal list images                                          |0h 00m |2h 00m        |
 |143|Check AR model great dane                                                              |1h 00m |0h 00m        |
 |142|Style customer preferences                                                             |0h 30m |0h 30m        |
@@ -290,6 +290,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2020-12-30 01:52:43.929|Issue        |145|1h 15m  |
 |Lisa Fürst @11775842          |2020-12-30 01:10:18.365|Issue        |171|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-29 19:59:40.452|Issue        |174|1h 00m  |
 |Lisa Fürst @11775842          |2020-12-29 18:54:33.187|Issue        |176|0h 45m  |
