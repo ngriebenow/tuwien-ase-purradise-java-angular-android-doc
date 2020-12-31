@@ -31,6 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|189|Change Watchlist Remove API to use Set of Animals                                      |0h 00m |0h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |1h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
