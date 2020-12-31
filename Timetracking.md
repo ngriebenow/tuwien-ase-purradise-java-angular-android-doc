@@ -13,25 +13,25 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|5h 15m                         |0h 00m                        |15h 00m                |0h 00m                      |6h 45m                     |16h 00m                          |
+|2020-53|5h 15m                         |0h 00m                        |15h 00m                |0h 00m                      |7h 30m                     |16h 00m                          |
 
 ### TIME STATS
 
 * **total estimate**: 859h 15m
-* **total spent**: 813h 55m
+* **total spent**: 814h 40m
 
 * **Günter Windsperger @01302775**: 119h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 140h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
-* **Thomas Stoiber @11777755**: 139h 30m
+* **Thomas Stoiber @11777755**: 140h 15m
 * **Michael Bernd Stöger @11778261**: 153h 15m
 
 ### ISSUES
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|189|Change Watchlist Remove API to use Set of Animals                                      |0h 00m |0h 00m        |
+|189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |0h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |1h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
@@ -225,6 +225,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|70 |Feat/watchlist remove api change                                                             |0h 00m|0h 00m        |
 |69 |Feat/web standardize margins                                                                 |0h 00m|0h 00m        |
 |68 |[#144] Add possible solution for image stretching problem in animal list                     |0h 00m|0h 00m        |
 |67 |[#180] Fix alignment of error pages                                                          |0h 00m|0h 00m        |
@@ -299,6 +300,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2020-12-31 10:22:05.531|Issue        |189|0h 45m  |
 |Lisa Fürst @11775842          |2020-12-31 01:39:36.443|Issue        |167|3h 30m  |
 |Günter Windsperger @01302775  |2020-12-30 23:51:45.849|Issue        |156|0h 30m  |
 |Günter Windsperger @01302775  |2020-12-30 23:07:54.602|Issue        |181|2h 30m  |
