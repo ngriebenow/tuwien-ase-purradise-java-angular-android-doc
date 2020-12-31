@@ -17,7 +17,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 859h 15m
+* **total estimate**: 860h 15m
 * **total spent**: 814h 40m
 
 * **Günter Windsperger @01302775**: 119h 25m
@@ -31,7 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |0h 00m        |
+|189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |1h 00m        |
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
