@@ -45,7 +45,7 @@
 |178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs                                         |0h 00m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
-|175|Web - Registration valdiation refactoring                                              |0h 00m |1h 00m        |
+|175|Web - Registration validation refactoring                                              |0h 00m |1h 00m        |
 |174|Web - Recommendations design refactoring                                               |1h 00m |3h 00m        |
 |173|Android - Dynamic loading of animal list                                               |1h 00m |5h 00m        |
 |172|Android - Animal overview refactoring                                                  |2h 45m |3h 00m        |
