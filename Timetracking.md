@@ -17,7 +17,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 860h 15m
+* **total estimate**: 861h 15m
 * **total spent**: 821h 55m
 
 * **Günter Windsperger @01302775**: 122h 25m
@@ -31,6 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|191|Watchlist Appointment Integration                                                      |0h 00m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |0h 45m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
