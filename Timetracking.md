@@ -13,16 +13,16 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 05m                         |3h 15m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
+|2020-53|9h 05m                         |3h 15m                        |19h 15m                |0h 00m                      |7h 30m                     |16h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 826h 00m
+* **total spent**: 826h 30m
 
 * **Günter Windsperger @01302775**: 123h 15m
 * **Nicolas Griebenow @01617265**: 141h 30m
-* **Lisa Fürst @11775842**: 144h 30m
+* **Lisa Fürst @11775842**: 145h 00m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 140h 15m
 * **Michael Bernd Stöger @11778261**: 153h 45m
@@ -48,7 +48,7 @@
 |178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs                                         |0h 00m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
-|175|Web - Registration validation refactoring                                              |0h 45m |1h 00m        |
+|175|Web - Registration validation refactoring                                              |1h 15m |1h 00m        |
 |174|Web - Recommendations design refactoring                                               |1h 00m |3h 00m        |
 |173|Android - Dynamic loading of animal list                                               |1h 00m |5h 00m        |
 |172|Android - Animal overview refactoring                                                  |2h 45m |3h 00m        |
@@ -305,6 +305,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2021-01-01 22:22:29.916|Issue        |175|0h 30m  |
 |Günter Windsperger @01302775  |2021-01-01 17:46:30.098|Issue        |191|0h 20m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:31:36.799|Issue        |159|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:31:23.515|Issue        |158|1h 00m  |
