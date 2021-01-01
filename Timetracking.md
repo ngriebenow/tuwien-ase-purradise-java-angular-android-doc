@@ -228,6 +228,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
 |72 |Bug/web watchlist appointment integration                                                    |0h 00m|0h 00m        |
 |71 |Feat/android create appointments2                                                            |0h 00m|0h 00m        |
 |70 |Feat/watchlist remove api change                                                             |0h 00m|0h 00m        |
