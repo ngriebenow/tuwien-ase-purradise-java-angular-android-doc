@@ -31,6 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|192|Watchlist missing i18n                                                                 |0h 00m |0h 00m        |
 |191|Watchlist Appointment Integration                                                      |0h 00m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |0h 45m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
