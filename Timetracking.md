@@ -13,15 +13,15 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|8h 45m                         |1h 15m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
+|2020-53|8h 45m                         |3h 15m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 861h 15m
-* **total spent**: 823h 40m
+* **total spent**: 824h 40m
 
 * **Günter Windsperger @01302775**: 122h 55m
-* **Nicolas Griebenow @01617265**: 139h 30m
+* **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 144h 30m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 140h 15m
@@ -65,7 +65,7 @@
 |161|C4: Android view and add appointment (13 SP)                                           |20h 00m|13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                               |4h 00m |13h 00m       |
 |159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |5h 00m |2h 00m        |
-|158|C3: Web view and edit watchlist (8 SP)                                                 |13h 00m|8h 00m        |
+|158|C3: Web view and edit watchlist (8 SP)                                                 |14h 00m|8h 00m        |
 |157|C3: Android view and edit watchlist (8 SP)                                             |4h 30m |8h 00m        |
 |156|QA SonarLint Scan + Refactoring                                                        |2h 00m |20h 00m       |
 |155|Sprint 3 Planning                                                                      |9h 15m |7h 30m        |
@@ -305,6 +305,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-01 17:31:36.799|Issue        |159|1h 00m  |
+|Nicolas Griebenow @01617265   |2021-01-01 17:31:23.515|Issue        |158|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:29:17.143|Issue        |191|0h -30m |
 |Nicolas Griebenow @01617265   |2021-01-01 17:28:58.732|Issue        |191|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:27:41.508|Issue        |183|0h 15m  |
