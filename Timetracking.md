@@ -31,6 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|190|Knowledge sharing sessions                                                             |0h 00m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |1h 00m        |
