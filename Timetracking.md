@@ -13,14 +13,14 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|8h 45m                         |3h 15m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
+|2020-53|9h 05m                         |3h 15m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 861h 15m
-* **total spent**: 825h 40m
+* **total spent**: 826h 00m
 
-* **Günter Windsperger @01302775**: 122h 55m
+* **Günter Windsperger @01302775**: 123h 15m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 144h 30m
 * **Stefan Puntigam @11776838**: 121h 00m
@@ -32,7 +32,7 @@
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
-|191|Watchlist Appointment Integration                                                      |0h 55m |1h 00m        |
+|191|Watchlist Appointment Integration                                                      |1h 15m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |0h 45m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
@@ -305,6 +305,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-01 17:46:30.098|Issue        |191|0h 20m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:31:36.799|Issue        |159|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:31:23.515|Issue        |158|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-01 17:29:17.143|Issue        |191|0h -30m |
