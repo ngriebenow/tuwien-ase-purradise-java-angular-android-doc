@@ -13,14 +13,14 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|7h 30m                         |0h 00m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
+|2020-53|8h 15m                         |0h 00m                        |18h 45m                |0h 00m                      |7h 30m                     |16h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 860h 15m
-* **total spent**: 821h 10m
+* **total spent**: 821h 55m
 
-* **Günter Windsperger @01302775**: 121h 40m
+* **Günter Windsperger @01302775**: 122h 25m
 * **Nicolas Griebenow @01617265**: 138h 15m
 * **Lisa Fürst @11775842**: 144h 30m
 * **Stefan Puntigam @11776838**: 121h 00m
@@ -31,7 +31,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|190|Knowledge sharing sessions                                                             |0h 00m |0h 00m        |
+|190|Knowledge sharing sessions                                                             |0h 45m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
 |187|Android - Add logout button                                                            |0h 00m |1h 00m        |
@@ -302,6 +302,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-01 15:26:32.068|Issue        |190|0h 45m  |
 |Günter Windsperger @01302775  |2020-12-31 23:55:04.140|Issue        |156|1h 30m  |
 |Günter Windsperger @01302775  |2020-12-31 23:54:39.863|Issue        |171|0h 45m  |
 |Lisa Fürst @11775842          |2020-12-31 16:54:21.986|Issue        |175|0h 45m  |
