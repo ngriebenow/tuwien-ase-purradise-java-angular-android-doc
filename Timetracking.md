@@ -13,19 +13,19 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 05m                         |3h 15m                        |22h 30m                |0h 00m                      |9h 45m                     |16h 30m                          |
+|2020-53|9h 05m                         |3h 15m                        |22h 30m                |0h 00m                      |9h 45m                     |17h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 832h 00m
+* **total spent**: 833h 00m
 
 * **Günter Windsperger @01302775**: 123h 15m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 148h 15m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 142h 30m
-* **Michael Bernd Stöger @11778261**: 153h 45m
+* **Michael Bernd Stöger @11778261**: 154h 45m
 
 ### ISSUES
 
@@ -56,7 +56,7 @@
 |170|Web - Animal Overview - Loading progress                                               |1h 15m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
 |168|K3: Web assign animal to customer (8 SP)                                               |0h 00m |8h 00m        |
-|167|C7: Android cancel appointment (2 SP)                                                  |1h 30m |2h 00m        |
+|167|C7: Android cancel appointment (2 SP)                                                  |2h 30m |2h 00m        |
 |166|C7: Web cancel appointment (2 SP)                                                      |0h 00m |2h 00m        |
 |165|C5: Backend manage adoptions (generated, verify) (2 SP)                                |0h 00m |2h 00m        |
 |164|C5: Android view list of adopted animals (8 SP)                                        |2h 45m |8h 00m        |
@@ -307,6 +307,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Michael Bernd Stöger @11778261|2021-01-02 22:58:49.088|Issue        |167|1h 00m  |
 |Thomas Stoiber @11777755      |2021-01-02 20:47:30.822|Issue        |178|1h 30m  |
 |Thomas Stoiber @11777755      |2021-01-02 20:26:37.911|Issue        |190|0h 45m  |
 |Lisa Fürst @11775842          |2021-01-02 18:33:20.138|Issue        |177|0h 30m  |
