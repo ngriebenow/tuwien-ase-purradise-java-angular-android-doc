@@ -46,7 +46,7 @@
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
-|177|Web - Refactoring of entity-progressed-dialogs                                         |2h 45m |5h 00m        |
+|177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |2h 45m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
 |175|Web - Registration validation refactoring                                              |1h 15m |1h 00m        |
 |174|Web - Recommendations design refactoring                                               |1h 00m |3h 00m        |
