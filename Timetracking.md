@@ -13,18 +13,18 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 05m                         |3h 15m                        |22h 30m                |0h 00m                      |8h 15m                     |16h 30m                          |
+|2020-53|9h 05m                         |3h 15m                        |22h 30m                |0h 00m                      |9h 45m                     |16h 30m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 830h 30m
+* **total spent**: 832h 00m
 
 * **Günter Windsperger @01302775**: 123h 15m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 148h 15m
 * **Stefan Puntigam @11776838**: 121h 00m
-* **Thomas Stoiber @11777755**: 141h 00m
+* **Thomas Stoiber @11777755**: 142h 30m
 * **Michael Bernd Stöger @11778261**: 153h 45m
 
 ### ISSUES
@@ -45,7 +45,7 @@
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 30m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
-|178|Android - Add instant placement for AR models                                          |0h 00m |8h 00m        |
+|178|Android - Add instant placement for AR models                                          |1h 30m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |3h 15m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
 |175|Web - Registration validation refactoring                                              |1h 15m |1h 00m        |
@@ -228,6 +228,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|74 |Instant Placement of an AR Model                                                             |0h 00m|0h 00m        |
 |73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
 |72 |Bug/web watchlist appointment integration                                                    |0h 00m|0h 00m        |
 |71 |Feat/android create appointments2                                                            |0h 00m|0h 00m        |
@@ -306,6 +307,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2021-01-02 20:47:30.822|Issue        |178|1h 30m  |
 |Thomas Stoiber @11777755      |2021-01-02 20:26:37.911|Issue        |190|0h 45m  |
 |Lisa Fürst @11775842          |2021-01-02 18:33:20.138|Issue        |177|0h 30m  |
 |Lisa Fürst @11775842          |2021-01-02 17:30:35.811|Issue        |177|0h 30m  |
