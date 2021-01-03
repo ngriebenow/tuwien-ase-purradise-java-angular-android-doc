@@ -13,7 +13,7 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 50m                         |3h 15m                        |24h 00m                |8h 00m                      |12h 30m                    |17h 45m                          |
+|2020-53|9h 50m                         |3h 15m                        |25h 00m                |8h 00m                      |12h 30m                    |17h 45m                          |
 
 ### TIME STATS
 
@@ -22,7 +22,7 @@
 
 * **Günter Windsperger @01302775**: 124h 00m
 * **Nicolas Griebenow @01617265**: 141h 30m
-* **Lisa Fürst @11775842**: 149h 45m
+* **Lisa Fürst @11775842**: 150h 45m
 * **Stefan Puntigam @11776838**: 129h 00m
 * **Thomas Stoiber @11777755**: 145h 15m
 * **Michael Bernd Stöger @11778261**: 155h 00m
@@ -307,6 +307,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2021-01-03 20:35:54.986|Issue        |161|1h 00m  |
 |Lisa Fürst @11775842          |2021-01-03 20:35:10.076|Issue        |167|0h 15m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:29:47.389|Issue        |153|2h 00m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:29:12.850|Issue        |164|4h 15m  |
