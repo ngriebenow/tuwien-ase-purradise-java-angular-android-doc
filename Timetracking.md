@@ -13,17 +13,17 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 50m                         |3h 15m                        |25h 00m                |8h 00m                      |12h 30m                    |17h 45m                          |
+|2020-53|9h 50m                         |3h 15m                        |25h 00m                |11h 30m                     |12h 30m                    |17h 45m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 847h 15m
+* **total spent**: 850h 45m
 
 * **Günter Windsperger @01302775**: 124h 00m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 150h 45m
-* **Stefan Puntigam @11776838**: 129h 00m
+* **Stefan Puntigam @11776838**: 132h 30m
 * **Thomas Stoiber @11777755**: 145h 15m
 * **Michael Bernd Stöger @11778261**: 155h 00m
 
@@ -41,7 +41,7 @@
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
 |183|RE: S4: Web edit model + texture (5 SP)                                                |18h 00m|13h 00m       |
-|182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
+|182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |5h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 30m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
@@ -228,6 +228,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|75 |Feat/android cancel appointments                                                             |0h 00m|0h 00m        |
 |74 |Instant Placement of an AR Model                                                             |0h 45m|0h 00m        |
 |73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
 |72 |Bug/web watchlist appointment integration                                                    |0h 00m|0h 00m        |
@@ -307,6 +308,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2021-01-03 20:39:18.917|Issue        |182|3h 30m  |
 |Lisa Fürst @11775842          |2021-01-03 20:35:54.986|Issue        |161|1h 00m  |
 |Lisa Fürst @11775842          |2021-01-03 20:35:10.076|Issue        |167|0h 15m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:29:47.389|Issue        |153|2h 00m  |
