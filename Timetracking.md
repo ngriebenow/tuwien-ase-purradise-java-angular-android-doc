@@ -18,7 +18,7 @@
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 846h 15m
+* **total spent**: 847h 15m
 
 * **Günter Windsperger @01302775**: 124h 00m
 * **Nicolas Griebenow @01617265**: 141h 30m
@@ -62,7 +62,7 @@
 |164|C5: Android view list of adopted animals (8 SP)                                        |7h 00m |8h 00m        |
 |163|C5: Web view list of adopted animals (8 SP)                                            |4h 30m |8h 00m        |
 |162|C4: Backend manage appointment (generated, verify) (2 SP)                              |2h 00m |2h 00m        |
-|161|C4: Android view and add appointment (13 SP)                                           |20h 00m|13h 00m       |
+|161|C4: Android view and add appointment (13 SP)                                           |21h 00m|13h 00m       |
 |160|C4: Web view and add appointment (13 SP)                                               |4h 00m |13h 00m       |
 |159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |8h 45m |2h 00m        |
 |158|C3: Web view and edit watchlist (8 SP)                                                 |14h 00m|8h 00m        |
