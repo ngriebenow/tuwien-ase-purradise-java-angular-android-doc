@@ -13,17 +13,17 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 50m                         |3h 15m                        |23h 45m                |6h 00m                      |12h 30m                    |17h 45m                          |
+|2020-53|9h 50m                         |3h 15m                        |23h 45m                |8h 00m                      |12h 30m                    |17h 45m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 844h 00m
+* **total spent**: 846h 00m
 
 * **Günter Windsperger @01302775**: 124h 00m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 149h 30m
-* **Stefan Puntigam @11776838**: 127h 00m
+* **Stefan Puntigam @11776838**: 129h 00m
 * **Thomas Stoiber @11777755**: 145h 15m
 * **Michael Bernd Stöger @11778261**: 155h 00m
 
@@ -70,7 +70,7 @@
 |156|QA SonarLint Scan + Refactoring                                                        |2h 00m |20h 00m       |
 |155|Sprint 3 Planning                                                                      |9h 15m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                            |7h 30m |9h 00m        |
-|153|Normal map not used for rendering                                                      |0h 00m |5h 00m        |
+|153|Normal map not used for rendering                                                      |2h 00m |5h 00m        |
 |152|MR2 Demo                                                                               |4h 30m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                      |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                       |0h 00m |0h 00m        |
@@ -307,6 +307,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2021-01-03 20:29:47.389|Issue        |153|2h 00m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:29:12.850|Issue        |164|4h 15m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:28:51.332|Issue        |163|1h 15m  |
 |Stefan Puntigam @11776838     |2021-01-03 20:25:01.542|Issue        |165|0h 30m  |
