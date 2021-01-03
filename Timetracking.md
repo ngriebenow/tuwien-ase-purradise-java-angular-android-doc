@@ -13,19 +13,19 @@
 |2020-50|13h 00m                        |18h 15m                       |10h 00m                |13h 15m                     |23h 00m                    |16h 30m                          |
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
-|2020-53|9h 05m                         |3h 15m                        |23h 00m                |0h 00m                      |9h 45m                     |17h 30m                          |
+|2020-53|9h 50m                         |3h 15m                        |23h 00m                |0h 00m                      |9h 45m                     |17h 45m                          |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 833h 30m
+* **total spent**: 834h 30m
 
-* **Günter Windsperger @01302775**: 123h 15m
+* **Günter Windsperger @01302775**: 124h 00m
 * **Nicolas Griebenow @01617265**: 141h 30m
 * **Lisa Fürst @11775842**: 148h 45m
 * **Stefan Puntigam @11776838**: 121h 00m
 * **Thomas Stoiber @11777755**: 142h 30m
-* **Michael Bernd Stöger @11778261**: 154h 45m
+* **Michael Bernd Stöger @11778261**: 155h 00m
 
 ### ISSUES
 
@@ -40,7 +40,7 @@
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
-|183|RE: S4: Web edit model + texture (5 SP)                                                |17h 45m|13h 00m       |
+|183|RE: S4: Web edit model + texture (5 SP)                                                |18h 00m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |1h 30m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 30m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
@@ -228,7 +228,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
-|74 |Instant Placement of an AR Model                                                             |0h 00m|0h 00m        |
+|74 |Instant Placement of an AR Model                                                             |0h 45m|0h 00m        |
 |73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
 |72 |Bug/web watchlist appointment integration                                                    |0h 00m|0h 00m        |
 |71 |Feat/android create appointments2                                                            |0h 00m|0h 00m        |
@@ -307,6 +307,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Michael Bernd Stöger @11778261|2021-01-03 11:08:16.778|Issue        |183|0h 15m  |
+|Günter Windsperger @01302775  |2021-01-03 00:36:51.852|Merge Request|74 |0h 45m  |
 |Lisa Fürst @11775842          |2021-01-03 00:35:49.014|Issue        |167|0h 30m  |
 |Michael Bernd Stöger @11778261|2021-01-02 22:58:49.088|Issue        |167|1h 00m  |
 |Thomas Stoiber @11777755      |2021-01-02 20:47:30.822|Issue        |178|1h 30m  |
