@@ -229,6 +229,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|76 |Feat/android customer preferences                                                            |0h 00m|0h 00m        |
 |75 |Feat/android cancel appointments                                                             |0h 30m|0h 00m        |
 |74 |Instant Placement of an AR Model                                                             |0h 45m|0h 00m        |
 |73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
