@@ -14,17 +14,17 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|0h 45m                         |0h 02m                        |0h 00m                 |6h 00m                      |0h 30m                     |0h 00m                           |
+|2021-01|0h 45m                         |0h 02m                        |0h 00m                 |8h 00m                      |0h 30m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 861h 17m
+* **total spent**: 863h 17m
 
 * **Günter Windsperger @01302775**: 124h 45m
 * **Nicolas Griebenow @01617265**: 141h 32m
 * **Lisa Fürst @11775842**: 151h 00m
-* **Stefan Puntigam @11776838**: 141h 00m
+* **Stefan Puntigam @11776838**: 143h 00m
 * **Thomas Stoiber @11777755**: 145h 45m
 * **Michael Bernd Stöger @11778261**: 155h 30m
 
@@ -56,7 +56,7 @@
 |171|Android + Web - Rework and standardize icons                                           |4h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                               |1h 15m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
-|168|K3: Web assign animal to customer (8 SP)                                               |5h 30m |8h 00m        |
+|168|K3: Web assign animal to customer (8 SP)                                               |7h 30m |8h 00m        |
 |167|C7: Android cancel appointment (2 SP)                                                  |4h 15m |2h 00m        |
 |166|C7: Web cancel appointment (2 SP)                                                      |0h 00m |2h 00m        |
 |165|C5: Backend manage adoptions (generated, verify) (2 SP)                                |0h 30m |2h 00m        |
@@ -311,6 +311,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2021-01-07 00:13:36.280|Issue        |168|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-06 20:52:32.407|Issue        |156|0h 45m  |
 |Stefan Puntigam @11776838     |2021-01-06 18:43:30.553|Issue        |182|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-06 11:03:54.713|Issue        |191|0h 01m  |
