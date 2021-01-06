@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|0h 00m                         |0h 02m                        |0h 00m                 |6h 00m                      |0h 30m                     |0h 00m                           |
+|2021-01|0h 45m                         |0h 02m                        |0h 00m                 |6h 00m                      |0h 30m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 860h 32m
+* **total spent**: 861h 17m
 
-* **Günter Windsperger @01302775**: 124h 00m
+* **Günter Windsperger @01302775**: 124h 45m
 * **Nicolas Griebenow @01617265**: 141h 32m
 * **Lisa Fürst @11775842**: 151h 00m
 * **Stefan Puntigam @11776838**: 141h 00m
@@ -68,7 +68,7 @@
 |159|C3: Backend manage watchlist (generated, verify) (2 SP)                                |8h 45m |2h 00m        |
 |158|C3: Web view and edit watchlist (8 SP)                                                 |14h 00m|8h 00m        |
 |157|C3: Android view and edit watchlist (8 SP)                                             |4h 30m |8h 00m        |
-|156|QA SonarLint Scan + Refactoring                                                        |2h 00m |20h 00m       |
+|156|QA SonarLint Scan + Refactoring                                                        |2h 45m |20h 00m       |
 |155|Sprint 3 Planning                                                                      |9h 15m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                            |7h 30m |9h 00m        |
 |153|Normal map not used for rendering                                                      |2h 00m |5h 00m        |
@@ -311,6 +311,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-06 20:52:32.407|Issue        |156|0h 45m  |
 |Stefan Puntigam @11776838     |2021-01-06 18:43:30.553|Issue        |182|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-06 11:03:54.713|Issue        |191|0h 01m  |
 |Nicolas Griebenow @01617265   |2021-01-06 11:02:24.139|Merge Request|76 |0h 01m  |
