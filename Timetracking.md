@@ -14,18 +14,18 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|0h 00m                         |0h 00m                        |0h 00m                 |5h 00m                      |0h 00m                     |0h 00m                           |
+|2021-01|0h 00m                         |0h 02m                        |0h 00m                 |5h 00m                      |0h 30m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 862h 15m
-* **total spent**: 859h 00m
+* **total spent**: 859h 32m
 
 * **Günter Windsperger @01302775**: 124h 00m
-* **Nicolas Griebenow @01617265**: 141h 30m
+* **Nicolas Griebenow @01617265**: 141h 32m
 * **Lisa Fürst @11775842**: 151h 00m
 * **Stefan Puntigam @11776838**: 140h 00m
-* **Thomas Stoiber @11777755**: 145h 15m
+* **Thomas Stoiber @11777755**: 145h 45m
 * **Michael Bernd Stöger @11778261**: 155h 30m
 
 ### ISSUES
@@ -33,7 +33,7 @@
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
-|191|Watchlist Appointment Integration                                                      |1h 15m |1h 00m        |
+|191|Watchlist Appointment Integration                                                      |1h 16m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |1h 30m |0h 00m        |
 |189|Change Watchlist Remove API to use Set of Animals                                      |0h 45m |1h 00m        |
 |188|Colors do not work anymore                                                             |0h 00m |0h 00m        |
@@ -229,7 +229,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
-|76 |Feat/android customer preferences                                                            |0h 00m|0h 00m        |
+|76 |Feat/android customer preferences                                                            |0h 31m|0h 00m        |
 |75 |Feat/android cancel appointments                                                             |0h 30m|0h 00m        |
 |74 |Instant Placement of an AR Model                                                             |0h 45m|0h 00m        |
 |73 |Feat/registration validation refactor                                                        |0h 00m|0h 00m        |
@@ -310,6 +310,9 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-06 11:03:54.713|Issue        |191|0h 01m  |
+|Nicolas Griebenow @01617265   |2021-01-06 11:02:24.139|Merge Request|76 |0h 01m  |
+|Thomas Stoiber @11777755      |2021-01-06 10:49:37.870|Merge Request|76 |0h 30m  |
 |Stefan Puntigam @11776838     |2021-01-06 00:07:44.670|Issue        |168|3h 00m  |
 |Stefan Puntigam @11776838     |2021-01-06 00:07:04.939|Issue        |136|2h 00m  |
 |Lisa Fürst @11775842          |2021-01-03 22:45:01.450|Issue        |167|0h 15m  |
