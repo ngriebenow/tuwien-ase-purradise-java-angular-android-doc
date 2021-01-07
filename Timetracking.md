@@ -14,17 +14,17 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 47m                        |1h 15m                 |9h 15m                      |1h 30m                     |1h 15m                           |
+|2021-01|1h 45m                         |1h 47m                        |1h 15m                 |9h 30m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
-* **total estimate**: 870h 15m
-* **total spent**: 870h 47m
+* **total estimate**: 870h 30m
+* **total spent**: 871h 02m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 152h 15m
-* **Stefan Puntigam @11776838**: 144h 15m
+* **Stefan Puntigam @11776838**: 144h 30m
 * **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 156h 45m
 
@@ -32,7 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|201|Web: customers/me also is accessed for users who are not customers                     |0h 00m |0h 00m        |
+|201|Web: customers/me also is accessed for users who are not customers                     |0h 15m |0h 15m        |
 |200|Backend: customers?login returns more than requested customer                          |0h 15m |0h 15m        |
 |199|Web: Inconsistent date of birth formatting in animal components                        |0h 15m |0h 15m        |
 |198|Appointment comment input length                                                       |0h 15m |0h 15m        |
@@ -321,6 +321,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2021-01-07 19:27:55.193|Issue        |201|0h 15m  |
 |Stefan Puntigam @11776838     |2021-01-07 19:13:10.103|Issue        |200|0h 15m  |
 |Lisa Fürst @11775842          |2021-01-07 11:37:01.494|Issue        |199|0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-07 10:17:34.476|Issue        |198|0h 15m  |
