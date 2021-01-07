@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|202|Web: Customer cannot access recommendations                                            |0h 00m |0h 00m        |
 |201|Web: customers/me also is accessed for users who are not customers                     |0h 15m |0h 15m        |
 |200|Backend: customers?login returns more than requested customer                          |0h 15m |0h 15m        |
 |199|Web: Inconsistent date of birth formatting in animal components                        |0h 15m |0h 15m        |
@@ -238,6 +239,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|79 |Bug/android sort schedule                                                                    |0h 00m|0h 00m        |
 |78 |Bugfixes watchlist, animal + appointment validation                                          |0h 00m|0h 00m        |
 |77 |Bug/user management page count                                                               |0h 00m|0h 00m        |
 |76 |Feat/android customer preferences                                                            |0h 31m|0h 00m        |
