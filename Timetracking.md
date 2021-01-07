@@ -14,26 +14,26 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |0h 02m                        |0h 00m                 |9h 00m                      |1h 30m                     |0h 00m                           |
+|2021-01|1h 45m                         |0h 02m                        |1h 00m                 |9h 00m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 868h 45m
-* **total spent**: 866h 17m
+* **total spent**: 868h 32m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 141h 32m
-* **Lisa Fürst @11775842**: 151h 00m
+* **Lisa Fürst @11775842**: 152h 00m
 * **Stefan Puntigam @11776838**: 144h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
-* **Michael Bernd Stöger @11778261**: 155h 30m
+* **Michael Bernd Stöger @11778261**: 156h 45m
 
 ### ISSUES
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
 |196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
-|195|Tutor Meeting 2021-01-07                                                               |3h 00m |6h 00m        |
+|195|Tutor Meeting 2021-01-07                                                               |5h 15m |6h 00m        |
 |194|Duplicate watchlist button                                                             |0h 00m |0h 00m        |
 |193|Android: Recommendations not loaded correctly after merge                              |0h 00m |0h 15m        |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
@@ -315,6 +315,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Michael Bernd Stöger @11778261|2021-01-07 09:58:15.723|Issue        |195|1h 15m  |
+|Lisa Fürst @11775842          |2021-01-07 09:58:15.094|Issue        |195|1h 00m  |
 |Stefan Puntigam @11776838     |2021-01-07 09:57:37.638|Issue        |195|1h 00m  |
 |Günter Windsperger @01302775  |2021-01-07 09:57:19.755|Issue        |195|1h 00m  |
 |Thomas Stoiber @11777755      |2021-01-07 09:56:38.180|Issue        |195|1h 00m  |
