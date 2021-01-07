@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|193|Android: Recommendations not loaded correctly after merge                              |0h 00m |0h 00m        |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
 |191|Watchlist Appointment Integration                                                      |1h 16m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |1h 30m |0h 00m        |
