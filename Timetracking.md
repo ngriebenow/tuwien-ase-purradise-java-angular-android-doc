@@ -18,7 +18,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 868h 30m
+* **total estimate**: 868h 45m
 * **total spent**: 866h 17m
 
 * **Günter Windsperger @01302775**: 125h 45m
@@ -32,7 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 00m        |
+|196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
 |195|Tutor Meeting 2021-01-07                                                               |3h 00m |6h 00m        |
 |194|Duplicate watchlist button                                                             |0h 00m |0h 00m        |
 |193|Android: Recommendations not loaded correctly after merge                              |0h 00m |0h 15m        |
