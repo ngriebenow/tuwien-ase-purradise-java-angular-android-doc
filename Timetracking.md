@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|200|Backend: customers?login returns more than requested customer                          |0h 00m |0h 00m        |
 |199|Web: Inconsistent date of birth formatting in animal components                        |0h 15m |0h 15m        |
 |198|Appointment comment input length                                                       |0h 15m |0h 15m        |
 |197|Birthday validation future                                                             |0h 15m |0h 15m        |
