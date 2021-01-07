@@ -14,16 +14,16 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 47m                        |1h 45m                 |9h 30m                      |1h 30m                     |1h 15m                           |
+|2021-01|1h 45m                         |1h 47m                        |2h 00m                 |9h 30m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 871h 32m
+* **total spent**: 871h 47m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
-* **Lisa Fürst @11775842**: 152h 45m
+* **Lisa Fürst @11775842**: 153h 00m
 * **Stefan Puntigam @11776838**: 144h 30m
 * **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 156h 45m
@@ -41,7 +41,7 @@
 |196|Android: Appointments in schedule not sorted by date                                   |0h 30m |0h 15m        |
 |195|Tutor Meeting 2021-01-07                                                               |6h 15m |6h 00m        |
 |194|Duplicate watchlist button                                                             |0h 15m |0h 30m        |
-|193|Android: Recommendations not loaded correctly after merge                              |0h 00m |0h 15m        |
+|193|Android: Recommendations not loaded correctly after merge                              |0h 15m |0h 15m        |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
 |191|Watchlist Appointment Integration                                                      |1h 16m |1h 00m        |
 |190|Knowledge sharing sessions                                                             |1h 30m |0h 00m        |
@@ -239,6 +239,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|80 |[#193] Use findMe() endpoint in Recommendation to resolve recommendation loading problem     |0h 00m|0h 00m        |
 |79 |Bug/android sort schedule                                                                    |0h 00m|0h 00m        |
 |78 |Bugfixes watchlist, animal + appointment validation                                          |0h 00m|0h 00m        |
 |77 |Bug/user management page count                                                               |0h 00m|0h 00m        |
@@ -323,6 +324,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2021-01-07 20:35:03.657|Issue        |193|0h 15m  |
 |Lisa Fürst @11775842          |2021-01-07 20:24:28.113|Issue        |196|0h 30m  |
 |Stefan Puntigam @11776838     |2021-01-07 19:27:55.193|Issue        |201|0h 15m  |
 |Stefan Puntigam @11776838     |2021-01-07 19:13:10.103|Issue        |200|0h 15m  |
