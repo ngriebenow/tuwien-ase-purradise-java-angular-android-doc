@@ -14,25 +14,25 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|0h 45m                         |0h 02m                        |0h 00m                 |8h 00m                      |0h 30m                     |0h 00m                           |
+|2021-01|0h 45m                         |0h 02m                        |0h 00m                 |8h 00m                      |1h 30m                     |0h 00m                           |
 
 ### TIME STATS
 
 * **total estimate**: 868h 30m
-* **total spent**: 863h 17m
+* **total spent**: 864h 17m
 
 * **Günter Windsperger @01302775**: 124h 45m
 * **Nicolas Griebenow @01617265**: 141h 32m
 * **Lisa Fürst @11775842**: 151h 00m
 * **Stefan Puntigam @11776838**: 143h 00m
-* **Thomas Stoiber @11777755**: 145h 45m
+* **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 155h 30m
 
 ### ISSUES
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|195|Tutor Meeting 2021-01-07                                                               |0h 00m |6h 00m        |
+|195|Tutor Meeting 2021-01-07                                                               |1h 00m |6h 00m        |
 |194|Duplicate watchlist button                                                             |0h 00m |0h 00m        |
 |193|Android: Recommendations not loaded correctly after merge                              |0h 00m |0h 15m        |
 |192|Watchlist missing i18n                                                                 |0h 05m |0h 00m        |
@@ -314,6 +314,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2021-01-07 09:56:38.180|Issue        |195|1h 00m  |
 |Stefan Puntigam @11776838     |2021-01-07 00:13:36.280|Issue        |168|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-06 20:52:32.407|Issue        |156|0h 45m  |
 |Stefan Puntigam @11776838     |2021-01-06 18:43:30.553|Issue        |182|1h 00m  |
