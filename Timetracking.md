@@ -14,17 +14,17 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 47m                        |2h 00m                 |9h 30m                      |1h 30m                     |1h 15m                           |
+|2021-01|1h 45m                         |1h 47m                        |2h 00m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 871h 47m
+* **total spent**: 875h 17m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 153h 00m
-* **Stefan Puntigam @11776838**: 144h 30m
+* **Stefan Puntigam @11776838**: 148h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 156h 45m
 
@@ -66,7 +66,7 @@
 |171|Android + Web - Rework and standardize icons                                           |4h 00m |3h 00m        |
 |170|Web - Animal Overview - Loading progress                                               |1h 15m |3h 00m        |
 |169|K5: Web view and manage appointments (13 SP)                                           |5h 00m |13h 00m       |
-|168|K3: Web assign animal to customer (8 SP)                                               |7h 30m |8h 00m        |
+|168|K3: Web assign animal to customer (8 SP)                                               |10h 00m|8h 00m        |
 |167|C7: Android cancel appointment (2 SP)                                                  |4h 15m |2h 00m        |
 |166|C7: Web cancel appointment (2 SP)                                                      |0h 00m |2h 00m        |
 |165|C5: Backend manage adoptions (generated, verify) (2 SP)                                |0h 30m |2h 00m        |
@@ -81,7 +81,7 @@
 |156|QA SonarLint Scan + Refactoring                                                        |2h 45m |20h 00m       |
 |155|Sprint 3 Planning                                                                      |9h 15m |7h 30m        |
 |154|MR2 Presentation 2020-12-10                                                            |7h 30m |9h 00m        |
-|153|Normal map not used for rendering                                                      |2h 00m |5h 00m        |
+|153|Normal map not used for rendering                                                      |3h 00m |5h 00m        |
 |152|MR2 Demo                                                                               |4h 30m |4h 30m        |
 |151|Sprint 2 Retrospective 2020-12-09                                                      |3h 00m |3h 00m        |
 |150|Add meaningful test data for MR2                                                       |0h 00m |0h 00m        |
@@ -239,6 +239,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|81 |[#200] Fix customers?login to only return one customer                                       |0h 00m|0h 00m        |
 |80 |[#193] Use findMe() endpoint in Recommendation to resolve recommendation loading problem     |0h 00m|0h 00m        |
 |79 |Bug/android sort schedule                                                                    |0h 00m|0h 00m        |
 |78 |Bugfixes watchlist, animal + appointment validation                                          |0h 00m|0h 00m        |
@@ -324,6 +325,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Stefan Puntigam @11776838     |2021-01-08 00:03:51.340|Issue        |153|1h 00m  |
+|Stefan Puntigam @11776838     |2021-01-08 00:03:43.773|Issue        |168|2h 30m  |
 |Lisa Fürst @11775842          |2021-01-07 20:35:03.657|Issue        |193|0h 15m  |
 |Lisa Fürst @11775842          |2021-01-07 20:24:28.113|Issue        |196|0h 30m  |
 |Stefan Puntigam @11776838     |2021-01-07 19:27:55.193|Issue        |201|0h 15m  |
