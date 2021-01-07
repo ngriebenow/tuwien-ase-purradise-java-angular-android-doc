@@ -18,8 +18,8 @@
 
 ### TIME STATS
 
-* **total estimate**: 869h 30m
-* **total spent**: 870h 02m
+* **total estimate**: 869h 45m
+* **total spent**: 870h 17m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
@@ -32,7 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|198|Appointment comment input length                                                       |0h 00m |0h 00m        |
+|198|Appointment comment input length                                                       |0h 15m |0h 15m        |
 |197|Birthday validation future                                                             |0h 15m |0h 15m        |
 |196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
 |195|Tutor Meeting 2021-01-07                                                               |6h 15m |6h 00m        |
