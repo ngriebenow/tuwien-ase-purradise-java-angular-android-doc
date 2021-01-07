@@ -18,7 +18,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 869h 45m
+* **total estimate**: 870h 00m
 * **total spent**: 870h 17m
 
 * **Günter Windsperger @01302775**: 125h 45m
@@ -32,7 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|199|Web: Inconsistent date of birth formatting in animal details                           |0h 00m |0h 00m        |
+|199|Web: Inconsistent date of birth formatting in animal components                        |0h 00m |0h 15m        |
 |198|Appointment comment input length                                                       |0h 15m |0h 15m        |
 |197|Birthday validation future                                                             |0h 15m |0h 15m        |
 |196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
