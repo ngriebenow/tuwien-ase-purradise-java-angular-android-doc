@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|198|Appointment comment input length                                                       |0h 00m |0h 00m        |
 |197|Birthday validation future                                                             |0h 00m |0h 00m        |
 |196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
 |195|Tutor Meeting 2021-01-07                                                               |5h 15m |6h 00m        |
