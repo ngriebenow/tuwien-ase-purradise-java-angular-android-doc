@@ -14,15 +14,15 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 32m                        |1h 00m                 |9h 00m                      |1h 30m                     |1h 15m                           |
+|2021-01|1h 45m                         |1h 47m                        |1h 00m                 |9h 00m                      |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
-* **total estimate**: 869h 15m
-* **total spent**: 869h 47m
+* **total estimate**: 869h 30m
+* **total spent**: 870h 02m
 
 * **Günter Windsperger @01302775**: 125h 45m
-* **Nicolas Griebenow @01617265**: 143h 02m
+* **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 152h 00m
 * **Stefan Puntigam @11776838**: 144h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
@@ -33,7 +33,7 @@
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
 |198|Appointment comment input length                                                       |0h 00m |0h 00m        |
-|197|Birthday validation future                                                             |0h 00m |0h 00m        |
+|197|Birthday validation future                                                             |0h 15m |0h 15m        |
 |196|Android: Appointments in schedule not sorted by date                                   |0h 00m |0h 15m        |
 |195|Tutor Meeting 2021-01-07                                                               |6h 15m |6h 00m        |
 |194|Duplicate watchlist button                                                             |0h 15m |0h 30m        |
@@ -317,6 +317,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-07 10:17:34.476|Issue        |198|0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-07 10:17:22.301|Issue        |197|0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-07 10:17:09.361|Issue        |194|0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-07 10:16:15.931|Issue        |195|1h 00m  |
