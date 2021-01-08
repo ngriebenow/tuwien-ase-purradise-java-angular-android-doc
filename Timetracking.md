@@ -14,16 +14,16 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 47m                        |2h 00m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|1h 45m                         |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 875h 17m
+* **total spent**: 876h 32m
 
 * **Günter Windsperger @01302775**: 125h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
-* **Lisa Fürst @11775842**: 153h 00m
+* **Lisa Fürst @11775842**: 154h 15m
 * **Stefan Puntigam @11776838**: 148h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 156h 45m
@@ -57,7 +57,7 @@
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
 |179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                          |1h 30m |8h 00m        |
-|177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |3h 15m |5h 00m        |
+|177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |4h 30m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
 |175|Web - Registration validation refactoring                                              |1h 15m |1h 00m        |
 |174|Web - Recommendations design refactoring                                               |1h 00m |3h 00m        |
@@ -326,6 +326,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2021-01-08 15:49:31.732|Issue        |177|1h 15m  |
 |Stefan Puntigam @11776838     |2021-01-08 00:03:51.340|Issue        |153|1h 00m  |
 |Stefan Puntigam @11776838     |2021-01-08 00:03:43.773|Issue        |168|2h 30m  |
 |Lisa Fürst @11775842          |2021-01-07 20:35:03.657|Issue        |193|0h 15m  |
