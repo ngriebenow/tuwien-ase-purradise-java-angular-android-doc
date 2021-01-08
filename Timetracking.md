@@ -239,6 +239,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|82 |Feat/assign customer animal                                                                  |0h 00m|0h 00m        |
 |81 |[#200] Fix customers?login to only return one customer                                       |0h 00m|0h 00m        |
 |80 |[#193] Use findMe() endpoint in Recommendation to resolve recommendation loading problem     |0h 00m|0h 00m        |
 |79 |Bug/android sort schedule                                                                    |0h 00m|0h 00m        |
