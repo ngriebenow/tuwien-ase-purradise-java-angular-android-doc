@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|203|Web - Animal list loading indicator does not stop spinning on loading error            |0h 00m |0h 00m        |
 |202|Web: Customer cannot access recommendations                                            |0h 00m |0h 00m        |
 |201|Web: customers/me also is accessed for users who are not customers                     |0h 15m |0h 15m        |
 |200|Backend: customers?login returns more than requested customer                          |0h 15m |0h 15m        |
