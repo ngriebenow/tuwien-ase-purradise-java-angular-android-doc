@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|1h 45m                         |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|10h 45m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 876h 32m
+* **total spent**: 885h 32m
 
-* **Günter Windsperger @01302775**: 125h 45m
+* **Günter Windsperger @01302775**: 134h 45m
 * **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 154h 15m
 * **Stefan Puntigam @11776838**: 148h 00m
@@ -51,7 +51,7 @@
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
-|183|RE: S4: Web edit model + texture (5 SP)                                                |18h 00m|13h 00m       |
+|183|RE: S4: Web edit model + texture (5 SP)                                                |24h 00m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |6h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 30m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
@@ -266,7 +266,7 @@
 |59 |Feat/web backend watchlist                                                                   |1h 30m|0h 00m        |
 |58 |Web App Theming, Appointment + Watchlist Integration                                         |1h 30m|0h 00m        |
 |57 |Bug/web app theming colors                                                                   |0h 00m|0h 00m        |
-|56 |Feat/web armodel management2                                                                 |0h 00m|0h 00m        |
+|56 |Feat/web armodel management2                                                                 |3h 00m|0h 00m        |
 |55 |Feat/android view animals rework                                                             |0h 15m|0h 00m        |
 |54 |Android Watchlist                                                                            |0h 15m|0h 00m        |
 |53 |Feat/web watchlist                                                                           |0h 40m|0h 00m        |
@@ -327,6 +327,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-08 18:09:10.285|Merge Request|56 |3h 00m  |
+|Günter Windsperger @01302775  |2021-01-08 18:09:05.318|Issue        |183|6h 00m  |
 |Lisa Fürst @11775842          |2021-01-08 15:49:31.732|Issue        |177|1h 15m  |
 |Stefan Puntigam @11776838     |2021-01-08 00:03:51.340|Issue        |153|1h 00m  |
 |Stefan Puntigam @11776838     |2021-01-08 00:03:43.773|Issue        |168|2h 30m  |
