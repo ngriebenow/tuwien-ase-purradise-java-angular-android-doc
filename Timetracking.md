@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|13h 15m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|13h 30m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 888h 02m
+* **total spent**: 888h 17m
 
-* **Günter Windsperger @01302775**: 137h 15m
+* **Günter Windsperger @01302775**: 137h 30m
 * **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 154h 15m
 * **Stefan Puntigam @11776838**: 148h 00m
@@ -98,7 +98,7 @@
 |140|Remove editor config rule for trailing commas                                          |0h 00m |0h 00m        |
 |139|Missing animations for bootstrap components                                            |0h 30m |1h 00m        |
 |138|Tutor Meeting 2020-12-03                                                               |6h 00m |6h 00m        |
-|137|Firefox: Incorrect size of images in carousel component                                |0h 00m |3h 00m        |
+|137|Firefox: Incorrect size of images in carousel component                                |0h 15m |3h 00m        |
 |136|Web - User management - wrong page count when filtering                                |2h 00m |2h 00m        |
 |135|Fix translation error on register page                                                 |0h 00m |0h 00m        |
 |134|Validate fake data                                                                     |5h 00m |2h 00m        |
@@ -328,6 +328,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-08 23:40:29.073|Issue        |137|0h 15m  |
 |Günter Windsperger @01302775  |2021-01-08 22:55:09.858|Issue        |183|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-08 18:44:38.498|Issue        |181|0h 15m  |
 |Günter Windsperger @01302775  |2021-01-08 18:27:06.871|Merge Request|56 |0h 15m  |
