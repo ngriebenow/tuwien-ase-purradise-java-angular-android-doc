@@ -14,18 +14,18 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|22h 30m                        |2h 32m                        |4h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|22h 30m                        |2h 32m                        |4h 45m                 |13h 00m                     |1h 45m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 873h 30m
-* **total spent**: 899h 32m
+* **total spent**: 899h 47m
 
 * **Günter Windsperger @01302775**: 146h 30m
 * **Nicolas Griebenow @01617265**: 144h 02m
 * **Lisa Fürst @11775842**: 155h 45m
 * **Stefan Puntigam @11776838**: 148h 00m
-* **Thomas Stoiber @11777755**: 146h 45m
+* **Thomas Stoiber @11777755**: 147h 00m
 * **Michael Bernd Stöger @11778261**: 156h 45m
 
 ### ISSUES
@@ -245,7 +245,7 @@
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
 |86 |WIP: Bug/web missing translations                                                            |0h 00m|0h 00m        |
 |85 |Feat/list adopted animals                                                                    |0h 15m|0h 00m        |
-|84 |Bug/incorrect size of carousel                                                               |0h 00m|0h 00m        |
+|84 |Bug/incorrect size of carousel                                                               |0h 15m|0h 00m        |
 |83 |Feat/entity dialog refactor                                                                  |0h 15m|0h 00m        |
 |82 |Feat/assign customer animal                                                                  |0h 15m|0h 00m        |
 |81 |[#200] Fix customers?login to only return one customer                                       |0h 00m|0h 00m        |
@@ -334,6 +334,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2021-01-09 22:16:55.827|Merge Request|84 |0h 15m  |
 |Günter Windsperger @01302775  |2021-01-09 22:06:00.454|Issue        |179|1h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 22:03:30.759|Issue        |179|3h 00m  |
 |Lisa Fürst @11775842          |2021-01-09 20:01:42.936|Issue        |146|0h 30m  |
