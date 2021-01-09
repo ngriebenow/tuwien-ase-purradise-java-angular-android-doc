@@ -241,6 +241,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|87 |Resolve "Android - Animal detail refactoring"                                                |0h 00m|0h 00m        |
 |86 |WIP: Bug/web missing translations                                                            |0h 00m|0h 00m        |
 |85 |Feat/list adopted animals                                                                    |0h 15m|0h 00m        |
 |84 |Bug/incorrect size of carousel                                                               |0h 00m|0h 00m        |
