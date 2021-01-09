@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|21h 00m                        |2h 32m                        |4h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|22h 30m                        |2h 32m                        |4h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 898h 02m
+* **total spent**: 899h 32m
 
-* **Günter Windsperger @01302775**: 145h 00m
+* **Günter Windsperger @01302775**: 146h 30m
 * **Nicolas Griebenow @01617265**: 144h 02m
 * **Lisa Fürst @11775842**: 155h 45m
 * **Stefan Puntigam @11776838**: 148h 00m
@@ -57,7 +57,7 @@
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |6h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 45m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
-|179|Android - Animal detail refactoring                                                    |8h 30m |5h 00m        |
+|179|Android - Animal detail refactoring                                                    |10h 00m|5h 00m        |
 |178|Android - Add instant placement for AR models                                          |1h 30m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |4h 30m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
@@ -334,6 +334,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-09 22:06:00.454|Issue        |179|1h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 22:03:30.759|Issue        |179|3h 00m  |
 |Lisa Fürst @11775842          |2021-01-09 20:01:42.936|Issue        |146|0h 30m  |
 |Lisa Fürst @11775842          |2021-01-09 20:01:33.568|Merge Request|56 |0h 30m  |
