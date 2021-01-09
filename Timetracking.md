@@ -240,6 +240,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|85 |Feat/list adopted animals                                                                    |0h 00m|0h 00m        |
 |84 |Bug/incorrect size of carousel                                                               |0h 00m|0h 00m        |
 |83 |Feat/entity dialog refactor                                                                  |0h 00m|0h 00m        |
 |82 |Feat/assign customer animal                                                                  |0h 00m|0h 00m        |
