@@ -19,7 +19,7 @@
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 888h 17m
+* **total spent**: 890h 17m
 
 * **Günter Windsperger @01302775**: 139h 30m
 * **Nicolas Griebenow @01617265**: 143h 17m
@@ -56,7 +56,7 @@
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |6h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 45m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
-|179|Android - Animal detail refactoring                                                    |2h 00m |5h 00m        |
+|179|Android - Animal detail refactoring                                                    |4h 00m |5h 00m        |
 |178|Android - Add instant placement for AR models                                          |1h 30m |8h 00m        |
 |177|Web - Refactoring of entity-progressed-dialogs (i18n)                                  |4h 30m |5h 00m        |
 |176|Web - Admin administration  design refactoring                                         |1h 00m |2h 00m        |
