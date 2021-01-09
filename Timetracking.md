@@ -14,15 +14,15 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|17h 00m                        |1h 47m                        |3h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|17h 00m                        |2h 32m                        |3h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 892h 17m
+* **total spent**: 893h 02m
 
 * **Günter Windsperger @01302775**: 141h 00m
-* **Nicolas Griebenow @01617265**: 143h 17m
+* **Nicolas Griebenow @01617265**: 144h 02m
 * **Lisa Fürst @11775842**: 154h 45m
 * **Stefan Puntigam @11776838**: 148h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
@@ -240,10 +240,10 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
-|85 |Feat/list adopted animals                                                                    |0h 00m|0h 00m        |
+|85 |Feat/list adopted animals                                                                    |0h 15m|0h 00m        |
 |84 |Bug/incorrect size of carousel                                                               |0h 00m|0h 00m        |
-|83 |Feat/entity dialog refactor                                                                  |0h 00m|0h 00m        |
-|82 |Feat/assign customer animal                                                                  |0h 00m|0h 00m        |
+|83 |Feat/entity dialog refactor                                                                  |0h 15m|0h 00m        |
+|82 |Feat/assign customer animal                                                                  |0h 15m|0h 00m        |
 |81 |[#200] Fix customers?login to only return one customer                                       |0h 00m|0h 00m        |
 |80 |[#193] Use findMe() endpoint in Recommendation to resolve recommendation loading problem     |0h 00m|0h 00m        |
 |79 |Bug/android sort schedule                                                                    |0h 00m|0h 00m        |
@@ -330,6 +330,9 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-09 18:14:07.280|Merge Request|83 |0h 15m  |
+|Nicolas Griebenow @01617265   |2021-01-09 18:02:13.656|Merge Request|85 |0h 15m  |
+|Nicolas Griebenow @01617265   |2021-01-09 17:45:10.203|Merge Request|82 |0h 15m  |
 |Lisa Fürst @11775842          |2021-01-09 13:38:32.686|Issue        |146|0h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 13:24:51.014|Issue        |179|1h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 04:31:16.028|Issue        |179|2h 00m  |
