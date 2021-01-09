@@ -242,6 +242,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|89 |WIP: Bug/normal mapping not used                                                             |0h 00m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
 |86 |WIP: Bug/web missing translations                                                            |0h 00m|0h 00m        |
