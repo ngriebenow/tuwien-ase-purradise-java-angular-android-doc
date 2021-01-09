@@ -18,7 +18,7 @@
 
 ### TIME STATS
 
-* **total estimate**: 873h 30m
+* **total estimate**: 874h 00m
 * **total spent**: 899h 47m
 
 * **Günter Windsperger @01302775**: 146h 30m
@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|205|IsAvailable is false when adding a new animal                                          |0h 00m |0h 30m        |
 |204|Web: Opening Profile/Settings as admin/keeper throws 404 not found                     |0h 00m |0h 00m        |
 |203|Web - Animal list loading indicator does not stop spinning on loading error            |0h 00m |0h 00m        |
 |202|Web: Customer cannot access recommendations, preferences and personal information      |0h 00m |0h 00m        |
