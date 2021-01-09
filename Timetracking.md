@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|13h 30m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|15h 30m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
 * **total spent**: 888h 17m
 
-* **Günter Windsperger @01302775**: 137h 30m
+* **Günter Windsperger @01302775**: 139h 30m
 * **Nicolas Griebenow @01617265**: 143h 17m
 * **Lisa Fürst @11775842**: 154h 15m
 * **Stefan Puntigam @11776838**: 148h 00m
@@ -329,6 +329,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-09 04:31:16.028|Issue        |179|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-08 23:40:29.073|Issue        |137|0h 15m  |
 |Günter Windsperger @01302775  |2021-01-08 22:55:09.858|Issue        |183|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-08 18:44:38.498|Issue        |181|0h 15m  |
