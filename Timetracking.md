@@ -14,14 +14,14 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|17h 00m                        |2h 32m                        |3h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|18h 00m                        |2h 32m                        |3h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 893h 02m
+* **total spent**: 894h 02m
 
-* **Günter Windsperger @01302775**: 141h 00m
+* **Günter Windsperger @01302775**: 142h 00m
 * **Nicolas Griebenow @01617265**: 144h 02m
 * **Lisa Fürst @11775842**: 154h 45m
 * **Stefan Puntigam @11776838**: 148h 00m
@@ -53,7 +53,7 @@
 |186|Redo Web app Theming                                                                   |0h 30m |1h 00m        |
 |185|Wrong title in profile page and malformed button placement and misleading navbar title.|0h 00m |0h 00m        |
 |184|Tutor Meeting 2020-12-17                                                               |6h 00m |6h 00m        |
-|183|RE: S4: Web edit model + texture (5 SP)                                                |26h 00m|13h 00m       |
+|183|RE: S4: Web edit model + texture (5 SP)                                                |27h 00m|13h 00m       |
 |182|RE: C1: Android edit customer preferences (quiz style) (8 SP)                          |6h 00m |8h 00m        |
 |181|RE: Standardize margins of all frontend pages (3 SP)                                   |2h 45m |3h 00m        |
 |180|RE: Fix alignment of error page (1 SP)                                                 |0h 30m |1h 00m        |
@@ -331,6 +331,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Günter Windsperger @01302775  |2021-01-09 19:37:22.632|Issue        |183|1h 00m  |
 |Nicolas Griebenow @01617265   |2021-01-09 18:14:07.280|Merge Request|83 |0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-09 18:02:13.656|Merge Request|85 |0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-09 17:45:10.203|Merge Request|82 |0h 15m  |
