@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
 |205|IsAvailable is false when adding a new animal                                          |0h 15m |0h 15m        |
 |204|Web: Opening Profile/Settings as admin/keeper throws 404 not found                     |0h 15m |0h 15m        |
 |203|Web - Animal list loading indicator does not stop spinning on loading error            |0h 00m |0h 00m        |
@@ -242,6 +243,7 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
+|91 |Bug/web customer find me always called                                                       |0h 00m|0h 00m        |
 |90 |Bug/customer edit preferences                                                                |0h 00m|0h 00m        |
 |89 |WIP: Bug/normal mapping not used                                                             |0h 00m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
