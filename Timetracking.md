@@ -14,16 +14,16 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|17h 00m                        |1h 47m                        |3h 15m                 |13h 00m                     |1h 30m                     |1h 15m                           |
+|2021-01|17h 00m                        |1h 47m                        |3h 45m                 |13h 00m                     |1h 30m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 870h 30m
-* **total spent**: 891h 47m
+* **total spent**: 892h 17m
 
 * **Günter Windsperger @01302775**: 141h 00m
 * **Nicolas Griebenow @01617265**: 143h 17m
-* **Lisa Fürst @11775842**: 154h 15m
+* **Lisa Fürst @11775842**: 154h 45m
 * **Stefan Puntigam @11776838**: 148h 00m
 * **Thomas Stoiber @11777755**: 146h 45m
 * **Michael Bernd Stöger @11778261**: 156h 45m
@@ -89,7 +89,7 @@
 |149|System Testing for MR2                                                                 |4h 00m |4h 00m        |
 |148|Release Sprint 2                                                                       |0h 15m |0h 15m        |
 |147|Fix ar models in fake data                                                             |0h 00m |0h 00m        |
-|146|Web - missing translations                                                             |0h 00m |2h 00m        |
+|146|Web - missing translations                                                             |0h 30m |2h 00m        |
 |145|Web - Bad alignment of last row of animal list                                         |1h 15m |3h 00m        |
 |144|Web - Fixing stretching of animal list images                                          |1h 30m |2h 00m        |
 |143|Check AR model great dane                                                              |1h 00m |0h 00m        |
@@ -330,6 +330,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Lisa Fürst @11775842          |2021-01-09 13:38:32.686|Issue        |146|0h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 13:24:51.014|Issue        |179|1h 30m  |
 |Günter Windsperger @01302775  |2021-01-09 04:31:16.028|Issue        |179|2h 00m  |
 |Günter Windsperger @01302775  |2021-01-08 23:40:29.073|Issue        |137|0h 15m  |
