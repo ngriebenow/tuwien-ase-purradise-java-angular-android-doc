@@ -14,15 +14,15 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|22h 30m                        |2h 32m                        |4h 45m                 |15h 00m                     |1h 45m                     |1h 15m                           |
+|2021-01|22h 30m                        |3h 02m                        |4h 45m                 |15h 00m                     |1h 45m                     |1h 15m                           |
 
 ### TIME STATS
 
-* **total estimate**: 874h 00m
-* **total spent**: 901h 47m
+* **total estimate**: 873h 45m
+* **total spent**: 902h 02m
 
 * **Günter Windsperger @01302775**: 146h 30m
-* **Nicolas Griebenow @01617265**: 144h 02m
+* **Nicolas Griebenow @01617265**: 144h 32m
 * **Lisa Fürst @11775842**: 155h 45m
 * **Stefan Puntigam @11776838**: 150h 00m
 * **Thomas Stoiber @11777755**: 147h 00m
@@ -32,7 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|205|IsAvailable is false when adding a new animal                                          |0h 00m |0h 30m        |
+|205|IsAvailable is false when adding a new animal                                          |0h 15m |0h 15m        |
 |204|Web: Opening Profile/Settings as admin/keeper throws 404 not found                     |0h 00m |0h 00m        |
 |203|Web - Animal list loading indicator does not stop spinning on loading error            |0h 00m |0h 00m        |
 |202|Web: Customer cannot access recommendations, preferences and personal information      |0h 00m |0h 00m        |
@@ -337,6 +337,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-10 00:21:22.544|Issue        |204|0h 15m  |
+|Nicolas Griebenow @01617265   |2021-01-10 00:21:09.354|Issue        |205|0h 15m  |
 |Stefan Puntigam @11776838     |2021-01-10 00:14:31.864|Issue        |153|2h 00m  |
 |Thomas Stoiber @11777755      |2021-01-09 22:16:55.827|Merge Request|84 |0h 15m  |
 |Günter Windsperger @01302775  |2021-01-09 22:06:00.454|Issue        |179|1h 30m  |
