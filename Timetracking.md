@@ -249,7 +249,7 @@
 |89 |WIP: Bug/normal mapping not used                                                             |0h 00m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
-|86 |WIP: Bug/web missing translations                                                            |0h 00m|0h 00m        |
+|86 |Bug/web missing translations                                                                 |0h 00m|0h 00m        |
 |85 |Feat/list adopted animals                                                                    |0h 15m|0h 00m        |
 |84 |Bug/incorrect size of carousel                                                               |0h 15m|0h 00m        |
 |83 |Feat/entity dialog refactor                                                                  |0h 15m|0h 00m        |
