@@ -32,6 +32,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
 |206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
 |205|IsAvailable is false when adding a new animal                                          |0h 15m |0h 15m        |
 |204|Web: Opening Profile/Settings as admin/keeper throws 404 not found                     |0h 15m |0h 15m        |
