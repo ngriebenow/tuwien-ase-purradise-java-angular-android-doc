@@ -14,18 +14,18 @@
 |2020-51|5h 00m                         |12h 15m                       |2h 15m                 |2h 15m                      |21h 45m                    |2h 15m                           |
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
-|2021-01|22h 30m                        |3h 02m                        |5h 30m                 |15h 00m                     |1h 45m                     |1h 15m                           |
+|2021-01|22h 30m                        |3h 02m                        |5h 30m                 |15h 00m                     |2h 15m                     |1h 15m                           |
 
 ### TIME STATS
 
 * **total estimate**: 874h 00m
-* **total spent**: 903h 02m
+* **total spent**: 903h 32m
 
 * **Günter Windsperger @01302775**: 146h 30m
 * **Nicolas Griebenow @01617265**: 144h 32m
 * **Lisa Fürst @11775842**: 156h 30m
 * **Stefan Puntigam @11776838**: 150h 00m
-* **Thomas Stoiber @11777755**: 147h 00m
+* **Thomas Stoiber @11777755**: 147h 30m
 * **Michael Bernd Stöger @11778261**: 156h 45m
 
 ### ISSUES
@@ -249,7 +249,7 @@
 |89 |WIP: Bug/normal mapping not used                                                             |0h 00m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
-|86 |Bug/web missing translations                                                                 |0h 00m|0h 00m        |
+|86 |Bug/web missing translations                                                                 |0h 30m|0h 00m        |
 |85 |Feat/list adopted animals                                                                    |0h 15m|0h 00m        |
 |84 |Bug/incorrect size of carousel                                                               |0h 15m|0h 00m        |
 |83 |Feat/entity dialog refactor                                                                  |0h 15m|0h 00m        |
@@ -340,6 +340,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2021-01-10 16:09:47.511|Merge Request|86 |0h 30m  |
 |Lisa Fürst @11775842          |2021-01-10 12:56:40.278|Issue        |146|0h 30m  |
 |Lisa Fürst @11775842          |2021-01-10 12:31:40.298|Issue        |146|0h 15m  |
 |Nicolas Griebenow @01617265   |2021-01-10 00:21:22.544|Issue        |204|0h 15m  |
