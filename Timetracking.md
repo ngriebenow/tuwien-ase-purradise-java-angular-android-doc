@@ -249,7 +249,7 @@
 |92 |WIP: Qa/remove unused generated elements                                                     |0h 00m|0h 00m        |
 |91 |Bug/web customer find me always called                                                       |0h 00m|0h 00m        |
 |90 |Bug/customer edit preferences                                                                |0h 00m|0h 00m        |
-|89 |WIP: Bug/normal mapping not used                                                             |0h 00m|0h 00m        |
+|89 |Bug/normal mapping not used                                                                  |0h 00m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
 |86 |Bug/web missing translations                                                                 |0h 30m|0h 00m        |
