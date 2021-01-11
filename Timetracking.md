@@ -15,10 +15,11 @@
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
 |2021-01|23h 30m                        |3h 02m                        |5h 45m                 |15h 00m                     |2h 15m                     |1h 15m                           |
+|2021-02|0h 00m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
 
 ### TIME STATS
 
-* **total estimate**: 874h 00m
+* **total estimate**: 877h 00m
 * **total spent**: 904h 47m
 
 * **Günter Windsperger @01302775**: 147h 30m
@@ -32,7 +33,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|208|Sprint 3 Retrospective 2021-01-11                                                      |0h 00m |0h 00m        |
+|208|Sprint 3 Retrospective 2021-01-11                                                      |0h 00m |3h 00m        |
 |207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
 |206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
 |205|IsAvailable is false when adding a new animal                                          |0h 15m |0h 15m        |
