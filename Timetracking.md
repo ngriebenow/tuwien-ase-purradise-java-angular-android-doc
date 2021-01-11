@@ -15,25 +15,25 @@
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
 |2021-01|23h 30m                        |3h 02m                        |5h 45m                 |15h 00m                     |2h 15m                     |1h 15m                           |
-|2021-02|0h 45m                         |0h 00m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 00m                           |
+|2021-02|0h 45m                         |0h 45m                        |0h 00m                 |0h 00m                      |0h 00m                     |0h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 877h 00m
-* **total spent**: 905h 32m
+* **total spent**: 907h 02m
 
 * **Günter Windsperger @01302775**: 148h 15m
-* **Nicolas Griebenow @01617265**: 144h 32m
+* **Nicolas Griebenow @01617265**: 145h 17m
 * **Lisa Fürst @11775842**: 156h 45m
 * **Stefan Puntigam @11776838**: 150h 00m
 * **Thomas Stoiber @11777755**: 147h 30m
-* **Michael Bernd Stöger @11778261**: 156h 45m
+* **Michael Bernd Stöger @11778261**: 157h 30m
 
 ### ISSUES
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|208|Sprint 3 Retrospective 2021-01-11                                                      |0h 45m |3h 00m        |
+|208|Sprint 3 Retrospective 2021-01-11                                                      |2h 15m |3h 00m        |
 |207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
 |206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
 |205|IsAvailable is false when adding a new animal                                          |0h 15m |0h 15m        |
@@ -343,6 +343,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Michael Bernd Stöger @11778261|2021-01-11 18:14:37.563|Issue        |208|0h 45m  |
+|Nicolas Griebenow @01617265   |2021-01-11 18:14:33.585|Issue        |208|0h 45m  |
 |Günter Windsperger @01302775  |2021-01-11 18:14:01.270|Issue        |208|0h 45m  |
 |Lisa Fürst @11775842          |2021-01-10 21:28:24.065|Issue        |146|0h 15m  |
 |Günter Windsperger @01302775  |2021-01-10 19:52:28.209|Issue        |156|0h 30m  |
