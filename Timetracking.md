@@ -15,24 +15,25 @@
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
 |2021-01|23h 30m                        |3h 02m                        |5h 45m                 |15h 00m                     |2h 15m                     |1h 15m                           |
-|2021-02|0h 45m                         |0h 45m                        |0h 45m                 |0h 45m                      |0h 45m                     |0h 45m                           |
+|2021-02|1h 15m                         |0h 45m                        |0h 45m                 |0h 45m                      |1h 00m                     |0h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 877h 00m
-* **total spent**: 909h 17m
+* **total spent**: 909h 47m
 
-* **Günter Windsperger @01302775**: 148h 15m
+* **Günter Windsperger @01302775**: 148h 45m
 * **Nicolas Griebenow @01617265**: 145h 17m
 * **Lisa Fürst @11775842**: 157h 30m
 * **Stefan Puntigam @11776838**: 150h 45m
-* **Thomas Stoiber @11777755**: 148h 15m
+* **Thomas Stoiber @11777755**: 148h 30m
 * **Michael Bernd Stöger @11778261**: 157h 30m
 
 ### ISSUES
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|209|End Sprint 3                                                                           |0h 00m |0h 00m        |
 |208|Sprint 3 Retrospective 2021-01-11                                                      |4h 30m |3h 00m        |
 |207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
 |206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
@@ -246,10 +247,11 @@
 
 |iid|title                                                                                        |spent |total estimate|
 |---|---                                                                                          |---   |---           |
-|92 |WIP: Qa/remove unused generated elements                                                     |0h 00m|0h 00m        |
+|93 |Dev                                                                                          |0h 00m|0h 00m        |
+|92 |Qa/remove unused generated elements                                                          |0h 00m|0h 00m        |
 |91 |Bug/web customer find me always called                                                       |0h 00m|0h 00m        |
 |90 |Bug/customer edit preferences                                                                |0h 00m|0h 00m        |
-|89 |Bug/normal mapping not used                                                                  |0h 00m|0h 00m        |
+|89 |Bug/normal mapping not used                                                                  |0h 30m|0h 00m        |
 |88 |Feat/android detail refactoring                                                              |0h 00m|0h 00m        |
 |87 |Feat/Animal detail refactoring                                                               |0h 00m|0h 00m        |
 |86 |Bug/web missing translations                                                                 |0h 30m|0h 00m        |
@@ -343,6 +345,8 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Thomas Stoiber @11777755      |2021-01-13 07:34:45.673|Issue        |209|0h 15m  |
+|Günter Windsperger @01302775  |2021-01-12 19:20:01.660|Merge Request|89 |0h 30m  |
 |Stefan Puntigam @11776838     |2021-01-11 18:15:17.697|Issue        |208|0h 45m  |
 |Lisa Fürst @11775842          |2021-01-11 18:15:01.749|Issue        |208|0h 45m  |
 |Thomas Stoiber @11777755      |2021-01-11 18:14:52.431|Issue        |208|0h 45m  |
