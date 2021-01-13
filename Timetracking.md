@@ -33,6 +33,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|211|Web: Customer preferences/personal data cannot be accessed                             |0h 00m |0h 00m        |
 |210|IR2 2021-01-13                                                                         |0h 00m |0h 00m        |
 |209|End Sprint 3                                                                           |0h 15m |0h 15m        |
 |208|Sprint 3 Retrospective 2021-01-11                                                      |4h 30m |3h 00m        |
