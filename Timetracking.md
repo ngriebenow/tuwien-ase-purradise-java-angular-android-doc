@@ -33,6 +33,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|213|Android: Navbar uses different fonts/font styles                                       |0h 00m |0h 00m        |
 |212|Web: Adoptions use wrong date formatting                                               |0h 00m |0h 00m        |
 |211|Web: Customer preferences/personal data cannot be accessed                             |0h 00m |0h 00m        |
 |210|IR2 2021-01-13                                                                         |0h 00m |0h 00m        |
