@@ -15,15 +15,15 @@
 |2020-52|4h 10m                         |1h 30m                        |2h 00m                 |7h 30m                      |0h 00m                     |11h 30m                          |
 |2020-53|9h 50m                         |3h 15m                        |25h 15m                |14h 00m                     |12h 30m                    |18h 15m                          |
 |2021-01|23h 30m                        |3h 02m                        |5h 45m                 |15h 00m                     |2h 15m                     |1h 15m                           |
-|2021-02|1h 15m                         |0h 45m                        |2h 00m                 |0h 45m                      |1h 00m                     |0h 45m                           |
+|2021-02|1h 15m                         |2h 30m                        |2h 00m                 |0h 45m                      |1h 00m                     |0h 45m                           |
 
 ### TIME STATS
 
 * **total estimate**: 877h 15m
-* **total spent**: 911h 17m
+* **total spent**: 913h 02m
 
 * **Günter Windsperger @01302775**: 148h 45m
-* **Nicolas Griebenow @01617265**: 145h 17m
+* **Nicolas Griebenow @01617265**: 147h 02m
 * **Lisa Fürst @11775842**: 158h 45m
 * **Stefan Puntigam @11776838**: 150h 45m
 * **Thomas Stoiber @11777755**: 148h 30m
@@ -37,7 +37,7 @@
 |213|Android: Navbar uses different fonts/font styles                                       |0h 00m |0h 00m        |
 |212|Web: Adoptions use wrong date formatting                                               |0h 00m |0h 00m        |
 |211|Web: Customer preferences/personal data cannot be accessed                             |0h 00m |0h 00m        |
-|210|IR2 2021-01-13                                                                         |1h 15m |0h 00m        |
+|210|IR2 2021-01-13                                                                         |3h 00m |0h 00m        |
 |209|End Sprint 3                                                                           |0h 15m |0h 15m        |
 |208|Sprint 3 Retrospective 2021-01-11                                                      |4h 30m |3h 00m        |
 |207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
@@ -350,6 +350,7 @@
 
 |user                          |date                   |type         |iid|time    |
 |---                           |---                    |---          |---|---     |
+|Nicolas Griebenow @01617265   |2021-01-13 18:50:15.302|Issue        |210|1h 45m  |
 |Lisa Fürst @11775842          |2021-01-13 18:20:24.192|Issue        |210|1h 15m  |
 |Thomas Stoiber @11777755      |2021-01-13 07:34:45.673|Issue        |209|0h 15m  |
 |Günter Windsperger @01302775  |2021-01-12 19:20:01.660|Merge Request|89 |0h 30m  |
