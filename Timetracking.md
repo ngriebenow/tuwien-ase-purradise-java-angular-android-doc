@@ -19,8 +19,8 @@
 
 ### TIME STATS
 
-* **total estimate**: 877h 00m
-* **total spent**: 909h 47m
+* **total estimate**: 877h 15m
+* **total spent**: 910h 02m
 
 * **Günter Windsperger @01302775**: 148h 45m
 * **Nicolas Griebenow @01617265**: 145h 17m
@@ -33,7 +33,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
-|209|End Sprint 3                                                                           |0h 00m |0h 00m        |
+|209|End Sprint 3                                                                           |0h 15m |0h 15m        |
 |208|Sprint 3 Retrospective 2021-01-11                                                      |4h 30m |3h 00m        |
 |207|Double notification when animal edited                                                 |0h 00m |0h 00m        |
 |206|404 when logging in as no customer                                                     |0h 00m |0h 00m        |
