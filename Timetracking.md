@@ -33,6 +33,7 @@
 
 |iid|title                                                                                  |spent  |total estimate|
 |---|---                                                                                    |---    |---           |
+|214|Android: Watchlist select animals button too small for button text                     |0h 00m |0h 00m        |
 |213|Android: Navbar uses different fonts/font styles                                       |0h 00m |0h 00m        |
 |212|Web: Adoptions use wrong date formatting                                               |0h 00m |0h 00m        |
 |211|Web: Customer preferences/personal data cannot be accessed                             |0h 00m |0h 00m        |
